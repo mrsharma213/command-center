@@ -931,6 +931,83 @@
     .card-meta { text-align: left; align-items: flex-start; flex-direction: row; gap: 12px; }
   }
 
+  /* Category Tabs */
+  .category-tabs {
+    display: flex;
+    gap: 6px;
+    margin-top: 16px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding-bottom: 2px;
+  }
+
+  .category-tabs::-webkit-scrollbar { display: none; }
+
+  .cat-tab {
+    padding: 7px 16px;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: inherit;
+    border-radius: 20px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: all 0.2s;
+    white-space: nowrap;
+    user-select: none;
+    flex-shrink: 0;
+  }
+
+  .cat-tab:hover {
+    border-color: var(--text-tertiary);
+    color: var(--text);
+  }
+
+  .cat-tab.active {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #fff;
+  }
+
+  /* Refresh Button */
+  .refresh-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: inherit;
+    color: #fff;
+    background: var(--accent);
+    border: 1px solid var(--accent);
+    border-radius: 20px;
+    padding: 5px 14px;
+    cursor: pointer;
+    transition: all 0.2s;
+    white-space: nowrap;
+  }
+
+  .refresh-btn:hover {
+    background: #5b4bd5;
+    border-color: #5b4bd5;
+  }
+
+  .refresh-btn.spinning .refresh-icon {
+    animation: spin 0.8s linear infinite;
+  }
+
+  @keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+
+  .refresh-icon {
+    display: inline-block;
+    font-style: normal;
+  }
+
   /* Fade-in */
   @keyframes fadeUp {
     from { opacity: 0; transform: translateY(6px); }
@@ -952,6 +1029,7 @@
         <h1>Command Center</h1>
       </div>
       <div class="project-count" id="count"></div>
+      <button class="refresh-btn" id="refreshBtn" onclick="triggerRefresh()"><span class="refresh-icon">↻</span> Refresh</button>
       <a href="https://yosharma.niksharma.co" class="view-link" style="font-size:13px;font-weight:500;color:#6c5ce7;text-decoration:none;background:rgba(108,92,231,0.1);border:1px solid rgba(108,92,231,0.25);border-radius:20px;padding:6px 14px;transition:all 0.2s;white-space:nowrap" onmouseover="this.style.background='rgba(108,92,231,0.2)';this.style.borderColor='#6c5ce7'" onmouseout="this.style.background='rgba(108,92,231,0.1)';this.style.borderColor='rgba(108,92,231,0.25)'">Nik × Troy →</a>
     </div>
     <div class="controls">
@@ -967,6 +1045,13 @@
         <button class="pill" data-filter="closed">Closed</button>
       </div>
     </div>
+    <div class="category-tabs" id="categoryTabs">
+      <button class="cat-tab active" data-category="all">All</button>
+      <button class="cat-tab" data-category="nik-troy">Nik × Troy</button>
+      <button class="cat-tab" data-category="clients">Clients</button>
+      <button class="cat-tab" data-category="content">Content</button>
+      <button class="cat-tab" data-category="internal">Internal</button>
+    </div>
   </header>
 
   <div id="attention-container"></div>
@@ -976,7 +1061,7 @@
 <footer>
   <div class="container">
     <p class="footer-text">Last updated <span id="timestamp"></span></p>
-    <p class="footer-refresh">⟳ Auto-refreshed every 2h</p>
+    <p class="footer-refresh">⟳ Auto-refreshed every 2h · Page loaded <span id="loadTimestamp"></span></p>
   </div>
 </footer>
 
@@ -1829,6 +1914,83 @@ document.getElementById('search').addEventListener('input', e => {
 const now = new Date();
 document.getElementById('timestamp').textContent = now.toLocaleDateString('en-US', {
   weekday: 'short', month: 'short', day: 'numeric', year: 'numeric',
+  hour: 'numeric', minute: '2-digit', hour12: true
+});
+
+// Category mapping
+const categoryMap = {
+  'nik-troy': ['Zurp LLC', 'Macra', 'Kids Vitamin Brand', 'Rolling Ventures', 'After Ours / Pigeon House Records'],
+  'clients': ['Harper Wilde', 'GoodOnya Organic', 'Love Wellness', 'Air Oasis', 'Vitamin Shoppe / Mike Forbes', 'Flexpower'],
+  'content': ['Limited Supply Newsletter', 'Printing Press', 'Josiah the Writer', 'Publisher Domains'],
+  'internal': ['Lunar Solar Group (CGO)', 'Bot Fleet / AI Infrastructure', 'CRM System', 'Fitness / Hyrox', 'Project Tracker', 'Ecom Founders']
+};
+
+let currentCategory = 'all';
+
+// Override render to include category filtering
+const originalRender = render;
+render = function() {
+  let filtered = projects;
+
+  // Category filter
+  if (currentCategory !== 'all') {
+    const names = categoryMap[currentCategory] || [];
+    filtered = filtered.filter(p => names.includes(p.name));
+  }
+
+  // Status filter
+  if (currentFilter !== 'all') {
+    filtered = filtered.filter(p => p.status === currentFilter);
+  }
+
+  // Search
+  if (searchQuery) {
+    const q = searchQuery.toLowerCase();
+    filtered = filtered.filter(p =>
+      p.name.toLowerCase().includes(q) ||
+      p.desc.toLowerCase().includes(q) ||
+      p.status.toLowerCase().includes(q) ||
+      (p.currentStatus && p.currentStatus.toLowerCase().includes(q)) ||
+      (p.alert && p.alert.toLowerCase().includes(q)) ||
+      (p.recentActivity && p.recentActivity.some(a => a.text.toLowerCase().includes(q))) ||
+      (p.people && p.people.some(person => person.name.toLowerCase().includes(q) || person.role.toLowerCase().includes(q))) ||
+      (p.upcomingEvents && p.upcomingEvents.some(e => e.event.toLowerCase().includes(q) || e.date.toLowerCase().includes(q)))
+    );
+  }
+
+  const sorted = sortProjects(filtered);
+  const grid = document.getElementById('grid');
+
+  if (sorted.length === 0) {
+    grid.innerHTML = '<div class="empty">No projects match your filters.</div>';
+  } else {
+    grid.innerHTML = sorted.map((p, i) => renderCard(p, i)).join('');
+  }
+
+  document.getElementById('count').textContent = sorted.length + ' of ' + projects.length + ' projects';
+};
+
+// Category tabs
+document.getElementById('categoryTabs').addEventListener('click', e => {
+  const tab = e.target.closest('.cat-tab');
+  if (!tab) return;
+  document.querySelectorAll('.cat-tab').forEach(t => t.classList.remove('active'));
+  tab.classList.add('active');
+  currentCategory = tab.dataset.category;
+  render();
+});
+
+// Refresh button
+function triggerRefresh() {
+  const btn = document.getElementById('refreshBtn');
+  if (btn.classList.contains('spinning')) return;
+  btn.classList.add('spinning');
+  fetch('http://127.0.0.1:18789/api/cron/trigger?job=dashboard-refresh', { method: 'POST' }).catch(() => {});
+  setTimeout(() => { location.reload(); }, 3000);
+}
+
+// Load timestamp
+document.getElementById('loadTimestamp').textContent = now.toLocaleTimeString('en-US', {
   hour: 'numeric', minute: '2-digit', hour12: true
 });
 
