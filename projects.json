@@ -219,7 +219,7 @@
   {
     "name": "Macra",
     "desc": "Own supplement brand, pre-launch. HP-719 (mood booster) and CB-628 (carb blocker).",
-    "currentStatus": "Macra TB completed Apr 2 — website homepage/product pages nearly complete, pending visual updates and compliance checks. Product bundling discussed. App development underway (reset guide + Apple Health syncing, free for Macra subscribers initially). Dil (Yo LLC) invoiced Macra LLC for expenses over past two quarters (4/3) — Jim floating $20K+ for boxes. Vercel preview deployments failing. Paramount Testing tomorrow Sun Apr 5 11:45am.",
+    "currentStatus": "Paramount Testing TODAY Sun Apr 5 11:45am-2pm. Macra TB completed Apr 2 — website homepage/product pages nearly complete, pending visual updates and compliance checks. Product bundling discussed. App development underway (reset guide + Apple Health syncing, free for Macra subscribers initially). Dil (Yo LLC) invoiced Macra LLC for expenses over past two quarters (4/3) — Jim floating $20K+ for boxes. Vercel preview deployments failing.",
     "recentActivity": [
       {
         "date": "4/4",
@@ -308,8 +308,8 @@
       "date": "2026-03-23"
     },
     "status": "active",
-    "updated": "2026-04-04",
-    "alert": "Paramount Testing TOMORROW Sun Apr 5 11:45am — Vercel deployments failing — Jim floating $20K+ for boxes"
+    "updated": "2026-04-05",
+    "alert": "⏰ Paramount Testing TODAY 11:45am-2pm — Vercel deployments failing — Jim floating $20K+ for boxes"
   },
   {
     "name": "Kids Vitamin Brand",
@@ -464,8 +464,12 @@
   {
     "name": "Limited Supply Newsletter",
     "desc": "DTC/eCommerce newsletter + podcast. 100K+ subs, publishes Sundays via Workweek.",
-    "currentStatus": "Paramount x Nik VE Prep Call scheduled Mon Apr 20 3pm (invitation from Natalie Mayr 4/2). YoSharma Check-In Fireflies recap (4/2): Macro app, YoSharma finances, webinar outline discussed. Newsletter draft starts Wed Apr 8 11:30am.",
+    "currentStatus": "📬 PUBLISH DAY — VOTW Postscript (April 5, 2026) edition goes out today. Paramount x Nik VE Prep Call scheduled Mon Apr 20 3pm (Natalie Mayr 4/2). YoSharma Check-In Fireflies recap (4/2): Macro app, YoSharma finances, webinar outline discussed. Newsletter draft starts Wed Apr 8 11:30am.",
     "recentActivity": [
+      {
+        "date": "4/5",
+        "text": "📬 Publish day — VOTW Postscript (April 5, 2026) edition"
+      },
       {
         "date": "4/2",
         "text": "Paramount x Nik VE Prep Call invitation — Mon Apr 20 3pm-3:30pm (Natalie Mayr)"
@@ -481,10 +485,6 @@
       {
         "date": "3/22",
         "text": "📬 Newsletter published — 'ClawdBot time… let's build a second brain'"
-      },
-      {
-        "date": "3/20",
-        "text": "VE TB — Workweek x Nik completed (12pm)"
       }
     ],
     "people": [
@@ -538,16 +538,17 @@
     ],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-04"
+    "updated": "2026-04-05",
+    "alert": "📬 Publish day — VOTW Postscript (April 5) edition goes out today"
   },
   {
     "name": "After Ours / Pigeon House Records",
     "desc": "Tech house/dark house with Minul. Label: Pigeon House Records.",
-    "currentStatus": "🎵 VINYL PA show TONIGHT (Sat Apr 4, 8pm-4am). Miami Music Week completed (3/23-26). Fireflies recap Apr 3: music strategy meeting — continuous momentum key, vocal clearance discussed, content strategy. Instagram post from After Ours (4/4). After Ours Sync Mon Apr 7 2pm. Studio time Wed Apr 8.",
+    "currentStatus": "✅ VINYL PA show completed last night (Sat Apr 4, 8pm-4am). Fireflies recap Apr 3: music strategy meeting — continuous momentum key, vocal clearance discussed, content strategy. Instagram post from After Ours (4/4). Next up: After Ours Sync Mon Apr 7 2pm. Studio time Wed Apr 8.",
     "recentActivity": [
       {
         "date": "4/4",
-        "text": "🎵 VINYL PA show tonight (8pm-4am)"
+        "text": "✅ VINYL PA show completed (8pm-4am)"
       },
       {
         "date": "4/4",
@@ -585,10 +586,6 @@
     ],
     "upcomingEvents": [
       {
-        "date": "Sat 4/4 8pm-4am",
-        "event": "🎵 VINYL PA show (TONIGHT)"
-      },
-      {
         "date": "Mon 4/7 2:00pm",
         "event": "🎧 After Ours Sync"
       },
@@ -617,8 +614,7 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-04",
-    "alert": "🎵 VINYL PA show TONIGHT 8pm-4am"
+    "updated": "2026-04-05"
   },
   {
     "name": "Lunar Solar Group (CGO)",
