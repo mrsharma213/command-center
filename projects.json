@@ -908,7 +908,7 @@
   {
     "name": "Project Tracker",
     "desc": "Command Center + YoSharma dashboards. PWA-ready.",
-    "currentStatus": "Live at pjm-board.niksharma.co + yosharma.niksharma.co",
+    "currentStatus": "Live at dash.nik.co + dash.nik.co",
     "recentActivity": [
       {
         "date": "3/14",
@@ -925,12 +925,12 @@
       {
         "type": "🔗",
         "label": "Command Center",
-        "url": "https://pjm-board.niksharma.co"
+        "url": "https://dash.nik.co"
       },
       {
         "type": "🔗",
         "label": "YoSharma",
-        "url": "https://yosharma.niksharma.co"
+        "url": "https://dash.nik.co"
       }
     ],
     "decisions": [],
