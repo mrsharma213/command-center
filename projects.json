@@ -2,15 +2,19 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "Zurp Check-In TODAY Mon 4/6 11:30am. Zurp Check-In again Tue 4/7 11:30am. Gospel Chargers thread 15+ messages — Elsa and Team Zurp actively exchanging. Zurp x Refuge video call Wed Apr 8 3pm — Nik accepted invite (4/6). Dil invoiced Macra LLC from Yo LLC (4/3).",
+    "currentStatus": "Zurp Check-In TODAY Mon 4/6 11:30am. Zurp Check-In again Tue 4/7 11:30am. Gospel Chargers thread now 20 messages — Nik sent follow-up today (10:49am). Zurp x Refuge video call Wed Apr 8 3pm — all confirmed. Dil invoiced Macra LLC from Yo LLC (4/3).",
     "recentActivity": [
+      {
+        "date": "4/6",
+        "text": "Gospel Chargers thread now 20 messages — Nik sent 'next steps!' follow-up (10:49am)"
+      },
       {
         "date": "4/6",
         "text": "Nik accepted Zurp x Refuge video call invite (Wed Apr 8 3pm)"
       },
       {
         "date": "4/4",
-        "text": "Gospel Chargers thread now 15 messages — Elsa and Team Zurp actively exchanging"
+        "text": "Gospel Chargers thread 15 messages — Elsa and Team Zurp actively exchanging"
       },
       {
         "date": "4/3",
@@ -618,7 +622,7 @@
   {
     "name": "Lunar Solar Group (CGO)",
     "desc": "Chief Growth Officer — post-acquisition of Sharma Brands (Oct 2025).",
-    "currentStatus": "Zagged All Hands TODAY Mon 4/6 2pm. Amanda Rodriguez pitched client reporting dashboard for Sharma Brands (4/6). New Webflow contact form submission (4/6). Dublin DECA speaking invite pending. Figma renewal Apr 10.",
+    "currentStatus": "Zagged All Hands TODAY Mon 4/6 2pm. Brand Focus TODAY 3:30pm. Amanda Rodriguez pitched client reporting dashboard for Sharma Brands (4/6). New Webflow contact form submission (4/6). Dublin DECA speaking invite pending. Figma renewal Apr 10.",
     "recentActivity": [
       {
         "date": "4/6",
@@ -679,6 +683,14 @@
         "event": "Zagged All Hands (Weekly) (TODAY)"
       },
       {
+        "date": "Mon 4/6 3:30pm",
+        "event": "Brand Focus (TODAY)"
+      },
+      {
+        "date": "Tue 4/7 2:00pm",
+        "event": "Brand Focus"
+      },
+      {
         "date": "Apr 10",
         "event": "Figma subscription renewal"
       }
@@ -691,7 +703,8 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-06"
+    "updated": "2026-04-06",
+    "alert": "Zagged All Hands TODAY 2pm — Brand Focus TODAY 3:30pm"
   },
   {
     "name": "Love Wellness",
