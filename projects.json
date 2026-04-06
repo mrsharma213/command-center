@@ -2,8 +2,12 @@
   {
     "name": "Zurp LLC",
     "desc": "Power bank rental for NYC nightclubs. 6 stations, 24 banks each. Partners: Troy, Dil, Jimmy.",
-    "currentStatus": "Zurp Check-In TOMORROW Mon 4/6 11:30am. Gospel Chargers thread 15+ messages — Elsa and Team Zurp actively exchanging. Zurp x Refuge video call Wed Apr 8 3pm — Remy and Troy both accepted. Dil invoiced Macra LLC from Yo LLC (4/3).",
+    "currentStatus": "Zurp Check-In TODAY Mon 4/6 11:30am. Zurp Check-In again Tue 4/7 11:30am. Gospel Chargers thread 15+ messages — Elsa and Team Zurp actively exchanging. Zurp x Refuge video call Wed Apr 8 3pm — Nik accepted invite (4/6). Dil invoiced Macra LLC from Yo LLC (4/3).",
     "recentActivity": [
+      {
+        "date": "4/6",
+        "text": "Nik accepted Zurp x Refuge video call invite (Wed Apr 8 3pm)"
+      },
       {
         "date": "4/4",
         "text": "Gospel Chargers thread now 15 messages — Elsa and Team Zurp actively exchanging"
@@ -19,10 +23,6 @@
       {
         "date": "4/2",
         "text": "Zurp x Refuge video call scheduled Wed Apr 8 3pm — Remy and Troy accepted"
-      },
-      {
-        "date": "3/23",
-        "text": "Gospel NYC install day — units delivered and installed"
       }
     ],
     "people": [
@@ -65,6 +65,10 @@
     "upcomingEvents": [
       {
         "date": "Mon 4/6 11:30am",
+        "event": "Zurp Check-In (TODAY)"
+      },
+      {
+        "date": "Tue 4/7 11:30am",
         "event": "Zurp Check-In"
       },
       {
@@ -98,8 +102,8 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-05",
-    "alert": "Zurp Check-In TOMORROW Mon 4/6 11:30am — Refuge video call Wed 4/8 3pm"
+    "updated": "2026-04-06",
+    "alert": "Zurp Check-In TODAY Mon 4/6 11:30am — Refuge video call Wed 4/8 3pm"
   },
   {
     "name": "Harper Wilde",
@@ -455,7 +459,7 @@
   {
     "name": "Limited Supply Newsletter",
     "desc": "DTC/eCommerce newsletter + podcast. 100K+ subs, publishes Sundays via Workweek.",
-    "currentStatus": "✅ VOTW Postscript (April 5, 2026) published today. Paramount x Nik VE Prep Call scheduled Mon Apr 20 3pm (Natalie Mayr 4/2). Newsletter draft starts Wed Apr 8 11:30am.",
+    "currentStatus": "🎙️ Limited Supply Podcast Recording TODAY Mon 4/6 2:30-3:30pm. VOTW Postscript (April 5) published. Paramount x Nik VE Prep Call Mon Apr 20 3pm. Newsletter draft starts Wed Apr 8 11:30am.",
     "recentActivity": [
       {
         "date": "4/5",
@@ -502,6 +506,10 @@
     ],
     "upcomingEvents": [
       {
+        "date": "Mon 4/6 2:30pm",
+        "event": "🎙️ Limited Supply Podcast Recording (TODAY)"
+      },
+      {
         "date": "Wed 4/8 11:30am",
         "event": "Start Newsletter Draft"
       },
@@ -529,7 +537,8 @@
     ],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-05"
+    "updated": "2026-04-06",
+    "alert": "🎙️ Podcast Recording TODAY Mon 4/6 2:30-3:30pm"
   },
   {
     "name": "After Ours / Pigeon House Records",
@@ -609,15 +618,19 @@
   {
     "name": "Lunar Solar Group (CGO)",
     "desc": "Chief Growth Officer — post-acquisition of Sharma Brands (Oct 2025).",
-    "currentStatus": "Dublin DECA Leadership Conference speaking invitation from Alisha Desai (4/5). New Webflow contact form submission (4/5). Vercel new sign-in detected (4/5). Zagged All Hands Mon 4/6 2pm. Figma subscription renewal Apr 10. Shopify domain transfer completed (4/4).",
+    "currentStatus": "Zagged All Hands TODAY Mon 4/6 2pm. Amanda Rodriguez pitched client reporting dashboard for Sharma Brands (4/6). New Webflow contact form submission (4/6). Dublin DECA speaking invite pending. Figma renewal Apr 10.",
     "recentActivity": [
       {
-        "date": "4/5",
-        "text": "Alisha Desai: Invitation to Speak at Dublin DECA Leadership Conference"
+        "date": "4/6",
+        "text": "Amanda Rodriguez (Prio Freedom): pitched client reporting dashboard for Sharma Brands"
+      },
+      {
+        "date": "4/6",
+        "text": "New Webflow contact form submission (Email Form 2)"
       },
       {
         "date": "4/5",
-        "text": "New Webflow contact form submission"
+        "text": "Alisha Desai: Invitation to Speak at Dublin DECA Leadership Conference"
       },
       {
         "date": "4/5",
@@ -626,10 +639,6 @@
       {
         "date": "4/4",
         "text": "Shopify domain transfer completed"
-      },
-      {
-        "date": "4/4",
-        "text": "Nathan Pettijohn pitch: 'Nik on Ask JBH podcast'"
       }
     ],
     "people": [
@@ -657,12 +666,17 @@
         "initials": "AD",
         "name": "Alisha Desai",
         "role": "Dublin DECA"
+      },
+      {
+        "initials": "AR",
+        "name": "Amanda Rodriguez",
+        "role": "Prio Freedom"
       }
     ],
     "upcomingEvents": [
       {
         "date": "Mon 4/6 2:00pm",
-        "event": "Zagged All Hands (Weekly)"
+        "event": "Zagged All Hands (Weekly) (TODAY)"
       },
       {
         "date": "Apr 10",
@@ -677,7 +691,7 @@
       }
     ],
     "status": "active",
-    "updated": "2026-04-05"
+    "updated": "2026-04-06"
   },
   {
     "name": "Love Wellness",
@@ -793,7 +807,7 @@
   {
     "name": "Fitness / Hyrox",
     "desc": "Training at The Fort (21st St NYC).",
-    "currentStatus": "Fort session TOMORROW Mon 4/6 10-11am. Mold guys at apartment Mon 4/6 12-2pm. Fort again Wed 4/8 10-11am.",
+    "currentStatus": "Fort session TODAY Mon 4/6 10-11am. Mold guys at apartment TODAY 12-2pm. Fort again Wed 4/8 10-11am.",
     "recentActivity": [
       {
         "date": "3/23",
@@ -820,11 +834,11 @@
     "upcomingEvents": [
       {
         "date": "Mon 4/6 10-11am",
-        "event": "Fort session"
+        "event": "Fort session (TODAY)"
       },
       {
         "date": "Mon 4/6 12-2pm",
-        "event": "Mold guys (apartment)"
+        "event": "Mold guys (apartment) (TODAY)"
       },
       {
         "date": "Wed 4/8 10-11am",
@@ -838,7 +852,8 @@
       "date": "2026-06-07"
     },
     "status": "active",
-    "updated": "2026-04-05"
+    "updated": "2026-04-06",
+    "alert": "Fort TODAY 10-11am → Mold guys TODAY 12-2pm"
   },
   {
     "name": "CRM System",
