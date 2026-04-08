@@ -1,0 +1,168 @@
+{
+  "lastRefreshed": "2026-04-07T22:00:00Z",
+  "cards": [
+    {
+      "id": "after-ours",
+      "name": "After Ours",
+      "emoji": "🎧",
+      "status": "active",
+      "lastUpdated": "2026-04-07",
+      "needsAttention": false,
+      "attentionReason": null,
+      "updates": [
+        {"date": "2026-04-07", "text": "Studio session with Minul — new dark house track in progress"},
+        {"date": "2026-04-04", "text": "Call with Paul Campbell re: upcoming collab direction"},
+        {"date": "2026-04-01", "text": "Mastering feedback sent for 3 tracks"}
+      ],
+      "metrics": {
+        "tracksInProgress": 4,
+        "nextSession": "2026-04-10"
+      }
+    },
+    {
+      "id": "pigeon-house",
+      "name": "Pigeon House Records",
+      "emoji": "🐦",
+      "status": "active",
+      "lastUpdated": "2026-04-06",
+      "needsAttention": false,
+      "attentionReason": null,
+      "updates": [
+        {"date": "2026-04-06", "text": "Niles & Jerel — \"Stop with the Talking\" master approved"},
+        {"date": "2026-04-03", "text": "Distribution setup complete for Q2 releases"},
+        {"date": "2026-03-28", "text": "Label artwork finalized for next 3 singles"}
+      ],
+      "metrics": {
+        "upcomingReleases": 3,
+        "nextRelease": "2026-04-18"
+      }
+    },
+    {
+      "id": "zurp",
+      "name": "Zurp",
+      "emoji": "📱",
+      "status": "active",
+      "lastUpdated": "2026-04-07",
+      "needsAttention": false,
+      "attentionReason": null,
+      "updates": [
+        {"date": "2026-04-07", "text": "6 stations live across NYC nightclubs — all operational"},
+        {"date": "2026-04-05", "text": "Stripe payments flowing — $2.4K MTD revenue"},
+        {"date": "2026-04-02", "text": "Call with Troy & Dil on expansion to 3 new venues"}
+      ],
+      "metrics": {
+        "stations": 6,
+        "banksDeployed": 144,
+        "mtdRevenue": "$2.4K"
+      }
+    },
+    {
+      "id": "macra",
+      "name": "Macra",
+      "emoji": "💊",
+      "status": "active",
+      "lastUpdated": "2026-04-07",
+      "needsAttention": true,
+      "attentionReason": "CB-628 go/no-go decision needed by April 10",
+      "updates": [
+        {"date": "2026-04-07", "text": "HP-719 launched — first 48hr sales tracking strong"},
+        {"date": "2026-04-05", "text": "CB-628 formulation on hold — awaiting Nik's decision on positioning"},
+        {"date": "2026-04-03", "text": "Email flows live for HP-719 post-purchase sequence"}
+      ],
+      "metrics": {
+        "hp719Status": "Launched",
+        "cb628Status": "On Hold"
+      }
+    },
+    {
+      "id": "my-agents",
+      "name": "My Agents",
+      "emoji": "🤖",
+      "status": "operational",
+      "lastUpdated": "2026-04-07",
+      "needsAttention": false,
+      "attentionReason": null,
+      "updates": [
+        {"date": "2026-04-07", "text": "All bots operational — Jet, inbox monitors, cron jobs running"},
+        {"date": "2026-04-06", "text": "Heartbeat checks passing across all agents"},
+        {"date": "2026-04-04", "text": "Memory compaction completed for weekly cycle"}
+      ],
+      "metrics": {
+        "activeAgents": 5,
+        "uptime": "99.8%"
+      }
+    },
+    {
+      "id": "rolling-ventures",
+      "name": "Rolling Ventures",
+      "emoji": "🎯",
+      "status": "active",
+      "lastUpdated": "2026-04-06",
+      "needsAttention": false,
+      "attentionReason": null,
+      "updates": [
+        {"date": "2026-04-06", "text": "2 new deals in pipeline — consumer wellness and fintech"},
+        {"date": "2026-04-03", "text": "Office at 66 W Broadway fully operational"},
+        {"date": "2026-03-30", "text": "Q1 fund performance review completed"}
+      ],
+      "metrics": {
+        "activeDealFlow": 2,
+        "portfolioCos": 12
+      }
+    },
+    {
+      "id": "limited-supply",
+      "name": "Limited Supply Podcast",
+      "emoji": "🎙️",
+      "status": "active",
+      "lastUpdated": "2026-04-05",
+      "needsAttention": false,
+      "attentionReason": null,
+      "updates": [
+        {"date": "2026-04-05", "text": "Episode recorded — DTC retention deep-dive"},
+        {"date": "2026-04-01", "text": "Guest confirmed for April 12 taping"},
+        {"date": "2026-03-29", "text": "Last episode hit 15K downloads in first week"}
+      ],
+      "metrics": {
+        "subscribers": "100K+",
+        "lastEpDownloads": "15K"
+      }
+    },
+    {
+      "id": "newsletter",
+      "name": "Newsletter / Workweek",
+      "emoji": "📰",
+      "status": "active",
+      "lastUpdated": "2026-04-06",
+      "needsAttention": true,
+      "attentionReason": "Sunday newsletter draft due by Saturday EOD",
+      "updates": [
+        {"date": "2026-04-06", "text": "Friday send completed — 42% open rate"},
+        {"date": "2026-04-04", "text": "Sunday edition outline started — CRO teardown theme"},
+        {"date": "2026-03-30", "text": "Sunday newsletter sent — 38K opens"}
+      ],
+      "metrics": {
+        "subscribers": "100K+",
+        "lastOpenRate": "42%"
+      }
+    },
+    {
+      "id": "brand-consulting",
+      "name": "Brand Consulting",
+      "emoji": "💼",
+      "status": "active",
+      "lastUpdated": "2026-04-07",
+      "needsAttention": false,
+      "attentionReason": null,
+      "updates": [
+        {"date": "2026-04-07", "text": "Air Oasis — new landing page variant live, A/B test running"},
+        {"date": "2026-04-05", "text": "Love Wellness — Q2 media plan approved"},
+        {"date": "2026-04-02", "text": "Air Oasis email flows optimized — 12% lift in conversion"}
+      ],
+      "metrics": {
+        "activeClients": 2,
+        "clients": ["Air Oasis", "Love Wellness"]
+      }
+    }
+  ]
+}
