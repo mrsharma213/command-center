@@ -6,10 +6,10 @@
     "status": "on-track",
     "lastUpdated": "2026-04-08",
     "bullets": [
-      "AO Studio Time TODAY 5-6pm + 7-10pm",
+      "🔴 AO Studio Time NOW (5-6pm) + evening block 7-10pm",
       "Human Attention @ Night 6:30-10pm",
       "After Ours Sync + Gulshan jam sesh completed yesterday (4/7)",
-      "Tomorrow: Office day — Beard Trim 9:45am"
+      "Tomorrow: Office day → Beard Trim 9:45am → Travel to Airport 12:15pm"
     ],
     "needsAttention": null
   },
@@ -30,27 +30,28 @@
     "id": "zurp",
     "emoji": "📱",
     "title": "Zurp",
-    "status": "attention",
+    "status": "on-track",
     "lastUpdated": "2026-04-08",
     "bullets": [
-      "Zurp x Refuge call TODAY 4pm — Remy + Rahul confirmed",
-      "Arx <> Troy + Nik TODAY 4:30pm",
+      "✅ Zurp x Refuge call completed today 4pm (Remy + Rahul attended)",
+      "✅ Arx <> Troy + Nik completed today 4:30pm",
       "6 stations, 24 banks each — NYC nightclub deployment"
     ],
-    "needsAttention": "Zurp x Refuge call TODAY 4pm + Arx <> Troy + Nik 4:30pm"
+    "needsAttention": null
   },
   {
     "id": "macra",
     "emoji": "💊",
     "title": "Macra",
-    "status": "on-track",
-    "lastUpdated": "2026-04-07",
+    "status": "attention",
+    "lastUpdated": "2026-04-08",
     "bullets": [
+      "🆕 Pharmacy venture: Myles Harris intro'd John (DEA pharmacy) to Troy + Nik — Rameez scheduling call for Tue 4/14",
       "HP-719 (mood booster) launched ~Mar 10, initial ad spend $30K",
       "CB-628 (carb blocker) held — TikTok restricts category",
       "Klaviyo email, Postscript SMS, Stay AI subscriptions all live"
     ],
-    "needsAttention": null
+    "needsAttention": "Pharmacy venture call being scheduled for 4/14 — confirm availability"
   },
   {
     "id": "my-agents",
@@ -72,11 +73,13 @@
     "status": "attention",
     "lastUpdated": "2026-04-08",
     "bullets": [
-      "Arx <> Troy + Nik TODAY 4:30pm",
+      "✅ Arx <> Troy + Nik completed today 4:30pm",
       "⚠️ unspun Inc Pay-to-Play Series B-3 — signature required ASAP",
+      "🆕 Shlomo PEF Group Onboarding TOMORROW 4:30pm (Zoom)",
+      "Joel Luna (EVV Capital) pitching co-investor network re: Tildei — follow-up email sent today",
       "Settle intro active: Alek Koenig → Kevin (Purpose Meals) + Adam (VitaWild)"
     ],
-    "needsAttention": "unspun Inc Pay-to-Play signature required ASAP + Arx <> Troy + Nik TODAY 4:30pm"
+    "needsAttention": "unspun Inc Pay-to-Play signature still required ASAP — Shlomo PEF Onboarding TOMORROW 4:30pm"
   },
   {
     "id": "limited-supply",
