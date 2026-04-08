@@ -1,168 +1,122 @@
 {
-  "lastRefreshed": "2026-04-07T22:00:00Z",
-  "cards": [
+  "lastRefreshed": "2026-04-08T04:39:00Z",
+  "projects": [
     {
       "id": "after-ours",
-      "name": "After Ours",
       "emoji": "🎧",
-      "status": "active",
-      "lastUpdated": "2026-04-07",
-      "needsAttention": false,
-      "attentionReason": null,
-      "updates": [
-        {"date": "2026-04-07", "text": "Studio session with Minul — new dark house track in progress"},
-        {"date": "2026-04-04", "text": "Call with Paul Campbell re: upcoming collab direction"},
-        {"date": "2026-04-01", "text": "Mastering feedback sent for 3 tracks"}
+      "title": "After Ours",
+      "status": "on-track",
+      "lastUpdated": "2026-04-04",
+      "bullets": [
+        "Colombia shows completed Apr 2 & 4",
+        "Miami Music Week yacht event done (Mar 25)",
+        "Monthly release schedule active — 'My Mind' release planned"
       ],
-      "metrics": {
-        "tracksInProgress": 4,
-        "nextSession": "2026-04-10"
-      }
+      "needsAttention": null
     },
     {
       "id": "pigeon-house",
-      "name": "Pigeon House Records",
       "emoji": "🐦",
-      "status": "active",
-      "lastUpdated": "2026-04-06",
-      "needsAttention": false,
-      "attentionReason": null,
-      "updates": [
-        {"date": "2026-04-06", "text": "Niles & Jerel — \"Stop with the Talking\" master approved"},
-        {"date": "2026-04-03", "text": "Distribution setup complete for Q2 releases"},
-        {"date": "2026-03-28", "text": "Label artwork finalized for next 3 singles"}
+      "title": "Pigeon House Records",
+      "status": "on-track",
+      "lastUpdated": "2026-04-04",
+      "bullets": [
+        "Label active with After Ours releases",
+        "Niles/Jerel 'Stop with the Talking' in pipeline",
+        "Brandon Launerts handling social/content scheduling"
       ],
-      "metrics": {
-        "upcomingReleases": 3,
-        "nextRelease": "2026-04-18"
-      }
+      "needsAttention": null
     },
     {
       "id": "zurp",
-      "name": "Zurp",
       "emoji": "📱",
-      "status": "active",
-      "lastUpdated": "2026-04-07",
-      "needsAttention": false,
-      "attentionReason": null,
-      "updates": [
-        {"date": "2026-04-07", "text": "6 stations live across NYC nightclubs — all operational"},
-        {"date": "2026-04-05", "text": "Stripe payments flowing — $2.4K MTD revenue"},
-        {"date": "2026-04-02", "text": "Call with Troy & Dil on expansion to 3 new venues"}
+      "title": "Zurp",
+      "status": "attention",
+      "lastUpdated": "2026-04-01",
+      "bullets": [
+        "6 stations, 24 banks each — NYC nightclub deployment",
+        "Stripe payments with Link for universal compatibility",
+        "Santiago handling logistics; data migrating to Namecheap"
       ],
-      "metrics": {
-        "stations": 6,
-        "banksDeployed": 144,
-        "mtdRevenue": "$2.4K"
-      }
+      "needsAttention": "New office designated for warehousing — setup pending"
     },
     {
       "id": "macra",
-      "name": "Macra",
       "emoji": "💊",
-      "status": "active",
+      "title": "Macra",
+      "status": "on-track",
       "lastUpdated": "2026-04-07",
-      "needsAttention": true,
-      "attentionReason": "CB-628 go/no-go decision needed by April 10",
-      "updates": [
-        {"date": "2026-04-07", "text": "HP-719 launched — first 48hr sales tracking strong"},
-        {"date": "2026-04-05", "text": "CB-628 formulation on hold — awaiting Nik's decision on positioning"},
-        {"date": "2026-04-03", "text": "Email flows live for HP-719 post-purchase sequence"}
+      "bullets": [
+        "HP-719 (mood booster) launched ~Mar 10, initial ad spend $30K",
+        "CB-628 (carb blocker) held — TikTok restricts category",
+        "Klaviyo email, Postscript SMS, Stay AI subscriptions all live"
       ],
-      "metrics": {
-        "hp719Status": "Launched",
-        "cb628Status": "On Hold"
-      }
+      "needsAttention": null
     },
     {
       "id": "my-agents",
-      "name": "My Agents",
       "emoji": "🤖",
-      "status": "operational",
-      "lastUpdated": "2026-04-07",
-      "needsAttention": false,
-      "attentionReason": null,
-      "updates": [
-        {"date": "2026-04-07", "text": "All bots operational — Jet, inbox monitors, cron jobs running"},
-        {"date": "2026-04-06", "text": "Heartbeat checks passing across all agents"},
-        {"date": "2026-04-04", "text": "Memory compaction completed for weekly cycle"}
+      "title": "My Agents",
+      "status": "on-track",
+      "lastUpdated": "2026-04-08",
+      "bullets": [
+        "9 bots operational: Jet, CRM, Macra, Macra App, Bryce, Researcher, Printing Press, Josiah, Sentinel",
+        "Sentinel running 2x daily QA audits",
+        "Gateway watchdog auto-recovers from outages"
       ],
-      "metrics": {
-        "activeAgents": 5,
-        "uptime": "99.8%"
-      }
+      "needsAttention": null
     },
     {
       "id": "rolling-ventures",
-      "name": "Rolling Ventures",
       "emoji": "🎯",
-      "status": "active",
+      "title": "Rolling Ventures",
+      "status": "attention",
       "lastUpdated": "2026-04-06",
-      "needsAttention": false,
-      "attentionReason": null,
-      "updates": [
-        {"date": "2026-04-06", "text": "2 new deals in pipeline — consumer wellness and fintech"},
-        {"date": "2026-04-03", "text": "Office at 66 W Broadway fully operational"},
-        {"date": "2026-03-30", "text": "Q1 fund performance review completed"}
+      "bullets": [
+        "Office nearly complete — 3 pods, 18 desks",
+        "Evaluating UnKommon Events investment ($500K for 10% of Little River Studios)",
+        "40+ portfolio companies sending investor updates"
       ],
-      "metrics": {
-        "activeDealFlow": 2,
-        "portfolioCos": 12
-      }
+      "needsAttention": "UnKommon investment decision — each partner targeting ~$25K to meet $2M goal"
     },
     {
       "id": "limited-supply",
-      "name": "Limited Supply Podcast",
       "emoji": "🎙️",
-      "status": "active",
-      "lastUpdated": "2026-04-05",
-      "needsAttention": false,
-      "attentionReason": null,
-      "updates": [
-        {"date": "2026-04-05", "text": "Episode recorded — DTC retention deep-dive"},
-        {"date": "2026-04-01", "text": "Guest confirmed for April 12 taping"},
-        {"date": "2026-03-29", "text": "Last episode hit 15K downloads in first week"}
+      "title": "Limited Supply Podcast",
+      "status": "on-track",
+      "lastUpdated": "2026-04-06",
+      "bullets": [
+        "100K+ subscribers, publishes Sundays ~6-7 PM ET",
+        "Josiah Writer bot + style guide (18K words) for drafts",
+        "Workweek team: Natalie, Hanna, Germana, Louisa, Jess"
       ],
-      "metrics": {
-        "subscribers": "100K+",
-        "lastEpDownloads": "15K"
-      }
+      "needsAttention": null
     },
     {
       "id": "newsletter",
-      "name": "Newsletter / Workweek",
       "emoji": "📰",
-      "status": "active",
+      "title": "Newsletter / Workweek",
+      "status": "on-track",
       "lastUpdated": "2026-04-06",
-      "needsAttention": true,
-      "attentionReason": "Sunday newsletter draft due by Saturday EOD",
-      "updates": [
-        {"date": "2026-04-06", "text": "Friday send completed — 42% open rate"},
-        {"date": "2026-04-04", "text": "Sunday edition outline started — CRO teardown theme"},
-        {"date": "2026-03-30", "text": "Sunday newsletter sent — 38K opens"}
+      "bullets": [
+        "Sunday newsletter publishing consistently via Sailthru",
+        "Style guide + knowledge base loaded for AI-assisted drafting",
+        "Printing Press delivering daily content drops at 10am ET"
       ],
-      "metrics": {
-        "subscribers": "100K+",
-        "lastOpenRate": "42%"
-      }
+      "needsAttention": null
     },
     {
       "id": "brand-consulting",
-      "name": "Brand Consulting",
       "emoji": "💼",
-      "status": "active",
+      "title": "Brand Consulting",
+      "status": "on-track",
       "lastUpdated": "2026-04-07",
-      "needsAttention": false,
-      "attentionReason": null,
-      "updates": [
-        {"date": "2026-04-07", "text": "Air Oasis — new landing page variant live, A/B test running"},
-        {"date": "2026-04-05", "text": "Love Wellness — Q2 media plan approved"},
-        {"date": "2026-04-02", "text": "Air Oasis email flows optimized — 12% lift in conversion"}
+      "bullets": [
+        "Air Oasis: Feb sales +17.5% YoY, Google Ads rev +30% with 22% less spend",
+        "Love Wellness: Quick Melt Strips at $100K/mo Meta+Google + $160K/mo TikTok",
+        "Harper Wilde: Target CAC $44, Naomi (Dir. Retention) started Mar 23"
       ],
-      "metrics": {
-        "activeClients": 2,
-        "clients": ["Air Oasis", "Love Wellness"]
-      }
+      "needsAttention": null
     }
   ]
 }
