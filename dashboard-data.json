@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-08T15:01:00Z",
+  "lastRefreshed": "2026-04-08T18:00:00Z",
   "projects": [
     {
       "id": "after-ours",
@@ -8,9 +8,10 @@
       "status": "on-track",
       "lastUpdated": "2026-04-08",
       "bullets": [
-        "AO Studio Time TODAY 5-6pm",
+        "AO Studio Time TODAY 5-6pm + 7-10pm",
         "Human Attention @ Night 6:30-10pm",
-        "After Ours Sync + Gulshan jam sesh completed yesterday (4/7)"
+        "After Ours Sync + Gulshan jam sesh completed yesterday (4/7)",
+        "Tomorrow: Office day — Beard Trim 9:45am"
       ],
       "needsAttention": null
     },
@@ -109,14 +110,14 @@
       "id": "brand-consulting",
       "emoji": "💼",
       "title": "Brand Consulting",
-      "status": "on-track",
+      "status": "attention",
       "lastUpdated": "2026-04-08",
       "bullets": [
-        "Air Oasis x Nik call NOW (11:30am)",
-        "Andrew x Nik TODAY 12pm",
+        "SHARMLYTICS trademark abandonment confirmed by Rameez (Greenberg Traurig)",
+        "⚠️ GoDaddy payment issue — sharmabrands.com renewals at risk",
         "Love Wellness: Quick Melt Strips at $100K/mo Meta+Google + $160K/mo TikTok"
       ],
-      "needsAttention": null
+      "needsAttention": "GoDaddy payment method invalid — sharmabrands.com products can't renew"
     }
   ]
 }
