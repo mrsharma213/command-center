@@ -1,16 +1,16 @@
 {
-  "lastRefreshed": "2026-04-08T04:39:00Z",
+  "lastRefreshed": "2026-04-08T12:01:00Z",
   "projects": [
     {
       "id": "after-ours",
       "emoji": "🎧",
       "title": "After Ours",
       "status": "on-track",
-      "lastUpdated": "2026-04-04",
+      "lastUpdated": "2026-04-08",
       "bullets": [
-        "Colombia shows completed Apr 2 & 4",
-        "Miami Music Week yacht event done (Mar 25)",
-        "Monthly release schedule active — 'My Mind' release planned"
+        "Studio time TODAY 5-6pm + 7-10pm",
+        "After Ours Sync + Gulshan jam sesh completed yesterday (4/7)",
+        "VINYL PA show completed (4/4), Floppy Pigeons game launching"
       ],
       "needsAttention": null
     },
@@ -32,13 +32,13 @@
       "emoji": "📱",
       "title": "Zurp",
       "status": "attention",
-      "lastUpdated": "2026-04-01",
+      "lastUpdated": "2026-04-08",
       "bullets": [
-        "6 stations, 24 banks each — NYC nightclub deployment",
-        "Stripe payments with Link for universal compatibility",
-        "Santiago handling logistics; data migrating to Namecheap"
+        "Zurp x Refuge call TODAY 4pm — Remy + Rahul confirmed",
+        "Arx <> Troy + Nik TODAY 4:30pm",
+        "6 stations, 24 banks each — NYC nightclub deployment"
       ],
-      "needsAttention": "New office designated for warehousing — setup pending"
+      "needsAttention": "Zurp x Refuge call TODAY 4pm + Arx <> Troy + Nik 4:30pm"
     },
     {
       "id": "macra",
@@ -71,13 +71,13 @@
       "emoji": "🎯",
       "title": "Rolling Ventures",
       "status": "attention",
-      "lastUpdated": "2026-04-06",
+      "lastUpdated": "2026-04-08",
       "bullets": [
-        "Office nearly complete — 3 pods, 18 desks",
-        "Evaluating UnKommon Events investment ($500K for 10% of Little River Studios)",
-        "40+ portfolio companies sending investor updates"
+        "Arx <> Troy + Nik TODAY 4:30pm",
+        "⚠️ unspun Inc Pay-to-Play Series B-3 — signature required ASAP",
+        "Settle intro active: Alek Koenig → Kevin (Purpose Meals) + Adam (VitaWild)"
       ],
-      "needsAttention": "UnKommon investment decision — each partner targeting ~$25K to meet $2M goal"
+      "needsAttention": "unspun Inc Pay-to-Play signature required ASAP + Arx <> Troy + Nik TODAY 4:30pm"
     },
     {
       "id": "limited-supply",
@@ -110,11 +110,11 @@
       "emoji": "💼",
       "title": "Brand Consulting",
       "status": "on-track",
-      "lastUpdated": "2026-04-07",
+      "lastUpdated": "2026-04-08",
       "bullets": [
-        "Air Oasis: Feb sales +17.5% YoY, Google Ads rev +30% with 22% less spend",
-        "Love Wellness: Quick Melt Strips at $100K/mo Meta+Google + $160K/mo TikTok",
-        "Harper Wilde: Target CAC $44, Naomi (Dir. Retention) started Mar 23"
+        "Air Oasis x Nik call TODAY 11:30am",
+        "Andrew x Nik TODAY 12pm",
+        "Love Wellness: Quick Melt Strips at $100K/mo Meta+Google + $160K/mo TikTok"
       ],
       "needsAttention": null
     }
