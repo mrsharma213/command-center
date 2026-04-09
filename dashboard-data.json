@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-09T18:00:00Z",
+  "lastRefreshed": "2026-04-09T21:00:00Z",
   "projects": [
     {
       "id": "after-ours",
@@ -8,9 +8,9 @@
       "status": "on-track",
       "lastUpdated": "2026-04-09",
       "bullets": [
+        "✈️ En route to Houston (UA 2674, departed 4:07pm) → Palm Springs (UA 6181, 8:50pm)",
         "🎧 Coachella Weekend 1 starts TOMORROW (Apr 10-13)",
-        "✈️ Flight to Houston 4:07pm → Palm Springs 8:50pm tonight",
-        "Afternoon stack: Ecom Founders 2pm → Workweek 2:30pm → Macra TB 3pm → Lunar 3:30pm",
+        "✅ All afternoon meetings completed (Ecom Founders, Workweek, Macra TB, Lunar)",
         "Niles/Jerel 'Stop with the Talking' in pipeline — Brandon handling social/content scheduling"
       ],
       "needsAttention": null
@@ -36,7 +36,7 @@
       "status": "on-track",
       "lastUpdated": "2026-04-09",
       "bullets": [
-        "Arx chip samples being sent — Cameron preparing blockchain + cheap chips for testing ($0.30-4.00/chip)",
+        "Arx chip samples being sent — Cameron preparing blockchain + cheap chips ($0.30-4.00/chip)",
         "Social media strategy decided: free charging time for users tagging ZURP on socials",
         "Brand book redesign underway — maturing tone, similar quality to Macra brand book",
         "6 stations, 24 banks each — NYC nightclub deployment"
@@ -50,12 +50,12 @@
       "status": "attention",
       "lastUpdated": "2026-04-09",
       "bullets": [
-        "Macra TB TODAY 3:00pm — in afternoon meeting stack",
-        "✅ Pharmacy call CONFIRMED: Tue 4/14 at 3:30pm EST — John (MyExcelRx) accepted",
+        "✅ Macra TB completed today (3pm)",
+        "✅ Pharmacy call CONFIRMED: Tue 4/14 at 3:30pm EST — John (MyExcelRx)",
         "HP-719 (mood booster) launched ~Mar 10, initial ad spend $30K",
         "Paramount Testing completed 3 consecutive days (4/5-4/7)"
       ],
-      "needsAttention": "Macra TB today 3pm — Pharmacy venture call Tue 4/14 3:30pm"
+      "needsAttention": "Pharmacy venture call Tue 4/14 3:30pm EST"
     },
     {
       "id": "my-agents",
@@ -78,13 +78,13 @@
       "status": "attention",
       "lastUpdated": "2026-04-09",
       "bullets": [
-        "🆕 Shlomo PEF Group Onboarding TODAY 4:30pm (Zoom) — overlaps with Houston flight",
+        "✅ PEF Group Onboarding completed (4:30pm) — Shlomo 1-on-1 was CANCELED",
         "⚠️ unspun Inc Pay-to-Play Series B-3 — signature still required ASAP",
-        "Arx: patent co-ownership discussed, chip samples being sent, target markets: apparel/shoes/cannabis",
-        "📊 Oats Overnight Feb: $22M net rev, 56% GM, $594K EBITDA",
-        "Settle intro active: Alek Koenig → Kevin (Purpose Meals) + Adam (VitaWild)"
+        "🆕 POPWTR deal flow (Lemon Perfect founder, $175M+ sales track, Seed Round)",
+        "📅 Rolling Ventures TB TOMORROW 1:30pm",
+        "Arx: patent co-ownership discussed, chip samples being sent"
       ],
-      "needsAttention": "unspun signature ASAP — Shlomo PEF 4:30pm overlaps with flight to Houston"
+      "needsAttention": "unspun signature ASAP — Rolling Ventures TB tomorrow 1:30pm"
     },
     {
       "id": "limited-supply",
@@ -93,7 +93,7 @@
       "status": "on-track",
       "lastUpdated": "2026-04-09",
       "bullets": [
-        "Workweek x Nik call TODAY 2:30pm",
+        "✅ Workweek x Nik call completed today (2:30pm)",
         "100K+ subscribers, publishes Sundays ~6-7 PM ET",
         "Josiah Writer bot + style guide (18K words) for drafts"
       ],
@@ -106,7 +106,7 @@
       "status": "on-track",
       "lastUpdated": "2026-04-09",
       "bullets": [
-        "Workweek x Nik call TODAY 2:30pm",
+        "✅ Workweek x Nik call completed today (2:30pm)",
         "Nik's 'Affiliate marketing, done right' newsletter sent today (12:32pm)",
         "Printing Press delivering daily content drops at 10am ET",
         "AI Summit speakers: need 2 more confirmed (Hudson confirmed, recruiting others)"
@@ -120,7 +120,7 @@
       "status": "attention",
       "lastUpdated": "2026-04-09",
       "bullets": [
-        "EXT | Lunar: Ideal Living Weekly Leadership TB TODAY 3:30pm",
+        "✅ Lunar: Ideal Living Weekly Leadership TB completed today (3:30pm)",
         "Air Oasis: homepage to finalize THIS WEEK — Nik sending font pairing mockup to Derek",
         "Love Wellness: Kate Richards — Pixel Error Issue thread (24 msgs, active)",
         "⚠️ GoDaddy payment issue — sharmabrands.com renewals at risk",
@@ -135,9 +135,9 @@
       "status": "on-track",
       "lastUpdated": "2026-04-09",
       "bullets": [
-        "Ecom Founders TB call happening NOW (2pm)",
+        "✅ Ecom Founders TB completed today (2pm)",
+        "🆕 Rameez closing Insense sponsorship for Q4 Summit (contract + invoice incoming)",
         "AI Summit (June) — need 2 more speakers confirmed",
-        "Q4 Summit (September) planning",
         "Website being built by Riaz"
       ],
       "needsAttention": null
