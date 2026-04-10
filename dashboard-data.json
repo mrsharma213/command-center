@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-10T18:00:00Z",
+  "lastRefreshed": "2026-04-10T21:00:00Z",
   "flagged": [
     {
       "id": "godaddy-payment",
@@ -11,10 +11,10 @@
     },
     {
       "id": "air-oasis-homepage",
-      "emoji": "⏰",
-      "title": "Air Oasis — Homepage Must Finalize This Week",
-      "detail": "Nik sending font pairing mockup to Derek. Due by end of this week.",
-      "severity": "attention",
+      "emoji": "🚨",
+      "title": "Air Oasis — Homepage Deadline TODAY (End of Week)",
+      "detail": "Nik sending font pairing mockup to Derek. Due by end of this week — it's now Friday.",
+      "severity": "blocked",
       "since": "2026-04-07"
     },
     {
@@ -101,14 +101,14 @@
           "status": "on-track",
           "lastUpdated": "2026-04-10",
           "bullets": [
-            "🎧 Coachella Weekend 1 is NOW (Apr 10-13) — Palm Springs",
-            "📅 After Ours Campaign Chat TODAY 3pm ET — Minul confirmed",
+            "🎧 Coachella Weekend 1 is NOW (Apr 10-13) — Nik in Palm Springs",
+            "✅ After Ours Campaign Chat COMPLETED (3pm ET) — Minul, Troy, Paul, Tristin attended",
             "✅ Check-In completed today (1pm) — Google Meet notes generated",
             "✈️ JSX XE174 Burbank → Oakland Apr 15 4:05pm (L5DS3M)",
             "🆕 JetBlue booking confirmed for Apr 18 (JDVKKM)",
             "Brandon handling social/content scheduling"
           ],
-          "needsAttention": "After Ours Campaign Chat in 1hr (3pm) — Minul confirmed"
+          "needsAttention": null
         },
         {
           "id": "limited-supply",
@@ -129,10 +129,10 @@
           "emoji": "📰",
           "title": "Newsletter / Workweek",
           "status": "on-track",
-          "lastUpdated": "2026-04-09",
+          "lastUpdated": "2026-04-10",
           "bullets": [
-            "✅ This week's newsletter is DONE — will be sent via Slack",
-            "Topic: 'Affiliate marketing, done right'",
+            "✅ This week's newsletter is DONE — 'Affiliate marketing, done right'",
+            "🆕 Andrew Youderian (EcomFuel) shared 300-store P&L study — Nik wants to feature w/ commentary (next week?)",
             "Printing Press delivering daily content drops at 10am ET",
             "Publishes Sundays ~6-7 PM ET"
           ],
@@ -151,22 +151,22 @@
           "lastUpdated": "2026-04-10",
           "bullets": [
             "Lunar — Ideal Living Weekly Leadership TB completed (4/9)",
-            "Air Oasis — Homepage to finalize THIS WEEK (Nik sending font pairing mockup to Derek)",
+            "🚨 Air Oasis — Homepage deadline is TODAY (end of week) — Nik sending font pairing mockup to Derek",
             "🆕 GoDaddy renewal: TEXTNIK.CO auto-renews 5/10 ($51.99/yr)",
             "Ahrefs: nik.co health score 87 — 1 new slow page flagged",
             "Harper Wilde, Love Wellness, AquaTru, Beekeeper's Naturals active"
           ],
-          "needsAttention": "Air Oasis homepage must finalize this week"
+          "needsAttention": "Air Oasis homepage deadline is TODAY — end of week"
         },
         {
           "id": "ecom-founders",
           "emoji": "🏗️",
           "title": "Ecom Founders",
           "status": "on-track",
-          "lastUpdated": "2026-04-09",
+          "lastUpdated": "2026-04-10",
           "bullets": [
-            "✅ Ecom Founders TB completed today (2pm)",
-            "🆕 Rameez closing Insense sponsorship for Q4 Summit (contract + invoice incoming)",
+            "✅ Ecom Founders TB completed (2pm, 4/9)",
+            "🆕 Insense sponsorship: Jade sent billing info + logo (4/10) — Rameez sending contract + invoice next",
             "AI Summit (June) — need 2 more speakers confirmed",
             "Website being built by Riaz"
           ],
