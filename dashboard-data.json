@@ -1,146 +1,248 @@
 {
-  "lastRefreshed": "2026-04-10T00:01:34Z",
-  "projects": [
+  "lastRefreshed": "2026-04-10T03:46:00Z",
+  "flagged": [
     {
-      "id": "after-ours",
-      "emoji": "\ud83c\udfa7",
-      "title": "After Ours",
-      "status": "on-track",
-      "lastUpdated": "2026-04-09",
-      "bullets": [
-        "\u2708\ufe0f Houston layover done \u2014 Palm Springs flight (UA 6181) departing 8:50pm tonight",
-        "\ud83c\udfa7 Coachella Weekend 1 starts TOMORROW (Apr 10-13)",
-        "\ud83c\udd95 JetBlue booking confirmed for Apr 18 (JDVKKM)",
-        "Niles/Jerel 'Stop with the Talking' in pipeline \u2014 Brandon handling social/content scheduling"
-      ],
-      "needsAttention": null
+      "id": "godaddy-payment",
+      "emoji": "🚨",
+      "title": "GoDaddy Payment — sharmabrands.com",
+      "detail": "Payment method missing on sharmabrands.com account. Domain renewals at risk.",
+      "severity": "blocked",
+      "since": "2026-04-07"
     },
     {
-      "id": "pigeon-house",
-      "emoji": "\ud83d\udc26",
-      "title": "Pigeon House Records",
-      "status": "on-track",
-      "lastUpdated": "2026-04-07",
-      "bullets": [
-        "Label active with After Ours releases",
-        "Niles/Jerel 'Stop with the Talking' in pipeline",
-        "Brandon Launerts handling social/content scheduling",
-        "Rahul onboarding to IG strategy + content research (from 4/7 sync)"
-      ],
-      "needsAttention": null
+      "id": "air-oasis-homepage",
+      "emoji": "⏰",
+      "title": "Air Oasis — Homepage Must Finalize This Week",
+      "detail": "Nik sending font pairing mockup to Derek. Due by end of this week.",
+      "severity": "attention",
+      "since": "2026-04-07"
     },
     {
-      "id": "zurp",
-      "emoji": "\ud83d\udcf1",
-      "title": "Zurp",
-      "status": "on-track",
-      "lastUpdated": "2026-04-09",
-      "bullets": [
-        "Arx chip samples being sent \u2014 Cameron preparing blockchain + cheap chips ($0.30-4.00/chip)",
-        "Social media strategy decided: free charging time for users tagging ZURP on socials",
-        "Brand book redesign underway \u2014 maturing tone, similar quality to Macra brand book",
-        "6 stations, 24 banks each \u2014 NYC nightclub deployment"
-      ],
-      "needsAttention": null
+      "id": "macra-launch",
+      "emoji": "💊",
+      "title": "Macra HP-719 — Full Launch Apr 17",
+      "detail": "Soft launch happened Mar 10. Full launch is next Thursday (Apr 17). Pharmacy call Tue 4/14 3:30pm EST.",
+      "severity": "attention",
+      "since": "2026-04-09"
     },
     {
-      "id": "macra",
-      "emoji": "\ud83d\udc8a",
-      "title": "Macra",
-      "status": "attention",
-      "lastUpdated": "2026-04-09",
-      "bullets": [
-        "\u2705 Macra TB completed today (3pm)",
-        "\u2705 Pharmacy call CONFIRMED: Tue 4/14 at 3:30pm EST \u2014 John (MyExcelRx)",
-        "HP-719 (mood booster) launched ~Mar 10, initial ad spend $30K",
-        "Paramount Testing completed 3 consecutive days (4/5-4/7)"
-      ],
-      "needsAttention": "Pharmacy venture call Tue 4/14 3:30pm EST"
+      "id": "podcast-recording",
+      "emoji": "🎙️",
+      "title": "Limited Supply — Next Episode May Not Be Filmed",
+      "detail": "Episodes release every Wednesday. Next week's episode may not be recorded yet. Schedule recording ASAP.",
+      "severity": "attention",
+      "since": "2026-04-09"
+    }
+  ],
+  "newsletter": {
+    "status": "done",
+    "sendDay": "Sunday",
+    "topic": "Affiliate marketing, done right",
+    "note": "This week's newsletter is finished — will be sent via Slack",
+    "topicIdeas": []
+  },
+  "sections": [
+    {
+      "name": "Companies",
+      "projects": [
+        {
+          "id": "macra",
+          "emoji": "💊",
+          "title": "Macra",
+          "status": "attention",
+          "lastUpdated": "2026-04-09",
+          "bullets": [
+            "✅ Macra TB completed today (3pm)",
+            "✅ Pharmacy call CONFIRMED: Tue 4/14 at 3:30pm EST — John (MyExcelRx)",
+            "HP-719 (mood booster) soft launched ~Mar 10 — FULL LAUNCH Apr 17",
+            "Initial ad spend $30K on soft launch",
+            "Paramount Testing completed 3 consecutive days (4/5-4/7)",
+            "CB-628 (carb blocker) in development"
+          ],
+          "needsAttention": "Full launch Apr 17 — Pharmacy venture call Tue 4/14 3:30pm EST"
+        },
+        {
+          "id": "zurp",
+          "emoji": "📱",
+          "title": "Zurp",
+          "status": "on-track",
+          "lastUpdated": "2026-04-09",
+          "bullets": [
+            "✅ Brand book DONE — brand.zurp.com (password: zurp2026)",
+            "Social media strategy decided: free charging time for users tagging ZURP on socials",
+            "6 stations, 24 banks each — NYC nightclub deployment",
+            "Partners: Troy, Dil, Jimmy"
+          ],
+          "needsAttention": null
+        },
+        {
+          "id": "pigeon-house",
+          "emoji": "🐦",
+          "title": "Pigeon House Records",
+          "status": "on-track",
+          "lastUpdated": "2026-04-07",
+          "bullets": [
+            "Label active with After Ours releases",
+            "Niles/Jerel 'Stop with the Talking' in pipeline",
+            "Brandon Launerts handling social/content scheduling",
+            "Rahul onboarding to IG strategy + content research (from 4/7 sync)"
+          ],
+          "needsAttention": null
+        }
+      ]
     },
     {
-      "id": "my-agents",
-      "emoji": "\ud83e\udd16",
-      "title": "My Agents",
-      "status": "on-track",
-      "lastUpdated": "2026-04-09",
-      "bullets": [
-        "9 bots operational: Jet, CRM, Macra, Macra App, Bryce, Researcher, Printing Press, Josiah, Sentinel",
-        "Jet bot stability restored (confirmed in 4/7 Nik x Rahul x Rameez sync)",
-        "Sentinel running 2x daily QA audits",
-        "Gateway watchdog auto-recovers from outages"
-      ],
-      "needsAttention": null
+      "name": "Media & Content",
+      "projects": [
+        {
+          "id": "after-ours",
+          "emoji": "🎧",
+          "title": "After Ours",
+          "status": "on-track",
+          "lastUpdated": "2026-04-09",
+          "bullets": [
+            "✈️ Houston layover done — Palm Springs flight (UA 6181) departing 8:50pm tonight",
+            "🎧 Coachella Weekend 1 starts TOMORROW (Apr 10-13)",
+            "🆕 JetBlue booking confirmed for Apr 18 (JDVKKM)",
+            "Brandon handling social/content scheduling",
+            "Paul/Brandon coordinating release pipeline"
+          ],
+          "needsAttention": null
+        },
+        {
+          "id": "limited-supply",
+          "emoji": "🎙️",
+          "title": "Limited Supply Podcast",
+          "status": "attention",
+          "lastUpdated": "2026-04-09",
+          "bullets": [
+            "Episodes release every Wednesday",
+            "⚠️ Next week's episode may not be filmed yet — schedule recording",
+            "100K+ subscribers",
+            "Josiah Writer bot + style guide (18K words) for drafts"
+          ],
+          "needsAttention": "Next week's episode may not be recorded — schedule ASAP"
+        },
+        {
+          "id": "newsletter",
+          "emoji": "📰",
+          "title": "Newsletter / Workweek",
+          "status": "on-track",
+          "lastUpdated": "2026-04-09",
+          "bullets": [
+            "✅ This week's newsletter is DONE — will be sent via Slack",
+            "Topic: 'Affiliate marketing, done right'",
+            "Printing Press delivering daily content drops at 10am ET",
+            "Publishes Sundays ~6-7 PM ET"
+          ],
+          "needsAttention": null
+        }
+      ]
     },
     {
-      "id": "rolling-ventures",
-      "emoji": "\ud83c\udfaf",
-      "title": "Rolling Ventures",
-      "status": "attention",
-      "lastUpdated": "2026-04-09",
-      "bullets": [
-        "\ud83d\udcc5 Check-In TOMORROW 1:00pm + Rolling Ventures TB 1:30pm",
-        "\u26a0\ufe0f unspun Inc Pay-to-Play Series B-3 \u2014 signature still required ASAP",
-        "\ud83c\udd95 POPWTR deal flow (Lemon Perfect founder, $175M+ sales track, Seed Round)",
-        "\u2705 PEF Group Onboarding completed (4:30pm today)",
-        "Arx: patent co-ownership discussed, chip samples being sent"
-      ],
-      "needsAttention": "unspun signature ASAP \u2014 Check-In 1pm + RV TB 1:30pm tomorrow"
+      "name": "Brand Consulting",
+      "projects": [
+        {
+          "id": "brand-consulting",
+          "emoji": "💼",
+          "title": "Brand Consulting",
+          "status": "attention",
+          "lastUpdated": "2026-04-09",
+          "bullets": [
+            "Lunar — Ideal Living Weekly Leadership TB completed today (3:30pm)",
+            "Air Oasis — YoY net revenue change test closed by Brad",
+            "Air Oasis — Homepage to finalize THIS WEEK (Nik sending font pairing mockup to Derek)",
+            "Harper Wilde, Love Wellness, AquaTru, Beekeeper's Naturals active"
+          ],
+          "needsAttention": "Air Oasis homepage must finalize this week"
+        },
+        {
+          "id": "ecom-founders",
+          "emoji": "🏗️",
+          "title": "Ecom Founders",
+          "status": "on-track",
+          "lastUpdated": "2026-04-09",
+          "bullets": [
+            "✅ Ecom Founders TB completed today (2pm)",
+            "🆕 Rameez closing Insense sponsorship for Q4 Summit (contract + invoice incoming)",
+            "AI Summit (June) — need 2 more speakers confirmed",
+            "Website being built by Riaz"
+          ],
+          "needsAttention": null
+        }
+      ]
     },
     {
-      "id": "limited-supply",
-      "emoji": "\ud83c\udf99\ufe0f",
-      "title": "Limited Supply Podcast",
-      "status": "on-track",
-      "lastUpdated": "2026-04-09",
-      "bullets": [
-        "\u2705 Workweek x Nik call completed today (2:30pm)",
-        "100K+ subscribers, publishes Sundays ~6-7 PM ET",
-        "Josiah Writer bot + style guide (18K words) for drafts"
-      ],
-      "needsAttention": null
+      "name": "Rolling Ventures",
+      "projects": [
+        {
+          "id": "rolling-ventures",
+          "emoji": "🎯",
+          "title": "Rolling Ventures Fund",
+          "status": "on-track",
+          "lastUpdated": "2026-04-09",
+          "bullets": [
+            "📅 Check-In TOMORROW 1:00pm + Rolling Ventures TB 1:30pm",
+            "✅ PEF Group Onboarding completed (4:30pm today)",
+            "Portfolio: Refuge, MrBeast, Mocama, Diamond Supply, Swishables, Midline, GoodOnya, Ketchy Shuby, OuterSignal, Sprinter, Willie's Remedy"
+          ],
+          "needsAttention": null
+        },
+        {
+          "id": "personal-investments",
+          "emoji": "💰",
+          "title": "Personal Investments",
+          "status": "on-track",
+          "lastUpdated": "2026-04-09",
+          "bullets": [
+            "unspun Inc — Pay-to-Play Series B-3 (signature still required ASAP)",
+            "POPWTR — Lemon Perfect founder, $175M+ sales track, Seed Round",
+            "Tracked separately from Rolling Ventures fund"
+          ],
+          "needsAttention": null
+        }
+      ]
     },
     {
-      "id": "newsletter",
-      "emoji": "\ud83d\udcf0",
-      "title": "Newsletter / Workweek",
-      "status": "on-track",
-      "lastUpdated": "2026-04-09",
-      "bullets": [
-        "\u2705 Workweek x Nik call completed today (2:30pm)",
-        "Nik's 'Affiliate marketing, done right' newsletter sent today (12:32pm)",
-        "Printing Press delivering daily content drops at 10am ET",
-        "AI Summit speakers: need 2 more confirmed (Hudson confirmed, recruiting others)"
-      ],
-      "needsAttention": null
+      "name": "Nik Sharma — Personal",
+      "projects": [
+        {
+          "id": "arx",
+          "emoji": "🔐",
+          "title": "Arx",
+          "status": "on-track",
+          "lastUpdated": "2026-04-08",
+          "bullets": [
+            "Authentication of apparel via patent — related to banking",
+            "Troy, Cameron, David involved",
+            "Call Apr 8, 4:30 PM — discussed segmentation for apparel authentication",
+            "Cameron preparing blockchain + cheap chips ($0.30-4.00/chip)",
+            "Status: exploring — not established as separate company yet"
+          ],
+          "needsAttention": null
+        }
+      ]
     },
     {
-      "id": "brand-consulting",
-      "emoji": "\ud83d\udcbc",
-      "title": "Brand Consulting",
-      "status": "attention",
-      "lastUpdated": "2026-04-09",
-      "bullets": [
-        "\u2705 Lunar: Ideal Living Weekly Leadership TB completed today (3:30pm)",
-        "\u2705 ClickUp: YOY Net Rev Change task closed by Brad (tonight)",
-        "Air Oasis: homepage to finalize THIS WEEK \u2014 Nik sending font pairing mockup to Derek",
-        "\ud83c\udd95 McFly MMM pitch: white-label Marketing Mix Models for DTC clients ($5K-$15K)",
-        "\u26a0\ufe0f GoDaddy payment issue \u2014 sharmabrands.com renewals at risk"
-      ],
-      "needsAttention": "Air Oasis homepage must finalize this week \u2014 GoDaddy payment still invalid"
-    },
-    {
-      "id": "ecom-founders",
-      "emoji": "\ud83c\udfd7\ufe0f",
-      "title": "Ecom Founders",
-      "status": "on-track",
-      "lastUpdated": "2026-04-09",
-      "bullets": [
-        "\u2705 Ecom Founders TB completed today (2pm)",
-        "\ud83c\udd95 Rameez closing Insense sponsorship for Q4 Summit (contract + invoice incoming)",
-        "AI Summit (June) \u2014 need 2 more speakers confirmed",
-        "Website being built by Riaz"
-      ],
-      "needsAttention": null
+      "name": "Operations",
+      "projects": [
+        {
+          "id": "my-agents",
+          "emoji": "🤖",
+          "title": "My Agents",
+          "status": "on-track",
+          "lastUpdated": "2026-04-09",
+          "bullets": [
+            "14 bots operational",
+            "⚡ Jet (Opus) · 📇 CRM (Sonnet) · 💊 Macra (Opus) · 📱 Macra App (Sonnet)",
+            "🖨️ Printing Press (Opus) · ✍️ Josiah (Opus) · 🤓 Bryce (Gemini Flash) · 🔍 Researcher (Grok)",
+            "🏥 Health (GPT-4o) · 🎬 Creative Director (Sonnet) · 🔭 Sentinel (Sonnet) · 💪 Flexpower (Opus)",
+            "🎧 After Ours (Opus) · 🏦 Rolling Ventures (Opus)",
+            "Gateway watchdog auto-recovers from outages"
+          ],
+          "needsAttention": null
+        }
+      ]
     }
   ]
 }
