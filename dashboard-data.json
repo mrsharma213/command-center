@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-10T03:46:00Z",
+  "lastRefreshed": "2026-04-10T12:00:00Z",
   "flagged": [
     {
       "id": "godaddy-payment",
@@ -99,15 +99,15 @@
           "emoji": "\ud83c\udfa7",
           "title": "After Ours",
           "status": "on-track",
-          "lastUpdated": "2026-04-09",
+          "lastUpdated": "2026-04-10",
           "bullets": [
-            "\u2708\ufe0f Houston layover done \u2014 Palm Springs flight (UA 6181) departing 8:50pm tonight",
-            "\ud83c\udfa7 Coachella Weekend 1 starts TOMORROW (Apr 10-13)",
-            "\ud83c\udd95 JetBlue booking confirmed for Apr 18 (JDVKKM)",
+            "🎧 Coachella Weekend 1 is NOW (Apr 10-13) — Palm Springs",
+            "📅 After Ours Campaign Chat TODAY 3:00pm ET",
+            "🆕 JetBlue booking confirmed for Apr 18 (JDVKKM)",
             "Brandon handling social/content scheduling",
             "Paul/Brandon coordinating release pipeline"
           ],
-          "needsAttention": null
+          "needsAttention": "After Ours Campaign Chat today 3pm"
         },
         {
           "id": "limited-supply",
@@ -180,13 +180,13 @@
           "emoji": "\ud83c\udfaf",
           "title": "Rolling Ventures Fund",
           "status": "on-track",
-          "lastUpdated": "2026-04-09",
+          "lastUpdated": "2026-04-10",
           "bullets": [
-            "\ud83d\udcc5 Check-In TOMORROW 1:00pm + Rolling Ventures TB 1:30pm",
-            "\u2705 PEF Group Onboarding completed (4:30pm today)",
+            "📅 Check-In TODAY 1:00pm + Rolling Ventures TB 1:30pm",
+            "✅ PEF Group Onboarding completed (4/9)",
             "Portfolio: Refuge, MrBeast, Mocama, Diamond Supply, Swishables, Midline, GoodOnya, Ketchy Shuby, OuterSignal, Sprinter, Willie's Remedy"
           ],
-          "needsAttention": null
+          "needsAttention": "Check-In 1pm + RV TB 1:30pm TODAY"
         },
         {
           "id": "personal-investments",
