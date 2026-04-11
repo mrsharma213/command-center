@@ -4,11 +4,11 @@
     "emoji": "💊",
     "title": "Macra",
     "status": "attention",
-    "lastUpdated": "2026-04-09",
+    "lastUpdated": "2026-04-11",
     "bullets": [
-      "✅ Macra TB completed today (3pm)",
+      "HP-719 FULL LAUNCH Apr 16 — 5 days out",
       "✅ Pharmacy call CONFIRMED: Tue 4/14 at 3:30pm EST — John (MyExcelRx)",
-      "HP-719 (mood booster) full launched ~Mar 10 — FULL LAUNCH Apr 16",
+      "🆕 Fireflies 4/9: App brand color changed green→blue, font needs updating",
       "Initial ad spend $30K on full launch",
       "Paramount Testing completed 3 consecutive days (4/5-4/7)",
       "CB-628 (carb blocker) ready to launch"
@@ -48,11 +48,11 @@
     "emoji": "🎧",
     "title": "After Ours",
     "status": "on-track",
-    "lastUpdated": "2026-04-10",
+    "lastUpdated": "2026-04-11",
     "bullets": [
-      "🎧 Coachella Weekend 1 is NOW (Apr 10-13) — Nik in Palm Springs",
+      "🎧 Coachella Weekend 1 — Day 2 today (Apr 10-13) — Nik in Palm Springs",
+      "🚗 Drive to LA scheduled Apr 13-14 (post-Coachella)",
       "✅ After Ours Campaign Chat COMPLETED (3pm ET) — Minul, Troy, Paul, Tristin attended",
-      "✅ Check-In completed today (1pm) — Google Meet notes generated",
       "✈️ JSX XE174 Burbank → Oakland Apr 15 4:05pm (L5DS3M)",
       "🆕 JetBlue booking confirmed for Apr 18 (JDVKKM)",
       "Brandon handling social/content scheduling"
@@ -63,24 +63,24 @@
     "id": "limited-supply",
     "emoji": "🎙️",
     "title": "Limited Supply Podcast",
-    "status": "attention",
-    "lastUpdated": "2026-04-09",
+    "status": "on-track",
+    "lastUpdated": "2026-04-11",
     "bullets": [
-      "Episodes release every Wednesday",
-      "⚠️ Next week's episode still needed yet — schedule recording",
-      "100K+ subscribers",
+      "🆕 Vinay Sridhar (Reddit) episode scheduling — Rameez followed up 4/11 for 4/21 or 4/22",
+      "Topic: catalog ads + Reddit targeting evolution for DTC brands",
+      "Episodes release every Wednesday — 100K+ subscribers",
       "Josiah Writer bot + style guide (18K words) for drafts"
     ],
-    "needsAttention": "Next week's episode may not be recorded — schedule ASAP"
+    "needsAttention": null
   },
   {
     "id": "newsletter",
     "emoji": "📰",
     "title": "Newsletter / Workweek",
     "status": "on-track",
-    "lastUpdated": "2026-04-10",
+    "lastUpdated": "2026-04-11",
     "bullets": [
-      "✅ This week's newsletter is DONE — 'Affiliate marketing, done right'",
+      "✅ This week's newsletter is DONE — 'Affiliate marketing, done right' — sends tomorrow",
       "🆕 Andrew Youderian (EcomFuel) shared 300-store P&L study — Nik wants to feature w/ commentary (next week?)",
       "Printing Press delivering daily content drops at 10am ET",
       "Publishes Sundays ~6-7 PM ET"
@@ -92,15 +92,15 @@
     "emoji": "💼",
     "title": "Brand Consulting",
     "status": "attention",
-    "lastUpdated": "2026-04-10",
+    "lastUpdated": "2026-04-11",
     "bullets": [
-      "Lunar — Ideal Living Weekly Leadership TB completed (4/9)",
-      "🚨 Air Oasis — Homepage deadline PASSED (was due Fri 4/10) — font pairing mockup to Derek still pending",
+      "🆕 WA Dept of Revenue: Action required for Sharma Brands Inc (605-181-506) — log in at secure.dor.wa.gov",
+      "🚨 Air Oasis — Homepage deadline PASSED (was due Fri 4/10) — follow up Monday",
       "🆕 GoDaddy renewal: TEXTNIK.CO auto-renews 5/10 ($51.99/yr)",
       "Ahrefs: nik.co health score 87 — 1 new slow page flagged",
       "Harper Wilde, Love Wellness, AquaTru, Beekeeper's Naturals active"
     ],
-    "needsAttention": "Air Oasis homepage deadline PASSED (Fri 4/10) — follow up Monday"
+    "needsAttention": "Air Oasis homepage deadline PASSED + WA DOR action required"
   },
   {
     "id": "ecom-founders",
@@ -121,9 +121,9 @@
     "emoji": "🎯",
     "title": "Rolling Ventures Fund",
     "status": "on-track",
-    "lastUpdated": "2026-04-10",
+    "lastUpdated": "2026-04-11",
     "bullets": [
-      "✅ Check-In completed (1pm) + Rolling Ventures TB completed (1:30pm)",
+      "🆕 Polar Verified inbound pitch — Paul Haidu Gerea (Stanford), supplement trust/verification rail",
       "🆕 Snif launched Milk + Cereal collection nationwide at Ulta (portfolio co update)",
       "🆕 Nova Sky Stories (Kimbal Musk) — LAST CALL deal flow via PariPassu",
       "✅ PEF Group Onboarding completed (4/9)",
