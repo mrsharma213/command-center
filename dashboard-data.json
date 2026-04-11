@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-10T21:00:00Z",
+  "lastRefreshed": "2026-04-11T00:00:00Z",
   "flagged": [
     {
       "id": "godaddy-payment",
@@ -12,8 +12,8 @@
     {
       "id": "air-oasis-homepage",
       "emoji": "🚨",
-      "title": "Air Oasis — Homepage Deadline TODAY (End of Week)",
-      "detail": "Nik sending font pairing mockup to Derek. Due by end of this week — it's now Friday.",
+      "title": "Air Oasis — Homepage Deadline PASSED",
+      "detail": "Font pairing mockup to Derek was due end of week (Fri 4/10) — deadline has passed. Follow up Monday.",
       "severity": "blocked",
       "since": "2026-04-07"
     },
@@ -151,12 +151,12 @@
           "lastUpdated": "2026-04-10",
           "bullets": [
             "Lunar — Ideal Living Weekly Leadership TB completed (4/9)",
-            "🚨 Air Oasis — Homepage deadline is TODAY (end of week) — Nik sending font pairing mockup to Derek",
+            "🚨 Air Oasis — Homepage deadline PASSED (was due Fri 4/10) — font pairing mockup to Derek still pending",
             "🆕 GoDaddy renewal: TEXTNIK.CO auto-renews 5/10 ($51.99/yr)",
             "Ahrefs: nik.co health score 87 — 1 new slow page flagged",
             "Harper Wilde, Love Wellness, AquaTru, Beekeeper's Naturals active"
           ],
-          "needsAttention": "Air Oasis homepage deadline is TODAY — end of week"
+          "needsAttention": "Air Oasis homepage deadline PASSED (Fri 4/10) — follow up Monday"
         },
         {
           "id": "ecom-founders",
