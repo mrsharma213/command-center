@@ -1,11 +1,11 @@
 {
-  "lastRefreshed": "2026-04-12T12:00:00Z",
+  "lastRefreshed": "2026-04-12T18:00:00Z",
   "flagged": [
     {
       "id": "godaddy-payment",
       "emoji": "\ud83d\udea8",
       "title": "GoDaddy Payment \u2014 sharmabrands.com",
-      "detail": "Payment method missing on sharmabrands.com account. Domain renewals at risk.",
+      "detail": "Payment method missing on sharmabrands.com account. Domain expires in ~15 days (GoDaddy renewal notice 4/12). Renewals at risk.",
       "severity": "blocked",
       "since": "2026-04-07"
     },
@@ -67,9 +67,11 @@
           "emoji": "\ud83d\udcf1",
           "title": "Zurp",
           "status": "on-track",
-          "lastUpdated": "2026-04-09",
+          "lastUpdated": "2026-04-12",
           "bullets": [
+            "\ud83d\udcc5 Zurp Check-In Mon 4/14 11:30am ET",
             "\u2705 Brand book DONE \u2014 brand.zurp.com (password: zurp2026)",
+            "\ud83c\udd95 Fireflies 4/10: Custom ticketing system (WordPress + Shopify), Cloudways hosting selected",
             "Social media strategy decided: free charging time for users tagging ZURP on socials",
             "6 stations, 24 banks each \u2014 NYC nightclub deployment",
             "Partners: Troy, Dil, Jimmy"
@@ -100,12 +102,12 @@
           "emoji": "\ud83c\udfa7",
           "title": "After Ours",
           "status": "on-track",
-          "lastUpdated": "2026-04-11",
+          "lastUpdated": "2026-04-12",
           "bullets": [
             "\ud83c\udfa7 Coachella Weekend 1 \u2014 Day 3 (Sunday, final day) \u2014 Nik at Palm Springs",
-            "\ud83d\ude97 Drive to LA scheduled Apr 13-14 (post-Coachella)",
-            "\u2705 After Ours Campaign Chat COMPLETED (3pm ET) \u2014 Minul, Troy, Paul, Tristin attended",
-            "\u2708\ufe0f JSX XE174 Burbank \u2192 Oakland Apr 15 4:05pm (L5DS3M)",
+            "\ud83d\ude97 Drive to LA tomorrow Apr 13 (post-Coachella)",
+            "\ud83c\udd95 Fireflies 4/11: Afro House campaign \u2014 TikTok + IG targeting, viral video strategy, Nick Brown on digital campaigns",
+            "\u2708\ufe0f Flight to SF Mon 4/14 11am \u2022 JSX Burbank\u2192Oakland Apr 15 4:05pm (L5DS3M)",
             "\ud83c\udd95 JetBlue booking confirmed for Apr 18 (JDVKKM)",
             "Brandon handling social/content scheduling"
           ],
@@ -153,7 +155,7 @@
           "bullets": [
             "\ud83c\udd95 WA Dept of Revenue: Action required for Sharma Brands Inc (605-181-506) \u2014 log in at secure.dor.wa.gov",
             "\ud83d\udea8 Air Oasis \u2014 Homepage deadline PASSED (was due Fri 4/10) \u2014 follow up Monday",
-            "\ud83c\udd95 GoDaddy renewal: TEXTNIK.CO auto-renews 5/10 ($51.99/yr)",
+            "\ud83c\udd95 GoDaddy: sharmabrands.com expires in ~15 days (renewal notice 4/12) + TEXTNIK.CO auto-renews 5/10 ($51.99/yr)",
             "\ud83d\udcc5 Daily: Lunar x SB sync Sun 4/13 4:00pm ET",
             "Ahrefs: nik.co health score 87 \u2014 1 new slow page flagged",
             "Harper Wilde, Love Wellness, AquaTru, Beekeeper's Naturals active"
