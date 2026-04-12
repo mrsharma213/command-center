@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-12T02:00:00Z",
+  "lastRefreshed": "2026-04-12T12:00:00Z",
   "flagged": [
     {
       "id": "godaddy-payment",
@@ -21,7 +21,7 @@
       "id": "macra-launch",
       "emoji": "\ud83d\udc8a",
       "title": "Macra HP-719 \u2014 Full Launch Apr 16",
-      "detail": "HP-719 full launch Apr 16 (5 days). Pharmacy venture call Tue 4/14 3:30pm EST \u2014 John (MyExcelRx). App: brand color changed green\u2192blue, font update needed.",
+      "detail": "HP-719 full launch Apr 16 (4 days). Pharmacy venture call Tue 4/14 3:30pm EST \u2014 John (MyExcelRx). App: brand color changed green\u2192blue, font update needed.",
       "severity": "attention",
       "since": "2026-04-09"
     },
@@ -38,7 +38,7 @@
     "status": "done",
     "sendDay": "Sunday",
     "topic": "Affiliate marketing, done right",
-    "note": "This week's newsletter is finished \u2014 sends tomorrow (Sunday)",
+    "note": "This week's newsletter is finished \u2014 sends TODAY (Sunday ~6-7 PM ET)",
     "topicIdeas": []
   },
   "sections": [
@@ -52,7 +52,7 @@
           "status": "attention",
           "lastUpdated": "2026-04-11",
           "bullets": [
-            "HP-719 FULL LAUNCH Apr 16 \u2014 5 days out",
+            "HP-719 FULL LAUNCH Apr 16 \u2014 4 days out",
             "\u2705 Pharmacy call CONFIRMED: Tue 4/14 at 3:30pm EST \u2014 John (MyExcelRx)",
             "\ud83c\udd95 Fireflies 4/9: App brand color changed green\u2192blue, font needs updating",
             "Initial ad spend $30K on full launch",
@@ -102,7 +102,7 @@
           "status": "on-track",
           "lastUpdated": "2026-04-11",
           "bullets": [
-            "\ud83c\udfa7 Coachella Weekend 1 \u2014 Day 2 (Saturday) \u2014 Nik at Palm Springs",
+            "\ud83c\udfa7 Coachella Weekend 1 \u2014 Day 3 (Sunday, final day) \u2014 Nik at Palm Springs",
             "\ud83d\ude97 Drive to LA scheduled Apr 13-14 (post-Coachella)",
             "\u2705 After Ours Campaign Chat COMPLETED (3pm ET) \u2014 Minul, Troy, Paul, Tristin attended",
             "\u2708\ufe0f JSX XE174 Burbank \u2192 Oakland Apr 15 4:05pm (L5DS3M)",
@@ -132,7 +132,7 @@
           "status": "on-track",
           "lastUpdated": "2026-04-11",
           "bullets": [
-            "\u2705 This week's newsletter is DONE \u2014 'Affiliate marketing, done right' \u2014 sends tomorrow",
+            "\u2705 This week's newsletter is DONE \u2014 'Affiliate marketing, done right' \u2014 sends TODAY (Sunday)",
             "\ud83c\udd95 Andrew Youderian (EcomFuel) shared 300-store P&L study \u2014 Nik wants to feature w/ commentary (next week?)",
             "Printing Press delivering daily content drops at 10am ET",
             "Publishes Sundays ~6-7 PM ET"
