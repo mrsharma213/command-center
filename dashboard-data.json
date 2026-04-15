@@ -1,11 +1,11 @@
 {
-  "lastRefreshed": "2026-04-15T18:00:00Z",
+  "lastRefreshed": "2026-04-15T19:00:00Z",
   "flagged": [
     {
       "id": "macra-launch",
       "emoji": "💊",
       "title": "Macra — BOTH PRODUCTS LAUNCH TOMORROW (Apr 16) — Trademarks FILED",
-      "detail": "Mood Bloom (HP-719) + Carb Mute (CB-628) full launch Apr 16 — TOMORROW. ✅ Trademarks FILED with USPTO — CARB MUTE (App. No. 99765362) + MOOD BLOOM (App. No. 99765355). Filing receipts received from Greenberg Traurig. Use ™ symbol on packaging/marketing. $30K initial ad spend. Macra Social TB 1pm + Macra TB 3pm tomorrow.",
+      "detail": "Mood Bloom (HP-719) + Carb Curb (CB-628) full launch Apr 16 — TOMORROW. ⚠️ CB-628 RENAMED: Carb Mute → Carb Curb (final). All three marks filed: Carb Mute, Carb Curb, Mood Bloom. ✅ Trademarks FILED with USPTO — CARB MUTE (App. No. 99765362) + MOOD BLOOM (App. No. 99765355). Use ™ symbol. $30K initial ad spend. Macra Social TB 1pm + Macra TB 3pm tomorrow.",
       "severity": "blocked",
       "since": "2026-04-09"
     },
@@ -52,16 +52,16 @@
           "status": "attention",
           "lastUpdated": "2026-04-15",
           "bullets": [
-            "🚨 BOTH PRODUCTS LAUNCH TOMORROW — Apr 16: Mood Bloom + Carb Mute",
-            "✅ Pharmacy TB completed 4/14 3:30pm (John, MyExcelRx)",
+            "🚨 BOTH PRODUCTS LAUNCH TOMORROW — Apr 16: Mood Bloom + Carb Curb",
+            "⚠️ CB-628 RENAMED: Carb Mute → Carb Curb (final name). Keeping all 3 TM filings: Carb Mute, Carb Curb, Mood Bloom.",
             "✅ Trademarks FILED with USPTO — CARB MUTE (App. No. 99765362) + MOOD BLOOM (App. No. 99765355)",
             "📝 Filing receipts received from GT attorney Matthew Goings — Class 005. Use ™ symbol. 6-10 month examination.",
-            "📧 Rameez 'New Macra Stuff' thread active (65 messages)",
+            "📧 Rameez 'Trademark for MACRA' thread (10 messages) — GT attorneys filing, entity info provided",
             "Initial ad spend $30K • App: brand color green→blue",
             "📅 Tomorrow: Macra Social TB 1pm, Macra TB 3pm, Ecom Founders TB 2pm",
             "✅ verified.macra.com CNAME added via Namecheap API"
           ],
-          "needsAttention": "BOTH PRODUCTS LAUNCH TOMORROW — Apr 16. ✅ Trademarks FILED with USPTO (App. Nos. 99765362/99765355)."
+          "needsAttention": "BOTH PRODUCTS LAUNCH TOMORROW — Apr 16. CB-628 renamed to Carb Curb (was Carb Mute). ✅ Trademarks FILED with USPTO (App. Nos. 99765362/99765355)."
         },
         {
           "id": "zurp",
