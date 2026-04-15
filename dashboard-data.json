@@ -5,7 +5,7 @@
       "id": "macra-launch",
       "emoji": "💊",
       "title": "Macra — BOTH PRODUCTS LAUNCH TOMORROW (Apr 16)",
-      "detail": "Mood Bloom (HP-719) + Carb Mute (CB-628) full launch Apr 16 — TOMORROW. Rameez filed ITU trademark apps with Greenberg Traurig for Carb Mute + Mood Bloom (Class 005, TEAS Plus) — filing today before EOD. $30K initial ad spend. Macra Social TB 1pm + Macra TB 3pm tomorrow.",
+      "detail": "Mood Bloom (HP-719) + Carb Mute (CB-628) full launch Apr 16 — TOMORROW. GT attorney (Kristen Van Dyke) confirmed they'll file ITU trademarks today — asked Rameez for entity info/address. $30K initial ad spend. Macra Social TB 1pm + Macra TB 3pm tomorrow.",
       "severity": "blocked",
       "since": "2026-04-09"
     },
@@ -54,13 +54,14 @@
           "bullets": [
             "🚨 BOTH PRODUCTS LAUNCH TOMORROW — Apr 16: Mood Bloom + Carb Mute",
             "✅ Pharmacy TB completed 4/14 3:30pm (John, MyExcelRx)",
-            "📝 Rameez filed ITU trademarks with Greenberg Traurig — Carb Mute + Mood Bloom (Class 005, TEAS Plus) — filing today",
+            "📝 GT attorney confirmed filing today — asked Rameez for Macra LLC entity info/address (11:45am)",
+            "📝 Rameez filed ITU trademarks with Greenberg Traurig — Carb Mute + Mood Bloom (Class 005, TEAS Plus)",
             "📧 Rameez 'New Macra Stuff' thread active (65 messages)",
             "Initial ad spend $30K • App: brand color green→blue",
             "📅 Tomorrow: Macra Social TB 1pm, Macra TB 3pm, Ecom Founders TB 2pm",
             "✅ verified.macra.com CNAME added via Namecheap API"
           ],
-          "needsAttention": "BOTH PRODUCTS LAUNCH TOMORROW — Apr 16"
+          "needsAttention": "BOTH PRODUCTS LAUNCH TOMORROW — Apr 16. GT needs entity info from Rameez for trademark filing."
         },
         {
           "id": "zurp",
