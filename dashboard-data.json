@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-15T14:00:00Z",
+  "lastRefreshed": "2026-04-15T15:00:00Z",
   "flagged": [
     {
       "id": "macra-launch",
@@ -242,7 +242,7 @@
           "status": "on-track",
           "lastUpdated": "2026-04-15",
           "bullets": [
-            "📍 TODAY: JSX BUR→OAK 4:05pm ET (L5DS3M) — flying to SF",
+            "📍 TODAY: JSX BUR→OAK 4:05pm ET (L5DS3M) — aircraft type change, seat may be reassigned",
             "📍 Apr 15-18: In San Francisco",
             "🎧 AO Studio Time today 5-6pm + 7-10pm ET",
             "Thu 4/17: YC launch party SF (private DJ set) • 'Rise & Shine' goes live",
@@ -263,7 +263,7 @@
           "status": "on-track",
           "lastUpdated": "2026-04-14",
           "bullets": [
-            "14 bots operational",
+            "14 bots operational — ⚠️ 2 Vercel deployment failures (11am)",
             "⚡ Jet (Opus) · 📇 CRM (Sonnet) · 💊 Macra (Opus) · 📱 Macra App (Sonnet)",
             "🖨️ Printing Press (Opus) · ✍️ Josiah (Opus) · 🤓 Bryce (Gemini Flash) · 🔍 Researcher (Grok)",
             "🏥 Health (GPT-4o) · 🎬 Creative Director (Sonnet) · 🔭 Sentinel (Sonnet) · 💪 Flexpower (Opus)",
