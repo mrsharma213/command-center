@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-15T04:11:00Z",
+  "lastRefreshed": "2026-04-15T13:01:00Z",
   "flagged": [
     {
       "id": "macra-launch",
@@ -13,7 +13,7 @@
       "id": "air-oasis-homepage",
       "emoji": "🚨",
       "title": "Air Oasis — Homepage Deadline PASSED",
-      "detail": "Font pairing mockup to Derek was due end of week (Fri 4/10) — 5 days overdue. No follow-up visible in email.",
+      "detail": "Font pairing mockup to Derek was due end of week (Fri 4/10) — 5 days overdue. No follow-up visible. Needs action today.",
       "severity": "blocked",
       "since": "2026-04-07"
     },
@@ -57,7 +57,7 @@
             "📝 Trademark ITU filings sent to Rameez for both product names",
             "📧 Rameez 'New Macra Stuff' thread active (64 messages)",
             "Initial ad spend $30K • App: brand color green→blue",
-            "📅 Tomorrow: Macra Social TB 1pm, Macra TB 3pm",
+            "📅 Tomorrow: Macra Social TB 1pm, Macra TB 3pm, Ecom Founders TB 2pm",
             "✅ verified.macra.com CNAME added via Namecheap API"
           ],
           "needsAttention": "BOTH PRODUCTS LAUNCH TOMORROW — Apr 16"
@@ -74,7 +74,7 @@
             "⏳ Weather-proof outdoor unit: 6-week lead time",
             "💰 Revenue split: 50/50 with venues",
             "✅ Brand book DONE — brand.zurp.com (password: zurp2026)",
-            "📅 Tomorrow: Zurp Check-In 2:30pm ET"
+            "📅 Tomorrow: Zurp Check-In 2:30pm ET, YoSharma Check-In 1:30pm"
           ],
           "needsAttention": null
         },
@@ -154,7 +154,7 @@
           "bullets": [
             "Last week: 'Affiliate marketing, done right' sent Apr 12",
             "This week's topic TBD — Andrew Youderian 300-store P&L study possible feature",
-            "📅 Paramount x Nik VE Prep Call Mon 4/20 3pm",
+            "📅 Paramount Dashboard review Wed 4/16 3:30pm",
             "Josiah 'Ecommerce Equation' VOTW draft for Apr 26 delivered, awaiting Nik review",
             "Publishes Sundays ~6-7 PM ET"
           ],
@@ -172,7 +172,7 @@
           "status": "attention",
           "lastUpdated": "2026-04-14",
           "bullets": [
-            "🚨 Air Oasis — Homepage deadline PASSED (was due Fri 4/10) — 4 days overdue",
+            "🚨 Air Oasis — Homepage deadline PASSED (was due Fri 4/10) — 5 days overdue",
             "WA Dept of Revenue: Action required for Sharma Brands Inc (605-181-506)",
             "GoDaddy: sharmabrands.com renewal order placed 4/14 ($49.17) — likely resolved",
             "TEXTNIK.CO auto-renews 5/10 ($51.99/yr)",
@@ -180,7 +180,7 @@
             "✅ GoDaddy: sharmabrands.com renewal order placed 4/14 ($49.17)",
             "Harper Wilde, Love Wellness, AquaTru, Beekeeper's Naturals active"
           ],
-          "needsAttention": "Air Oasis homepage 4 days overdue + WA DOR action required"
+          "needsAttention": "Air Oasis homepage 5 days overdue + WA DOR action required"
         },
         {
           "id": "ecom-founders",
