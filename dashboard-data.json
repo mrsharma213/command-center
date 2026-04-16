@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-16T13:00:00Z",
+  "lastRefreshed": "2026-04-16T16:00:00Z",
   "flagged": [
     {
       "id": "macra-launch",
@@ -219,6 +219,7 @@
           "status": "on-track",
           "lastUpdated": "2026-04-15",
           "bullets": [
+            "📅 Tomorrow: Rolling Ventures TB 1:30pm ET + Intro call w/ Ryan Tabb 2pm ET",
             "📧 BodySpec Series A SPV via PEF — health-tech, AI-powered clinical imaging (Andrew Tan)",
             "📧 Jake Valentine (Claymore Growth) inbound — asking if Masala Capital plans to raise in 2026",
             "Polar Verified inbound — Paul Haidu Gerea (Stanford), supplement verification rail",
@@ -255,10 +256,11 @@
           "lastUpdated": "2026-04-16",
           "bullets": [
             "📍 In San Francisco through Apr 17",
-            "🎧 Tomorrow Thu 4/17: YC launch party SF (private After Ours DJ set) + 'Rise & Shine' goes live",
+            "🎧 Tomorrow Thu 4/17: YC launch party SF 7:45pm (private After Ours DJ set) + 'Rise & Shine' goes live",
             "✈️ Sat 4/18: JetBlue flight back (JDVKKM)",
             "🎵 Sat 4/18 10PM: NYC show — Somewhere Nowhere (opening for Moojo)",
-            "📅 TODAY: Macra Social TB 1pm, YoSharma Check-In 1:30pm, Ecom Founders TB 2pm, Zurp Check-In 2:30pm, Macra TB 3pm, Paramount Dashboard 3:30pm, Massage 7pm"
+            "📅 TODAY: Macra Social TB 1pm, YoSharma Check-In 1:30pm, Ecom Founders TB 2pm, Zurp Check-In 2:30pm, Macra TB 3pm, Paramount Dashboard 3:30pm, Massage 7pm",
+            "📅 Tomorrow: Paul Kang birthday, Check on Meds 10:30am, RV TB 1:30pm, Ryan Tabb intro 2pm, YC party 7:45pm"
           ],
           "needsAttention": null
         }
