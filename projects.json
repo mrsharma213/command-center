@@ -4,32 +4,30 @@
     "emoji": "💊",
     "title": "Macra",
     "status": "attention",
-    "lastUpdated": "2026-04-16",
+    "lastUpdated": "2026-04-17",
     "bullets": [
-      "🚀 LAUNCH DAY — Apr 16: Mood Bloom™ + Carb Curb™ both LIVE today",
+      "💊 Day 2 post-launch — Mood Bloom™ + Carb Curb™ launched Apr 16",
       "📧 Rameez updating Light Labs COAs — product names to Carb Curb + Mood Bloom, email to hello@macra.com",
       "✅ ALL 3 TRADEMARKS FILED: CARB MUTE (99765362) + MOOD BLOOM (99765355) + CARB CURB (99765775)",
       "📝 GT attorney Matthew Goings: Use ™ symbol. 6-10 month USPTO examination.",
-      "Initial ad spend $30K • App: brand color green→blue",
-      "📅 TODAY: Macra Social TB 1pm, Ecom Founders TB 2pm, Macra TB 3pm",
+      "Initial ad spend $30K deploying • Monitor early performance data",
       "✅ verified.macra.com CNAME added via Namecheap API"
     ],
-    "needsAttention": "🚀 LAUNCH DAY — Carb Curb + Mood Bloom going live. Rameez updating COAs with Light Labs."
+    "needsAttention": "Day 2 post-launch — monitoring early sales + ad performance. Rameez updating COAs."
   },
   {
     "id": "zurp",
     "emoji": "📱",
     "title": "Zurp",
     "status": "on-track",
-    "lastUpdated": "2026-04-16",
+    "lastUpdated": "2026-04-17",
     "bullets": [
       "📧 Follow-up email sent to Remy at Refuge for charger placement",
       "🔋 Indoor unit (24 batteries) ready for this weekend's Victor Calderone residency",
       "✅ March legal invoice (Robert Freund Law) paid by Minul",
       "⏳ Weather-proof outdoor unit: 6-week lead time",
       "💰 Revenue split: 50/50 with venues",
-      "✅ Brand book DONE — brand.zurp.com (password: zurp2026)",
-      "📅 TODAY: Zurp Check-In 2:30pm ET"
+      "✅ Brand book DONE — brand.zurp.com (password: zurp2026)"
     ],
     "needsAttention": null
   },
@@ -55,9 +53,10 @@
     "emoji": "🐦",
     "title": "Pigeon House Records",
     "status": "on-track",
-    "lastUpdated": "2026-04-14",
+    "lastUpdated": "2026-04-17",
     "bullets": [
       "Label active with After Ours releases",
+      "🎵 'Rise & Shine' / 'Future Classic' going live TODAY",
       "Niles/Jerel 'Stop with the Talking' in pipeline",
       "Brandon Launerts handling social/content scheduling",
       "Rahul onboarding to IG strategy + content research"
@@ -69,24 +68,26 @@
     "emoji": "🎧",
     "title": "After Ours",
     "status": "attention",
-    "lastUpdated": "2026-04-16",
+    "lastUpdated": "2026-04-17",
     "bullets": [
-      "🎵 'Rise & Shine' goes live TOMORROW Thu Apr 17",
-      "🎧 TOMORROW: YC launch party SF — After Ours private DJ set",
+      "🎵 'Rise & Shine' / 'Future Classic' goes live TODAY Apr 17",
+      "🔊 SoundCloud new release alert received 9:15am — tracks going live",
+      "🎧 TONIGHT: YC launch party SF 7:45pm — After Ours private DJ set",
+      "🔄 Manus processing: Update Spotify Numbers + Rebuild Miami F1 EPK Site",
       "🔊 Sound pivot locked: keeping Future Classic, Flashback, No Control",
       "Content split: IG feed = credible only, TikTok = flood",
       "📝 Brand voice brief owed to Brandon — due this week",
-      "📅 Sat 4/18: Somewhere Nowhere NYC 10PM-12AM (opening for Moojo) — pro media needed",
-      "📍 Nik in SF through Apr 17"
+      "📅 TOMORROW Sat 4/18: Somewhere Nowhere NYC 10PM-12AM (opening for Moojo) — pro media needed",
+      "📍 Nik in SF today, flies back to NYC tomorrow"
     ],
-    "needsAttention": "Brand voice brief due this week. Tomorrow: Rise & Shine + YC party SF. Sat: NYC show needs pro media."
+    "needsAttention": "Rise & Shine LIVE today (SoundCloud alert received) + YC party tonight. EPK site updating via Manus. Tomorrow: NYC show needs pro media. Brand voice brief still due."
   },
   {
     "id": "limited-supply",
     "emoji": "🎙️",
     "title": "Limited Supply Podcast",
     "status": "on-track",
-    "lastUpdated": "2026-04-14",
+    "lastUpdated": "2026-04-17",
     "bullets": [
       "Vinay Sridhar (Reddit) podcast episode — scheduling for 4/21 or 4/22",
       "Topic: catalog ads + Reddit targeting evolution for DTC brands",
@@ -100,14 +101,13 @@
     "emoji": "📰",
     "title": "Newsletter / Workweek",
     "status": "on-track",
-    "lastUpdated": "2026-04-16",
+    "lastUpdated": "2026-04-17",
     "bullets": [
       "Last week: 'Affiliate marketing, done right' sent Apr 12",
       "This week's topic TBD — Andrew Youderian 300-store P&L study possible feature",
       "📧 Josh Payne (Onward) inbound — wants newsletter sponsorship, asking for deck/pricing",
-      "📅 TODAY: Paramount Dashboard review 3:30pm",
       "Josiah 'Ecommerce Equation' VOTW draft for Apr 26 delivered, awaiting Nik review",
-      "Publishes Sundays ~6-7 PM ET"
+      "Publishes Sundays ~6-7 PM ET — 2 days out"
     ],
     "needsAttention": null
   },
@@ -116,29 +116,29 @@
     "emoji": "💼",
     "title": "Brand Consulting",
     "status": "attention",
-    "lastUpdated": "2026-04-16",
+    "lastUpdated": "2026-04-17",
     "bullets": [
-      "🚨 Air Oasis — Homepage deadline PASSED (was due Fri 4/10) — 6 days overdue",
+      "🚨 Air Oasis — Homepage deadline PASSED (was due Fri 4/10) — 7 days overdue",
       "WA Dept of Revenue: Action required for Sharma Brands Inc (605-181-506)",
       "GoDaddy: sharmabrands.com renewal placed 4/14 ($49.17)",
       "TEXTNIK.CO auto-renews 5/10 ($51.99/yr)",
       "Namecheap API connected — macra.com + niksharma.io managed",
-      "Harper Wilde, Love Wellness, AquaTru, Beekeeper's Naturals active"
+      "Harper Wilde, Love Wellness, AquaTru, Beekeeper's Naturals active",
+      "📧 Guidepoint consultation request re: SMS Marketing & Sales Platforms"
     ],
-    "needsAttention": "Air Oasis homepage 6 days overdue + WA DOR action required"
+    "needsAttention": "Air Oasis homepage 7 days overdue + WA DOR action required"
   },
   {
     "id": "ecom-founders",
     "emoji": "🏗️",
     "title": "Ecom Founders",
     "status": "on-track",
-    "lastUpdated": "2026-04-16",
+    "lastUpdated": "2026-04-17",
     "bullets": [
       "📧 Rameez told Triple Whale (Daniela): AI Summit going live with full announcements next week",
       "ecomfounders.com/pages/ai-summit live with updated info, partner logos coming soon",
       "📧 Redo AI Summit 2026: $25K silver sponsorship + speaking slot (Brandon Thurgood)",
       "Insense sponsorship: Jade sent billing info + logo — Rameez sending contract + invoice",
-      "📅 TODAY: Ecom Founders TB 2pm ET",
       "Website being built by Riaz"
     ],
     "needsAttention": null
@@ -148,14 +148,14 @@
     "emoji": "🎯",
     "title": "Rolling Ventures Fund",
     "status": "on-track",
-    "lastUpdated": "2026-04-15",
+    "lastUpdated": "2026-04-17",
     "bullets": [
-      "📅 Tomorrow: Rolling Ventures TB 1:30pm ET + Intro call w/ Ryan Tabb 2pm ET",
+      "📅 TODAY: Rolling Ventures TB 1:30pm ET (starting now) + Intro call w/ Ryan Tabb 2pm ET",
+      "📧 NEW PEF deal flow: Sworn (AI legaltech, $950K left, closing 5/4), Kara AI ($300K ARR, 114% NRR), NoBiggie (kids F&B, $130B market), CEE Tech Founders",
+      "📅 Apr 29: PEF QSBS Roundtable Lunch with Rockefeller Global Family Office",
       "📧 BodySpec Series A SPV via PEF — health-tech, AI-powered clinical imaging (Andrew Tan)",
       "📧 Jake Valentine (Claymore Growth) inbound — asking if Masala Capital plans to raise in 2026",
       "Polar Verified inbound — Paul Haidu Gerea (Stanford), supplement verification rail",
-      "Snif launched Milk + Cereal collection nationwide at Ulta",
-      "Nova Sky Stories (Kimbal Musk) — LAST CALL via PariPassu",
       "✅ PEF Group Onboarding completed (4/9)",
       "⚠️ unspun Inc Pay-to-Play Series B-3 — signature still required ASAP"
     ],
@@ -169,6 +169,7 @@
     "lastUpdated": "2026-04-14",
     "bullets": [
       "unspun Inc — Pay-to-Play Series B-3 (signature still required ASAP)",
+      "📈 Robinhood order executed (4/17 9:54am)",
       "POPWTR — Lemon Perfect founder, $175M+ sales track, Seed Round",
       "Tracked separately from Rolling Ventures fund"
     ],
@@ -179,14 +180,14 @@
     "emoji": "✈️",
     "title": "Travel",
     "status": "on-track",
-    "lastUpdated": "2026-04-16",
+    "lastUpdated": "2026-04-17",
     "bullets": [
-      "📍 In San Francisco through Apr 17",
-      "🎧 Tomorrow Thu 4/17: YC launch party SF 7:45pm (private After Ours DJ set) + 'Rise & Shine' goes live",
-      "✈️ Sat 4/18: JetBlue flight back (JDVKKM)",
-      "🎵 Sat 4/18 10PM: NYC show — Somewhere Nowhere (opening for Moojo)",
-      "📅 TODAY: Macra Social TB 1pm, YoSharma Check-In 1:30pm, Ecom Founders TB 2pm, Zurp Check-In 2:30pm, Macra TB 3pm, Paramount Dashboard 3:30pm, Massage 7pm",
-      "📅 Tomorrow: Paul Kang birthday, Check on Meds 10:30am, RV TB 1:30pm, Ryan Tabb intro 2pm, YC party 7:45pm"
+      "📍 In San Francisco — last day (through Apr 17)",
+      "🎧 TODAY: 'Future Classic' goes live + YC launch party SF 7:45pm (After Ours DJ set)",
+      "🎂 TODAY: Paul Kang's birthday",
+      "📅 TODAY: Check on Meds from Paulvin 10:30am, RV TB 1:30pm, Ryan Tabb intro 2pm",
+      "✈️ TOMORROW Sat 4/18: Flight to NYC",
+      "🎵 TOMORROW Sat 4/18 10PM: NYC show — Somewhere Nowhere (opening for Moojo)"
     ],
     "needsAttention": null
   },
