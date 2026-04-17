@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-17T20:00:00Z",
+  "lastRefreshed": "2026-04-17T21:00:00Z",
   "flagged": [
     {
       "id": "macra-launch",
@@ -29,7 +29,7 @@
       "id": "ao-shows-today",
       "emoji": "🎧",
       "title": "After Ours — 'Future Classic' LIVE + YC Party TONIGHT",
-      "detail": "'Future Classic' LIVE on SoundCloud. YC launch party SF TONIGHT 7:45pm (private DJ set) — ~3.5 hours away. Tomorrow Sat 4/18: Somewhere Nowhere NYC 10PM (opening for Moojo) — pro media needed. Brand voice brief still owed to Brandon.",
+      "detail": "'Future Classic' LIVE on SoundCloud. YC launch party SF TONIGHT 7:45pm (private DJ set) — ~2.75 hours away. Tomorrow Sat 4/18: Somewhere Nowhere NYC 10PM (opening for Moojo) — pro media needed. Brand voice brief still owed to Brandon.",
       "severity": "attention",
       "since": "2026-04-14"
     },
@@ -133,7 +133,7 @@
           "bullets": [
             "🎵 'Rise & Shine' / 'Future Classic' LIVE today ✅ — tracks confirmed on SoundCloud",
             "🔊 SoundCloud new release alert received 9:15am — tracks going live",
-            "🎧 TONIGHT: YC launch party SF 7:45pm — After Ours private DJ set (~3.5hrs away)",
+            "🎧 TONIGHT: YC launch party SF 7:45pm — After Ours private DJ set (~2.75hrs away)",
             "🔄 Manus processing: Update Spotify Numbers + Rebuild Miami F1 EPK Site",
             "🔊 Sound pivot locked: keeping Future Classic, Flashback, No Control",
             "Content split: IG feed = credible only, TikTok = flood",
@@ -141,7 +141,7 @@
             "📅 TOMORROW Sat 4/18: Somewhere Nowhere NYC 10PM-12AM (opening for Moojo) — pro media needed",
             "📍 Nik in SF today, flies back to NYC tomorrow"
           ],
-          "needsAttention": "Rise & Shine LIVE on SoundCloud + YC party tonight ~3.5hrs. EPK site updating via Manus. Tomorrow: NYC show needs pro media. Brand voice brief still due."
+          "needsAttention": "Rise & Shine LIVE on SoundCloud + YC party tonight ~2.75hrs. EPK site updating via Manus. Tomorrow: NYC show needs pro media. Brand voice brief still due."
         },
         {
           "id": "limited-supply",
@@ -273,7 +273,7 @@
             "📍 In San Francisco — last day (through Apr 17)",
             "🎧 TODAY: 'Future Classic' LIVE + YC launch party SF 7:45pm (After Ours DJ set)",
             "🎂 TODAY: Paul Kang's birthday",
-            "📅 TODAY: RV TB 1:30pm ✅, Ryan Tabb intro 2pm ✅, YC party 7:45pm",
+            "📅 TODAY: RV TB 1:30pm ✅, Ryan Tabb intro 2pm ✅, YC party 7:45pm (~2.75hrs)",
             "✈️ TOMORROW Sat 4/18: Flight to NYC",
             "🎵 TOMORROW Sat 4/18 10PM: NYC show — Somewhere Nowhere (opening for Moojo)"
           ],
