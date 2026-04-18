@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-17T22:01:00Z",
+  "lastRefreshed": "2026-04-18T12:00:00Z",
   "flagged": [
     {
       "id": "macra-launch",
@@ -26,12 +26,12 @@
       "since": "2026-04-07"
     },
     {
-      "id": "ao-shows-today",
+      "id": "ao-nyc-show-tonight",
       "emoji": "🎧",
-      "title": "After Ours — 'Future Classic' LIVE + YC Party TONIGHT",
-      "detail": "'Future Classic' LIVE on SoundCloud. YC launch party SF TONIGHT 7:45pm (private DJ set) — ~1.75 hours away. Tomorrow Sat 4/18: Somewhere Nowhere NYC 10PM (opening for Moojo) — pro media needed. Brand voice brief still owed to Brandon.",
+      "title": "After Ours — Somewhere Nowhere NYC TONIGHT 10PM (opening Moojo)",
+      "detail": "Tonight Sat 4/18 10PM–2AM: Somewhere Nowhere NYC opening for Moojo — pro media needed. YC party SF ✅ played last night. Nik currently airborne (JetBlue B6 816 SFO→JFK, lands ~3:30pm ET). Beatport track pack purchased 1:53am (DJ prep). Brand voice brief still owed to Brandon.",
       "severity": "attention",
-      "since": "2026-04-14"
+      "since": "2026-04-18"
     },
     {
       "id": "wa-dor-action",
@@ -46,7 +46,7 @@
     "status": "not-started",
     "sendDay": "Sunday",
     "topic": "TBD — Andrew Youderian 300-store P&L study possible feature",
-    "note": "Last week: 'Affiliate marketing, done right' sent Apr 12. This week's topic TBD. 2 days until Sunday publish.",
+    "note": "Last week: 'Affiliate marketing, done right' sent Apr 12. This week's topic still TBD. Publishes tomorrow (Sun 4/19) ~6-7 PM ET — ~1 day out.",
     "topicIdeas": [
       "Andrew Youderian 300-store P&L deep dive w/ Nik commentary"
     ]
@@ -129,19 +129,19 @@
           "emoji": "🎧",
           "title": "After Ours",
           "status": "attention",
-          "lastUpdated": "2026-04-17",
+          "lastUpdated": "2026-04-18",
           "bullets": [
-            "🎵 'Rise & Shine' / 'Future Classic' LIVE today ✅ — tracks confirmed on SoundCloud",
-            "🔊 SoundCloud new release alert received 9:15am — tracks going live",
-            "🎧 TONIGHT: YC launch party SF 7:45pm — After Ours private DJ set (~1.75hrs away)",
+            "🎧 TONIGHT Sat 4/18 10PM–2AM: Somewhere Nowhere NYC — opening for Moojo — pro media needed",
+            "✈️ Nik airborne SFO→JFK (JetBlue B6 816, lands ~3:30pm ET) — back in NYC for show",
+            "💿 Beatport track pack bought 1:53am (Vinter, Vintage Culture/Ali Love, GeeCee) — DJ prep",
+            "✅ YC launch party SF played last night (private DJ set)",
+            "🎵 'Rise & Shine' / 'Future Classic' LIVE on SoundCloud",
             "🔄 Manus processing: Update Spotify Numbers + Rebuild Miami F1 EPK Site",
             "🔊 Sound pivot locked: keeping Future Classic, Flashback, No Control",
             "Content split: IG feed = credible only, TikTok = flood",
-            "📝 Brand voice brief owed to Brandon — due this week",
-            "📅 TOMORROW Sat 4/18: Somewhere Nowhere NYC 10PM-12AM (opening for Moojo) — pro media needed",
-            "📍 Nik in SF today, flies back to NYC tomorrow"
+            "📝 Brand voice brief owed to Brandon — due this week"
           ],
-          "needsAttention": "Rise & Shine LIVE on SoundCloud + YC party tonight ~1.75hrs. EPK site updating via Manus. Tomorrow: NYC show needs pro media. Brand voice brief still due."
+          "needsAttention": "NYC show TONIGHT 10PM Somewhere Nowhere (opening Moojo) — pro media needed. Brand voice brief still owed to Brandon."
         },
         {
           "id": "limited-supply",
@@ -168,7 +168,7 @@
             "This week's topic TBD — Andrew Youderian 300-store P&L study possible feature",
             "📧 Josh Payne (Onward) inbound — wants newsletter sponsorship, asking for deck/pricing",
             "Josiah 'Ecommerce Equation' VOTW draft for Apr 26 delivered, awaiting Nik review",
-            "Publishes Sundays ~6-7 PM ET — 2 days out"
+            "Publishes TOMORROW Sun 4/19 ~6-7 PM ET — topic still TBD, ~1 day out"
           ],
           "needsAttention": null
         }
@@ -198,6 +198,7 @@
             "📧 Guidepoint consultation request re: SMS Marketing & Sales Platforms",
             "📧 George Mendes: $3.8M chef-led hospitality brand pitch (Boston) — inbound",
             "📧 Parachute Home: Earth Week in-store offer active (4/17)",
+            "📧 NEW: Jim Jannuzzio (Tondo Group) intro'd Cordell to Nik+Troy — seed-stage app, wants FlatIron meet or video call (4/17 8pm)",
             "📧 NEW: Cypress RFP inbound pitch from Jasper Rowan (Sharma Brands x Cypress) — follow-up received 4/17 2:59pm",
             "📧 NEW: Rameez reviving 'James Bennet x Nik Sharma' thread (10 msgs)",
             "📊 Ahrefs: 8 orphan pages flagged on nik.co (no internal links)"
@@ -229,10 +230,11 @@
           "emoji": "🎯",
           "title": "Rolling Ventures Fund",
           "status": "on-track",
-          "lastUpdated": "2026-04-17",
+          "lastUpdated": "2026-04-18",
           "bullets": [
-            "📅 TODAY: Rolling Ventures TB 1:30pm ✅ + Ryan Tabb intro 2pm ET ✅",
-            "📧 NEW: Jaime Egan (Instant) booked meeting w/ Nik — Wed Apr 22 4:30-5pm ET",
+            "📧 NEW (4/18 1:53pm): Caraway Q1 2026 Investor Update from Jordan Nathan — portfolio review",
+            "📅 Fri 4/17: Rolling Ventures TB 1:30pm ✅ + Ryan Tabb intro 2pm ET ✅",
+            "📧 Jaime Egan (Instant) booked meeting w/ Nik — Wed Apr 22 4:30-5pm ET",
             "📧 NEW PEF deal flow: Sworn (AI legaltech, $950K left, closing 5/4), Kara AI ($300K ARR, 114% NRR), NoBiggie (kids F&B, $130B market), CEE Tech Founders, Kalshi (prediction market leader, direct cap-table)",
             "📅 Apr 29: PEF QSBS Roundtable Lunch with Rockefeller Global Family Office",
             "📧 BodySpec Series A SPV via PEF — health-tech, AI-powered clinical imaging (Andrew Tan)",
@@ -267,17 +269,17 @@
           "id": "travel",
           "emoji": "✈️",
           "title": "Travel",
-          "status": "on-track",
-          "lastUpdated": "2026-04-17",
+          "status": "attention",
+          "lastUpdated": "2026-04-18",
           "bullets": [
-            "📍 In San Francisco — last day (through Apr 17)",
-            "🎧 TODAY: 'Future Classic' LIVE + YC launch party SF 7:45pm (After Ours DJ set)",
-            "🎂 TODAY: Paul Kang's birthday",
-            "📅 TODAY: RV TB 1:30pm ✅, Ryan Tabb intro 2pm ✅, YC party 7:45pm (~1.75hrs)",
-            "✈️ TOMORROW Sat 4/18: Flight to NYC",
-            "🎵 TOMORROW Sat 4/18 10PM: NYC show — Somewhere Nowhere (opening for Moojo)"
+            "✈️ TODAY: JetBlue B6 816 SFO→JFK (10:00am–3:30pm ET) — airborne",
+            "🎂 TODAY: Camille Santana Considine's birthday",
+            "💈 TODAY 5:00pm ET: Beard Trim (post-landing)",
+            "🎧 TONIGHT 10PM: NYC — Somewhere Nowhere (opening for Moojo)",
+            "✅ YC launch party SF 7:45pm — completed last night",
+            "📅 TOMORROW Sun 4/19: Nik x Joe 12pm, Record Workweek 1pm"
           ],
-          "needsAttention": null
+          "needsAttention": "In transit SFO→JFK. Tight turnaround: land 3:30pm → beard 5pm → Somewhere Nowhere 10PM."
         }
       ]
     },
