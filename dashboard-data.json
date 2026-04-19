@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-19T12:00:00Z",
+  "lastRefreshed": "2026-04-19T18:00:00Z",
   "flagged": [
     {
       "id": "macra-launch",
@@ -28,8 +28,8 @@
     {
       "id": "newsletter-today",
       "emoji": "📰",
-      "title": "Newsletter — Publishes TODAY ~6-7PM ET, topic still TBD",
-      "detail": "Record Workweek 1pm ET today. Nik x Joe 12pm prior. Last week: 'Affiliate marketing, done right'. This week's topic still TBD — Andrew Youderian 300-store P&L study leading candidate. ~10-11h until send.",
+      "title": "Newsletter — Publishes TODAY ~6-7PM ET (~4-5h out)",
+      "detail": "Record Workweek wrapped at 2pm. Nik x Joe done (12pm). Last week: 'Affiliate marketing, done right'. Topic: Andrew Youderian 300-store P&L study leading candidate. Final edit + send window ~4-5h out.",
       "severity": "attention",
       "since": "2026-04-19"
     },
@@ -51,10 +51,10 @@
     }
   ],
   "newsletter": {
-    "status": "recording-today",
+    "status": "post-record",
     "sendDay": "Sunday",
     "topic": "TBD — Andrew Youderian 300-store P&L study possible feature",
-    "note": "Last week: 'Affiliate marketing, done right' sent Apr 12. Topic still TBD as of 8am Sun. Publishes TODAY ~6-7 PM ET — ~10-11h out. Record Workweek 1pm ET today, Nik x Joe 12pm prior.",
+    "note": "Last week: 'Affiliate marketing, done right' sent Apr 12. Record Workweek wrapped ~2pm ET. Publishes TODAY ~6-7 PM ET — ~4-5h out. Final edit + send window active.",
     "topicIdeas": [
       "Andrew Youderian 300-store P&L deep dive w/ Nik commentary"
     ]
@@ -171,14 +171,14 @@
           "status": "attention",
           "lastUpdated": "2026-04-19",
           "bullets": [
-            "📅 TODAY — Publishes ~6-7 PM ET (~10-11h out)",
-            "📅 TODAY 12pm — Nik x Joe prep; 1pm — Record Workweek",
+            "📅 TODAY — Publishes ~6-7 PM ET (~4-5h out)",
+            "✅ Nik x Joe 12pm DONE • Record Workweek 1pm DONE",
             "Last week: 'Affiliate marketing, done right' sent Apr 12",
             "Topic still TBD — Andrew Youderian 300-store P&L study leading candidate",
             "📧 Josh Payne (Onward) inbound — wants newsletter sponsorship, asking for deck/pricing",
             "Josiah 'Ecommerce Equation' VOTW draft for Apr 26 delivered, awaiting Nik review"
           ],
-          "needsAttention": "Publishes today 6-7pm. Topic still TBD. Record 1pm ET."
+          "needsAttention": "Publishes today 6-7pm (~4-5h out). Final edit window."
         }
       ]
     },
@@ -282,9 +282,9 @@
           "bullets": [
             "✅ Back in NYC (B6 816 SFO→JFK landed 4/18)",
             "✅ Somewhere Nowhere NYC show completed (opened Moojo)",
-            "📅 TODAY: Nik x Joe 12pm, Record Workweek 1pm",
+            "✅ Nik x Joe 12pm • Record Workweek 1pm DONE",
             "🎂 Jon Strauss's birthday today (4/19)",
-            "📅 Mon 4/20: Fort 10am (first gym back), Check-In 11:30am, Zagged All Hands 2pm"
+            "📅 Mon 4/20: Fort 10am (first gym back), Check-In 11:30am, Nik x Joe 12pm, Zagged All Hands 2pm"
           ],
           "needsAttention": null
         }
