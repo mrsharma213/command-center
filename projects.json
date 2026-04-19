@@ -432,11 +432,15 @@
   {
     "name": "After Ours / Pigeon House Records",
     "desc": "Tech house/dark house with Minul. Label: Pigeon House Records.",
-    "currentStatus": "🎧 TONIGHT Sat 4/18 10PM–2AM: Somewhere Nowhere NYC opening for Moojo — pro media needed. Nik landing JFK ~3:30pm (B6 816). Beard 5pm, show 10pm. YC SF party ✅ played last night. Beatport track pack bought 1:53am (DJ prep). Brand voice brief still owed to Brandon.",
+    "currentStatus": "🔴 LIVE NOW Sat 4/18 10PM–2AM: Somewhere Nowhere NYC opening for Moojo. Nik landed JFK ✅. Beard ✅. YC SF party ✅ played Fri. Pro media should be rolling. Brand voice brief still owed to Brandon.",
     "recentActivity": [
       {
         "date": "4/18",
-        "text": "✈️ Nik landing JFK ~3:30pm (B6 816 SFO→JFK) — back in NYC for show"
+        "text": "🔴 LIVE NOW — Somewhere Nowhere NYC in progress (10PM–2AM opening Moojo)"
+      },
+      {
+        "date": "4/18",
+        "text": "✅ Nik landed JFK (B6 816 SFO→JFK) — back in NYC"
       },
       {
         "date": "4/18",
@@ -479,8 +483,8 @@
     ],
     "upcomingEvents": [
       {
-        "date": "TONIGHT Sat 4/18 10PM",
-        "event": "🎧 NYC show — Somewhere Nowhere (opening for Moojo) — pro media needed"
+        "date": "🔴 LIVE NOW",
+        "event": "Somewhere Nowhere NYC — opening for Moojo (10PM–2AM)"
       },
       {
         "date": "Next week",
@@ -512,7 +516,7 @@
     ],
     "status": "active",
     "updated": "2026-04-18",
-    "alert": "TONIGHT 10PM Somewhere Nowhere NYC (opening Moojo) — pro media needed. Brand voice brief still owed to Brandon."
+    "alert": "🔴 LIVE NOW — Somewhere Nowhere NYC opening Moojo. Brand voice brief still owed to Brandon."
   },
   {
     "name": "Lunar Solar Group (CGO)",

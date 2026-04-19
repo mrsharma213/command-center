@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-18T12:00:00Z",
+  "lastRefreshed": "2026-04-19T02:00:00Z",
   "flagged": [
     {
       "id": "macra-launch",
@@ -13,7 +13,7 @@
       "id": "yosharma-invoice",
       "emoji": "💰",
       "title": "YoSharma LLC Invoice INV-5 OVERDUE — YC Management",
-      "detail": "Mercury invoice INV-5 from YoSharma LLC to Y Combinator Management LLC was due Apr 15 and remains unpaid (2 days overdue). Pay link: app.mercury.com/pay/fgmhz6gnwmlf5hqd",
+      "detail": "Mercury invoice INV-5 from YoSharma LLC to Y Combinator Management LLC was due Apr 15 and remains unpaid (3 days overdue). Pay link: app.mercury.com/pay/fgmhz6gnwmlf5hqd",
       "severity": "blocked",
       "since": "2026-04-16"
     },
@@ -21,15 +21,15 @@
       "id": "air-oasis-homepage",
       "emoji": "🚨",
       "title": "Air Oasis — Homepage Deadline PASSED",
-      "detail": "Font pairing mockup to Derek was due end of week (Fri 4/10) — 7 days overdue. Air Oasis marketing email still active (oak season campaign 4/17). No homepage follow-up visible. Needs action.",
+      "detail": "Font pairing mockup to Derek was due end of week (Fri 4/10) — 8 days overdue. Air Oasis marketing email still active (oak season campaign 4/17). No homepage follow-up visible. Needs action.",
       "severity": "blocked",
       "since": "2026-04-07"
     },
     {
-      "id": "ao-nyc-show-tonight",
+      "id": "ao-nyc-show-live",
       "emoji": "🎧",
-      "title": "After Ours — Somewhere Nowhere NYC TONIGHT 10PM (opening Moojo)",
-      "detail": "Tonight Sat 4/18 10PM–2AM: Somewhere Nowhere NYC opening for Moojo — pro media needed. YC party SF ✅ played last night. Nik currently airborne (JetBlue B6 816 SFO→JFK, lands ~3:30pm ET). Beatport track pack purchased 1:53am (DJ prep). Brand voice brief still owed to Brandon.",
+      "title": "After Ours — Somewhere Nowhere NYC 🔴 LIVE NOW (opening Moojo)",
+      "detail": "Show is LIVE — Somewhere Nowhere NYC, opening for Moojo, 10PM–2AM. Nik landed JFK ✅ earlier today. Pro media coverage should be rolling. YC party SF ✅ Fri night. Brand voice brief still owed to Brandon.",
       "severity": "attention",
       "since": "2026-04-18"
     },
@@ -46,7 +46,7 @@
     "status": "not-started",
     "sendDay": "Sunday",
     "topic": "TBD — Andrew Youderian 300-store P&L study possible feature",
-    "note": "Last week: 'Affiliate marketing, done right' sent Apr 12. This week's topic still TBD. Publishes tomorrow (Sun 4/19) ~6-7 PM ET — ~1 day out.",
+    "note": "Last week: 'Affiliate marketing, done right' sent Apr 12. This week's topic still TBD. Publishes TOMORROW Sun 4/19 ~6-7 PM ET — ~18-20h out. Record Workweek 1pm tomorrow.",
     "topicIdeas": [
       "Andrew Youderian 300-store P&L deep dive w/ Nik commentary"
     ]
@@ -131,17 +131,17 @@
           "status": "attention",
           "lastUpdated": "2026-04-18",
           "bullets": [
-            "🎧 TONIGHT Sat 4/18 10PM–2AM: Somewhere Nowhere NYC — opening for Moojo — pro media needed",
-            "✈️ Nik airborne SFO→JFK (JetBlue B6 816, lands ~3:30pm ET) — back in NYC for show",
+            "🔴 LIVE NOW Sat 4/18 10PM–2AM: Somewhere Nowhere NYC — opening for Moojo",
+            "✅ Nik landed JFK earlier today (JetBlue B6 816 SFO→JFK)",
             "💿 Beatport track pack bought 1:53am (Vinter, Vintage Culture/Ali Love, GeeCee) — DJ prep",
-            "✅ YC launch party SF played last night (private DJ set)",
+            "✅ YC launch party SF played Fri night (private DJ set)",
             "🎵 'Rise & Shine' / 'Future Classic' LIVE on SoundCloud",
             "🔄 Manus processing: Update Spotify Numbers + Rebuild Miami F1 EPK Site",
             "🔊 Sound pivot locked: keeping Future Classic, Flashback, No Control",
             "Content split: IG feed = credible only, TikTok = flood",
             "📝 Brand voice brief owed to Brandon — due this week"
           ],
-          "needsAttention": "NYC show TONIGHT 10PM Somewhere Nowhere (opening Moojo) — pro media needed. Brand voice brief still owed to Brandon."
+          "needsAttention": "Show LIVE NOW — Somewhere Nowhere NYC (opening Moojo). Brand voice brief still owed to Brandon."
         },
         {
           "id": "limited-supply",
@@ -162,13 +162,14 @@
           "emoji": "📰",
           "title": "Newsletter / Workweek",
           "status": "on-track",
-          "lastUpdated": "2026-04-17",
+          "lastUpdated": "2026-04-18",
           "bullets": [
             "Last week: 'Affiliate marketing, done right' sent Apr 12",
             "This week's topic TBD — Andrew Youderian 300-store P&L study possible feature",
             "📧 Josh Payne (Onward) inbound — wants newsletter sponsorship, asking for deck/pricing",
             "Josiah 'Ecommerce Equation' VOTW draft for Apr 26 delivered, awaiting Nik review",
-            "Publishes TOMORROW Sun 4/19 ~6-7 PM ET — topic still TBD, ~1 day out"
+            "📅 Record Workweek TOMORROW Sun 4/19 1pm ET (Nik x Joe 12pm prior)",
+            "Publishes TOMORROW Sun 4/19 ~6-7 PM ET — topic still TBD, ~18-20h out"
           ],
           "needsAttention": null
         }
@@ -272,14 +273,14 @@
           "status": "attention",
           "lastUpdated": "2026-04-18",
           "bullets": [
-            "✈️ TODAY: JetBlue B6 816 SFO→JFK (10:00am–3:30pm ET) — airborne",
-            "🎂 TODAY: Camille Santana Considine's birthday",
-            "💈 TODAY 5:00pm ET: Beard Trim (post-landing)",
-            "🎧 TONIGHT 10PM: NYC — Somewhere Nowhere (opening for Moojo)",
-            "✅ YC launch party SF 7:45pm — completed last night",
-            "📅 TOMORROW Sun 4/19: Nik x Joe 12pm, Record Workweek 1pm"
+            "✅ JetBlue B6 816 SFO→JFK landed — Nik back in NYC",
+            "✅ Beard Trim 5pm completed",
+            "🔴 LIVE NOW 10PM–2AM: Somewhere Nowhere NYC (opening Moojo)",
+            "✅ YC launch party SF 7:45pm Fri — completed",
+            "📅 TOMORROW Sun 4/19: Nik x Joe 12pm, Record Workweek 1pm",
+            "🎂 Jon Strauss's birthday tomorrow (4/19)"
           ],
-          "needsAttention": "In transit SFO→JFK. Tight turnaround: land 3:30pm → beard 5pm → Somewhere Nowhere 10PM."
+          "needsAttention": "Show live through 2am. Early start tomorrow: Nik x Joe 12pm, Record Workweek 1pm."
         }
       ]
     },
