@@ -33,7 +33,7 @@
     "upcomingEvents": [],
     "links": [],
     "decisions": [],
-    "status": "active",
+    "status": "attention",
     "updated": "2026-04-20",
     "alert": "Day 4 post-launch — monitoring early sales + ad performance. Rameez testing thread active (43 msgs)."
   },
@@ -59,7 +59,7 @@
     "upcomingEvents": [],
     "links": [],
     "decisions": [],
-    "status": "active",
+    "status": "attention",
     "updated": "2026-04-20",
     "alert": "New client engagement — confirm scope with Minul"
   },
@@ -85,14 +85,14 @@
     "upcomingEvents": [],
     "links": [],
     "decisions": [],
-    "status": "active",
+    "status": "attention",
     "updated": "2026-04-20",
     "alert": "Thread 15 msgs deep (updated 1:53pm 4/20) — review and respond"
   },
   {
     "name": "Zurp",
     "desc": "Companies",
-    "currentStatus": "On track",
+    "currentStatus": "🎉 Victor Calderone residency weekend wrapped — pull results at Zurp Check-In Tue 4/21 11:30am",
     "recentActivity": [
       {
         "date": "2026-04-20",
@@ -124,8 +124,7 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-20",
-    "alert": null
+    "updated": "2026-04-20"
   },
   {
     "name": "Authentiq",
@@ -165,14 +164,14 @@
     "upcomingEvents": [],
     "links": [],
     "decisions": [],
-    "status": "active",
+    "status": "attention",
     "updated": "2026-04-15",
     "alert": "New project — awaiting Troy review of features doc"
   },
   {
     "name": "Pigeon House Records",
     "desc": "Companies",
-    "currentStatus": "On track",
+    "currentStatus": "Label active with After Ours releases",
     "recentActivity": [
       {
         "date": "2026-04-17",
@@ -200,8 +199,7 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-17",
-    "alert": null
+    "updated": "2026-04-17"
   },
   {
     "name": "After Ours",
@@ -241,14 +239,14 @@
     "upcomingEvents": [],
     "links": [],
     "decisions": [],
-    "status": "active",
+    "status": "attention",
     "updated": "2026-04-20",
     "alert": "Post-show Day 2 — pull videographer assets + brand voice brief still owed to Brandon."
   },
   {
     "name": "Limited Supply Podcast",
     "desc": "Media & Content",
-    "currentStatus": "On track",
+    "currentStatus": "Vinay Sridhar (Reddit) podcast episode — scheduling for 4/21 or 4/22",
     "recentActivity": [
       {
         "date": "2026-04-17",
@@ -272,13 +270,12 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-17",
-    "alert": null
+    "updated": "2026-04-17"
   },
   {
     "name": "Newsletter / Workweek",
     "desc": "Media & Content",
-    "currentStatus": "On track",
+    "currentStatus": "✅ Apr 19 SHIPPED — 'The product is fine. The education is broken.'",
     "recentActivity": [
       {
         "date": "2026-04-20",
@@ -310,8 +307,7 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-20",
-    "alert": null
+    "updated": "2026-04-20"
   },
   {
     "name": "Brand Consulting",
@@ -424,7 +420,15 @@
       },
       {
         "date": "2026-04-17",
-        "text": "🚨 Paramount x Nik — 4/29 VE Prep Call IN PROGRESS (3:00pm ET, happening now)"
+        "text": "📧 NEW (4/20 3:52pm): Jack Bandera (StackAdapt) ‘Partner Evaluation for Q2 & Beyond’ — pitch/respond"
+      },
+      {
+        "date": "2026-04-17",
+        "text": "📧 NEW (4/20 3:56pm): Fernando Garza (ClientLoop) ‘bold design Nik’ — pitch"
+      },
+      {
+        "date": "2026-04-17",
+        "text": "✅ Paramount x Nik — 4/29 VE Prep Call WRAPPED (3:00-3:30pm ET). Doc comment 3:06pm: ‘not accurate - requires 10k budget for...’ — review + revise"
       },
       {
         "date": "2026-04-17",
@@ -443,14 +447,14 @@
     "upcomingEvents": [],
     "links": [],
     "decisions": [],
-    "status": "active",
+    "status": "attention",
     "updated": "2026-04-17",
     "alert": "Air Oasis homepage 9 days overdue + WA DOR action required"
   },
   {
     "name": "Ecom Founders",
     "desc": "Brand Consulting",
-    "currentStatus": "On track",
+    "currentStatus": "📧 Rameez told Triple Whale (Daniela): AI Summit going live with full announcements next week",
     "recentActivity": [
       {
         "date": "2026-04-17",
@@ -478,8 +482,7 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-17",
-    "alert": null
+    "updated": "2026-04-17"
   },
   {
     "name": "Rolling Ventures Fund",
@@ -542,7 +545,7 @@
   {
     "name": "Personal Investments",
     "desc": "Rolling Ventures",
-    "currentStatus": "On track",
+    "currentStatus": "unspun Inc — Pay-to-Play Series B-3 (signature still required ASAP)",
     "recentActivity": [
       {
         "date": "2026-04-14",
@@ -566,25 +569,28 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-14",
-    "alert": null
+    "updated": "2026-04-14"
   },
   {
     "name": "Today & This Week",
     "desc": "Nik Sharma — Personal",
-    "currentStatus": "On track",
+    "currentStatus": "📅 Mon 4/20 TODAY (4pm): ✅ Nik x Joe 12pm • ✅ Workweek 12:30 • ✅ Zagged 2pm • ✅ Paramount VE Prep 3:00pm • ⏱️ Lock-in sesh 5:30-9:45pm • 🎙️ Limited Supply Recording 7:00-8:15pm • 🔬 Mold Test 8:45-9:30pm",
     "recentActivity": [
       {
         "date": "2026-04-20",
-        "text": "📅 Mon 4/20 TODAY (3pm): ✅ Nik x Joe 12pm • ✅ Record Workweek 12:30 • ✅ Zagged 2pm • 🚨 Paramount 4/29 VE Prep 3:00pm (NOW) • Lock-in sesh 5:30-9:45pm • Limited Supply Recording 7pm • Mold Test 8:45pm"
+        "text": "📅 Mon 4/20 TODAY (4pm): ✅ Nik x Joe 12pm • ✅ Workweek 12:30 • ✅ Zagged 2pm • ✅ Paramount VE Prep 3:00pm • ⏱️ Lock-in sesh 5:30-9:45pm • 🎙️ Limited Supply Recording 7:00-8:15pm • 🔬 Mold Test 8:45-9:30pm"
       },
       {
         "date": "2026-04-20",
-        "text": "⚠️ MentorPass Sterling 4:30pm — confirm (was on prior schedule, check calendar for update)"
+        "text": "⚠️ MentorPass Sterling 4:30pm — NOT on today’s calendar. Verify live or rescheduled."
       },
       {
         "date": "2026-04-20",
-        "text": "📧 Fresh inbound (2:30-3pm): Left Lane (Kristina Igoe) • Love Wellness (Minul) • Tondo Partnership Invoice (Gisela Rojas)"
+        "text": "📧 Fresh inbound 3:50-4pm: Jack Bandera (StackAdapt) ‘Partner Evaluation Q2 & Beyond’ • Fernando Garza (ClientLoop) ‘bold design Nik’ pitch"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "📧 Earlier inbound (2:30-3pm): Left Lane (Kristina Igoe, IMPORTANT) • Love Wellness (Minul) • Tondo Partnership Invoice (Gisela Rojas) • Ben Zises (SuperAngel)"
       },
       {
         "date": "2026-04-20",
@@ -611,14 +617,13 @@
     "upcomingEvents": [],
     "links": [],
     "decisions": [],
-    "status": "active",
-    "updated": "2026-04-20",
-    "alert": null
+    "status": "attention",
+    "updated": "2026-04-20"
   },
   {
     "name": "My Agents",
     "desc": "Operations",
-    "currentStatus": "On track",
+    "currentStatus": "14 bots operational",
     "recentActivity": [
       {
         "date": "2026-04-14",
@@ -654,7 +659,6 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-14",
-    "alert": null
+    "updated": "2026-04-14"
   }
 ]

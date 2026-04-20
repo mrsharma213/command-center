@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-20T19:00:00Z",
+  "lastRefreshed": "2026-04-20T20:00:00Z",
   "flagged": [
     {
       "id": "macra-launch",
@@ -83,10 +83,10 @@
     },
     {
       "id": "paramount-ve-prep",
-      "emoji": "\ud83d\udea8",
-      "title": "Paramount x Nik Sharma \u2014 4/29 VE Prep Call IN PROGRESS (3:00pm ET)",
-      "detail": "Paramount x Nik Sharma 4/29 VE Prep Call 3:00-3:30pm ET \u2014 happening NOW. Terry Nowotny (Paramount) prep email flagged Respond.",
-      "severity": "blocked",
+      "emoji": "\ud83d\udcdd",
+      "title": "Paramount x Nik Sharma \u2014 4/29 VE Prep Call WRAPPED (3:00-3:30pm ET) \u2014 doc feedback received",
+      "detail": "Prep call completed 3:30pm. 3:06pm Google Doc comment on 'Paramount VE \u2014 De...' flagged: 'not accurate - requires 10k budget for...' Review doc + revise scope ahead of 4/29.",
+      "severity": "attention",
       "since": "2026-04-20"
     },
     {
@@ -323,7 +323,9 @@
             "\ud83d\udce7 NEW (4/20 2:38pm): Kristina Igoe (Left Lane) \u2014 'In Person: Nik/Troy/Rohit <> Left Lane' (IMPORTANT)",
             "\ud83d\udce7 NEW (4/20 2:40pm): Minul 'Love Wellness x Nik Sharma' inbound",
             "\ud83d\udce7 NEW (4/20 2:46pm): Gisela Rojas (Tondo) 'Partnership Event Invoice'",
-            "\ud83d\udea8 Paramount x Nik \u2014 4/29 VE Prep Call IN PROGRESS (3:00pm ET, happening now)",
+            "\ud83d\udce7 NEW (4/20 3:52pm): Jack Bandera (StackAdapt) \u2018Partner Evaluation for Q2 & Beyond\u2019 \u2014 pitch/respond",
+            "\ud83d\udce7 NEW (4/20 3:56pm): Fernando Garza (ClientLoop) \u2018bold design Nik\u2019 \u2014 pitch",
+            "\u2705 Paramount x Nik \u2014 4/29 VE Prep Call WRAPPED (3:00-3:30pm ET). Doc comment 3:06pm: \u2018not accurate - requires 10k budget for...\u2019 \u2014 review + revise",
             "\ud83d\udcc5 MentorPass: Sterling & Nik \u2014 TODAY 4:30-5:30pm ET (18-msg scheduling thread)",
             "\ud83d\udcc5 Myles Pharmacy call Tue 4/21 1:30pm ET",
             "\ud83d\udcca Ahrefs: 8 orphan pages flagged on nik.co (no internal links)"
@@ -397,9 +399,10 @@
           "status": "attention",
           "lastUpdated": "2026-04-20",
           "bullets": [
-            "\ud83d\udcc5 Mon 4/20 TODAY (3pm): \u2705 Nik x Joe 12pm \u2022 \u2705 Record Workweek 12:30 \u2022 \u2705 Zagged 2pm \u2022 \ud83d\udea8 Paramount 4/29 VE Prep 3:00pm (NOW) \u2022 Lock-in sesh 5:30-9:45pm \u2022 Limited Supply Recording 7pm \u2022 Mold Test 8:45pm",
-            "\u26a0\ufe0f MentorPass Sterling 4:30pm \u2014 confirm (was on prior schedule, check calendar for update)",
-            "\ud83d\udce7 Fresh inbound (2:30-3pm): Left Lane (Kristina Igoe) \u2022 Love Wellness (Minul) \u2022 Tondo Partnership Invoice (Gisela Rojas)",
+            "\ud83d\udcc5 Mon 4/20 TODAY (4pm): \u2705 Nik x Joe 12pm \u2022 \u2705 Workweek 12:30 \u2022 \u2705 Zagged 2pm \u2022 \u2705 Paramount VE Prep 3:00pm \u2022 \u23f1\ufe0f Lock-in sesh 5:30-9:45pm \u2022 \ud83c\udf99\ufe0f Limited Supply Recording 7:00-8:15pm \u2022 \ud83d\udd2c Mold Test 8:45-9:30pm",
+            "\u26a0\ufe0f MentorPass Sterling 4:30pm \u2014 NOT on today\u2019s calendar. Verify live or rescheduled.",
+            "\ud83d\udce7 Fresh inbound 3:50-4pm: Jack Bandera (StackAdapt) \u2018Partner Evaluation Q2 & Beyond\u2019 \u2022 Fernando Garza (ClientLoop) \u2018bold design Nik\u2019 pitch",
+            "\ud83d\udce7 Earlier inbound (2:30-3pm): Left Lane (Kristina Igoe, IMPORTANT) \u2022 Love Wellness (Minul) \u2022 Tondo Partnership Invoice (Gisela Rojas) \u2022 Ben Zises (SuperAngel)",
             "\ud83d\udccc Anthropic API (jet@nik.co) \u2014 receipt + invoice follow-ups arrived 11:35-11:36am. Still need billing fix.",
             "\ud83d\udea8 Anthropic API (jet@nik.co) turned OFF \u2014 $272.19 payment failed 11:35am. Update billing to restore.",
             "\ud83d\udcc5 Tue 4/21 confirmed on calendar: Limited Supply Recording 12pm \u2022 Check-In 1pm \u2022 Zurp Check-In 1:30pm \u2022 After Ours Sync 2pm \u2022 YoSharma Check-In 3pm",
