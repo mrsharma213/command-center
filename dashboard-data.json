@@ -411,7 +411,7 @@
       "niksharma.io": "Namecheap",
       "ecomfounders.com": "(separate)"
     },
-    "totalCount": 45,
+    "totalCount": 46,
     "groups": [
       {
         "category": "knowledge-base",
@@ -637,7 +637,7 @@
       {
         "category": "internal-tool",
         "label": "\ud83d\udd27 Internal Tools",
-        "count": 9,
+        "count": 10,
         "sites": [
           {
             "subdomain": "zip.nik.co",
@@ -703,6 +703,17 @@
             "stack": "Manus",
             "status": "live",
             "owner": "Jet"
+          },
+          {
+            "subdomain": "fireflies.nik.co",
+            "category": "internal-tool",
+            "purpose": "Fireflies webhook receiver \u2014 auto-recaps every meeting to Jet Status Bot, extracts commitments, tracks follow-up gaps (24h/48h cron), serves /api/commitments to dash.nik.co",
+            "stack": "Vercel \u00b7 Node.js serverless + GitHub-backed JSON storage",
+            "project": "fireflies-recap",
+            "status": "live",
+            "deployed": "2026-04-20",
+            "owner": "Jet",
+            "source": "projects/fireflies-recap/"
           },
           {
             "subdomain": "flows.nik.co",

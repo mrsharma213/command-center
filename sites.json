@@ -9,6 +9,17 @@
   },
   "sites": [
     {
+      "subdomain": "fireflies.nik.co",
+      "category": "internal-tool",
+      "purpose": "Fireflies webhook receiver — auto-recaps every meeting to Jet Status Bot, extracts commitments, tracks follow-up gaps (24h/48h cron), serves /api/commitments to dash.nik.co",
+      "stack": "Vercel · Node.js serverless + GitHub-backed JSON storage",
+      "project": "fireflies-recap",
+      "status": "live",
+      "deployed": "2026-04-20",
+      "owner": "Jet",
+      "source": "projects/fireflies-recap/"
+    },
+    {
       "subdomain": "lp.nik.co",
       "category": "knowledge-base",
       "purpose": "The Landing Page Brain — 21K-word Nik LP training corpus with /raw.md, /llms.txt, /llms-full.txt, /sitemap.xml, /feed.xml",
