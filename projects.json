@@ -29,9 +29,8 @@
         "text": "✅ verified.macra.com CNAME added via Namecheap API"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-20",
-    "alert": "Day 4 post-launch — monitoring early sales + ad performance. Rameez testing thread active (43 msgs)."
+    "status": "attention",
+    "updated": "2026-04-20"
   },
   {
     "name": "STOCKED x Sharma Brands",
@@ -51,9 +50,8 @@
         "text": "Awaiting scope / next steps"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-20",
-    "alert": "New client engagement — confirm scope with Minul"
+    "status": "attention",
+    "updated": "2026-04-20"
   },
   {
     "name": "Maruchan x Nik Sharma",
@@ -73,9 +71,8 @@
         "text": "Coordinated via Minul @ nik.co"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-20",
-    "alert": "Thread 14 msgs deep — review and respond"
+    "status": "attention",
+    "updated": "2026-04-20"
   },
   {
     "name": "Zurp",
@@ -107,7 +104,7 @@
         "text": "✅ Brand book DONE — brand.zurp.com (password: zurp2026)"
       }
     ],
-    "status": "active",
+    "status": "on-track",
     "updated": "2026-04-20"
   },
   {
@@ -144,9 +141,8 @@
         "text": "Verticals: clothing, sports cards, cannabis, skincare"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-15",
-    "alert": "New project — awaiting Troy review of features doc"
+    "status": "attention",
+    "updated": "2026-04-15"
   },
   {
     "name": "Pigeon House Records",
@@ -174,7 +170,7 @@
         "text": "Rahul onboarding to IG strategy + content research"
       }
     ],
-    "status": "active",
+    "status": "on-track",
     "updated": "2026-04-17"
   },
   {
@@ -211,9 +207,8 @@
         "text": "📝 Brand voice brief owed to Brandon — due this week"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-20",
-    "alert": "Post-show Day 2 — pull videographer assets + brand voice brief still owed to Brandon."
+    "status": "attention",
+    "updated": "2026-04-20"
   },
   {
     "name": "Limited Supply Podcast",
@@ -237,7 +232,7 @@
         "text": "Josiah Writer bot + style guide (18K words) for drafts"
       }
     ],
-    "status": "active",
+    "status": "on-track",
     "updated": "2026-04-17"
   },
   {
@@ -251,7 +246,7 @@
       },
       {
         "date": "2026-04-20",
-        "text": "🎤 Record Workweek today Mon 4/20 12:30-1:45pm ET"
+        "text": "✅ Record Workweek today Mon 4/20 12:30-1:15pm ET — wrapped"
       },
       {
         "date": "2026-04-20",
@@ -270,7 +265,7 @@
         "text": "Josiah 'Ecommerce Equation' VOTW draft for Apr 26 delivered, awaiting Nik review"
       }
     ],
-    "status": "active",
+    "status": "on-track",
     "updated": "2026-04-20"
   },
   {
@@ -360,6 +355,10 @@
       },
       {
         "date": "2026-04-17",
+        "text": "📧 NEW (4/20 12:58pm): Terry Nowotny (Paramount) 'SHARMA BRANDS + Paramount' — inbound ahead of 3pm prep call"
+      },
+      {
+        "date": "2026-04-17",
         "text": "📅 Paramount x Nik — 4/29 VE Prep Call TODAY 3:00pm ET"
       },
       {
@@ -375,9 +374,8 @@
         "text": "📊 Ahrefs: 8 orphan pages flagged on nik.co (no internal links)"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-17",
-    "alert": "Air Oasis homepage 9 days overdue + WA DOR action required"
+    "status": "attention",
+    "updated": "2026-04-17"
   },
   {
     "name": "Ecom Founders",
@@ -405,7 +403,7 @@
         "text": "Website being built by Riaz"
       }
     ],
-    "status": "active",
+    "status": "on-track",
     "updated": "2026-04-17"
   },
   {
@@ -458,9 +456,8 @@
         "text": "⚠️ unspun Inc Pay-to-Play Series B-3 — signature still required ASAP"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-18",
-    "alert": "unspun signature still required ASAP"
+    "status": "on-track",
+    "updated": "2026-04-18"
   },
   {
     "name": "Personal Investments",
@@ -484,17 +481,21 @@
         "text": "Tracked separately from Rolling Ventures fund"
       }
     ],
-    "status": "active",
+    "status": "on-track",
     "updated": "2026-04-14"
   },
   {
     "name": "Today & This Week",
     "desc": "Nik Sharma — Personal",
-    "currentStatus": "📅 Mon 4/20 TODAY (NOW): Nik x Joe 12pm ▶️ IN PROGRESS • Record Workweek 12:30 • Zagged 2pm • Paramount 4/29 VE Prep 3pm • MentorPass Sterling 4:30pm • Limited Supply Recording 7pm",
+    "currentStatus": "📅 Mon 4/20 TODAY: ✅ Nik x Joe 12pm • ✅ Record Workweek 12:30 • Zagged 2pm • Paramount 4/29 VE Prep 3pm (∼2h) • MentorPass Sterling 4:30pm • Limited Supply Recording 7pm • Mold Test 8:45pm",
     "recentActivity": [
       {
         "date": "2026-04-20",
-        "text": "📅 Mon 4/20 TODAY (NOW): Nik x Joe 12pm ▶️ IN PROGRESS • Record Workweek 12:30 • Zagged 2pm • Paramount 4/29 VE Prep 3pm • MentorPass Sterling 4:30pm • Limited Supply Recording 7pm"
+        "text": "📅 Mon 4/20 TODAY: ✅ Nik x Joe 12pm • ✅ Record Workweek 12:30 • Zagged 2pm • Paramount 4/29 VE Prep 3pm (∼2h) • MentorPass Sterling 4:30pm • Limited Supply Recording 7pm • Mold Test 8:45pm"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "🚨 Anthropic API (jet@nik.co) turned OFF — $272.19 payment failed 11:35am. Update billing to restore."
       },
       {
         "date": "2026-04-20",
@@ -509,7 +510,7 @@
         "text": "✅ Back in NYC — first gym session back at Fort this morning"
       }
     ],
-    "status": "active",
+    "status": "attention",
     "updated": "2026-04-20"
   },
   {
@@ -546,7 +547,7 @@
         "text": "Namecheap API connected — macra.com + niksharma.io managed"
       }
     ],
-    "status": "active",
+    "status": "on-track",
     "updated": "2026-04-14"
   }
 ]

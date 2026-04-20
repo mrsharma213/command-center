@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-20T16:00:00Z",
+  "lastRefreshed": "2026-04-20T17:01:00Z",
   "flagged": [
     {
       "id": "macra-launch",
@@ -45,8 +45,16 @@
       "id": "paramount-ve-prep",
       "emoji": "\ud83d\udcc5",
       "title": "Paramount x Nik Sharma \u2014 4/29 VE Prep Call TODAY 3pm ET",
-      "detail": "Paramount x Nik Sharma 4/29 VE Prep Call on calendar today 3:00-3:30pm ET. Prep for 4/29 main session.",
+      "detail": "Paramount x Nik Sharma 4/29 VE Prep Call on calendar today 3:00-3:30pm ET (in ~2h). Terry Nowotny (Paramount) sent 'SHARMA BRANDS + Paramount' email 12:58pm ET \u2014 flagged Respond by Superhuman, likely prep materials for today's call.",
       "severity": "attention",
+      "since": "2026-04-20"
+    },
+    {
+      "id": "anthropic-api-jet",
+      "emoji": "\ud83d\udea8",
+      "title": "Anthropic \u2014 Claude API access OFF (jet@nik.co), $272.19 payment failed",
+      "detail": "Anthropic sent 3 emails to jet@nik.co this morning: 10:03am 'Your Claude API access is turned off' \u2022 11:35am '$272.19 payment to Anthropic, PBC was unsuccessful' \u2022 11:36am receipt #2110-8247-0622. Update billing method to restore API access \u2014 affects any Anthropic-backed agent on jet@nik.co account.",
+      "severity": "blocked",
       "since": "2026-04-20"
     },
     {
@@ -229,7 +237,7 @@
           "lastUpdated": "2026-04-20",
           "bullets": [
             "\u2705 Apr 19 SHIPPED \u2014 'The product is fine. The education is broken.'",
-            "\ud83c\udfa4 Record Workweek today Mon 4/20 12:30-1:45pm ET",
+            "\u2705 Record Workweek today Mon 4/20 12:30-1:15pm ET \u2014 wrapped",
             "\ud83c\udfa7 Limited Supply Podcast recording tonight 7:00-8:15pm ET",
             "Next topic TBD \u2014 Andrew Youderian 300-store P&L study still a candidate",
             "\ud83d\udce7 Josh Payne (Onward) inbound \u2014 wants newsletter sponsorship, asking for deck/pricing",
@@ -269,6 +277,7 @@
             "\ud83d\udce7 NEW (4/19 9:57pm): Sandra Campos 'Catching up' \u2014 30min call ask, wants pre-launch brand perspective",
             "\ud83d\udce7 NEW (4/20 8:49am): Guidepoint consultation request \u2014 SMS Marketing & Sales Platforms (#1727784)",
             "\ud83d\udce7 NEW (4/20 11:42am): Rameez 'James Bennet x Nik Sharma' thread \u2014 11 msgs, active",
+            "\ud83d\udce7 NEW (4/20 12:58pm): Terry Nowotny (Paramount) 'SHARMA BRANDS + Paramount' \u2014 inbound ahead of 3pm prep call",
             "\ud83d\udcc5 Paramount x Nik \u2014 4/29 VE Prep Call TODAY 3:00pm ET",
             "\ud83d\udcc5 MentorPass: Sterling & Nik \u2014 TODAY 4:30-5:30pm ET (18-msg scheduling thread)",
             "\ud83d\udcc5 Myles Pharmacy call Tue 4/21 1:30pm ET",
@@ -343,7 +352,8 @@
           "status": "attention",
           "lastUpdated": "2026-04-20",
           "bullets": [
-            "\ud83d\udcc5 Mon 4/20 TODAY (NOW): Nik x Joe 12pm \u25b6\ufe0f IN PROGRESS \u2022 Record Workweek 12:30 \u2022 Zagged 2pm \u2022 Paramount 4/29 VE Prep 3pm \u2022 MentorPass Sterling 4:30pm \u2022 Limited Supply Recording 7pm",
+            "\ud83d\udcc5 Mon 4/20 TODAY: \u2705 Nik x Joe 12pm \u2022 \u2705 Record Workweek 12:30 \u2022 Zagged 2pm \u2022 Paramount 4/29 VE Prep 3pm (\u223c2h) \u2022 MentorPass Sterling 4:30pm \u2022 Limited Supply Recording 7pm \u2022 Mold Test 8:45pm",
+            "\ud83d\udea8 Anthropic API (jet@nik.co) turned OFF \u2014 $272.19 payment failed 11:35am. Update billing to restore.",
             "\ud83d\udcc5 Tue 4/21: Zurp Check-In 11:30am \u2022 Limited Supply Recording 12pm \u2022 Check-In 1pm \u2022 Myles Pharmacy 1:30pm \u2022 After Ours Sync 2pm",
             "\ud83d\udcc5 Wed 4/22: Chef Trey dinner \u2022 Instant x Nik 4:30pm (Jaime Egan)",
             "\u2705 Back in NYC \u2014 first gym session back at Fort this morning"
