@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-20T14:00:00Z",
+  "lastRefreshed": "2026-04-20T16:00:00Z",
   "flagged": [
     {
       "id": "macra-launch",
@@ -38,6 +38,22 @@
       "emoji": "\ud83d\udcc5",
       "title": "MentorPass: Sterling & Nik \u2014 TODAY 4:30pm ET",
       "detail": "Sterling Griffin (Sterling Capital) confirmed MentorPass call TODAY 4:30-5:30pm ET. 'Scheduling this week' thread now 18 msgs.",
+      "severity": "attention",
+      "since": "2026-04-20"
+    },
+    {
+      "id": "paramount-ve-prep",
+      "emoji": "\ud83d\udcc5",
+      "title": "Paramount x Nik Sharma \u2014 4/29 VE Prep Call TODAY 3pm ET",
+      "detail": "Paramount x Nik Sharma 4/29 VE Prep Call on calendar today 3:00-3:30pm ET. Prep for 4/29 main session.",
+      "severity": "attention",
+      "since": "2026-04-20"
+    },
+    {
+      "id": "corpora-83b",
+      "emoji": "\ud83d\udccb",
+      "title": "Corpora 83(b) \u2014 physical docs to be shredded in 10 days",
+      "detail": "Team Corpora: 83(b) election physical documents (Order D3CS6YMK187F) will be shredded after 10 days. Confirm digital filing received + pickup decision.",
       "severity": "attention",
       "since": "2026-04-20"
     },
@@ -94,6 +110,32 @@
             "\u2705 verified.macra.com CNAME added via Namecheap API"
           ],
           "needsAttention": "Day 4 post-launch \u2014 monitoring early sales + ad performance. Rameez testing thread active (43 msgs)."
+        },
+        {
+          "id": "stocked",
+          "emoji": "\ud83c\udd95",
+          "title": "STOCKED x Sharma Brands",
+          "status": "attention",
+          "lastUpdated": "2026-04-20",
+          "bullets": [
+            "\ud83d\udce7 Minul 'STOCKED x Sharma Brands' thread \u2014 5 msgs (updated 11:57am 4/20)",
+            "New client engagement in progress via Minul",
+            "Awaiting scope / next steps"
+          ],
+          "needsAttention": "New client engagement \u2014 confirm scope with Minul"
+        },
+        {
+          "id": "maruchan",
+          "emoji": "\ud83c\udf5c",
+          "title": "Maruchan x Nik Sharma",
+          "status": "attention",
+          "lastUpdated": "2026-04-20",
+          "bullets": [
+            "\ud83d\udce7 Minul 'Maruchan x Nik Sharma' thread \u2014 14 msgs (updated 11:56am 4/20)",
+            "Iconic ramen brand engagement inbound",
+            "Coordinated via Minul @ nik.co"
+          ],
+          "needsAttention": "Thread 14 msgs deep \u2014 review and respond"
         },
         {
           "id": "zurp",
@@ -210,7 +252,7 @@
             "\ud83d\udea8 Air Oasis \u2014 Homepage deadline PASSED (was due Fri 4/10) \u2014 9 days overdue",
             "WA Dept of Revenue: Action required for Sharma Brands Inc (605-181-506)",
             "\ud83d\udce7 David Larkin (PayFiniti) \u2014 approval rates discussion inbound",
-            "\ud83d\udce7 Boring Ecom invoice from Joe Siegel (flow build) \u2014 needs review",
+            "\u2705 Boring Ecom invoice (Joe Siegel Flow Build) \u2014 PAID 4/20 11:43am (BILL confirmation)",
             "\ud83d\udcc5 NEW: Instant x Nik meeting booked Wed Apr 22 4:30pm (Jaime Egan)",
             "\ud83d\udce7 Laura Rossi (AI Board Advisory) \u2014 pitch for Sharma Brands",
             "\ud83d\udce7 POV Beauty \u2014 'getting warmer' (product update)",
@@ -226,6 +268,8 @@
             "\ud83d\udce7 NEW: Rameez reviving 'James Bennet x Nik Sharma' thread (10 msgs)",
             "\ud83d\udce7 NEW (4/19 9:57pm): Sandra Campos 'Catching up' \u2014 30min call ask, wants pre-launch brand perspective",
             "\ud83d\udce7 NEW (4/20 8:49am): Guidepoint consultation request \u2014 SMS Marketing & Sales Platforms (#1727784)",
+            "\ud83d\udce7 NEW (4/20 11:42am): Rameez 'James Bennet x Nik Sharma' thread \u2014 11 msgs, active",
+            "\ud83d\udcc5 Paramount x Nik \u2014 4/29 VE Prep Call TODAY 3:00pm ET",
             "\ud83d\udcc5 MentorPass: Sterling & Nik \u2014 TODAY 4:30-5:30pm ET (18-msg scheduling thread)",
             "\ud83d\udcc5 Myles Pharmacy call Tue 4/21 1:30pm ET",
             "\ud83d\udcca Ahrefs: 8 orphan pages flagged on nik.co (no internal links)"
@@ -296,10 +340,10 @@
           "id": "travel",
           "emoji": "\u2708\ufe0f",
           "title": "Today & This Week",
-          "status": "on-track",
+          "status": "attention",
           "lastUpdated": "2026-04-20",
           "bullets": [
-            "\ud83d\udcc5 Mon 4/20 TODAY: Fort 10am \u2022 Check-In 11:30 \u2022 Nik x Joe 12pm \u2022 Record Workweek 12:30 \u2022 Zagged 2pm \u2022 Paramount VE Prep 3pm \u2022 MentorPass Sterling 4:30pm \u2022 Limited Supply Recording 7pm",
+            "\ud83d\udcc5 Mon 4/20 TODAY (NOW): Nik x Joe 12pm \u25b6\ufe0f IN PROGRESS \u2022 Record Workweek 12:30 \u2022 Zagged 2pm \u2022 Paramount 4/29 VE Prep 3pm \u2022 MentorPass Sterling 4:30pm \u2022 Limited Supply Recording 7pm",
             "\ud83d\udcc5 Tue 4/21: Zurp Check-In 11:30am \u2022 Limited Supply Recording 12pm \u2022 Check-In 1pm \u2022 Myles Pharmacy 1:30pm \u2022 After Ours Sync 2pm",
             "\ud83d\udcc5 Wed 4/22: Chef Trey dinner \u2022 Instant x Nik 4:30pm (Jaime Egan)",
             "\u2705 Back in NYC \u2014 first gym session back at Fort this morning"
