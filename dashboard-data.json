@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-20T18:00:00Z",
+  "lastRefreshed": "2026-04-20T19:00:00Z",
   "flagged": [
     {
       "id": "macra-launch",
@@ -36,8 +36,8 @@
     {
       "id": "mentorpass-sterling",
       "emoji": "\ud83d\udcc5",
-      "title": "MentorPass: Sterling & Nik \u2014 TODAY 4:30pm ET (2.5h out)",
-      "detail": "Sterling Griffin (Sterling Capital) confirmed MentorPass call TODAY 4:30-5:30pm ET. 'Scheduling this week' thread 18 msgs.",
+      "title": "MentorPass: Sterling & Nik \u2014 TODAY 4:30pm ET (1.5h out)",
+      "detail": "Sterling Griffin (Sterling Capital) confirmed MentorPass call TODAY 4:30-5:30pm ET. 'Scheduling this week' thread 18 msgs. NOTE: Not on Nik's calendar pull at 3pm \u2014 verify still live.",
       "severity": "attention",
       "since": "2026-04-20"
     },
@@ -58,10 +58,34 @@
       "since": "2026-04-20"
     },
     {
+      "id": "left-lane-inperson",
+      "emoji": "\ud83d\udce7",
+      "title": "Left Lane \u2014 'In Person: Nik/Troy/Rohit <> Left Lane' (IMPORTANT)",
+      "detail": "Kristina Igoe (Left Lane) emailed 2:38pm ET \u2014 coordinating in-person meeting with Nik, Troy, and Rohit. Flagged IMPORTANT. Likely scheduling ask.",
+      "severity": "attention",
+      "since": "2026-04-20"
+    },
+    {
+      "id": "love-wellness-nik",
+      "emoji": "\ud83d\udc97",
+      "title": "Love Wellness x Nik Sharma \u2014 Minul inbound (2:40pm)",
+      "detail": "Minul De Silva 'Love Wellness x Nik Sharma' inbound 2:40pm ET. Existing client relationship \u2014 likely scope expansion or new engagement update.",
+      "severity": "attention",
+      "since": "2026-04-20"
+    },
+    {
+      "id": "tondo-invoice",
+      "emoji": "\ud83d\udcb0",
+      "title": "Tondo Fulfillment \u2014 Partnership Event Invoice (2:46pm)",
+      "detail": "Gisela Rojas (Tondo Fulfillment) sent 'Partnership Event Invoice' 2:46pm ET. Likely tied to Simon Wool Zagged Dinner invite (Wed 4/22) \u2014 confirm.",
+      "severity": "attention",
+      "since": "2026-04-20"
+    },
+    {
       "id": "paramount-ve-prep",
       "emoji": "\ud83d\udea8",
-      "title": "Paramount x Nik Sharma \u2014 4/29 VE Prep Call in 1 HOUR (3pm ET)",
-      "detail": "Paramount x Nik Sharma 4/29 VE Prep Call 3:00-3:30pm ET \u2014 starts in ~1h. Terry Nowotny (Paramount) prep email flagged Respond. Review materials NOW.",
+      "title": "Paramount x Nik Sharma \u2014 4/29 VE Prep Call IN PROGRESS (3:00pm ET)",
+      "detail": "Paramount x Nik Sharma 4/29 VE Prep Call 3:00-3:30pm ET \u2014 happening NOW. Terry Nowotny (Paramount) prep email flagged Respond.",
       "severity": "blocked",
       "since": "2026-04-20"
     },
@@ -296,7 +320,10 @@
             "\ud83d\udce7 NEW (4/20 12:58pm): Terry Nowotny (Paramount) 'SHARMA BRANDS + Paramount' \u2014 inbound ahead of 3pm prep call",
             "\ud83d\udce7 NEW (4/20 1:48pm): Ben Zises (SuperAngel VC) 'Nik x Ben' \u2014 flagged Meeting + Respond",
             "\ud83d\udce7 NEW (4/20 1:54pm): Simon Wool (Wool Ventures) Zagged Dinner invite Wed 4/22 8pm + Partnership Dinner Invoice",
-            "\ud83d\udea8 Paramount x Nik \u2014 4/29 VE Prep Call in 1 HOUR (3:00pm ET)",
+            "\ud83d\udce7 NEW (4/20 2:38pm): Kristina Igoe (Left Lane) \u2014 'In Person: Nik/Troy/Rohit <> Left Lane' (IMPORTANT)",
+            "\ud83d\udce7 NEW (4/20 2:40pm): Minul 'Love Wellness x Nik Sharma' inbound",
+            "\ud83d\udce7 NEW (4/20 2:46pm): Gisela Rojas (Tondo) 'Partnership Event Invoice'",
+            "\ud83d\udea8 Paramount x Nik \u2014 4/29 VE Prep Call IN PROGRESS (3:00pm ET, happening now)",
             "\ud83d\udcc5 MentorPass: Sterling & Nik \u2014 TODAY 4:30-5:30pm ET (18-msg scheduling thread)",
             "\ud83d\udcc5 Myles Pharmacy call Tue 4/21 1:30pm ET",
             "\ud83d\udcca Ahrefs: 8 orphan pages flagged on nik.co (no internal links)"
@@ -370,9 +397,12 @@
           "status": "attention",
           "lastUpdated": "2026-04-20",
           "bullets": [
-            "\ud83d\udcc5 Mon 4/20 TODAY (2pm): \u2705 Nik x Joe 12pm \u2022 \u2705 Record Workweek 12:30 \u2022 \u2705 Zagged 2pm (NOW) \u2022 \ud83d\udea8 Paramount 4/29 VE Prep 3pm (1h out) \u2022 MentorPass Sterling 4:30pm \u2022 Limited Supply Recording 7pm \u2022 Mold Test 8:45pm",
+            "\ud83d\udcc5 Mon 4/20 TODAY (3pm): \u2705 Nik x Joe 12pm \u2022 \u2705 Record Workweek 12:30 \u2022 \u2705 Zagged 2pm \u2022 \ud83d\udea8 Paramount 4/29 VE Prep 3:00pm (NOW) \u2022 Lock-in sesh 5:30-9:45pm \u2022 Limited Supply Recording 7pm \u2022 Mold Test 8:45pm",
+            "\u26a0\ufe0f MentorPass Sterling 4:30pm \u2014 confirm (was on prior schedule, check calendar for update)",
+            "\ud83d\udce7 Fresh inbound (2:30-3pm): Left Lane (Kristina Igoe) \u2022 Love Wellness (Minul) \u2022 Tondo Partnership Invoice (Gisela Rojas)",
+            "\ud83d\udccc Anthropic API (jet@nik.co) \u2014 receipt + invoice follow-ups arrived 11:35-11:36am. Still need billing fix.",
             "\ud83d\udea8 Anthropic API (jet@nik.co) turned OFF \u2014 $272.19 payment failed 11:35am. Update billing to restore.",
-            "\ud83d\udcc5 Tue 4/21: Zurp Check-In 11:30am \u2022 Limited Supply Recording 12pm \u2022 Check-In 1pm \u2022 Myles Pharmacy 1:30pm \u2022 After Ours Sync 2pm",
+            "\ud83d\udcc5 Tue 4/21 confirmed on calendar: Limited Supply Recording 12pm \u2022 Check-In 1pm \u2022 Zurp Check-In 1:30pm \u2022 After Ours Sync 2pm \u2022 YoSharma Check-In 3pm",
             "\ud83d\udcc5 Wed 4/22: Chef Trey dinner \u2022 Instant x Nik 4:30pm (Jaime Egan)",
             "\u2705 Back in NYC \u2014 first gym session back at Fort this morning"
           ],
