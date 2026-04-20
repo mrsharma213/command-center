@@ -2,60 +2,70 @@
   {
     "name": "Macra",
     "desc": "Companies",
-    "currentStatus": "Day 2 post-launch — monitoring early sales + ad performance. Rameez testing thread active (43 msgs).",
+    "currentStatus": "Day 4 post-launch — monitoring early sales + ad performance. Rameez testing thread active (43 msgs).",
     "recentActivity": [
       {
-        "date": "2026-04-17",
-        "text": "💊 Day 2 post-launch — Mood Bloom™ + Carb Curb™ launched Apr 16"
+        "date": "2026-04-20",
+        "text": "💊 Day 4 post-launch — Mood Bloom™ + Carb Curb™ launched Apr 16"
       },
       {
-        "date": "2026-04-17",
+        "date": "2026-04-20",
         "text": "📧 Rameez 'Macra testing' thread active (43 msgs) — coordinating COAs + Light Labs updates"
       },
       {
-        "date": "2026-04-17",
+        "date": "2026-04-20",
         "text": "✅ ALL 3 TRADEMARKS FILED: CARB MUTE (99765362) + MOOD BLOOM (99765355) + CARB CURB (99765775)"
       },
       {
-        "date": "2026-04-17",
+        "date": "2026-04-20",
         "text": "📝 GT attorney Matthew Goings: Use ™ symbol. 6-10 month USPTO examination."
       },
       {
-        "date": "2026-04-17",
+        "date": "2026-04-20",
         "text": "Initial ad spend $30K deploying • Monitor early performance data"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "✅ verified.macra.com CNAME added via Namecheap API"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-17"
+    "status": "attention",
+    "updated": "2026-04-20",
+    "alert": "Day 4 post-launch — monitoring early sales + ad performance. Rameez testing thread active (43 msgs)."
   },
   {
     "name": "Zurp",
     "desc": "Companies",
-    "currentStatus": "📧 Follow-up email sent to Remy at Refuge for charger placement",
+    "currentStatus": "🎉 Victor Calderone residency weekend wrapped — pull results at Zurp Check-In Tue 4/21 11:30am",
     "recentActivity": [
       {
-        "date": "2026-04-17",
+        "date": "2026-04-20",
+        "text": "🎉 Victor Calderone residency weekend wrapped — pull results at Zurp Check-In Tue 4/21 11:30am"
+      },
+      {
+        "date": "2026-04-20",
         "text": "📧 Follow-up email sent to Remy at Refuge for charger placement"
       },
       {
-        "date": "2026-04-17",
-        "text": "🔋 Indoor unit (24 batteries) ready for this weekend's Victor Calderone residency"
-      },
-      {
-        "date": "2026-04-17",
+        "date": "2026-04-20",
         "text": "✅ March legal invoice (Robert Freund Law) paid by Minul"
       },
       {
-        "date": "2026-04-17",
+        "date": "2026-04-20",
         "text": "⏳ Weather-proof outdoor unit: 6-week lead time"
       },
       {
-        "date": "2026-04-17",
+        "date": "2026-04-20",
         "text": "💰 Revenue split: 50/50 with venues"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "✅ Brand book DONE — brand.zurp.com (password: zurp2026)"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-17"
+    "status": "on-track",
+    "updated": "2026-04-20",
+    "alert": null
   },
   {
     "name": "Authentiq",
@@ -81,10 +91,15 @@
       {
         "date": "2026-04-15",
         "text": "V2: Ownership transfer, Shopify integration"
+      },
+      {
+        "date": "2026-04-15",
+        "text": "V3: Authenticated marketplace (Grailed/StockX competitor)"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-15"
+    "status": "attention",
+    "updated": "2026-04-15",
+    "alert": "New project — awaiting Troy review of features doc"
   },
   {
     "name": "Pigeon House Records",
@@ -112,37 +127,43 @@
         "text": "Rahul onboarding to IG strategy + content research"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-17"
+    "status": "on-track",
+    "updated": "2026-04-17",
+    "alert": null
   },
   {
     "name": "After Ours",
     "desc": "Media & Content",
-    "currentStatus": "Post-show — pull videographer assets + brand voice brief still owed to Brandon.",
+    "currentStatus": "Post-show Day 2 — pull videographer assets + brand voice brief still owed to Brandon.",
     "recentActivity": [
       {
-        "date": "2026-04-19",
+        "date": "2026-04-20",
         "text": "✅ Sat 4/18 Somewhere Nowhere NYC — opened for Moojo, wrapped ~2am"
       },
       {
-        "date": "2026-04-19",
+        "date": "2026-04-20",
+        "text": "📅 After Ours Sync Tue 4/21 2:00pm ET"
+      },
+      {
+        "date": "2026-04-20",
         "text": "📹 Awaiting pro media/videographer pull-through (NÜ MGMT booked)"
       },
       {
-        "date": "2026-04-19",
-        "text": "✅ Nik back in NYC (B6 816 SFO→JFK landed 4/18)"
-      },
-      {
-        "date": "2026-04-19",
-        "text": "✅ YC launch party SF played Fri night (private DJ set)"
-      },
-      {
-        "date": "2026-04-19",
+        "date": "2026-04-20",
         "text": "🎵 'Rise & Shine' / 'Future Classic' LIVE on SoundCloud"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "🔊 Sound pivot locked: keeping Future Classic, Flashback, No Control"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "Content split: IG feed = credible only, TikTok = flood"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-19"
+    "status": "attention",
+    "updated": "2026-04-20",
+    "alert": "Post-show Day 2 — pull videographer assets + brand voice brief still owed to Brandon."
   },
   {
     "name": "Limited Supply Podcast",
@@ -166,37 +187,43 @@
         "text": "Josiah Writer bot + style guide (18K words) for drafts"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-17"
+    "status": "on-track",
+    "updated": "2026-04-17",
+    "alert": null
   },
   {
     "name": "Newsletter / Workweek",
     "desc": "Media & Content",
-    "currentStatus": "✅ SHIPPED 6:55pm ET — 'The product is fine. The education is broken.'",
+    "currentStatus": "✅ Apr 19 SHIPPED — 'The product is fine. The education is broken.'",
     "recentActivity": [
       {
-        "date": "2026-04-19",
-        "text": "✅ SHIPPED 6:55pm ET — 'The product is fine. The education is broken.'"
+        "date": "2026-04-20",
+        "text": "✅ Apr 19 SHIPPED — 'The product is fine. The education is broken.'"
       },
       {
-        "date": "2026-04-19",
-        "text": "Thread 9 msgs deep — replies/engagement flowing"
+        "date": "2026-04-20",
+        "text": "🎤 Record Workweek today Mon 4/20 12:30-1:45pm ET"
       },
       {
-        "date": "2026-04-19",
-        "text": "Last week: 'Affiliate marketing, done right' sent Apr 12"
+        "date": "2026-04-20",
+        "text": "🎧 Limited Supply Podcast recording tonight 7:00-8:15pm ET"
       },
       {
-        "date": "2026-04-19",
+        "date": "2026-04-20",
         "text": "Next topic TBD — Andrew Youderian 300-store P&L study still a candidate"
       },
       {
-        "date": "2026-04-19",
+        "date": "2026-04-20",
         "text": "📧 Josh Payne (Onward) inbound — wants newsletter sponsorship, asking for deck/pricing"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "Josiah 'Ecommerce Equation' VOTW draft for Apr 26 delivered, awaiting Nik review"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-19"
+    "status": "on-track",
+    "updated": "2026-04-20",
+    "alert": null
   },
   {
     "name": "Brand Consulting",
@@ -222,10 +249,15 @@
       {
         "date": "2026-04-17",
         "text": "📅 NEW: Instant x Nik meeting booked Wed Apr 22 4:30pm (Jaime Egan)"
+      },
+      {
+        "date": "2026-04-17",
+        "text": "📧 Laura Rossi (AI Board Advisory) — pitch for Sharma Brands"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-17"
+    "status": "attention",
+    "updated": "2026-04-17",
+    "alert": "Air Oasis homepage 9 days overdue + WA DOR action required"
   },
   {
     "name": "Ecom Founders",
@@ -253,8 +285,9 @@
         "text": "Website being built by Riaz"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-17"
+    "status": "on-track",
+    "updated": "2026-04-17",
+    "alert": null
   },
   {
     "name": "Rolling Ventures Fund",
@@ -280,10 +313,15 @@
       {
         "date": "2026-04-18",
         "text": "📅 Apr 29: PEF QSBS Roundtable Lunch with Rockefeller Global Family Office"
+      },
+      {
+        "date": "2026-04-18",
+        "text": "📧 BodySpec Series A SPV via PEF — health-tech, AI-powered clinical imaging (Andrew Tan)"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-18"
+    "status": "on-track",
+    "updated": "2026-04-18",
+    "alert": "unspun signature still required ASAP"
   },
   {
     "name": "Personal Investments",
@@ -307,37 +345,35 @@
         "text": "Tracked separately from Rolling Ventures fund"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-14"
+    "status": "on-track",
+    "updated": "2026-04-14",
+    "alert": null
   },
   {
-    "name": "Travel",
+    "name": "Today & This Week",
     "desc": "Nik Sharma — Personal",
-    "currentStatus": "✅ Back in NYC (B6 816 SFO→JFK landed 4/18)",
+    "currentStatus": "📅 Mon 4/20 TODAY: Fort 10am • Check-In 11:30 • Nik x Joe 12pm • Record Workweek 12:30 • Zagged 2pm • Paramount VE Prep 3pm • MentorPass Sterling 4:30pm • Limited Supply Recording 7pm",
     "recentActivity": [
       {
-        "date": "2026-04-19",
-        "text": "✅ Back in NYC (B6 816 SFO→JFK landed 4/18)"
+        "date": "2026-04-20",
+        "text": "📅 Mon 4/20 TODAY: Fort 10am • Check-In 11:30 • Nik x Joe 12pm • Record Workweek 12:30 • Zagged 2pm • Paramount VE Prep 3pm • MentorPass Sterling 4:30pm • Limited Supply Recording 7pm"
       },
       {
-        "date": "2026-04-19",
-        "text": "✅ Somewhere Nowhere NYC show completed (opened Moojo)"
+        "date": "2026-04-20",
+        "text": "📅 Tue 4/21: Zurp Check-In 11:30am • Limited Supply Recording 12pm • Check-In 1pm • Myles Pharmacy 1:30pm • After Ours Sync 2pm"
       },
       {
-        "date": "2026-04-19",
-        "text": "✅ Newsletter shipped 6:55pm ET"
+        "date": "2026-04-20",
+        "text": "📅 Wed 4/22: Chef Trey dinner • Instant x Nik 4:30pm (Jaime Egan)"
       },
       {
-        "date": "2026-04-19",
-        "text": "🎂 Jon Strauss's birthday today (4/19)"
-      },
-      {
-        "date": "2026-04-19",
-        "text": "📅 Mon 4/20: Record Workweek 8:15am, Fort 10am (first gym back), Check-In 11:30am, Nik x Joe 12pm, Zagged All Hands 2pm"
+        "date": "2026-04-20",
+        "text": "✅ Back in NYC — first gym session back at Fort this morning"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-19"
+    "status": "on-track",
+    "updated": "2026-04-20",
+    "alert": null
   },
   {
     "name": "My Agents",
@@ -363,9 +399,14 @@
       {
         "date": "2026-04-14",
         "text": "🎧 After Ours (Opus) · 🏦 Rolling Ventures (Opus)"
+      },
+      {
+        "date": "2026-04-14",
+        "text": "🆕 Jet Status Bot configured for monitoring output"
       }
     ],
-    "status": "active",
-    "updated": "2026-04-14"
+    "status": "on-track",
+    "updated": "2026-04-14",
+    "alert": null
   }
 ]

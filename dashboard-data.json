@@ -1,21 +1,21 @@
 {
-  "lastRefreshed": "2026-04-20T02:00:00Z",
+  "lastRefreshed": "2026-04-20T14:00:00Z",
   "flagged": [
     {
       "id": "macra-launch",
       "emoji": "\ud83d\udc8a",
-      "title": "Macra \u2014 Day 1 Post-Launch: Carb Curb + Mood Bloom LIVE",
-      "detail": "Day 2 post-launch. \u2705 ALL 3 TRADEMARKS FILED. $30K initial ad spend deploying. Rameez 'Macra testing' thread active (43 msgs) \u2014 coordinating COAs with Light Labs. Monitor early sales data + ad performance.",
+      "title": "Macra \u2014 Day 4 Post-Launch: Carb Curb + Mood Bloom LIVE",
+      "detail": "Day 4 post-launch. \u2705 ALL 3 TRADEMARKS FILED. $30K initial ad spend deploying. Rameez 'Macra testing' thread active (43 msgs) \u2014 coordinating COAs with Light Labs. Monitor early sales data + ad performance.",
       "severity": "attention",
       "since": "2026-04-16"
     },
     {
-      "id": "yosharma-invoice",
-      "emoji": "\ud83d\udcb0",
-      "title": "YoSharma LLC Invoice INV-5 OVERDUE \u2014 YC Management",
-      "detail": "Mercury invoice INV-5 from YoSharma LLC to Y Combinator Management LLC was due Apr 15 and remains unpaid (4 days overdue). Pay link: app.mercury.com/pay/fgmhz6gnwmlf5hqd",
-      "severity": "blocked",
-      "since": "2026-04-16"
+      "id": "yosharma-invoice-paid",
+      "emoji": "\u2705",
+      "title": "YoSharma LLC INV-5 PAID \u2014 $5,000 received from YC Management",
+      "detail": "Mercury: $5,000.00 ACH received 8:34am ET this morning from Y COMBINATOR MAN into YoSharma LLC checking \u2022\u20223902. Invoice INV-5 cleared.",
+      "severity": "info",
+      "since": "2026-04-20"
     },
     {
       "id": "air-oasis-homepage",
@@ -28,10 +28,18 @@
     {
       "id": "newsletter-sent",
       "emoji": "\u2705",
-      "title": "Newsletter SHIPPED 6:55pm ET \u2014 'The product is fine. The education is broken.'",
-      "detail": "Sunday edition sent 6:55pm ET via niksharma@workweek.com. Thread now 9 msgs deep (replies/engagement flowing). Next: monitor open/click rates + pick next week's topic.",
+      "title": "Newsletter SHIPPED 4/19 \u2014 'The product is fine. The education is broken.'",
+      "detail": "Sunday edition sent 6:55pm ET 4/19. Thread 9+ msgs deep. Next topic TBD \u2014 Andrew Youderian 300-store P&L study still a candidate. Josiah 'Ecommerce Equation' VOTW draft for 4/26 delivered, awaiting Nik review.",
       "severity": "info",
       "since": "2026-04-19"
+    },
+    {
+      "id": "mentorpass-sterling",
+      "emoji": "\ud83d\udcc5",
+      "title": "MentorPass: Sterling & Nik \u2014 TODAY 4:30pm ET",
+      "detail": "Sterling Griffin (Sterling Capital) confirmed MentorPass call TODAY 4:30-5:30pm ET. 'Scheduling this week' thread now 18 msgs.",
+      "severity": "attention",
+      "since": "2026-04-20"
     },
     {
       "id": "sandra-campos-intro",
@@ -44,8 +52,8 @@
     {
       "id": "ao-show-recap",
       "emoji": "\ud83c\udfa7",
-      "title": "After Ours \u2014 Somewhere Nowhere NYC \u2705 DONE (opened Moojo)",
-      "detail": "Show wrapped ~2am. Awaiting pro media/videographer pull-through from Paul/N\u00dc MGMT. Brand voice brief still owed to Brandon.",
+      "title": "After Ours \u2014 Post-show Day 2: pull videographer assets",
+      "detail": "Somewhere Nowhere NYC wrapped 4/19 ~2am. Still awaiting pro media/videographer pull-through from Paul/N\u00dc MGMT. Brand voice brief still owed to Brandon. After Ours Sync Tue 4/21 2pm.",
       "severity": "attention",
       "since": "2026-04-19"
     },
@@ -76,26 +84,26 @@
           "emoji": "\ud83d\udc8a",
           "title": "Macra",
           "status": "attention",
-          "lastUpdated": "2026-04-17",
+          "lastUpdated": "2026-04-20",
           "bullets": [
-            "\ud83d\udc8a Day 2 post-launch \u2014 Mood Bloom\u2122 + Carb Curb\u2122 launched Apr 16",
+            "\ud83d\udc8a Day 4 post-launch \u2014 Mood Bloom\u2122 + Carb Curb\u2122 launched Apr 16",
             "\ud83d\udce7 Rameez 'Macra testing' thread active (43 msgs) \u2014 coordinating COAs + Light Labs updates",
             "\u2705 ALL 3 TRADEMARKS FILED: CARB MUTE (99765362) + MOOD BLOOM (99765355) + CARB CURB (99765775)",
             "\ud83d\udcdd GT attorney Matthew Goings: Use \u2122 symbol. 6-10 month USPTO examination.",
             "Initial ad spend $30K deploying \u2022 Monitor early performance data",
             "\u2705 verified.macra.com CNAME added via Namecheap API"
           ],
-          "needsAttention": "Day 2 post-launch \u2014 monitoring early sales + ad performance. Rameez testing thread active (43 msgs)."
+          "needsAttention": "Day 4 post-launch \u2014 monitoring early sales + ad performance. Rameez testing thread active (43 msgs)."
         },
         {
           "id": "zurp",
           "emoji": "\ud83d\udcf1",
           "title": "Zurp",
           "status": "on-track",
-          "lastUpdated": "2026-04-17",
+          "lastUpdated": "2026-04-20",
           "bullets": [
+            "\ud83c\udf89 Victor Calderone residency weekend wrapped \u2014 pull results at Zurp Check-In Tue 4/21 11:30am",
             "\ud83d\udce7 Follow-up email sent to Remy at Refuge for charger placement",
-            "\ud83d\udd0b Indoor unit (24 batteries) ready for this weekend's Victor Calderone residency",
             "\u2705 March legal invoice (Robert Freund Law) paid by Minul",
             "\u23f3 Weather-proof outdoor unit: 6-week lead time",
             "\ud83d\udcb0 Revenue split: 50/50 with venues",
@@ -145,18 +153,17 @@
           "emoji": "\ud83c\udfa7",
           "title": "After Ours",
           "status": "attention",
-          "lastUpdated": "2026-04-19",
+          "lastUpdated": "2026-04-20",
           "bullets": [
             "\u2705 Sat 4/18 Somewhere Nowhere NYC \u2014 opened for Moojo, wrapped ~2am",
+            "\ud83d\udcc5 After Ours Sync Tue 4/21 2:00pm ET",
             "\ud83d\udcf9 Awaiting pro media/videographer pull-through (N\u00dc MGMT booked)",
-            "\u2705 Nik back in NYC (B6 816 SFO\u2192JFK landed 4/18)",
-            "\u2705 YC launch party SF played Fri night (private DJ set)",
             "\ud83c\udfb5 'Rise & Shine' / 'Future Classic' LIVE on SoundCloud",
             "\ud83d\udd0a Sound pivot locked: keeping Future Classic, Flashback, No Control",
             "Content split: IG feed = credible only, TikTok = flood",
             "\ud83d\udcdd Brand voice brief owed to Brandon \u2014 due this week"
           ],
-          "needsAttention": "Post-show \u2014 pull videographer assets + brand voice brief still owed to Brandon."
+          "needsAttention": "Post-show Day 2 \u2014 pull videographer assets + brand voice brief still owed to Brandon."
         },
         {
           "id": "limited-supply",
@@ -177,11 +184,11 @@
           "emoji": "\ud83d\udcf0",
           "title": "Newsletter / Workweek",
           "status": "on-track",
-          "lastUpdated": "2026-04-19",
+          "lastUpdated": "2026-04-20",
           "bullets": [
-            "\u2705 SHIPPED 6:55pm ET \u2014 'The product is fine. The education is broken.'",
-            "Thread 9 msgs deep \u2014 replies/engagement flowing",
-            "Last week: 'Affiliate marketing, done right' sent Apr 12",
+            "\u2705 Apr 19 SHIPPED \u2014 'The product is fine. The education is broken.'",
+            "\ud83c\udfa4 Record Workweek today Mon 4/20 12:30-1:45pm ET",
+            "\ud83c\udfa7 Limited Supply Podcast recording tonight 7:00-8:15pm ET",
             "Next topic TBD \u2014 Andrew Youderian 300-store P&L study still a candidate",
             "\ud83d\udce7 Josh Payne (Onward) inbound \u2014 wants newsletter sponsorship, asking for deck/pricing",
             "Josiah 'Ecommerce Equation' VOTW draft for Apr 26 delivered, awaiting Nik review"
@@ -218,8 +225,9 @@
             "\ud83d\udce7 NEW: Cypress RFP inbound pitch from Jasper Rowan (Sharma Brands x Cypress) \u2014 follow-up received 4/17 2:59pm",
             "\ud83d\udce7 NEW: Rameez reviving 'James Bennet x Nik Sharma' thread (10 msgs)",
             "\ud83d\udce7 NEW (4/19 9:57pm): Sandra Campos 'Catching up' \u2014 30min call ask, wants pre-launch brand perspective",
-            "\ud83d\udce7 NEW (4/19 8:40pm): Connor Tomkies (PEF) April 12th update \u2014 Singapore Chapter, AI & Venture Discussion, new team member",
-            "\ud83d\udce7 NEW (4/19 4:24pm): Anthropic receipt #2332-5728-9436 processed",
+            "\ud83d\udce7 NEW (4/20 8:49am): Guidepoint consultation request \u2014 SMS Marketing & Sales Platforms (#1727784)",
+            "\ud83d\udcc5 MentorPass: Sterling & Nik \u2014 TODAY 4:30-5:30pm ET (18-msg scheduling thread)",
+            "\ud83d\udcc5 Myles Pharmacy call Tue 4/21 1:30pm ET",
             "\ud83d\udcca Ahrefs: 8 orphan pages flagged on nik.co (no internal links)"
           ],
           "needsAttention": "Air Oasis homepage 9 days overdue + WA DOR action required"
@@ -287,15 +295,14 @@
         {
           "id": "travel",
           "emoji": "\u2708\ufe0f",
-          "title": "Travel",
+          "title": "Today & This Week",
           "status": "on-track",
-          "lastUpdated": "2026-04-19",
+          "lastUpdated": "2026-04-20",
           "bullets": [
-            "\u2705 Back in NYC (B6 816 SFO\u2192JFK landed 4/18)",
-            "\u2705 Somewhere Nowhere NYC show completed (opened Moojo)",
-            "\u2705 Newsletter shipped 6:55pm ET",
-            "\ud83c\udf82 Jon Strauss's birthday today (4/19)",
-            "\ud83d\udcc5 Mon 4/20: Record Workweek 8:15am, Fort 10am (first gym back), Check-In 11:30am, Nik x Joe 12pm, Zagged All Hands 2pm"
+            "\ud83d\udcc5 Mon 4/20 TODAY: Fort 10am \u2022 Check-In 11:30 \u2022 Nik x Joe 12pm \u2022 Record Workweek 12:30 \u2022 Zagged 2pm \u2022 Paramount VE Prep 3pm \u2022 MentorPass Sterling 4:30pm \u2022 Limited Supply Recording 7pm",
+            "\ud83d\udcc5 Tue 4/21: Zurp Check-In 11:30am \u2022 Limited Supply Recording 12pm \u2022 Check-In 1pm \u2022 Myles Pharmacy 1:30pm \u2022 After Ours Sync 2pm",
+            "\ud83d\udcc5 Wed 4/22: Chef Trey dinner \u2022 Instant x Nik 4:30pm (Jaime Egan)",
+            "\u2705 Back in NYC \u2014 first gym session back at Fort this morning"
           ],
           "needsAttention": null
         }
