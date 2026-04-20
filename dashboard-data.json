@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-20T17:01:00Z",
+  "lastRefreshed": "2026-04-20T18:00:00Z",
   "flagged": [
     {
       "id": "macra-launch",
@@ -36,17 +36,33 @@
     {
       "id": "mentorpass-sterling",
       "emoji": "\ud83d\udcc5",
-      "title": "MentorPass: Sterling & Nik \u2014 TODAY 4:30pm ET",
-      "detail": "Sterling Griffin (Sterling Capital) confirmed MentorPass call TODAY 4:30-5:30pm ET. 'Scheduling this week' thread now 18 msgs.",
+      "title": "MentorPass: Sterling & Nik \u2014 TODAY 4:30pm ET (2.5h out)",
+      "detail": "Sterling Griffin (Sterling Capital) confirmed MentorPass call TODAY 4:30-5:30pm ET. 'Scheduling this week' thread 18 msgs.",
+      "severity": "attention",
+      "since": "2026-04-20"
+    },
+    {
+      "id": "zagged-dinner",
+      "emoji": "\ud83c\udf7d\ufe0f",
+      "title": "Zagged Dinner invite \u2014 Wed 4/22 8-10:15pm",
+      "detail": "Simon Wool (Wool Ventures) sent calendar invite 1:54pm ET for Zagged Dinner Wed Apr 22 8:00-10:15pm ET. Partnership Dinner Invoice also received. Confirm attendance.",
+      "severity": "attention",
+      "since": "2026-04-20"
+    },
+    {
+      "id": "ben-zises",
+      "emoji": "\ud83d\udce7",
+      "title": "Ben Zises (SuperAngel) \u2014 'Nik x Ben' inbound",
+      "detail": "Ben Zises (SuperAngel VC) emailed 'Nik x Ben' 1:48pm ET \u2014 flagged Meeting + Respond by Superhuman. Likely intro or meeting ask.",
       "severity": "attention",
       "since": "2026-04-20"
     },
     {
       "id": "paramount-ve-prep",
-      "emoji": "\ud83d\udcc5",
-      "title": "Paramount x Nik Sharma \u2014 4/29 VE Prep Call TODAY 3pm ET",
-      "detail": "Paramount x Nik Sharma 4/29 VE Prep Call on calendar today 3:00-3:30pm ET (in ~2h). Terry Nowotny (Paramount) sent 'SHARMA BRANDS + Paramount' email 12:58pm ET \u2014 flagged Respond by Superhuman, likely prep materials for today's call.",
-      "severity": "attention",
+      "emoji": "\ud83d\udea8",
+      "title": "Paramount x Nik Sharma \u2014 4/29 VE Prep Call in 1 HOUR (3pm ET)",
+      "detail": "Paramount x Nik Sharma 4/29 VE Prep Call 3:00-3:30pm ET \u2014 starts in ~1h. Terry Nowotny (Paramount) prep email flagged Respond. Review materials NOW.",
+      "severity": "blocked",
       "since": "2026-04-20"
     },
     {
@@ -139,11 +155,11 @@
           "status": "attention",
           "lastUpdated": "2026-04-20",
           "bullets": [
-            "\ud83d\udce7 Minul 'Maruchan x Nik Sharma' thread \u2014 14 msgs (updated 11:56am 4/20)",
+            "\ud83d\udce7 Minul 'Maruchan x Nik Sharma' thread \u2014 15 msgs (updated 1:53pm 4/20)",
             "Iconic ramen brand engagement inbound",
             "Coordinated via Minul @ nik.co"
           ],
-          "needsAttention": "Thread 14 msgs deep \u2014 review and respond"
+          "needsAttention": "Thread 15 msgs deep (updated 1:53pm 4/20) \u2014 review and respond"
         },
         {
           "id": "zurp",
@@ -278,7 +294,9 @@
             "\ud83d\udce7 NEW (4/20 8:49am): Guidepoint consultation request \u2014 SMS Marketing & Sales Platforms (#1727784)",
             "\ud83d\udce7 NEW (4/20 11:42am): Rameez 'James Bennet x Nik Sharma' thread \u2014 11 msgs, active",
             "\ud83d\udce7 NEW (4/20 12:58pm): Terry Nowotny (Paramount) 'SHARMA BRANDS + Paramount' \u2014 inbound ahead of 3pm prep call",
-            "\ud83d\udcc5 Paramount x Nik \u2014 4/29 VE Prep Call TODAY 3:00pm ET",
+            "\ud83d\udce7 NEW (4/20 1:48pm): Ben Zises (SuperAngel VC) 'Nik x Ben' \u2014 flagged Meeting + Respond",
+            "\ud83d\udce7 NEW (4/20 1:54pm): Simon Wool (Wool Ventures) Zagged Dinner invite Wed 4/22 8pm + Partnership Dinner Invoice",
+            "\ud83d\udea8 Paramount x Nik \u2014 4/29 VE Prep Call in 1 HOUR (3:00pm ET)",
             "\ud83d\udcc5 MentorPass: Sterling & Nik \u2014 TODAY 4:30-5:30pm ET (18-msg scheduling thread)",
             "\ud83d\udcc5 Myles Pharmacy call Tue 4/21 1:30pm ET",
             "\ud83d\udcca Ahrefs: 8 orphan pages flagged on nik.co (no internal links)"
@@ -315,7 +333,7 @@
             "\ud83d\udce7 NEW (4/18 1:53pm): Caraway Q1 2026 Investor Update from Jordan Nathan \u2014 portfolio review",
             "\ud83d\udcc5 Fri 4/17: Rolling Ventures TB 1:30pm \u2705 + Ryan Tabb intro 2pm ET \u2705",
             "\ud83d\udce7 Jaime Egan (Instant) booked meeting w/ Nik \u2014 Wed Apr 22 4:30-5pm ET",
-            "\ud83d\udce7 NEW PEF deal flow: Sworn (AI legaltech, $950K left, closing 5/4), Kara AI ($300K ARR, 114% NRR), NoBiggie (kids F&B, $130B market), CEE Tech Founders, Kalshi (prediction market leader, direct cap-table)",
+            "\ud83d\udce7 NEW PEF deal flow: Phosphate Mine Opp (Alex Seleska, fast cash needed, 4/20), Sworn (AI legaltech, $950K left, closing 5/4), Kara AI ($300K ARR, 114% NRR), NoBiggie (kids F&B, $130B market), CEE Tech Founders, Kalshi (prediction market leader, direct cap-table)",
             "\ud83d\udcc5 Apr 29: PEF QSBS Roundtable Lunch with Rockefeller Global Family Office",
             "\ud83d\udce7 BodySpec Series A SPV via PEF \u2014 health-tech, AI-powered clinical imaging (Andrew Tan)",
             "\ud83d\udce7 Jake Valentine (Claymore Growth) inbound \u2014 asking if Masala Capital plans to raise in 2026",
@@ -352,7 +370,7 @@
           "status": "attention",
           "lastUpdated": "2026-04-20",
           "bullets": [
-            "\ud83d\udcc5 Mon 4/20 TODAY: \u2705 Nik x Joe 12pm \u2022 \u2705 Record Workweek 12:30 \u2022 Zagged 2pm \u2022 Paramount 4/29 VE Prep 3pm (\u223c2h) \u2022 MentorPass Sterling 4:30pm \u2022 Limited Supply Recording 7pm \u2022 Mold Test 8:45pm",
+            "\ud83d\udcc5 Mon 4/20 TODAY (2pm): \u2705 Nik x Joe 12pm \u2022 \u2705 Record Workweek 12:30 \u2022 \u2705 Zagged 2pm (NOW) \u2022 \ud83d\udea8 Paramount 4/29 VE Prep 3pm (1h out) \u2022 MentorPass Sterling 4:30pm \u2022 Limited Supply Recording 7pm \u2022 Mold Test 8:45pm",
             "\ud83d\udea8 Anthropic API (jet@nik.co) turned OFF \u2014 $272.19 payment failed 11:35am. Update billing to restore.",
             "\ud83d\udcc5 Tue 4/21: Zurp Check-In 11:30am \u2022 Limited Supply Recording 12pm \u2022 Check-In 1pm \u2022 Myles Pharmacy 1:30pm \u2022 After Ours Sync 2pm",
             "\ud83d\udcc5 Wed 4/22: Chef Trey dinner \u2022 Instant x Nik 4:30pm (Jaime Egan)",
