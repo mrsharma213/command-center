@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-20T20:00:00Z",
+  "lastRefreshed": "2026-04-20T21:00:00Z",
   "flagged": [
     {
       "id": "macra-launch",
@@ -35,9 +35,25 @@
     },
     {
       "id": "mentorpass-sterling",
-      "emoji": "\ud83d\udcc5",
-      "title": "MentorPass: Sterling & Nik \u2014 TODAY 4:30pm ET (1.5h out)",
-      "detail": "Sterling Griffin (Sterling Capital) confirmed MentorPass call TODAY 4:30-5:30pm ET. 'Scheduling this week' thread 18 msgs. NOTE: Not on Nik's calendar pull at 3pm \u2014 verify still live.",
+      "emoji": "\u2705",
+      "title": "MentorPass: Sterling & Nik \u2014 CONFIRMED, in session now (4:30-5:30pm ET)",
+      "detail": "MentorPass 'Session confirmed!' email arrived 4:50pm ET. Sterling Griffin (Sterling Capital) 'Scheduling this week' thread now 24 msgs \u2014 latest reply 4:59pm. Call is live.",
+      "severity": "info",
+      "since": "2026-04-20"
+    },
+    {
+      "id": "jake-panzer-intro",
+      "emoji": "\ud83d\udce7",
+      "title": "Tom Logan \u2014 'Fwd: Nik and Jake Panzer' (4:42pm)",
+      "detail": "Tom Logan (seeugcmarketing.info) forwarded 'Nik and Jake Panzer' 4:42pm ET. Flagged Meeting + Respond + IMPORTANT by Superhuman. Likely intro/meeting ask.",
+      "severity": "attention",
+      "since": "2026-04-20"
+    },
+    {
+      "id": "erika-hughes-loc",
+      "emoji": "\ud83d\udce7",
+      "title": "Erika Hughes (bizport) \u2014 'quick loc for Nik' inbound (4:19pm)",
+      "detail": "Erika Hughes (bizport.site) sent 'quick loc for Nik' 4:19pm ET. 3-msg thread, flagged Pitch by Superhuman. Likely location/venue pitch.",
       "severity": "attention",
       "since": "2026-04-20"
     },
@@ -325,6 +341,11 @@
             "\ud83d\udce7 NEW (4/20 2:46pm): Gisela Rojas (Tondo) 'Partnership Event Invoice'",
             "\ud83d\udce7 NEW (4/20 3:52pm): Jack Bandera (StackAdapt) \u2018Partner Evaluation for Q2 & Beyond\u2019 \u2014 pitch/respond",
             "\ud83d\udce7 NEW (4/20 3:56pm): Fernando Garza (ClientLoop) \u2018bold design Nik\u2019 \u2014 pitch",
+            "\ud83d\udce7 NEW (4/20 4:19pm): Erika Hughes (bizport) \u2018quick loc for Nik\u2019 \u2014 pitch, 3-msg thread",
+            "\ud83d\udce7 NEW (4/20 4:42pm): Tom Logan \u2018Fwd: Nik and Jake Panzer\u2019 \u2014 Meeting + Respond + IMPORTANT",
+            "\u2705 (4/20 4:50pm): MentorPass \u2018Session confirmed!\u2019 \u2014 Sterling x Nik call live 4:30-5:30pm",
+            "\ud83d\udce7 NEW (4/20 4:59pm): Sterling Griffin reply \u2014 'Scheduling this week' thread now 24 msgs",
+            "\ud83d\udce7 NEW (4/20 5:41pm): Sriram Krishnan (Kearny Jackson) \u2018Oil & Gas terminal EMEA/WAF\u2019 \u2014 PEF deal flow (tag Rolling Ventures)",
             "\u2705 Paramount x Nik \u2014 4/29 VE Prep Call WRAPPED (3:00-3:30pm ET). Doc comment 3:06pm: \u2018not accurate - requires 10k budget for...\u2019 \u2014 review + revise",
             "\ud83d\udcc5 MentorPass: Sterling & Nik \u2014 TODAY 4:30-5:30pm ET (18-msg scheduling thread)",
             "\ud83d\udcc5 Myles Pharmacy call Tue 4/21 1:30pm ET",
@@ -359,6 +380,7 @@
           "status": "on-track",
           "lastUpdated": "2026-04-18",
           "bullets": [
+            "\ud83d\udce7 NEW (4/20 5:41pm): Sriram Krishnan (Kearny Jackson) \u2014 PEF Oil & Gas terminal EMEA/WAF deal flow",
             "\ud83d\udce7 NEW (4/18 1:53pm): Caraway Q1 2026 Investor Update from Jordan Nathan \u2014 portfolio review",
             "\ud83d\udcc5 Fri 4/17: Rolling Ventures TB 1:30pm \u2705 + Ryan Tabb intro 2pm ET \u2705",
             "\ud83d\udce7 Jaime Egan (Instant) booked meeting w/ Nik \u2014 Wed Apr 22 4:30-5pm ET",
@@ -399,8 +421,12 @@
           "status": "attention",
           "lastUpdated": "2026-04-20",
           "bullets": [
-            "\ud83d\udcc5 Mon 4/20 TODAY (4pm): \u2705 Nik x Joe 12pm \u2022 \u2705 Workweek 12:30 \u2022 \u2705 Zagged 2pm \u2022 \u2705 Paramount VE Prep 3:00pm \u2022 \u23f1\ufe0f Lock-in sesh 5:30-9:45pm \u2022 \ud83c\udf99\ufe0f Limited Supply Recording 7:00-8:15pm \u2022 \ud83d\udd2c Mold Test 8:45-9:30pm",
-            "\u26a0\ufe0f MentorPass Sterling 4:30pm \u2014 NOT on today\u2019s calendar. Verify live or rescheduled.",
+            "\ud83d\udcc5 Mon 4/20 TODAY (5pm): \u2705 Nik x Joe 12pm \u2022 \u2705 Workweek 12:30 \u2022 \u2705 Zagged 2pm \u2022 \u2705 Paramount VE Prep 3:00pm \u2022 \u2705 MentorPass Sterling 4:30pm CONFIRMED \u2022 \u23f1\ufe0f Lock-in sesh 5:30-9:45pm \u2022 \ud83c\udf99\ufe0f Limited Supply Recording 7:00-8:15pm \u2022 \ud83d\udd2c Mold Test 8:45-9:30pm",
+            "\u2705 MentorPass Sterling 4:30pm \u2014 'Session confirmed!' 4:50pm. Sterling thread now 24 msgs.",
+            "\ud83d\udce7 Fresh inbound 4:42pm: Tom Logan 'Fwd: Nik and Jake Panzer' (Meeting+Respond+IMPORTANT)",
+            "\ud83d\udce7 Fresh inbound 4:19pm: Erika Hughes (bizport) 'quick loc for Nik' (pitch)",
+            "\ud83d\udce7 Fresh inbound 5:41pm: Sriram Krishnan (Kearny Jackson) PEF deal flow \u2014 Oil & Gas terminal EMEA/WAF",
+            "\ud83d\udcc5 Next up: Lock-in sesh 5:30pm \u2022 Limited Supply Podcast Recording 7:00-8:15pm",
             "\ud83d\udce7 Fresh inbound 3:50-4pm: Jack Bandera (StackAdapt) \u2018Partner Evaluation Q2 & Beyond\u2019 \u2022 Fernando Garza (ClientLoop) \u2018bold design Nik\u2019 pitch",
             "\ud83d\udce7 Earlier inbound (2:30-3pm): Left Lane (Kristina Igoe, IMPORTANT) \u2022 Love Wellness (Minul) \u2022 Tondo Partnership Invoice (Gisela Rojas) \u2022 Ben Zises (SuperAngel)",
             "\ud83d\udccc Anthropic API (jet@nik.co) \u2014 receipt + invoice follow-ups arrived 11:35-11:36am. Still need billing fix.",

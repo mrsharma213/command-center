@@ -29,10 +29,6 @@
         "text": "✅ verified.macra.com CNAME added via Namecheap API"
       }
     ],
-    "people": [],
-    "upcomingEvents": [],
-    "links": [],
-    "decisions": [],
     "status": "attention",
     "updated": "2026-04-20",
     "alert": "Day 4 post-launch — monitoring early sales + ad performance. Rameez testing thread active (43 msgs)."
@@ -55,10 +51,6 @@
         "text": "Awaiting scope / next steps"
       }
     ],
-    "people": [],
-    "upcomingEvents": [],
-    "links": [],
-    "decisions": [],
     "status": "attention",
     "updated": "2026-04-20",
     "alert": "New client engagement — confirm scope with Minul"
@@ -81,10 +73,6 @@
         "text": "Coordinated via Minul @ nik.co"
       }
     ],
-    "people": [],
-    "upcomingEvents": [],
-    "links": [],
-    "decisions": [],
     "status": "attention",
     "updated": "2026-04-20",
     "alert": "Thread 15 msgs deep (updated 1:53pm 4/20) — review and respond"
@@ -92,7 +80,7 @@
   {
     "name": "Zurp",
     "desc": "Companies",
-    "currentStatus": "🎉 Victor Calderone residency weekend wrapped — pull results at Zurp Check-In Tue 4/21 11:30am",
+    "currentStatus": "",
     "recentActivity": [
       {
         "date": "2026-04-20",
@@ -119,11 +107,7 @@
         "text": "✅ Brand book DONE — brand.zurp.com (password: zurp2026)"
       }
     ],
-    "people": [],
-    "upcomingEvents": [],
-    "links": [],
-    "decisions": [],
-    "status": "active",
+    "status": "on-track",
     "updated": "2026-04-20"
   },
   {
@@ -160,10 +144,6 @@
         "text": "Verticals: clothing, sports cards, cannabis, skincare"
       }
     ],
-    "people": [],
-    "upcomingEvents": [],
-    "links": [],
-    "decisions": [],
     "status": "attention",
     "updated": "2026-04-15",
     "alert": "New project — awaiting Troy review of features doc"
@@ -171,7 +151,7 @@
   {
     "name": "Pigeon House Records",
     "desc": "Companies",
-    "currentStatus": "Label active with After Ours releases",
+    "currentStatus": "",
     "recentActivity": [
       {
         "date": "2026-04-17",
@@ -194,11 +174,7 @@
         "text": "Rahul onboarding to IG strategy + content research"
       }
     ],
-    "people": [],
-    "upcomingEvents": [],
-    "links": [],
-    "decisions": [],
-    "status": "active",
+    "status": "on-track",
     "updated": "2026-04-17"
   },
   {
@@ -235,10 +211,6 @@
         "text": "📝 Brand voice brief owed to Brandon — due this week"
       }
     ],
-    "people": [],
-    "upcomingEvents": [],
-    "links": [],
-    "decisions": [],
     "status": "attention",
     "updated": "2026-04-20",
     "alert": "Post-show Day 2 — pull videographer assets + brand voice brief still owed to Brandon."
@@ -246,7 +218,7 @@
   {
     "name": "Limited Supply Podcast",
     "desc": "Media & Content",
-    "currentStatus": "Vinay Sridhar (Reddit) podcast episode — scheduling for 4/21 or 4/22",
+    "currentStatus": "",
     "recentActivity": [
       {
         "date": "2026-04-17",
@@ -265,17 +237,13 @@
         "text": "Josiah Writer bot + style guide (18K words) for drafts"
       }
     ],
-    "people": [],
-    "upcomingEvents": [],
-    "links": [],
-    "decisions": [],
-    "status": "active",
+    "status": "on-track",
     "updated": "2026-04-17"
   },
   {
     "name": "Newsletter / Workweek",
     "desc": "Media & Content",
-    "currentStatus": "✅ Apr 19 SHIPPED — 'The product is fine. The education is broken.'",
+    "currentStatus": "",
     "recentActivity": [
       {
         "date": "2026-04-20",
@@ -302,11 +270,7 @@
         "text": "Josiah 'Ecommerce Equation' VOTW draft for Apr 26 delivered, awaiting Nik review"
       }
     ],
-    "people": [],
-    "upcomingEvents": [],
-    "links": [],
-    "decisions": [],
-    "status": "active",
+    "status": "on-track",
     "updated": "2026-04-20"
   },
   {
@@ -428,6 +392,26 @@
       },
       {
         "date": "2026-04-17",
+        "text": "📧 NEW (4/20 4:19pm): Erika Hughes (bizport) ‘quick loc for Nik’ — pitch, 3-msg thread"
+      },
+      {
+        "date": "2026-04-17",
+        "text": "📧 NEW (4/20 4:42pm): Tom Logan ‘Fwd: Nik and Jake Panzer’ — Meeting + Respond + IMPORTANT"
+      },
+      {
+        "date": "2026-04-17",
+        "text": "✅ (4/20 4:50pm): MentorPass ‘Session confirmed!’ — Sterling x Nik call live 4:30-5:30pm"
+      },
+      {
+        "date": "2026-04-17",
+        "text": "📧 NEW (4/20 4:59pm): Sterling Griffin reply — 'Scheduling this week' thread now 24 msgs"
+      },
+      {
+        "date": "2026-04-17",
+        "text": "📧 NEW (4/20 5:41pm): Sriram Krishnan (Kearny Jackson) ‘Oil & Gas terminal EMEA/WAF’ — PEF deal flow (tag Rolling Ventures)"
+      },
+      {
+        "date": "2026-04-17",
         "text": "✅ Paramount x Nik — 4/29 VE Prep Call WRAPPED (3:00-3:30pm ET). Doc comment 3:06pm: ‘not accurate - requires 10k budget for...’ — review + revise"
       },
       {
@@ -443,10 +427,6 @@
         "text": "📊 Ahrefs: 8 orphan pages flagged on nik.co (no internal links)"
       }
     ],
-    "people": [],
-    "upcomingEvents": [],
-    "links": [],
-    "decisions": [],
     "status": "attention",
     "updated": "2026-04-17",
     "alert": "Air Oasis homepage 9 days overdue + WA DOR action required"
@@ -454,7 +434,7 @@
   {
     "name": "Ecom Founders",
     "desc": "Brand Consulting",
-    "currentStatus": "📧 Rameez told Triple Whale (Daniela): AI Summit going live with full announcements next week",
+    "currentStatus": "",
     "recentActivity": [
       {
         "date": "2026-04-17",
@@ -477,11 +457,7 @@
         "text": "Website being built by Riaz"
       }
     ],
-    "people": [],
-    "upcomingEvents": [],
-    "links": [],
-    "decisions": [],
-    "status": "active",
+    "status": "on-track",
     "updated": "2026-04-17"
   },
   {
@@ -489,6 +465,10 @@
     "desc": "Rolling Ventures",
     "currentStatus": "unspun signature still required ASAP",
     "recentActivity": [
+      {
+        "date": "2026-04-18",
+        "text": "📧 NEW (4/20 5:41pm): Sriram Krishnan (Kearny Jackson) — PEF Oil & Gas terminal EMEA/WAF deal flow"
+      },
       {
         "date": "2026-04-18",
         "text": "📧 NEW (4/18 1:53pm): Caraway Q1 2026 Investor Update from Jordan Nathan — portfolio review"
@@ -534,18 +514,14 @@
         "text": "⚠️ unspun Inc Pay-to-Play Series B-3 — signature still required ASAP"
       }
     ],
-    "people": [],
-    "upcomingEvents": [],
-    "links": [],
-    "decisions": [],
-    "status": "active",
+    "status": "on-track",
     "updated": "2026-04-18",
     "alert": "unspun signature still required ASAP"
   },
   {
     "name": "Personal Investments",
     "desc": "Rolling Ventures",
-    "currentStatus": "unspun Inc — Pay-to-Play Series B-3 (signature still required ASAP)",
+    "currentStatus": "",
     "recentActivity": [
       {
         "date": "2026-04-14",
@@ -564,25 +540,37 @@
         "text": "Tracked separately from Rolling Ventures fund"
       }
     ],
-    "people": [],
-    "upcomingEvents": [],
-    "links": [],
-    "decisions": [],
-    "status": "active",
+    "status": "on-track",
     "updated": "2026-04-14"
   },
   {
     "name": "Today & This Week",
     "desc": "Nik Sharma — Personal",
-    "currentStatus": "📅 Mon 4/20 TODAY (4pm): ✅ Nik x Joe 12pm • ✅ Workweek 12:30 • ✅ Zagged 2pm • ✅ Paramount VE Prep 3:00pm • ⏱️ Lock-in sesh 5:30-9:45pm • 🎙️ Limited Supply Recording 7:00-8:15pm • 🔬 Mold Test 8:45-9:30pm",
+    "currentStatus": "",
     "recentActivity": [
       {
         "date": "2026-04-20",
-        "text": "📅 Mon 4/20 TODAY (4pm): ✅ Nik x Joe 12pm • ✅ Workweek 12:30 • ✅ Zagged 2pm • ✅ Paramount VE Prep 3:00pm • ⏱️ Lock-in sesh 5:30-9:45pm • 🎙️ Limited Supply Recording 7:00-8:15pm • 🔬 Mold Test 8:45-9:30pm"
+        "text": "📅 Mon 4/20 TODAY (5pm): ✅ Nik x Joe 12pm • ✅ Workweek 12:30 • ✅ Zagged 2pm • ✅ Paramount VE Prep 3:00pm • ✅ MentorPass Sterling 4:30pm CONFIRMED • ⏱️ Lock-in sesh 5:30-9:45pm • 🎙️ Limited Supply Recording 7:00-8:15pm • 🔬 Mold Test 8:45-9:30pm"
       },
       {
         "date": "2026-04-20",
-        "text": "⚠️ MentorPass Sterling 4:30pm — NOT on today’s calendar. Verify live or rescheduled."
+        "text": "✅ MentorPass Sterling 4:30pm — 'Session confirmed!' 4:50pm. Sterling thread now 24 msgs."
+      },
+      {
+        "date": "2026-04-20",
+        "text": "📧 Fresh inbound 4:42pm: Tom Logan 'Fwd: Nik and Jake Panzer' (Meeting+Respond+IMPORTANT)"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "📧 Fresh inbound 4:19pm: Erika Hughes (bizport) 'quick loc for Nik' (pitch)"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "📧 Fresh inbound 5:41pm: Sriram Krishnan (Kearny Jackson) PEF deal flow — Oil & Gas terminal EMEA/WAF"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "📅 Next up: Lock-in sesh 5:30pm • Limited Supply Podcast Recording 7:00-8:15pm"
       },
       {
         "date": "2026-04-20",
@@ -613,17 +601,13 @@
         "text": "✅ Back in NYC — first gym session back at Fort this morning"
       }
     ],
-    "people": [],
-    "upcomingEvents": [],
-    "links": [],
-    "decisions": [],
     "status": "attention",
     "updated": "2026-04-20"
   },
   {
     "name": "My Agents",
     "desc": "Operations",
-    "currentStatus": "14 bots operational",
+    "currentStatus": "",
     "recentActivity": [
       {
         "date": "2026-04-14",
@@ -654,11 +638,7 @@
         "text": "Namecheap API connected — macra.com + niksharma.io managed"
       }
     ],
-    "people": [],
-    "upcomingEvents": [],
-    "links": [],
-    "decisions": [],
-    "status": "active",
+    "status": "on-track",
     "updated": "2026-04-14"
   }
 ]
