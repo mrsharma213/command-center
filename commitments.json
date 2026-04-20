@@ -1,57 +1,8 @@
 {
-  "open": 3,
+  "open": 0,
   "resolved": 0,
   "overdue": 0,
   "aging": 0,
-  "last_updated": "2026-04-20T18:50:04.156Z",
-  "commitments": [
-    {
-      "id": "01KPNRCR37R7GB1AQ4ER0KFC1D-0",
-      "transcript_id": "01KPNRCR37R7GB1AQ4ER0KFC1D",
-      "meeting_title": "Check in",
-      "meeting_date": 1776699300000,
-      "transcript_url": "https://app.fireflies.ai/view/01KPNRCR37R7GB1AQ4ER0KFC1D",
-      "sentence": "Well, I'm gonna have the one call to do both.",
-      "context": "Rameez Rumy: I thought this was not on macro. | Nik Sharma: No, no, no. | Nik Sharma: Well, I'm gonna have the one call to do both. | Nik Sharma: I gotta tell them about macro.",
-      "speaker": "Nik Sharma",
-      "start_time": 56.43,
-      "owed_to": [],
-      "created_at": "2026-04-20T18:50:03.998Z",
-      "status": "open",
-      "checks": [],
-      "resolved": false
-    },
-    {
-      "id": "01KPNRCR37R7GB1AQ4ER0KFC1D-1",
-      "transcript_id": "01KPNRCR37R7GB1AQ4ER0KFC1D",
-      "meeting_title": "Check in",
-      "meeting_date": 1776699300000,
-      "transcript_url": "https://app.fireflies.ai/view/01KPNRCR37R7GB1AQ4ER0KFC1D",
-      "sentence": "Okay, let me check one more thing real quick.",
-      "context": "Rameez Rumy: Not that one. | Rameez Rumy: No, I can reach out to. | Nik Sharma: Okay, let me check one more thing real quick. | Nik Sharma: The we have a shared channel with.",
-      "speaker": "Nik Sharma",
-      "start_time": 624.19,
-      "owed_to": [],
-      "created_at": "2026-04-20T18:50:03.998Z",
-      "status": "open",
-      "checks": [],
-      "resolved": false
-    },
-    {
-      "id": "01KPNRCR37R7GB1AQ4ER0KFC1D-2",
-      "transcript_id": "01KPNRCR37R7GB1AQ4ER0KFC1D",
-      "meeting_title": "Check in",
-      "meeting_date": 1776699300000,
-      "transcript_url": "https://app.fireflies.ai/view/01KPNRCR37R7GB1AQ4ER0KFC1D",
-      "sentence": "So here, let me send this link to you guys.",
-      "context": "Nik Sharma: If you go to. | Nik Sharma: Or actually, you know what, they might have killed the Marlo site and just put it on Brooklyn's website. | Nik Sharma: So here, let me send this link to you guys. | Nik Sharma: Boom.",
-      "speaker": "Nik Sharma",
-      "start_time": 1513.57,
-      "owed_to": [],
-      "created_at": "2026-04-20T18:50:03.998Z",
-      "status": "open",
-      "checks": [],
-      "resolved": false
-    }
-  ]
+  "last_updated": "2026-04-20T14:55:00-04:00",
+  "commitments": []
 }
