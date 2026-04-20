@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-20T21:00:00Z",
+  "lastRefreshed": "2026-04-20T22:05:00Z",
   "flagged": [
     {
       "id": "macra-launch",
@@ -36,9 +36,25 @@
     {
       "id": "mentorpass-sterling",
       "emoji": "\u2705",
-      "title": "MentorPass: Sterling & Nik \u2014 CONFIRMED, in session now (4:30-5:30pm ET)",
-      "detail": "MentorPass 'Session confirmed!' email arrived 4:50pm ET. Sterling Griffin (Sterling Capital) 'Scheduling this week' thread now 24 msgs \u2014 latest reply 4:59pm. Call is live.",
+      "title": "MentorPass: Sterling & Nik \u2014 WRAPPED (4:30-5:30pm ET)",
+      "detail": "MentorPass session wrapped. Sterling Griffin (Sterling Capital) 'Scheduling this week' thread 24 msgs deep. Call complete \u2014 monitor for follow-ups.",
       "severity": "info",
+      "since": "2026-04-20"
+    },
+    {
+      "id": "gribbla-myles",
+      "emoji": "\ud83d\udce7",
+      "title": "Myles Harris (Gribbla) \u2014 'US Sales Opp' inbound (5:27pm)",
+      "detail": "Myles Harris (allthethingsllc.com) sent 'Gribbla - US Sales Opp' 5:27pm ET. Flagged Meeting + Respond + IMPORTANT by Superhuman. New US sales opportunity pitch.",
+      "severity": "attention",
+      "since": "2026-04-20"
+    },
+    {
+      "id": "nik-co-forms-burst",
+      "emoji": "\ud83d\udce8",
+      "title": "nik.co Webflow \u2014 5 form submissions in 2-min burst (5:49-5:51pm)",
+      "detail": "Burst of inbound nik.co form activity 5:49-5:51pm ET: Guide Form, Contact Form, Footer Subscribe, Newsletter Capture, and Subscribe all fired within 2 minutes. Check for spam vs legitimate leads.",
+      "severity": "attention",
       "since": "2026-04-20"
     },
     {
@@ -343,9 +359,11 @@
             "\ud83d\udce7 NEW (4/20 3:56pm): Fernando Garza (ClientLoop) \u2018bold design Nik\u2019 \u2014 pitch",
             "\ud83d\udce7 NEW (4/20 4:19pm): Erika Hughes (bizport) \u2018quick loc for Nik\u2019 \u2014 pitch, 3-msg thread",
             "\ud83d\udce7 NEW (4/20 4:42pm): Tom Logan \u2018Fwd: Nik and Jake Panzer\u2019 \u2014 Meeting + Respond + IMPORTANT",
-            "\u2705 (4/20 4:50pm): MentorPass \u2018Session confirmed!\u2019 \u2014 Sterling x Nik call live 4:30-5:30pm",
+            "\u2705 (4/20 4:30-5:30pm): MentorPass Sterling x Nik \u2014 session WRAPPED",
             "\ud83d\udce7 NEW (4/20 4:59pm): Sterling Griffin reply \u2014 'Scheduling this week' thread now 24 msgs",
+            "\ud83d\udce7 NEW (4/20 5:27pm): Myles Harris (Gribbla) \u2018US Sales Opp\u2019 \u2014 Meeting + Respond + IMPORTANT",
             "\ud83d\udce7 NEW (4/20 5:41pm): Sriram Krishnan (Kearny Jackson) \u2018Oil & Gas terminal EMEA/WAF\u2019 \u2014 PEF deal flow (tag Rolling Ventures)",
+            "\ud83d\udce8 NEW (4/20 5:49-5:51pm): nik.co Webflow burst \u2014 5 form submissions in 2 min (Guide, Contact, Footer Sub, NL Capture, Subscribe) \u2014 review for spam vs leads",
             "\u2705 Paramount x Nik \u2014 4/29 VE Prep Call WRAPPED (3:00-3:30pm ET). Doc comment 3:06pm: \u2018not accurate - requires 10k budget for...\u2019 \u2014 review + revise",
             "\ud83d\udcc5 MentorPass: Sterling & Nik \u2014 TODAY 4:30-5:30pm ET (18-msg scheduling thread)",
             "\ud83d\udcc5 Myles Pharmacy call Tue 4/21 1:30pm ET",
@@ -423,10 +441,13 @@
           "bullets": [
             "\ud83d\udcc5 Mon 4/20 TODAY (5pm): \u2705 Nik x Joe 12pm \u2022 \u2705 Workweek 12:30 \u2022 \u2705 Zagged 2pm \u2022 \u2705 Paramount VE Prep 3:00pm \u2022 \u2705 MentorPass Sterling 4:30pm CONFIRMED \u2022 \u23f1\ufe0f Lock-in sesh 5:30-9:45pm \u2022 \ud83c\udf99\ufe0f Limited Supply Recording 7:00-8:15pm \u2022 \ud83d\udd2c Mold Test 8:45-9:30pm",
             "\u2705 MentorPass Sterling 4:30pm \u2014 'Session confirmed!' 4:50pm. Sterling thread now 24 msgs.",
+            "\u2705 MentorPass Sterling 4:30-5:30pm \u2014 WRAPPED. 24-msg thread now settled.",
+            "\ud83d\udce7 Fresh inbound 5:27pm: Myles Harris (Gribbla) 'US Sales Opp' (Meeting+Respond+IMPORTANT)",
+            "\ud83d\udce7 Fresh inbound 5:41pm: Sriram Krishnan (Kearny Jackson) PEF deal flow \u2014 Oil & Gas terminal EMEA/WAF",
+            "\ud83d\udce8 nik.co form burst 5:49-5:51pm \u2014 5 Webflow submissions in 2 min (check for spam)",
             "\ud83d\udce7 Fresh inbound 4:42pm: Tom Logan 'Fwd: Nik and Jake Panzer' (Meeting+Respond+IMPORTANT)",
             "\ud83d\udce7 Fresh inbound 4:19pm: Erika Hughes (bizport) 'quick loc for Nik' (pitch)",
-            "\ud83d\udce7 Fresh inbound 5:41pm: Sriram Krishnan (Kearny Jackson) PEF deal flow \u2014 Oil & Gas terminal EMEA/WAF",
-            "\ud83d\udcc5 Next up: Lock-in sesh 5:30pm \u2022 Limited Supply Podcast Recording 7:00-8:15pm",
+            "\ud83d\udcc5 Next up: Limited Supply Podcast Recording 7:00-8:15pm \u2022 Mold Test 8:45-9:30pm",
             "\ud83d\udce7 Fresh inbound 3:50-4pm: Jack Bandera (StackAdapt) \u2018Partner Evaluation Q2 & Beyond\u2019 \u2022 Fernando Garza (ClientLoop) \u2018bold design Nik\u2019 pitch",
             "\ud83d\udce7 Earlier inbound (2:30-3pm): Left Lane (Kristina Igoe, IMPORTANT) \u2022 Love Wellness (Minul) \u2022 Tondo Partnership Invoice (Gisela Rojas) \u2022 Ben Zises (SuperAngel)",
             "\ud83d\udccc Anthropic API (jet@nik.co) \u2014 receipt + invoice follow-ups arrived 11:35-11:36am. Still need billing fix.",
