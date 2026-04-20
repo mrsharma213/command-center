@@ -3,56 +3,56 @@
   "flagged": [
     {
       "id": "macra-launch",
-      "emoji": "💊",
-      "title": "Macra — Day 1 Post-Launch: Carb Curb + Mood Bloom LIVE",
-      "detail": "Day 2 post-launch. ✅ ALL 3 TRADEMARKS FILED. $30K initial ad spend deploying. Rameez 'Macra testing' thread active (43 msgs) — coordinating COAs with Light Labs. Monitor early sales data + ad performance.",
+      "emoji": "\ud83d\udc8a",
+      "title": "Macra \u2014 Day 1 Post-Launch: Carb Curb + Mood Bloom LIVE",
+      "detail": "Day 2 post-launch. \u2705 ALL 3 TRADEMARKS FILED. $30K initial ad spend deploying. Rameez 'Macra testing' thread active (43 msgs) \u2014 coordinating COAs with Light Labs. Monitor early sales data + ad performance.",
       "severity": "attention",
       "since": "2026-04-16"
     },
     {
       "id": "yosharma-invoice",
-      "emoji": "💰",
-      "title": "YoSharma LLC Invoice INV-5 OVERDUE — YC Management",
+      "emoji": "\ud83d\udcb0",
+      "title": "YoSharma LLC Invoice INV-5 OVERDUE \u2014 YC Management",
       "detail": "Mercury invoice INV-5 from YoSharma LLC to Y Combinator Management LLC was due Apr 15 and remains unpaid (4 days overdue). Pay link: app.mercury.com/pay/fgmhz6gnwmlf5hqd",
       "severity": "blocked",
       "since": "2026-04-16"
     },
     {
       "id": "air-oasis-homepage",
-      "emoji": "🚨",
-      "title": "Air Oasis — Homepage Deadline PASSED",
-      "detail": "Font pairing mockup to Derek was due end of week (Fri 4/10) — 9 days overdue. Air Oasis marketing email still active (oak season campaign 4/17). No homepage follow-up visible. Needs action.",
+      "emoji": "\ud83d\udea8",
+      "title": "Air Oasis \u2014 Homepage Deadline PASSED",
+      "detail": "Font pairing mockup to Derek was due end of week (Fri 4/10) \u2014 9 days overdue. Air Oasis marketing email still active (oak season campaign 4/17). No homepage follow-up visible. Needs action.",
       "severity": "blocked",
       "since": "2026-04-07"
     },
     {
       "id": "newsletter-sent",
-      "emoji": "✅",
-      "title": "Newsletter SHIPPED 6:55pm ET — 'The product is fine. The education is broken.'",
+      "emoji": "\u2705",
+      "title": "Newsletter SHIPPED 6:55pm ET \u2014 'The product is fine. The education is broken.'",
       "detail": "Sunday edition sent 6:55pm ET via niksharma@workweek.com. Thread now 9 msgs deep (replies/engagement flowing). Next: monitor open/click rates + pick next week's topic.",
       "severity": "info",
       "since": "2026-04-19"
     },
     {
       "id": "sandra-campos-intro",
-      "emoji": "📧",
-      "title": "Sandra Campos — 'Catching up' inbound (30min call)",
+      "emoji": "\ud83d\udce7",
+      "title": "Sandra Campos \u2014 'Catching up' inbound (30min call)",
       "detail": "Former client asking for 30min coffee/virtual call. Wants to share what she's working on + understand how Nik engages with pre-launch brands. Reference to Helena. Flagged Respond by Superhuman.",
       "severity": "attention",
       "since": "2026-04-19"
     },
     {
       "id": "ao-show-recap",
-      "emoji": "🎧",
-      "title": "After Ours — Somewhere Nowhere NYC ✅ DONE (opened Moojo)",
-      "detail": "Show wrapped ~2am. Awaiting pro media/videographer pull-through from Paul/NÜ MGMT. Brand voice brief still owed to Brandon.",
+      "emoji": "\ud83c\udfa7",
+      "title": "After Ours \u2014 Somewhere Nowhere NYC \u2705 DONE (opened Moojo)",
+      "detail": "Show wrapped ~2am. Awaiting pro media/videographer pull-through from Paul/N\u00dc MGMT. Brand voice brief still owed to Brandon.",
       "severity": "attention",
       "since": "2026-04-19"
     },
     {
       "id": "wa-dor-action",
-      "emoji": "📋",
-      "title": "WA Dept of Revenue — Action Required",
+      "emoji": "\ud83d\udccb",
+      "title": "WA Dept of Revenue \u2014 Action Required",
       "detail": "Secure message requiring action in My DOR for Sharma Brands Inc (605-181-506). Log in at secure.dor.wa.gov.",
       "severity": "attention",
       "since": "2026-04-11"
@@ -62,7 +62,7 @@
     "status": "sent",
     "sendDay": "Sunday",
     "topic": "The product is fine. The education is broken.",
-    "note": "Sent Apr 19, 6:55pm ET. Thread 9 msgs deep — replies/engagement active. Last week: 'Affiliate marketing, done right' (Apr 12). Next topic TBD — Andrew Youderian 300-store P&L study still a leading candidate.",
+    "note": "Sent Apr 19, 6:55pm ET. Thread 9 msgs deep \u2014 replies/engagement active. Last week: 'Affiliate marketing, done right' (Apr 12). Next topic TBD \u2014 Andrew Youderian 300-store P&L study still a leading candidate.",
     "topicIdeas": [
       "Andrew Youderian 300-store P&L deep dive w/ Nik commentary"
     ]
@@ -73,62 +73,62 @@
       "projects": [
         {
           "id": "macra",
-          "emoji": "💊",
+          "emoji": "\ud83d\udc8a",
           "title": "Macra",
           "status": "attention",
           "lastUpdated": "2026-04-17",
           "bullets": [
-            "💊 Day 2 post-launch — Mood Bloom™ + Carb Curb™ launched Apr 16",
-            "📧 Rameez 'Macra testing' thread active (43 msgs) — coordinating COAs + Light Labs updates",
-            "✅ ALL 3 TRADEMARKS FILED: CARB MUTE (99765362) + MOOD BLOOM (99765355) + CARB CURB (99765775)",
-            "📝 GT attorney Matthew Goings: Use ™ symbol. 6-10 month USPTO examination.",
-            "Initial ad spend $30K deploying • Monitor early performance data",
-            "✅ verified.macra.com CNAME added via Namecheap API"
+            "\ud83d\udc8a Day 2 post-launch \u2014 Mood Bloom\u2122 + Carb Curb\u2122 launched Apr 16",
+            "\ud83d\udce7 Rameez 'Macra testing' thread active (43 msgs) \u2014 coordinating COAs + Light Labs updates",
+            "\u2705 ALL 3 TRADEMARKS FILED: CARB MUTE (99765362) + MOOD BLOOM (99765355) + CARB CURB (99765775)",
+            "\ud83d\udcdd GT attorney Matthew Goings: Use \u2122 symbol. 6-10 month USPTO examination.",
+            "Initial ad spend $30K deploying \u2022 Monitor early performance data",
+            "\u2705 verified.macra.com CNAME added via Namecheap API"
           ],
-          "needsAttention": "Day 2 post-launch — monitoring early sales + ad performance. Rameez testing thread active (43 msgs)."
+          "needsAttention": "Day 2 post-launch \u2014 monitoring early sales + ad performance. Rameez testing thread active (43 msgs)."
         },
         {
           "id": "zurp",
-          "emoji": "📱",
+          "emoji": "\ud83d\udcf1",
           "title": "Zurp",
           "status": "on-track",
           "lastUpdated": "2026-04-17",
           "bullets": [
-            "📧 Follow-up email sent to Remy at Refuge for charger placement",
-            "🔋 Indoor unit (24 batteries) ready for this weekend's Victor Calderone residency",
-            "✅ March legal invoice (Robert Freund Law) paid by Minul",
-            "⏳ Weather-proof outdoor unit: 6-week lead time",
-            "💰 Revenue split: 50/50 with venues",
-            "✅ Brand book DONE — brand.zurp.com (password: zurp2026)"
+            "\ud83d\udce7 Follow-up email sent to Remy at Refuge for charger placement",
+            "\ud83d\udd0b Indoor unit (24 batteries) ready for this weekend's Victor Calderone residency",
+            "\u2705 March legal invoice (Robert Freund Law) paid by Minul",
+            "\u23f3 Weather-proof outdoor unit: 6-week lead time",
+            "\ud83d\udcb0 Revenue split: 50/50 with venues",
+            "\u2705 Brand book DONE \u2014 brand.zurp.com (password: zurp2026)"
           ],
           "needsAttention": null
         },
         {
           "id": "authentiq",
-          "emoji": "🔐",
+          "emoji": "\ud83d\udd10",
           "title": "Authentiq",
           "status": "attention",
           "lastUpdated": "2026-04-15",
           "bullets": [
-            "🆕 NEW PROJECT — NFC authentication for high-value consumer goods",
-            "📄 Features doc created and sent to Troy for review",
+            "\ud83c\udd95 NEW PROJECT \u2014 NFC authentication for high-value consumer goods",
+            "\ud83d\udcc4 Features doc created and sent to Troy for review",
             "Partners: Nik, Troy, Cameron, David",
             "V1: NFC chips, App Clip auth, SKU-level tracking, brand dashboard",
             "V2: Ownership transfer, Shopify integration",
             "V3: Authenticated marketplace (Grailed/StockX competitor)",
             "Verticals: clothing, sports cards, cannabis, skincare"
           ],
-          "needsAttention": "New project — awaiting Troy review of features doc"
+          "needsAttention": "New project \u2014 awaiting Troy review of features doc"
         },
         {
           "id": "pigeon-house",
-          "emoji": "🐦",
+          "emoji": "\ud83d\udc26",
           "title": "Pigeon House Records",
           "status": "on-track",
           "lastUpdated": "2026-04-17",
           "bullets": [
             "Label active with After Ours releases",
-            "🎵 'Rise & Shine' / 'Future Classic' going live TODAY",
+            "\ud83c\udfb5 'Rise & Shine' / 'Future Classic' going live TODAY",
             "Niles/Jerel 'Stop with the Talking' in pipeline",
             "Brandon Launerts handling social/content scheduling",
             "Rahul onboarding to IG strategy + content research"
@@ -142,48 +142,48 @@
       "projects": [
         {
           "id": "after-ours",
-          "emoji": "🎧",
+          "emoji": "\ud83c\udfa7",
           "title": "After Ours",
           "status": "attention",
           "lastUpdated": "2026-04-19",
           "bullets": [
-            "✅ Sat 4/18 Somewhere Nowhere NYC — opened for Moojo, wrapped ~2am",
-            "📹 Awaiting pro media/videographer pull-through (NÜ MGMT booked)",
-            "✅ Nik back in NYC (B6 816 SFO→JFK landed 4/18)",
-            "✅ YC launch party SF played Fri night (private DJ set)",
-            "🎵 'Rise & Shine' / 'Future Classic' LIVE on SoundCloud",
-            "🔊 Sound pivot locked: keeping Future Classic, Flashback, No Control",
+            "\u2705 Sat 4/18 Somewhere Nowhere NYC \u2014 opened for Moojo, wrapped ~2am",
+            "\ud83d\udcf9 Awaiting pro media/videographer pull-through (N\u00dc MGMT booked)",
+            "\u2705 Nik back in NYC (B6 816 SFO\u2192JFK landed 4/18)",
+            "\u2705 YC launch party SF played Fri night (private DJ set)",
+            "\ud83c\udfb5 'Rise & Shine' / 'Future Classic' LIVE on SoundCloud",
+            "\ud83d\udd0a Sound pivot locked: keeping Future Classic, Flashback, No Control",
             "Content split: IG feed = credible only, TikTok = flood",
-            "📝 Brand voice brief owed to Brandon — due this week"
+            "\ud83d\udcdd Brand voice brief owed to Brandon \u2014 due this week"
           ],
-          "needsAttention": "Post-show — pull videographer assets + brand voice brief still owed to Brandon."
+          "needsAttention": "Post-show \u2014 pull videographer assets + brand voice brief still owed to Brandon."
         },
         {
           "id": "limited-supply",
-          "emoji": "🎙️",
+          "emoji": "\ud83c\udf99\ufe0f",
           "title": "Limited Supply Podcast",
           "status": "on-track",
           "lastUpdated": "2026-04-17",
           "bullets": [
-            "Vinay Sridhar (Reddit) podcast episode — scheduling for 4/21 or 4/22",
+            "Vinay Sridhar (Reddit) podcast episode \u2014 scheduling for 4/21 or 4/22",
             "Topic: catalog ads + Reddit targeting evolution for DTC brands",
-            "Episodes release every Wednesday — 100K+ subscribers",
+            "Episodes release every Wednesday \u2014 100K+ subscribers",
             "Josiah Writer bot + style guide (18K words) for drafts"
           ],
           "needsAttention": null
         },
         {
           "id": "newsletter",
-          "emoji": "📰",
+          "emoji": "\ud83d\udcf0",
           "title": "Newsletter / Workweek",
           "status": "on-track",
           "lastUpdated": "2026-04-19",
           "bullets": [
-            "✅ SHIPPED 6:55pm ET — 'The product is fine. The education is broken.'",
-            "Thread 9 msgs deep — replies/engagement flowing",
+            "\u2705 SHIPPED 6:55pm ET \u2014 'The product is fine. The education is broken.'",
+            "Thread 9 msgs deep \u2014 replies/engagement flowing",
             "Last week: 'Affiliate marketing, done right' sent Apr 12",
-            "Next topic TBD — Andrew Youderian 300-store P&L study still a candidate",
-            "📧 Josh Payne (Onward) inbound — wants newsletter sponsorship, asking for deck/pricing",
+            "Next topic TBD \u2014 Andrew Youderian 300-store P&L study still a candidate",
+            "\ud83d\udce7 Josh Payne (Onward) inbound \u2014 wants newsletter sponsorship, asking for deck/pricing",
             "Josiah 'Ecommerce Equation' VOTW draft for Apr 26 delivered, awaiting Nik review"
           ],
           "needsAttention": null
@@ -195,46 +195,46 @@
       "projects": [
         {
           "id": "brand-consulting",
-          "emoji": "💼",
+          "emoji": "\ud83d\udcbc",
           "title": "Brand Consulting",
           "status": "attention",
           "lastUpdated": "2026-04-17",
           "bullets": [
-            "🚨 Air Oasis — Homepage deadline PASSED (was due Fri 4/10) — 9 days overdue",
+            "\ud83d\udea8 Air Oasis \u2014 Homepage deadline PASSED (was due Fri 4/10) \u2014 9 days overdue",
             "WA Dept of Revenue: Action required for Sharma Brands Inc (605-181-506)",
-            "📧 David Larkin (PayFiniti) — approval rates discussion inbound",
-            "📧 Boring Ecom invoice from Joe Siegel (flow build) — needs review",
-            "📅 NEW: Instant x Nik meeting booked Wed Apr 22 4:30pm (Jaime Egan)",
-            "📧 Laura Rossi (AI Board Advisory) — pitch for Sharma Brands",
-            "📧 POV Beauty — 'getting warmer' (product update)",
+            "\ud83d\udce7 David Larkin (PayFiniti) \u2014 approval rates discussion inbound",
+            "\ud83d\udce7 Boring Ecom invoice from Joe Siegel (flow build) \u2014 needs review",
+            "\ud83d\udcc5 NEW: Instant x Nik meeting booked Wed Apr 22 4:30pm (Jaime Egan)",
+            "\ud83d\udce7 Laura Rossi (AI Board Advisory) \u2014 pitch for Sharma Brands",
+            "\ud83d\udce7 POV Beauty \u2014 'getting warmer' (product update)",
             "GoDaddy: sharmabrands.com renewal placed 4/14 ($49.17)",
             "TEXTNIK.CO auto-renews 5/10 ($51.99/yr)",
-            "Namecheap API connected — macra.com + niksharma.io managed",
+            "Namecheap API connected \u2014 macra.com + niksharma.io managed",
             "Harper Wilde, Love Wellness, AquaTru, Beekeeper's Naturals active",
-            "📧 Guidepoint consultation request re: SMS Marketing & Sales Platforms",
-            "📧 George Mendes: $3.8M chef-led hospitality brand pitch (Boston) — inbound",
-            "📧 Parachute Home: Earth Week in-store offer active (4/17)",
-            "📧 NEW: Jim Jannuzzio (Tondo Group) intro'd Cordell to Nik+Troy — seed-stage app, wants FlatIron meet or video call (4/17 8pm)",
-            "📧 NEW: Cypress RFP inbound pitch from Jasper Rowan (Sharma Brands x Cypress) — follow-up received 4/17 2:59pm",
-            "📧 NEW: Rameez reviving 'James Bennet x Nik Sharma' thread (10 msgs)",
-            "📧 NEW (4/19 9:57pm): Sandra Campos 'Catching up' — 30min call ask, wants pre-launch brand perspective",
-            "📧 NEW (4/19 8:40pm): Connor Tomkies (PEF) April 12th update — Singapore Chapter, AI & Venture Discussion, new team member",
-            "📧 NEW (4/19 4:24pm): Anthropic receipt #2332-5728-9436 processed",
-            "📊 Ahrefs: 8 orphan pages flagged on nik.co (no internal links)"
+            "\ud83d\udce7 Guidepoint consultation request re: SMS Marketing & Sales Platforms",
+            "\ud83d\udce7 George Mendes: $3.8M chef-led hospitality brand pitch (Boston) \u2014 inbound",
+            "\ud83d\udce7 Parachute Home: Earth Week in-store offer active (4/17)",
+            "\ud83d\udce7 NEW: Jim Jannuzzio (Tondo Group) intro'd Cordell to Nik+Troy \u2014 seed-stage app, wants FlatIron meet or video call (4/17 8pm)",
+            "\ud83d\udce7 NEW: Cypress RFP inbound pitch from Jasper Rowan (Sharma Brands x Cypress) \u2014 follow-up received 4/17 2:59pm",
+            "\ud83d\udce7 NEW: Rameez reviving 'James Bennet x Nik Sharma' thread (10 msgs)",
+            "\ud83d\udce7 NEW (4/19 9:57pm): Sandra Campos 'Catching up' \u2014 30min call ask, wants pre-launch brand perspective",
+            "\ud83d\udce7 NEW (4/19 8:40pm): Connor Tomkies (PEF) April 12th update \u2014 Singapore Chapter, AI & Venture Discussion, new team member",
+            "\ud83d\udce7 NEW (4/19 4:24pm): Anthropic receipt #2332-5728-9436 processed",
+            "\ud83d\udcca Ahrefs: 8 orphan pages flagged on nik.co (no internal links)"
           ],
           "needsAttention": "Air Oasis homepage 9 days overdue + WA DOR action required"
         },
         {
           "id": "ecom-founders",
-          "emoji": "🏗️",
+          "emoji": "\ud83c\udfd7\ufe0f",
           "title": "Ecom Founders",
           "status": "on-track",
           "lastUpdated": "2026-04-17",
           "bullets": [
-            "📧 Rameez told Triple Whale (Daniela): AI Summit going live with full announcements next week",
+            "\ud83d\udce7 Rameez told Triple Whale (Daniela): AI Summit going live with full announcements next week",
             "ecomfounders.com/pages/ai-summit live with updated info, partner logos coming soon",
-            "📧 Redo AI Summit 2026: $25K silver sponsorship + speaking slot (Brandon Thurgood)",
-            "Insense sponsorship: Jade sent billing info + logo — Rameez sending contract + invoice",
+            "\ud83d\udce7 Redo AI Summit 2026: $25K silver sponsorship + speaking slot (Brandon Thurgood)",
+            "Insense sponsorship: Jade sent billing info + logo \u2014 Rameez sending contract + invoice",
             "Website being built by Riaz"
           ],
           "needsAttention": null
@@ -246,35 +246,35 @@
       "projects": [
         {
           "id": "rolling-ventures",
-          "emoji": "🎯",
+          "emoji": "\ud83c\udfaf",
           "title": "Rolling Ventures Fund",
           "status": "on-track",
           "lastUpdated": "2026-04-18",
           "bullets": [
-            "📧 NEW (4/18 1:53pm): Caraway Q1 2026 Investor Update from Jordan Nathan — portfolio review",
-            "📅 Fri 4/17: Rolling Ventures TB 1:30pm ✅ + Ryan Tabb intro 2pm ET ✅",
-            "📧 Jaime Egan (Instant) booked meeting w/ Nik — Wed Apr 22 4:30-5pm ET",
-            "📧 NEW PEF deal flow: Sworn (AI legaltech, $950K left, closing 5/4), Kara AI ($300K ARR, 114% NRR), NoBiggie (kids F&B, $130B market), CEE Tech Founders, Kalshi (prediction market leader, direct cap-table)",
-            "📅 Apr 29: PEF QSBS Roundtable Lunch with Rockefeller Global Family Office",
-            "📧 BodySpec Series A SPV via PEF — health-tech, AI-powered clinical imaging (Andrew Tan)",
-            "📧 Jake Valentine (Claymore Growth) inbound — asking if Masala Capital plans to raise in 2026",
-            "Polar Verified inbound — Paul Haidu Gerea (Stanford), supplement verification rail",
-            "📧 NGP SRA Fund inbound — AI Energy & Sustainability investment (Sriram Gollapalli)",
-            "✅ PEF Group Onboarding completed (4/9)",
-            "⚠️ unspun Inc Pay-to-Play Series B-3 — signature still required ASAP"
+            "\ud83d\udce7 NEW (4/18 1:53pm): Caraway Q1 2026 Investor Update from Jordan Nathan \u2014 portfolio review",
+            "\ud83d\udcc5 Fri 4/17: Rolling Ventures TB 1:30pm \u2705 + Ryan Tabb intro 2pm ET \u2705",
+            "\ud83d\udce7 Jaime Egan (Instant) booked meeting w/ Nik \u2014 Wed Apr 22 4:30-5pm ET",
+            "\ud83d\udce7 NEW PEF deal flow: Sworn (AI legaltech, $950K left, closing 5/4), Kara AI ($300K ARR, 114% NRR), NoBiggie (kids F&B, $130B market), CEE Tech Founders, Kalshi (prediction market leader, direct cap-table)",
+            "\ud83d\udcc5 Apr 29: PEF QSBS Roundtable Lunch with Rockefeller Global Family Office",
+            "\ud83d\udce7 BodySpec Series A SPV via PEF \u2014 health-tech, AI-powered clinical imaging (Andrew Tan)",
+            "\ud83d\udce7 Jake Valentine (Claymore Growth) inbound \u2014 asking if Masala Capital plans to raise in 2026",
+            "Polar Verified inbound \u2014 Paul Haidu Gerea (Stanford), supplement verification rail",
+            "\ud83d\udce7 NGP SRA Fund inbound \u2014 AI Energy & Sustainability investment (Sriram Gollapalli)",
+            "\u2705 PEF Group Onboarding completed (4/9)",
+            "\u26a0\ufe0f unspun Inc Pay-to-Play Series B-3 \u2014 signature still required ASAP"
           ],
           "needsAttention": "unspun signature still required ASAP"
         },
         {
           "id": "personal-investments",
-          "emoji": "💰",
+          "emoji": "\ud83d\udcb0",
           "title": "Personal Investments",
           "status": "on-track",
           "lastUpdated": "2026-04-14",
           "bullets": [
-            "unspun Inc — Pay-to-Play Series B-3 (signature still required ASAP)",
-            "📈 Robinhood order executed (4/17 9:54am) ✅",
-            "POPWTR — Lemon Perfect founder, $175M+ sales track, Seed Round",
+            "unspun Inc \u2014 Pay-to-Play Series B-3 (signature still required ASAP)",
+            "\ud83d\udcc8 Robinhood order executed (4/17 9:54am) \u2705",
+            "POPWTR \u2014 Lemon Perfect founder, $175M+ sales track, Seed Round",
             "Tracked separately from Rolling Ventures fund"
           ],
           "needsAttention": null
@@ -282,20 +282,20 @@
       ]
     },
     {
-      "name": "Nik Sharma — Personal",
+      "name": "Nik Sharma \u2014 Personal",
       "projects": [
         {
           "id": "travel",
-          "emoji": "✈️",
+          "emoji": "\u2708\ufe0f",
           "title": "Travel",
           "status": "on-track",
           "lastUpdated": "2026-04-19",
           "bullets": [
-            "✅ Back in NYC (B6 816 SFO→JFK landed 4/18)",
-            "✅ Somewhere Nowhere NYC show completed (opened Moojo)",
-            "✅ Newsletter shipped 6:55pm ET",
-            "🎂 Jon Strauss's birthday today (4/19)",
-            "📅 Mon 4/20: Record Workweek 8:15am, Fort 10am (first gym back), Check-In 11:30am, Nik x Joe 12pm, Zagged All Hands 2pm"
+            "\u2705 Back in NYC (B6 816 SFO\u2192JFK landed 4/18)",
+            "\u2705 Somewhere Nowhere NYC show completed (opened Moojo)",
+            "\u2705 Newsletter shipped 6:55pm ET",
+            "\ud83c\udf82 Jon Strauss's birthday today (4/19)",
+            "\ud83d\udcc5 Mon 4/20: Record Workweek 8:15am, Fort 10am (first gym back), Check-In 11:30am, Nik x Joe 12pm, Zagged All Hands 2pm"
           ],
           "needsAttention": null
         }
@@ -306,22 +306,493 @@
       "projects": [
         {
           "id": "my-agents",
-          "emoji": "🤖",
+          "emoji": "\ud83e\udd16",
           "title": "My Agents",
           "status": "on-track",
           "lastUpdated": "2026-04-14",
           "bullets": [
             "14 bots operational",
-            "⚡ Jet (Opus) · 📇 CRM (Sonnet) · 💊 Macra (Opus) · 📱 Macra App (Sonnet)",
-            "🖨️ Printing Press (Opus) · ✍️ Josiah (Opus) · 🤓 Bryce (Gemini Flash) · 🔍 Researcher (Grok)",
-            "🏥 Health (GPT-4o) · 🎬 Creative Director (Sonnet) · 🔭 Sentinel (Sonnet) · 💪 Flexpower (Opus)",
-            "🎧 After Ours (Opus) · 🏦 Rolling Ventures (Opus)",
-            "🆕 Jet Status Bot configured for monitoring output",
-            "Namecheap API connected — macra.com + niksharma.io managed"
+            "\u26a1 Jet (Opus) \u00b7 \ud83d\udcc7 CRM (Sonnet) \u00b7 \ud83d\udc8a Macra (Opus) \u00b7 \ud83d\udcf1 Macra App (Sonnet)",
+            "\ud83d\udda8\ufe0f Printing Press (Opus) \u00b7 \u270d\ufe0f Josiah (Opus) \u00b7 \ud83e\udd13 Bryce (Gemini Flash) \u00b7 \ud83d\udd0d Researcher (Grok)",
+            "\ud83c\udfe5 Health (GPT-4o) \u00b7 \ud83c\udfac Creative Director (Sonnet) \u00b7 \ud83d\udd2d Sentinel (Sonnet) \u00b7 \ud83d\udcaa Flexpower (Opus)",
+            "\ud83c\udfa7 After Ours (Opus) \u00b7 \ud83c\udfe6 Rolling Ventures (Opus)",
+            "\ud83c\udd95 Jet Status Bot configured for monitoring output",
+            "Namecheap API connected \u2014 macra.com + niksharma.io managed"
           ],
           "needsAttention": null
         }
       ]
     }
-  ]
+  ],
+  "sites": {
+    "lastUpdated": "2026-04-19",
+    "domains": {
+      "nik.co": "GoDaddy",
+      "macra.com": "Namecheap",
+      "niksharma.io": "Namecheap",
+      "ecomfounders.com": "(separate)"
+    },
+    "totalCount": 45,
+    "groups": [
+      {
+        "category": "knowledge-base",
+        "label": "\ud83d\udcda Knowledge Bases",
+        "count": 5,
+        "sites": [
+          {
+            "subdomain": "thesis.nik.co",
+            "category": "knowledge-base",
+            "purpose": "Investing / brand thesis",
+            "stack": "Manus",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "swipe.nik.co",
+            "category": "knowledge-base",
+            "purpose": "Ad/creative swipe file",
+            "stack": "Manus",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "learnings.nik.co",
+            "category": "knowledge-base",
+            "purpose": "Learnings / notes site",
+            "stack": "Vercel",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "creatorstuff.nik.co",
+            "category": "knowledge-base",
+            "purpose": "Creator-related resources",
+            "stack": "Manus",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "lp.nik.co",
+            "category": "knowledge-base",
+            "purpose": "The Landing Page Brain \u2014 21K-word Nik LP training corpus with /raw.md, /llms.txt, /llms-full.txt, /sitemap.xml, /feed.xml",
+            "stack": "Vercel \u00b7 static HTML + markdown",
+            "project": "lp-nik-co",
+            "status": "live",
+            "deployed": "2026-04-19",
+            "owner": "Jet",
+            "source": "projects/lp-research/NIK-LANDING-PAGES.md"
+          }
+        ]
+      },
+      {
+        "category": "campaign-lp",
+        "label": "\ud83c\udfaf Campaign LPs",
+        "count": 1,
+        "sites": [
+          {
+            "subdomain": "glp1.macra.com",
+            "category": "campaign-lp",
+            "purpose": "Mood Bloom GLP-1 campaign landing page (v2 DR rebuild)",
+            "stack": "Vercel \u00b7 static HTML \u00b7 Namecheap DNS",
+            "project": "glp1-mood-bloom",
+            "status": "live",
+            "deployed": "2026-04-19",
+            "owner": "Jet (Macra bot)",
+            "source": "workspace-macra/projects/macra/landing-pages/glp1-mood-bloom-v2.html"
+          }
+        ]
+      },
+      {
+        "category": "brand-site",
+        "label": "\ud83d\udecd\ufe0f Brand Sites",
+        "count": 10,
+        "sites": [
+          {
+            "subdomain": "vela.nik.co",
+            "category": "brand-site",
+            "purpose": "Vela brand page",
+            "stack": "Manus",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "vc.nik.co",
+            "category": "brand-site",
+            "purpose": "VC / ventures page",
+            "stack": "Vercel",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "swishables.nik.co",
+            "category": "brand-site",
+            "purpose": "Swishables brand page",
+            "stack": "Manus",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "rv.nik.co",
+            "category": "brand-site",
+            "purpose": "Rolling Ventures fund site",
+            "stack": "Vercel",
+            "status": "live",
+            "owner": "Jet / RV bot"
+          },
+          {
+            "subdomain": "macra-brandbook.nik.co",
+            "category": "brand-site",
+            "purpose": "Macra brand book",
+            "stack": "Manus",
+            "status": "live",
+            "owner": "Jet / Macra bot"
+          },
+          {
+            "subdomain": "flexpower.nik.co",
+            "category": "brand-site",
+            "purpose": "Flexpower brand page",
+            "stack": "Vercel",
+            "status": "live",
+            "owner": "Flexpower bot"
+          },
+          {
+            "subdomain": "flexpower-site.nik.co",
+            "category": "brand-site",
+            "purpose": "Flexpower consumer brand site (build in progress)",
+            "stack": "Vercel \u00b7 Next.js + Tailwind",
+            "status": "building",
+            "owner": "Flexpower bot",
+            "kickoff": "2026-04-18"
+          },
+          {
+            "subdomain": "flexpower-new.nik.co",
+            "category": "brand-site",
+            "purpose": "Flexpower new site staging",
+            "stack": "Vercel",
+            "status": "staging",
+            "owner": "Flexpower bot"
+          },
+          {
+            "subdomain": "flexpower-lp.nik.co",
+            "category": "brand-site",
+            "purpose": "Flexpower landing page variant",
+            "stack": "Vercel",
+            "status": "live",
+            "owner": "Flexpower bot"
+          },
+          {
+            "subdomain": "ao.nik.co",
+            "category": "brand-site",
+            "purpose": "After Ours (music project) site",
+            "stack": "GitHub Pages",
+            "project": "mrsharma213.github.io",
+            "status": "live",
+            "owner": "Jet / Minul / After Ours bot"
+          }
+        ]
+      },
+      {
+        "category": "macra-analysis",
+        "label": "\ud83d\udc8a Macra Analyses",
+        "count": 2,
+        "sites": [
+          {
+            "subdomain": "hormonal.nik.co",
+            "category": "macra-analysis",
+            "purpose": "Macra 3rd SKU positioning analysis (cycle-aware, stack w/ Mood Bloom)",
+            "stack": "Vercel \u00b7 static HTML",
+            "project": "hormonal-nik-co",
+            "status": "live",
+            "deployed": "2026-04-18",
+            "owner": "Jet (Macra bot)",
+            "source": "workspace-macra/projects/macra/category-analyses/hormonal.html"
+          },
+          {
+            "subdomain": "heart.nik.co",
+            "category": "macra-analysis",
+            "purpose": "Macra heart SKU category analysis (rec: park for 2027)",
+            "stack": "Vercel \u00b7 static HTML",
+            "project": "heart-nik-co",
+            "status": "live",
+            "deployed": "2026-04-18",
+            "owner": "Jet (Macra bot)",
+            "source": "workspace-macra/projects/macra/category-analyses/heart.html"
+          }
+        ]
+      },
+      {
+        "category": "dashboard",
+        "label": "\ud83d\udcca Dashboards",
+        "count": 3,
+        "sites": [
+          {
+            "subdomain": "status.nik.co",
+            "category": "dashboard",
+            "purpose": "Status page",
+            "stack": "GitHub Pages",
+            "project": "mrsharma213.github.io",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "built.nik.co",
+            "category": "dashboard",
+            "purpose": "Built log / shipping feed",
+            "stack": "GitHub Pages",
+            "project": "mrsharma213.github.io",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "dash.nik.co",
+            "category": "dashboard",
+            "purpose": "Command Center \u2014 top-level project/business tracker",
+            "stack": "GitHub Pages \u00b7 static Next.js export",
+            "project": "mrsharma213.github.io",
+            "status": "live",
+            "deployed": "2026-04-09",
+            "owner": "Jet"
+          }
+        ]
+      },
+      {
+        "category": "internal-tool",
+        "label": "\ud83d\udd27 Internal Tools",
+        "count": 9,
+        "sites": [
+          {
+            "subdomain": "zip.nik.co",
+            "category": "internal-tool",
+            "purpose": "File transfer / utility",
+            "stack": "Manus",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "write.nik.co",
+            "category": "internal-tool",
+            "purpose": "Writing workspace",
+            "stack": "Manus",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "translate.nik.co",
+            "category": "internal-tool",
+            "purpose": "Translation / utility tool",
+            "stack": "Vercel",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "pp.nik.co",
+            "category": "internal-tool",
+            "purpose": "Printing Press \u2014 AI content engine landing/portal",
+            "stack": "GitHub Pages",
+            "project": "mrsharma213.github.io",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "pixel.nik.co",
+            "category": "internal-tool",
+            "purpose": "Pixel tracking / utility",
+            "stack": "Vercel",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "id.nik.co",
+            "category": "internal-tool",
+            "purpose": "Identity / profile page",
+            "stack": "Manus",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "connections.nik.co",
+            "category": "internal-tool",
+            "purpose": "Contact / network utility",
+            "stack": "Manus",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "ao-fonts.nik.co",
+            "category": "internal-tool",
+            "purpose": "After Ours font reference",
+            "stack": "Manus",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "flows.nik.co",
+            "category": "internal-tool",
+            "purpose": "Email Flow Intelligence \u2014 tracks competitor email flows with screenshots + timeline + gap tracking",
+            "stack": "Vercel \u00b7 Next.js",
+            "project": "flows-site",
+            "status": "live",
+            "deployed": "2026-04-17",
+            "owner": "Jet",
+            "passcode": "7586"
+          }
+        ]
+      },
+      {
+        "category": "consulting",
+        "label": "\ud83e\udd1d Consulting Deliverables",
+        "count": 4,
+        "sites": [
+          {
+            "subdomain": "clare-lp.nik.co",
+            "category": "consulting",
+            "purpose": "Clare client LP",
+            "stack": "Manus",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "brandkit.nik.co",
+            "category": "consulting",
+            "purpose": "Client brand kit",
+            "stack": "Manus",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "audit.nik.co",
+            "category": "consulting",
+            "purpose": "Brand audit deliverable page",
+            "stack": "Manus",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "airoasis-wireframe.nik.co",
+            "category": "consulting",
+            "purpose": "Air Oasis wireframe preview",
+            "stack": "Manus",
+            "status": "live",
+            "owner": "Jet"
+          }
+        ]
+      },
+      {
+        "category": "event",
+        "label": "\ud83c\udfaa Events",
+        "count": 2,
+        "sites": [
+          {
+            "subdomain": "hudsonmastermind.nik.co",
+            "category": "event",
+            "purpose": "Hudson Mastermind event page",
+            "stack": "Manus",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "ao-f1.nik.co",
+            "category": "event",
+            "purpose": "After Ours F1 / event page",
+            "stack": "Manus",
+            "status": "live",
+            "owner": "Jet"
+          }
+        ]
+      },
+      {
+        "category": "project",
+        "label": "\ud83e\uddea Project Pages",
+        "count": 6,
+        "sites": [
+          {
+            "subdomain": "zurp-models.nik.co",
+            "category": "project",
+            "purpose": "Zurp 3D models / renders",
+            "stack": "Vercel",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "zurp-draft.nik.co",
+            "category": "project",
+            "purpose": "Zurp draft page",
+            "stack": "Manus",
+            "status": "draft",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "sleepmaxxing.nik.co",
+            "category": "project",
+            "purpose": "Sleepmaxxing micro-site",
+            "stack": "Vercel",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "sleep.nik.co",
+            "category": "project",
+            "purpose": "Sleep project page",
+            "stack": "Vercel",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "hopper.nik.co",
+            "category": "project",
+            "purpose": "Hopper project page",
+            "stack": "Manus",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "advertorials.nik.co",
+            "category": "project",
+            "purpose": "Household Proof advertorials",
+            "stack": "Manus",
+            "status": "live",
+            "owner": "Riaz / Jet"
+          }
+        ]
+      },
+      {
+        "category": "external",
+        "label": "\ud83d\udd17 Redirects / External",
+        "count": 2,
+        "sites": [
+          {
+            "subdomain": "visit.nik.co",
+            "category": "external",
+            "purpose": "Visit / landing redirect (Unbounce)",
+            "stack": "Unbounce",
+            "status": "live",
+            "owner": "Jet"
+          },
+          {
+            "subdomain": "join.nik.co",
+            "category": "external",
+            "purpose": "Join / redirect",
+            "stack": "SL Permanent",
+            "status": "live",
+            "owner": "Jet"
+          }
+        ]
+      },
+      {
+        "category": "root-site",
+        "label": "\ud83c\udf10 Root",
+        "count": 1,
+        "sites": [
+          {
+            "subdomain": "www.nik.co",
+            "category": "root-site",
+            "purpose": "Main nik.co site",
+            "stack": "Webflow",
+            "status": "live",
+            "owner": "Jet"
+          }
+        ]
+      }
+    ]
+  }
 }

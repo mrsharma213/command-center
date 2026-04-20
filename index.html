@@ -112,6 +112,33 @@ body { background:var(--bg); color:var(--text); min-height:100vh; }
 .flagged-item .flag-detail { font-size:13px; color:var(--text-secondary); line-height:1.5; }
 .flagged-item .flag-since { font-size:11px; color:var(--text-muted); margin-top:6px; text-transform:uppercase; letter-spacing:0.5px; font-weight:500; }
 
+/* Sites section */
+.sites-section { margin-top: 48px; }
+.sites-section-header { display:flex; align-items:baseline; justify-content:space-between; margin-bottom: 16px; padding-bottom: 12px; border-bottom: 1px solid var(--border-std); }
+.sites-section-header h2 { font-size: 20px; font-weight: 600; letter-spacing: -0.5px; }
+.sites-section-header .sites-meta { font-size: 12px; color: var(--text-tertiary); text-transform: uppercase; letter-spacing: 0.08em; font-weight: 500; }
+.sites-group { margin-bottom: 28px; }
+.sites-group-label { font-size: 11px; text-transform: uppercase; letter-spacing: 0.12em; color: var(--text-tertiary); font-weight: 600; margin-bottom: 10px; display:flex; align-items:center; gap:8px; }
+.sites-group-count { background: var(--subtle); color: var(--text-secondary); padding: 2px 8px; border-radius: 100px; font-size: 10px; font-weight: 600; letter-spacing: 0; }
+.sites-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 8px; }
+.site-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; transition: border-color .12s ease, transform .12s ease; }
+.site-card:hover { border-color: var(--border-std); transform: translateY(-1px); }
+.site-card.building { border-color: rgba(251,191,36,0.25); box-shadow: var(--accent-glow) 0px 0px 0px 1px; }
+.site-card.staging { border-color: rgba(96,165,250,0.25); }
+.site-card.draft { opacity: 0.72; }
+.site-sub { display:flex; align-items:center; justify-content:space-between; gap:8px; margin-bottom: 4px; }
+.site-link { font-size: 14px; font-weight: 600; letter-spacing: -0.01em; color: var(--accent); text-decoration: none; font-family: 'SF Mono', 'JetBrains Mono', ui-monospace, monospace; }
+.site-link:hover { color: var(--accent-hover); }
+.site-status { font-size: 9px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; padding: 2px 6px; border-radius: 3px; }
+.site-status.live { background: var(--green-bg); color: var(--green); }
+.site-status.building { background: var(--yellow-bg); color: var(--yellow); }
+.site-status.staging { background: var(--blue-bg); color: var(--blue); }
+.site-status.draft { background: var(--subtle); color: var(--text-secondary); }
+.site-purpose { font-size: 12px; color: var(--text-secondary); line-height: 1.45; margin-bottom: 6px; }
+.site-meta { display:flex; flex-wrap:wrap; gap: 8px; font-size: 10px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.06em; font-weight: 500; }
+.site-meta span { display:inline-block; }
+.site-meta .dot { color: var(--text-muted); }
+
 /* Newsletter countdown */
 .newsletter-bar {
   margin-bottom:32px; padding:16px 20px;
@@ -392,6 +419,48 @@ function render(data) {
   }
 
   document.getElementById('sections').innerHTML = sectionsHtml;
+
+  // ── Sites Section ──
+  if (data.sites && data.sites.groups && data.sites.groups.length > 0) {
+    const s = data.sites;
+    const domains = Object.entries(s.domains || {}).map(([d, reg]) => `${d} (${reg})`).join(' · ');
+    let sitesHtml = `
+      <div class="sites-section">
+        <div class="sites-section-header">
+          <h2>🌐 Sites &amp; Subdomains</h2>
+          <div class="sites-meta">${s.totalCount} live · ${domains}</div>
+        </div>
+    `;
+    for (const g of s.groups) {
+      sitesHtml += `
+        <div class="sites-group">
+          <div class="sites-group-label">${g.label}<span class="sites-group-count">${g.count}</span></div>
+          <div class="sites-grid">
+      `;
+      for (const site of g.sites) {
+        const statusClass = site.status || 'live';
+        const cardClass = ['building','staging','draft'].includes(statusClass) ? statusClass : '';
+        const deployed = site.deployed ? formatSince(site.deployed) : '';
+        sitesHtml += `
+          <div class="site-card ${cardClass}">
+            <div class="site-sub">
+              <a class="site-link" href="https://${site.subdomain}" target="_blank" rel="noopener">${site.subdomain}</a>
+              <span class="site-status ${statusClass}">${statusClass}</span>
+            </div>
+            <div class="site-purpose">${site.purpose || ''}</div>
+            <div class="site-meta">
+              ${site.stack ? `<span>${site.stack}</span>` : ''}
+              ${deployed ? `<span class="dot">·</span><span>Shipped ${deployed}</span>` : ''}
+              ${site.owner ? `<span class="dot">·</span><span>${site.owner}</span>` : ''}
+            </div>
+          </div>
+        `;
+      }
+      sitesHtml += '</div></div>';
+    }
+    sitesHtml += '</div>';
+    document.getElementById('sections').insertAdjacentHTML('beforeend', sitesHtml);
+  }
 }
 </script>
 </body>

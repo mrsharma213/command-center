@@ -1,0 +1,394 @@
+{
+  "lastUpdated": "2026-04-19",
+  "maintainer": "Jet Damon",
+  "domains": {
+    "nik.co": "GoDaddy",
+    "macra.com": "Namecheap",
+    "niksharma.io": "Namecheap",
+    "ecomfounders.com": "(separate)"
+  },
+  "sites": [
+    {
+      "subdomain": "lp.nik.co",
+      "category": "knowledge-base",
+      "purpose": "The Landing Page Brain — 21K-word Nik LP training corpus with /raw.md, /llms.txt, /llms-full.txt, /sitemap.xml, /feed.xml",
+      "stack": "Vercel · static HTML + markdown",
+      "project": "lp-nik-co",
+      "status": "live",
+      "deployed": "2026-04-19",
+      "owner": "Jet",
+      "source": "projects/lp-research/NIK-LANDING-PAGES.md"
+    },
+    {
+      "subdomain": "heart.nik.co",
+      "category": "macra-analysis",
+      "purpose": "Macra heart SKU category analysis (rec: park for 2027)",
+      "stack": "Vercel · static HTML",
+      "project": "heart-nik-co",
+      "status": "live",
+      "deployed": "2026-04-18",
+      "owner": "Jet (Macra bot)",
+      "source": "workspace-macra/projects/macra/category-analyses/heart.html"
+    },
+    {
+      "subdomain": "hormonal.nik.co",
+      "category": "macra-analysis",
+      "purpose": "Macra 3rd SKU positioning analysis (cycle-aware, stack w/ Mood Bloom)",
+      "stack": "Vercel · static HTML",
+      "project": "hormonal-nik-co",
+      "status": "live",
+      "deployed": "2026-04-18",
+      "owner": "Jet (Macra bot)",
+      "source": "workspace-macra/projects/macra/category-analyses/hormonal.html"
+    },
+    {
+      "subdomain": "glp1.macra.com",
+      "category": "campaign-lp",
+      "purpose": "Mood Bloom GLP-1 campaign landing page (v2 DR rebuild)",
+      "stack": "Vercel · static HTML · Namecheap DNS",
+      "project": "glp1-mood-bloom",
+      "status": "live",
+      "deployed": "2026-04-19",
+      "owner": "Jet (Macra bot)",
+      "source": "workspace-macra/projects/macra/landing-pages/glp1-mood-bloom-v2.html"
+    },
+    {
+      "subdomain": "flows.nik.co",
+      "category": "internal-tool",
+      "purpose": "Email Flow Intelligence — tracks competitor email flows with screenshots + timeline + gap tracking",
+      "stack": "Vercel · Next.js",
+      "project": "flows-site",
+      "status": "live",
+      "deployed": "2026-04-17",
+      "owner": "Jet",
+      "passcode": "7586"
+    },
+    {
+      "subdomain": "dash.nik.co",
+      "category": "dashboard",
+      "purpose": "Command Center — top-level project/business tracker",
+      "stack": "GitHub Pages · static Next.js export",
+      "project": "mrsharma213.github.io",
+      "status": "live",
+      "deployed": "2026-04-09",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "status.nik.co",
+      "category": "dashboard",
+      "purpose": "Status page",
+      "stack": "GitHub Pages",
+      "project": "mrsharma213.github.io",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "built.nik.co",
+      "category": "dashboard",
+      "purpose": "Built log / shipping feed",
+      "stack": "GitHub Pages",
+      "project": "mrsharma213.github.io",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "pp.nik.co",
+      "category": "internal-tool",
+      "purpose": "Printing Press — AI content engine landing/portal",
+      "stack": "GitHub Pages",
+      "project": "mrsharma213.github.io",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "ao.nik.co",
+      "category": "brand-site",
+      "purpose": "After Ours (music project) site",
+      "stack": "GitHub Pages",
+      "project": "mrsharma213.github.io",
+      "status": "live",
+      "owner": "Jet / Minul / After Ours bot"
+    },
+    {
+      "subdomain": "rv.nik.co",
+      "category": "brand-site",
+      "purpose": "Rolling Ventures fund site",
+      "stack": "Vercel",
+      "status": "live",
+      "owner": "Jet / RV bot"
+    },
+    {
+      "subdomain": "flexpower.nik.co",
+      "category": "brand-site",
+      "purpose": "Flexpower brand page",
+      "stack": "Vercel",
+      "status": "live",
+      "owner": "Flexpower bot"
+    },
+    {
+      "subdomain": "flexpower-site.nik.co",
+      "category": "brand-site",
+      "purpose": "Flexpower consumer brand site (build in progress)",
+      "stack": "Vercel · Next.js + Tailwind",
+      "status": "building",
+      "owner": "Flexpower bot",
+      "kickoff": "2026-04-18"
+    },
+    {
+      "subdomain": "flexpower-lp.nik.co",
+      "category": "brand-site",
+      "purpose": "Flexpower landing page variant",
+      "stack": "Vercel",
+      "status": "live",
+      "owner": "Flexpower bot"
+    },
+    {
+      "subdomain": "flexpower-new.nik.co",
+      "category": "brand-site",
+      "purpose": "Flexpower new site staging",
+      "stack": "Vercel",
+      "status": "staging",
+      "owner": "Flexpower bot"
+    },
+    {
+      "subdomain": "vc.nik.co",
+      "category": "brand-site",
+      "purpose": "VC / ventures page",
+      "stack": "Vercel",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "sleep.nik.co",
+      "category": "project",
+      "purpose": "Sleep project page",
+      "stack": "Vercel",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "sleepmaxxing.nik.co",
+      "category": "project",
+      "purpose": "Sleepmaxxing micro-site",
+      "stack": "Vercel",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "translate.nik.co",
+      "category": "internal-tool",
+      "purpose": "Translation / utility tool",
+      "stack": "Vercel",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "pixel.nik.co",
+      "category": "internal-tool",
+      "purpose": "Pixel tracking / utility",
+      "stack": "Vercel",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "learnings.nik.co",
+      "category": "knowledge-base",
+      "purpose": "Learnings / notes site",
+      "stack": "Vercel",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "zurp-models.nik.co",
+      "category": "project",
+      "purpose": "Zurp 3D models / renders",
+      "stack": "Vercel",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "zurp-draft.nik.co",
+      "category": "project",
+      "purpose": "Zurp draft page",
+      "stack": "Manus",
+      "status": "draft",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "advertorials.nik.co",
+      "category": "project",
+      "purpose": "Household Proof advertorials",
+      "stack": "Manus",
+      "status": "live",
+      "owner": "Riaz / Jet"
+    },
+    {
+      "subdomain": "audit.nik.co",
+      "category": "consulting",
+      "purpose": "Brand audit deliverable page",
+      "stack": "Manus",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "brandkit.nik.co",
+      "category": "consulting",
+      "purpose": "Client brand kit",
+      "stack": "Manus",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "hudsonmastermind.nik.co",
+      "category": "event",
+      "purpose": "Hudson Mastermind event page",
+      "stack": "Manus",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "thesis.nik.co",
+      "category": "knowledge-base",
+      "purpose": "Investing / brand thesis",
+      "stack": "Manus",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "write.nik.co",
+      "category": "internal-tool",
+      "purpose": "Writing workspace",
+      "stack": "Manus",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "swipe.nik.co",
+      "category": "knowledge-base",
+      "purpose": "Ad/creative swipe file",
+      "stack": "Manus",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "zip.nik.co",
+      "category": "internal-tool",
+      "purpose": "File transfer / utility",
+      "stack": "Manus",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "clare-lp.nik.co",
+      "category": "consulting",
+      "purpose": "Clare client LP",
+      "stack": "Manus",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "airoasis-wireframe.nik.co",
+      "category": "consulting",
+      "purpose": "Air Oasis wireframe preview",
+      "stack": "Manus",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "creatorstuff.nik.co",
+      "category": "knowledge-base",
+      "purpose": "Creator-related resources",
+      "stack": "Manus",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "connections.nik.co",
+      "category": "internal-tool",
+      "purpose": "Contact / network utility",
+      "stack": "Manus",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "id.nik.co",
+      "category": "internal-tool",
+      "purpose": "Identity / profile page",
+      "stack": "Manus",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "swishables.nik.co",
+      "category": "brand-site",
+      "purpose": "Swishables brand page",
+      "stack": "Manus",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "vela.nik.co",
+      "category": "brand-site",
+      "purpose": "Vela brand page",
+      "stack": "Manus",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "hopper.nik.co",
+      "category": "project",
+      "purpose": "Hopper project page",
+      "stack": "Manus",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "macra-brandbook.nik.co",
+      "category": "brand-site",
+      "purpose": "Macra brand book",
+      "stack": "Manus",
+      "status": "live",
+      "owner": "Jet / Macra bot"
+    },
+    {
+      "subdomain": "ao-f1.nik.co",
+      "category": "event",
+      "purpose": "After Ours F1 / event page",
+      "stack": "Manus",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "ao-fonts.nik.co",
+      "category": "internal-tool",
+      "purpose": "After Ours font reference",
+      "stack": "Manus",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "visit.nik.co",
+      "category": "external",
+      "purpose": "Visit / landing redirect (Unbounce)",
+      "stack": "Unbounce",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "join.nik.co",
+      "category": "external",
+      "purpose": "Join / redirect",
+      "stack": "SL Permanent",
+      "status": "live",
+      "owner": "Jet"
+    },
+    {
+      "subdomain": "www.nik.co",
+      "category": "root-site",
+      "purpose": "Main nik.co site",
+      "stack": "Webflow",
+      "status": "live",
+      "owner": "Jet"
+    }
+  ]
+}
