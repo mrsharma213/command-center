@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-19T18:00:00Z",
+  "lastRefreshed": "2026-04-20T02:00:00Z",
   "flagged": [
     {
       "id": "macra-launch",
@@ -26,10 +26,18 @@
       "since": "2026-04-07"
     },
     {
-      "id": "newsletter-today",
-      "emoji": "📰",
-      "title": "Newsletter — Publishes TODAY ~6-7PM ET (~4-5h out)",
-      "detail": "Record Workweek wrapped at 2pm. Nik x Joe done (12pm). Last week: 'Affiliate marketing, done right'. Topic: Andrew Youderian 300-store P&L study leading candidate. Final edit + send window ~4-5h out.",
+      "id": "newsletter-sent",
+      "emoji": "✅",
+      "title": "Newsletter SHIPPED 6:55pm ET — 'The product is fine. The education is broken.'",
+      "detail": "Sunday edition sent 6:55pm ET via niksharma@workweek.com. Thread now 9 msgs deep (replies/engagement flowing). Next: monitor open/click rates + pick next week's topic.",
+      "severity": "info",
+      "since": "2026-04-19"
+    },
+    {
+      "id": "sandra-campos-intro",
+      "emoji": "📧",
+      "title": "Sandra Campos — 'Catching up' inbound (30min call)",
+      "detail": "Former client asking for 30min coffee/virtual call. Wants to share what she's working on + understand how Nik engages with pre-launch brands. Reference to Helena. Flagged Respond by Superhuman.",
       "severity": "attention",
       "since": "2026-04-19"
     },
@@ -51,10 +59,10 @@
     }
   ],
   "newsletter": {
-    "status": "post-record",
+    "status": "sent",
     "sendDay": "Sunday",
-    "topic": "TBD — Andrew Youderian 300-store P&L study possible feature",
-    "note": "Last week: 'Affiliate marketing, done right' sent Apr 12. Record Workweek wrapped ~2pm ET. Publishes TODAY ~6-7 PM ET — ~4-5h out. Final edit + send window active.",
+    "topic": "The product is fine. The education is broken.",
+    "note": "Sent Apr 19, 6:55pm ET. Thread 9 msgs deep — replies/engagement active. Last week: 'Affiliate marketing, done right' (Apr 12). Next topic TBD — Andrew Youderian 300-store P&L study still a leading candidate.",
     "topicIdeas": [
       "Andrew Youderian 300-store P&L deep dive w/ Nik commentary"
     ]
@@ -168,17 +176,17 @@
           "id": "newsletter",
           "emoji": "📰",
           "title": "Newsletter / Workweek",
-          "status": "attention",
+          "status": "on-track",
           "lastUpdated": "2026-04-19",
           "bullets": [
-            "📅 TODAY — Publishes ~6-7 PM ET (~4-5h out)",
-            "✅ Nik x Joe 12pm DONE • Record Workweek 1pm DONE",
+            "✅ SHIPPED 6:55pm ET — 'The product is fine. The education is broken.'",
+            "Thread 9 msgs deep — replies/engagement flowing",
             "Last week: 'Affiliate marketing, done right' sent Apr 12",
-            "Topic still TBD — Andrew Youderian 300-store P&L study leading candidate",
+            "Next topic TBD — Andrew Youderian 300-store P&L study still a candidate",
             "📧 Josh Payne (Onward) inbound — wants newsletter sponsorship, asking for deck/pricing",
             "Josiah 'Ecommerce Equation' VOTW draft for Apr 26 delivered, awaiting Nik review"
           ],
-          "needsAttention": "Publishes today 6-7pm (~4-5h out). Final edit window."
+          "needsAttention": null
         }
       ]
     },
@@ -209,6 +217,9 @@
             "📧 NEW: Jim Jannuzzio (Tondo Group) intro'd Cordell to Nik+Troy — seed-stage app, wants FlatIron meet or video call (4/17 8pm)",
             "📧 NEW: Cypress RFP inbound pitch from Jasper Rowan (Sharma Brands x Cypress) — follow-up received 4/17 2:59pm",
             "📧 NEW: Rameez reviving 'James Bennet x Nik Sharma' thread (10 msgs)",
+            "📧 NEW (4/19 9:57pm): Sandra Campos 'Catching up' — 30min call ask, wants pre-launch brand perspective",
+            "📧 NEW (4/19 8:40pm): Connor Tomkies (PEF) April 12th update — Singapore Chapter, AI & Venture Discussion, new team member",
+            "📧 NEW (4/19 4:24pm): Anthropic receipt #2332-5728-9436 processed",
             "📊 Ahrefs: 8 orphan pages flagged on nik.co (no internal links)"
           ],
           "needsAttention": "Air Oasis homepage 9 days overdue + WA DOR action required"
@@ -282,9 +293,9 @@
           "bullets": [
             "✅ Back in NYC (B6 816 SFO→JFK landed 4/18)",
             "✅ Somewhere Nowhere NYC show completed (opened Moojo)",
-            "✅ Nik x Joe 12pm • Record Workweek 1pm DONE",
+            "✅ Newsletter shipped 6:55pm ET",
             "🎂 Jon Strauss's birthday today (4/19)",
-            "📅 Mon 4/20: Fort 10am (first gym back), Check-In 11:30am, Nik x Joe 12pm, Zagged All Hands 2pm"
+            "📅 Mon 4/20: Record Workweek 8:15am, Fort 10am (first gym back), Check-In 11:30am, Nik x Joe 12pm, Zagged All Hands 2pm"
           ],
           "needsAttention": null
         }
