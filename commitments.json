@@ -1,9 +1,9 @@
 {
-  "open": 9,
+  "open": 10,
   "resolved": 0,
   "overdue": 0,
   "aging": 0,
-  "last_updated": "2026-04-21T04:00:16.835Z",
+  "last_updated": "2026-04-21T04:30:13.905Z",
   "commitments": [
     {
       "id": "email-19dacca51451bff9",
@@ -217,6 +217,30 @@
       "urgency": "high",
       "account": "nik@nik.co",
       "created_at": "2026-04-21T04:00:13.856Z",
+      "status": "open",
+      "checks": [],
+      "resolved": false
+    },
+    {
+      "id": "email-199f586a8d2c5b5a",
+      "source": "email",
+      "transcript_id": "199f586a8d2c5b5a",
+      "meeting_title": "📧 Print Request – Mirrored Metal NFC Business Cards (Design Attached)",
+      "meeting_date": "2026-04-21 00:18",
+      "transcript_url": "https://mail.google.com/mail/u/0/#inbox/199f586a8d2c5b5a",
+      "sentence": "Could you please share a quote for 500nos and lead time?",
+      "context": "From: Dil P <d@yo.vc> · Subject: Print Request – Mirrored Metal NFC Business Cards (Design Attached)",
+      "speaker": "Dil P (yo.vc)",
+      "asker_name": "Dil P",
+      "asker_company": "yo.vc",
+      "asker_title": "EA",
+      "owed_to": [
+        "Dil P (yo.vc)"
+      ],
+      "deadline": "",
+      "urgency": "medium",
+      "account": "nik@nik.co",
+      "created_at": "2026-04-21T04:30:13.659Z",
       "status": "open",
       "checks": [],
       "resolved": false
