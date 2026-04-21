@@ -9,6 +9,17 @@
   },
   "sites": [
     {
+      "subdomain": "vms.nik.co",
+      "category": "knowledge-base",
+      "purpose": "Vitamins & Supplements 2026 Field Report — interactive web report, email-gated, 14 sections, 15 brand teardowns, 25+ brand screenshots (desktop + mobile), live subscription tier calculator, niche whitespace map, cancel-save ladder, PDF download, social share cards",
+      "stack": "Vercel · static HTML + serverless API (email capture + HMAC tokens) · GitHub-backed storage",
+      "project": "vms-nik-co",
+      "status": "live",
+      "deployed": "2026-04-21",
+      "owner": "Jet",
+      "source": "projects/vms-nik-co/"
+    },
+    {
       "subdomain": "pdp-carousels.nik.co",
       "category": "project",
       "purpose": "PDP carousels (Manus build)",

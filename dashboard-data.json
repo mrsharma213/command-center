@@ -573,12 +573,12 @@
       "niksharma.io": "Namecheap",
       "ecomfounders.com": "(separate)"
     },
-    "totalCount": 47,
+    "totalCount": 48,
     "groups": [
       {
         "category": "knowledge-base",
         "label": "\ud83d\udcda Knowledge Bases",
-        "count": 5,
+        "count": 6,
         "sites": [
           {
             "subdomain": "thesis.nik.co",
@@ -611,6 +611,17 @@
             "stack": "Manus",
             "status": "live",
             "owner": "Jet"
+          },
+          {
+            "subdomain": "vms.nik.co",
+            "category": "knowledge-base",
+            "purpose": "Vitamins & Supplements 2026 Field Report \u2014 interactive web report, email-gated, 14 sections, 15 brand teardowns, 25+ brand screenshots (desktop + mobile), live subscription tier calculator, niche whitespace map, cancel-save ladder, PDF download, social share cards",
+            "stack": "Vercel \u00b7 static HTML + serverless API (email capture + HMAC tokens) \u00b7 GitHub-backed storage",
+            "project": "vms-nik-co",
+            "status": "live",
+            "deployed": "2026-04-21",
+            "owner": "Jet",
+            "source": "projects/vms-nik-co/"
           },
           {
             "subdomain": "lp.nik.co",
