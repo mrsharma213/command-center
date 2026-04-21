@@ -327,7 +327,7 @@ body { background:var(--bg); color:var(--text); min-height:100vh; }
   <p>Enter passcode to continue</p>
   <form id="passcode-form" style="display:flex; flex-direction:column; gap:14px; align-items:center;">
     <input type="password" id="passcode-input" maxlength="4" inputmode="numeric" pattern="[0-9]*" autocomplete="off" autofocus>
-    <button type="submit" id="passcode-submit" disabled>Enter</button>
+    <button type="submit" id="passcode-submit">Enter</button>
   </form>
   <p id="passcode-error">Invalid passcode</p>
 </div>
@@ -369,6 +369,12 @@ const passcodeForm = document.getElementById('passcode-form');
 const submitBtn = document.getElementById('passcode-submit');
 
 async function tryUnlock() {
+  if (!input.value || input.value.length < 4) {
+    error.textContent = 'Enter a 4-digit passcode';
+    error.style.display = 'block';
+    input.focus();
+    return;
+  }
   const hash = await sha256(input.value);
   if (hash === PASSCODE_HASH) {
     sessionStorage.setItem('dash-auth', 'true');
@@ -376,23 +382,26 @@ async function tryUnlock() {
     document.getElementById('app').classList.add('visible');
     loadData();
   } else {
+    error.textContent = 'Invalid passcode';
     error.style.display = 'block';
     input.value = '';
-    submitBtn.disabled = true;
     input.focus();
   }
 }
 
 input.addEventListener('input', () => {
   error.style.display = 'none';
-  submitBtn.disabled = input.value.length !== 4;
-  // Also auto-submit on 4 digits for desktop speed
   if (input.value.length === 4) tryUnlock();
 });
 
 passcodeForm.addEventListener('submit', (e) => {
   e.preventDefault();
-  if (input.value.length === 4) tryUnlock();
+  tryUnlock();
+});
+
+submitBtn.addEventListener('click', (e) => {
+  e.preventDefault();
+  tryUnlock();
 });
 
 async function loadData() {
