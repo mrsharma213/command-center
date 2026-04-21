@@ -67,6 +67,15 @@ body { background:var(--bg); color:var(--text); min-height:100vh; }
   color:var(--text); width:200px; outline:none; font-family:inherit;
 }
 #passcode-input:focus { border-color:var(--accent); box-shadow:0 0 0 3px var(--accent-glow); }
+#passcode-submit {
+  background:var(--accent); color:#000; border:0; border-radius:10px;
+  padding:14px 28px; font-size:15px; font-weight:600; cursor:pointer;
+  letter-spacing:-0.01em; transition:background .15s ease, transform .05s ease;
+  min-width:120px;
+}
+#passcode-submit:hover { background:var(--accent-hover); }
+#passcode-submit:active { transform:scale(0.98); }
+#passcode-submit:disabled { opacity:0.4; cursor:not-allowed; }
 #passcode-error { color:var(--red); font-size:13px; display:none; }
 
 /* App */
@@ -316,7 +325,10 @@ body { background:var(--bg); color:var(--text); min-height:100vh; }
 <div id="passcode-overlay">
   <h2>⚡ Command Center</h2>
   <p>Enter passcode to continue</p>
-  <input type="password" id="passcode-input" maxlength="4" inputmode="numeric" autocomplete="off" autofocus>
+  <form id="passcode-form" style="display:flex; flex-direction:column; gap:14px; align-items:center;">
+    <input type="password" id="passcode-input" maxlength="4" inputmode="numeric" pattern="[0-9]*" autocomplete="off" autofocus>
+    <button type="submit" id="passcode-submit" disabled>Enter</button>
+  </form>
   <p id="passcode-error">Invalid passcode</p>
 </div>
 
@@ -353,21 +365,34 @@ if (sessionStorage.getItem('dash-auth') === 'true') {
   loadData();
 }
 
-input.addEventListener('input', async () => {
-  error.style.display = 'none';
-  if (input.value.length === 4) {
-    const hash = await sha256(input.value);
-    if (hash === PASSCODE_HASH) {
-      sessionStorage.setItem('dash-auth', 'true');
-      overlay.classList.add('hidden');
-      document.getElementById('app').classList.add('visible');
-      loadData();
-    } else {
-      error.style.display = 'block';
-      input.value = '';
-      input.focus();
-    }
+const passcodeForm = document.getElementById('passcode-form');
+const submitBtn = document.getElementById('passcode-submit');
+
+async function tryUnlock() {
+  const hash = await sha256(input.value);
+  if (hash === PASSCODE_HASH) {
+    sessionStorage.setItem('dash-auth', 'true');
+    overlay.classList.add('hidden');
+    document.getElementById('app').classList.add('visible');
+    loadData();
+  } else {
+    error.style.display = 'block';
+    input.value = '';
+    submitBtn.disabled = true;
+    input.focus();
   }
+}
+
+input.addEventListener('input', () => {
+  error.style.display = 'none';
+  submitBtn.disabled = input.value.length !== 4;
+  // Also auto-submit on 4 digits for desktop speed
+  if (input.value.length === 4) tryUnlock();
+});
+
+passcodeForm.addEventListener('submit', (e) => {
+  e.preventDefault();
+  if (input.value.length === 4) tryUnlock();
 });
 
 async function loadData() {
