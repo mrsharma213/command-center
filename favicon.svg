@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#0a0a0b"/><text x="32" y="46" font-size="40" text-anchor="middle" font-family="sans-serif">✈️</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 40" role="img" aria-label="Nik Sharma · favicon" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <mask id="t-sebz88" maskUnits="userSpaceOnUse" x="0" y="0" width="28" height="40">
+      <path d="M0 0 H28 V40 H0 Z" fill="white"/>
+      <g transform="translate(1.1769 10.4762) scale(0.6803) skewX(-10.0)">
+        <path d="M3 9 H8 V12 C10 9, 14 9, 15 12 L15 21 L11 21 L11 14 L8 14 L8 21 H3 Z" fill="black"/>
+        <path d="M18 6 L18 3 L32 3 L32 9 L23 9 L23 11 L32 11 L32 21 L18 21 L18 15 L27 15 L27 13 L18 13 Z" fill="black"/>
+      </g>
+    </mask>
+  </defs>
+  <path d="M0 0 H28 V40 H0 Z" fill="#111111" mask="url(#t-sebz88)"/>
+</svg>
