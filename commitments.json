@@ -1,9 +1,9 @@
 {
-  "open": 10,
+  "open": 11,
   "resolved": 0,
   "overdue": 0,
   "aging": 0,
-  "last_updated": "2026-04-21T04:30:13.905Z",
+  "last_updated": "2026-04-21T05:15:12.629Z",
   "commitments": [
     {
       "id": "email-19dacca51451bff9",
@@ -241,6 +241,30 @@
       "urgency": "medium",
       "account": "nik@nik.co",
       "created_at": "2026-04-21T04:30:13.659Z",
+      "status": "open",
+      "checks": [],
+      "resolved": false
+    },
+    {
+      "id": "email-19dae6ecb9f6c6d0",
+      "source": "email",
+      "transcript_id": "19dae6ecb9f6c6d0",
+      "meeting_title": "📧 Visit in May",
+      "meeting_date": "2026-04-21 01:06",
+      "transcript_url": "https://mail.google.com/mail/u/0/#inbox/19dae6ecb9f6c6d0",
+      "sentence": "We hope to have a meet with you.",
+      "context": "From: Bluse Huang <19360638@qq.com> · Subject: Visit in May",
+      "speaker": "Bluse Huang (qq)",
+      "asker_name": "Bluse Huang",
+      "asker_company": "qq",
+      "asker_title": "",
+      "owed_to": [
+        "Bluse Huang (qq)"
+      ],
+      "deadline": "",
+      "urgency": "medium",
+      "account": "nik@nik.co",
+      "created_at": "2026-04-21T05:15:12.382Z",
       "status": "open",
       "checks": [],
       "resolved": false
