@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-21T17:00:00Z",
+  "lastRefreshed": "2026-04-21T18:00:00Z",
   "flagged": [
     {
       "id": "macra-launch",
@@ -11,9 +11,9 @@
     },
     {
       "id": "today-schedule-4-21",
-      "emoji": "\ud83d\udd34",
-      "title": "LIVE NOW 1pm \u2014 Triple-booked: YoSharma Check-In + Check-In + Zurp Check-In 1:30pm",
-      "detail": "LIVE NOW 1:00pm: YoSharma Check-In (1:00-1:30pm) \u2022 Check-In (1:00-1:30pm) \u2022 NEXT 1:30pm Zurp Check-In \u2022 2:00pm After Ours Sync (Fred/Fireflies prep sent 12:57pm) \u2022 6:00pm Chris x Nik \u2022 8:00pm Alec/Afters. Limited Supply recording WRAPPED. Wed 4/22: dry-clean 8am \u2022 Fort 10am \u2022 Instant x Nik 4:30pm \u2022 Zagged Dinner 8-10:15pm.",
+      "emoji": "\ud83c\udfa7",
+      "title": "LIVE NOW 2pm \u2014 After Ours Sync (Fred) \u2022 NEXT 6pm Chris x Nik",
+      "detail": "LIVE NOW 2:00-3:00pm: After Ours Sync (Fireflies prep sent 12:57pm). NEXT 6:00pm Chris x Nik \u2022 8:00pm Call Alec / Afters. Earlier today wrapped: YoSharma Check-In, Check-In, Zurp Check-In, Limited Supply recording. Wed 4/22: dry-clean 8am \u2022 Fort 10am \u2022 Instant x Nik 4:30pm (Jaime Egan confirmed) \u2022 Zagged Dinner 8-10:15pm.",
       "severity": "attention",
       "since": "2026-04-21"
     },
