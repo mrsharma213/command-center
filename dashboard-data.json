@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-21T16:00:00Z",
+  "lastRefreshed": "2026-04-21T17:00:00Z",
   "flagged": [
     {
       "id": "macra-launch",
@@ -11,9 +11,33 @@
     },
     {
       "id": "today-schedule-4-21",
+      "emoji": "\ud83d\udd34",
+      "title": "LIVE NOW 1pm \u2014 Triple-booked: YoSharma Check-In + Check-In + Zurp Check-In 1:30pm",
+      "detail": "LIVE NOW 1:00pm: YoSharma Check-In (1:00-1:30pm) \u2022 Check-In (1:00-1:30pm) \u2022 NEXT 1:30pm Zurp Check-In \u2022 2:00pm After Ours Sync (Fred/Fireflies prep sent 12:57pm) \u2022 6:00pm Chris x Nik \u2022 8:00pm Alec/Afters. Limited Supply recording WRAPPED. Wed 4/22: dry-clean 8am \u2022 Fort 10am \u2022 Instant x Nik 4:30pm \u2022 Zagged Dinner 8-10:15pm.",
+      "severity": "attention",
+      "since": "2026-04-21"
+    },
+    {
+      "id": "alexandra-eightsleep-tiktok",
+      "emoji": "\ud83d\udcf1",
+      "title": "Alexandra Zatarain (Eight Sleep) \u2014 'Contact at Tik Tok' (12:26pm)",
+      "detail": "Alexandra Zatarain (alexandra@eightsleep.com) sent 'Contact at Tik Tok' 12:26pm ET 4/21. Action + IMPORTANT flags, 3-msg thread. Eight Sleep co-founder asking for TikTok contact intro.",
+      "severity": "attention",
+      "since": "2026-04-21"
+    },
+    {
+      "id": "asher-brooks-pod",
       "emoji": "\ud83c\udf99\ufe0f",
-      "title": "LIVE NOW 12pm \u2014 Limited Supply recording in progress, 5 back-to-backs start 1pm",
-      "detail": "NOW: Limited Supply Recording 11:30am-12:30pm (in progress) \u2022 NEXT UP 1:00pm: Check-In \u2022 1:30pm Zurp Check-In \u2022 2:00pm After Ours Sync \u2022 3:00pm YoSharma Check-In \u2022 6:00pm Chris x Nik \u2022 8:00pm Alec/Afters. Wed 4/22: dry-clean check 8am \u2022 Fort 10am \u2022 Check-In 11:30am \u2022 Stretch 12:30pm \u2022 Jack<>Troy<>Nik 2:30pm \u2022 Instant x Nik 4:30pm (Jaime Egan CONFIRMED) \u2022 Zagged Dinner 8-10:15pm.",
+      "title": "Asher Brooks (Theorist Studios) \u2014 'would love to have you on the pod' (12:38pm)",
+      "detail": "Asher Brooks (asher@theoriststudios.com) sent 'would love to have you on the pod' 12:38pm ET 4/21. Flagged Pitch + Respond by Superhuman. Podcast invite.",
+      "severity": "info",
+      "since": "2026-04-21"
+    },
+    {
+      "id": "troy-custom-usbs",
+      "emoji": "\ud83d\udcbe",
+      "title": "Troy Osinoff \u2014 'custom USBs' (46 msgs, 9:28am)",
+      "detail": "Troy Osinoff (troy@yo.vc) pinged 'custom USBs' 9:28am ET 4/21 \u2014 thread now 46 msgs deep. Active yo.vc/Authentiq workstream.",
       "severity": "attention",
       "since": "2026-04-21"
     },
@@ -293,6 +317,7 @@
             "\ud83c\udd95 NEW PROJECT \u2014 NFC authentication for high-value consumer goods",
             "\ud83d\udcc4 Features doc created and sent to Troy for review",
             "\ud83d\udcc7 NEW (4/21): Dil P (yo.vc) print request \u2014 500 Mirrored Metal NFC Business Cards (design attached, quote needed) \u2014 ties to Authentiq workstream",
+            "\ud83d\udcbe NEW (4/21 9:28am): Troy \u2018custom USBs\u2019 \u2014 thread now 46 msgs deep, active workstream",
             "Partners: Nik, Troy, Cameron, David",
             "V1: NFC chips, App Clip auth, SKU-level tracking, brand dashboard",
             "V2: Ownership transfer, Shopify integration",
@@ -423,7 +448,7 @@
             "\ud83d\udcc5 Myles Pharmacy call Tue 4/21 1:30pm ET",
             "\ud83d\udcca Ahrefs: 8 orphan pages flagged on nik.co (no internal links)"
           ],
-          "needsAttention": "Air Oasis homepage 9 days overdue + WA DOR action required"
+          "needsAttention": "Air Oasis homepage 9 days overdue + WA DOR action required + Alexandra Zatarain (Eight Sleep) TikTok intro ask (IMPORTANT)"
         },
         {
           "id": "ecom-founders",
@@ -493,12 +518,15 @@
           "status": "attention",
           "lastUpdated": "2026-04-20",
           "bullets": [
-            "\ud83d\udd34 LIVE NOW 11am: Wake block \u2014 \ud83c\udf99\ufe0f Limited Supply Recording UP NEXT 11:30am-12:30pm \u2022 Check-In 1pm \u2022 \ud83d\udcf1 Zurp Check-In 1:30pm \u2022 \ud83c\udfa7 After Ours Sync 2pm \u2022 YoSharma Check-In 3pm \u2022 Chris x Nik 6pm \u2022 Alec/Afters 8pm",
+            "\ud83d\udd34 LIVE NOW 1pm: Triple-booked \u2014 YoSharma Check-In + Check-In + Zurp Check-In 1:30pm \u2022 \ud83c\udfa7 After Ours Sync 2pm (Fireflies prep sent) \u2022 Chris x Nik 6pm \u2022 Alec/Afters 8pm. Limited Supply recording WRAPPED.",
             "\u2705 NEW (4/21 10:39am): Jaime Egan (Instant) ACCEPTED Wed 4/22 4:30-5pm meeting \u2014 no reschedule",
             "\ud83d\udcca NEW (4/21 10:34am): Arthur Root (Nostra) Q1 '26 Investor Update \u2014 portfolio review",
             "\ud83e\uddc9 NEW (4/21 10:00am): Philippe von Borries (Esspo) April 2026 update",
             "\ud83c\udfcb\ufe0f Fort reminder (Wed 4/22 10am Strength Training \u2014 The Garage, 57 W 21st St)",
             "\ud83d\udcdd NEW (4/21 10:16am): Jet drafted 'Podcast Outline: Supplement Brands, What's Working in 2026'",
+            "\ud83d\udcf1 Fresh inbound 4/21 12:26pm: Alexandra Zatarain (Eight Sleep) \u2018Contact at Tik Tok\u2019 \u2014 Action + IMPORTANT, 3-msg thread",
+            "\ud83c\udf99\ufe0f Fresh inbound 4/21 12:38pm: Asher Brooks (Theorist Studios) \u2018would love to have you on the pod\u2019 \u2014 podcast pitch",
+            "\ud83d\udcbe Fresh inbound 4/21 9:28am: Troy \u2018custom USBs\u2019 thread now 46 msgs deep",
             "\ud83d\udce7 Fresh inbound 4/21 9:02am: Scott Swanson (character.nyc) 'Fwd: 1180 Media - Payment' \u2014 IMPORTANT, 4-msg thread",
             "\ud83d\udce7 Fresh inbound 4/21 9:34am: Jim Jannuzzio (Tondo Group) 'Introduction' \u2014 IMPORTANT, 5-msg thread",
             "\ud83d\udce7 Fresh inbound 4/21 9:50am: Seth Kaplan (Unkommon Events) 'MMW P&L' \u2014 IMPORTANT, 16-msg thread",
