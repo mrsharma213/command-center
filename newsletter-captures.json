@@ -1,0 +1,18 @@
+{
+  "total": 1,
+  "last_updated": "2026-04-21T22:31:02.521Z",
+  "captures": [
+    {
+      "email": "jet-test@nik.co",
+      "source": "api-smoke-test",
+      "page": "https://newsletter-api-six.vercel.app/test",
+      "referrer": "",
+      "custom": {
+        "test": true
+      },
+      "ip": "173.68.100.246",
+      "ua": "curl/8.7.1",
+      "ts": "2026-04-21T22:31:01.063Z"
+    }
+  ]
+}
