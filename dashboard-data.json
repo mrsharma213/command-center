@@ -1,11 +1,27 @@
 {
-  "lastRefreshed": "2026-04-21T20:00:00Z",
+  "lastRefreshed": "2026-04-21T21:00:00Z",
   "flagged": [
+    {
+      "id": "nicole-goodonya-copy",
+      "emoji": "✍️",
+      "title": "Nicole Rose (GoodOnya) — Copywriter recs (4:53pm, Respond)",
+      "detail": "Nicole Rose (nicole@goodonyaorganic.com) emailed 4:53pm ET 4/21 'Copywriter recs for GoodOnya' — flagged Respond + IMPORTANT by Superhuman. Client ask for copywriter referrals.",
+      "severity": "attention",
+      "since": "2026-04-21"
+    },
+    {
+      "id": "jake-valentine-masala",
+      "emoji": "📊",
+      "title": "Jake Valentine (Claymore) — 'Does Masala Capital plan to raise in 2026?' (4:52pm)",
+      "detail": "Jake Valentine (jakevalentine@claymoreglobalfunds.co) emailed 4:52pm ET 4/21 — Meeting/Pitch/Respond flags. LP inquiry about Masala Capital 2026 raise plans. Route to Rolling Ventures.",
+      "severity": "attention",
+      "since": "2026-04-21"
+    },
     {
       "id": "ethan-postpilot-tushy",
       "emoji": "📮",
-      "title": "Ethan Potts (PostPilot) — 'Tushy Email' (3:53pm, Action)",
-      "detail": "Ethan Potts @ PostPilot emailed 3:53pm ET 4/21 'Tushy Email' — flagged Action/IMPORTANT. 2 msgs in thread. Review direct mail play for Tushy.",
+      "title": "Ethan Potts (PostPilot) — 'Tushy Email' (4:48pm, Action, 3 msgs)",
+      "detail": "Ethan Potts @ PostPilot thread now 3 msgs deep as of 4:48pm ET 4/21. 'Tushy Email' — flagged Action/IMPORTANT. Review direct mail play for Tushy.",
       "severity": "attention",
       "since": "2026-04-21"
     },
@@ -36,8 +52,8 @@
     {
       "id": "today-schedule-4-21",
       "emoji": "🎧",
-      "title": "NEXT 6pm — Chris x Nik • 8pm Call Alec / Afters",
-      "detail": "NEXT up: 6:00pm Chris x Nik • 8:00pm Call Alec / Afters. Today WRAPPED: YoSharma Check-In, Check-In, Zurp Check-In, Limited Supply recording, After Ours Sync (Fireflies recap 2:51pm). Wed 4/22: Dry-clean 8am • Fort 10am • Jack↔Troy↔Nik 2:30pm • Instant x Nik 4:30pm (Jaime Egan ✅) • Zagged Dinner 8-10:15pm.",
+      "title": "NEXT 1hr — 6pm Chris x Nik • then 8pm Call Alec / Afters",
+      "detail": "5pm ET — NEXT up: 6:00pm Chris x Nik • 8:00pm Call Alec / Afters. Today WRAPPED: YoSharma Check-In, Check-In, Zurp Check-In, Limited Supply recording, After Ours Sync (Fireflies recap 2:51pm). Wed 4/22: Dry-clean 8am • Fort 10am • Stretch 12:30pm • Instant x Nik 4:30pm (Jaime Egan ✅) • Zagged Dinner 8-10:15pm.",
       "severity": "attention",
       "since": "2026-04-21"
     },
@@ -515,7 +531,7 @@
             "📅 Myles Pharmacy call Tue 4/21 1:30pm ET",
             "📊 Ahrefs: 8 orphan pages flagged on nik.co (no internal links)"
           ],
-          "needsAttention": "Air Oasis homepage 9 days overdue + WA DOR action required + Alexandra Zatarain (Eight Sleep) TikTok intro ask (IMPORTANT)"
+          "needsAttention": "Air Oasis homepage 9 days overdue + WA DOR action required + Nicole Rose (GoodOnya) copywriter recs ask 4:53pm (Respond/IMPORTANT) + Alexandra Zatarain (Eight Sleep) TikTok intro ask (IMPORTANT)"
         },
         {
           "id": "ecom-founders",
@@ -551,6 +567,7 @@
             "📧 NEW PEF deal flow: Phosphate Mine Opp (Alex Seleska, fast cash needed, 4/20), Sworn (AI legaltech, $950K left, closing 5/4), Kara AI ($300K ARR, 114% NRR), NoBiggie (kids F&B, $130B market), CEE Tech Founders, Kalshi (prediction market leader, direct cap-table)",
             "📅 Apr 29: PEF QSBS Roundtable Lunch with Rockefeller Global Family Office",
             "📧 BodySpec Series A SPV via PEF — health-tech, AI-powered clinical imaging (Andrew Tan)",
+            "📧 NEW (4/21 4:52pm): Jake Valentine (Claymore Growth) follow-up 'Does Masala Capital plan to raise in 2026?' — Meeting/Pitch/Respond",
             "📧 Jake Valentine (Claymore Growth) inbound — asking if Masala Capital plans to raise in 2026",
             "Polar Verified inbound — Paul Haidu Gerea (Stanford), supplement verification rail",
             "📧 NGP SRA Fund inbound — AI Energy & Sustainability investment (Sriram Gollapalli)",
@@ -585,7 +602,10 @@
           "status": "attention",
           "lastUpdated": "2026-04-20",
           "bullets": [
-            "🔴 LIVE NOW 1pm: Triple-booked — YoSharma Check-In + Check-In + Zurp Check-In 1:30pm • 🎧 After Ours Sync 2pm (Fireflies prep sent) • Chris x Nik 6pm • Alec/Afters 8pm. Limited Supply recording WRAPPED.",
+            "⏰ 5pm ET — UP NEXT: Chris x Nik 6pm • Alec/Afters 8pm. Today WRAPPED: YoSharma Check-In + Check-In + Zurp Check-In + Limited Supply recording + After Ours Sync (Fireflies recap 2:51pm).",
+            "✍️ Fresh inbound 4/21 4:53pm: Nicole Rose (GoodOnya) 'Copywriter recs' — Respond/IMPORTANT",
+            "📊 Fresh inbound 4/21 4:52pm: Jake Valentine (Claymore) follow-up on Masala Capital 2026 raise",
+            "📮 Fresh inbound 4/21 4:48pm: Ethan Potts (PostPilot) 'Tushy Email' thread now 3 msgs — Action/IMPORTANT",
             "✅ NEW (4/21 10:39am): Jaime Egan (Instant) ACCEPTED Wed 4/22 4:30-5pm meeting — no reschedule",
             "📊 NEW (4/21 10:34am): Arthur Root (Nostra) Q1 '26 Investor Update — portfolio review",
             "🧉 NEW (4/21 10:00am): Philippe von Borries (Esspo) April 2026 update",

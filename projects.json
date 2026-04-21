@@ -33,8 +33,10 @@
         "text": "📧 NEW (4/20 11:49pm): Rameez 'New Macra Stuff' — source quote + finalize on a vendor (urgency: high)"
       }
     ],
-    "status": "attention",
-    "updated": "2026-04-21"
+    "status": "active",
+    "updated": "2026-04-21",
+    "alert": "Day 5 post-launch — monitoring early sales + ad performance. Rameez testing thread active (43 msgs). New: 'New Macra Stuff' thread — source quote + finalize vendor.",
+    "emoji": "💊"
   },
   {
     "name": "STOCKED x Sharma Brands",
@@ -54,8 +56,10 @@
         "text": "Awaiting scope / next steps"
       }
     ],
-    "status": "attention",
-    "updated": "2026-04-20"
+    "status": "active",
+    "updated": "2026-04-20",
+    "alert": "New client engagement — confirm scope with Minul",
+    "emoji": "🆕"
   },
   {
     "name": "Maruchan x Nik Sharma",
@@ -75,8 +79,10 @@
         "text": "Coordinated via Minul @ nik.co"
       }
     ],
-    "status": "attention",
-    "updated": "2026-04-20"
+    "status": "active",
+    "updated": "2026-04-20",
+    "alert": "Thread 15 msgs deep (updated 1:53pm 4/20) — review and respond",
+    "emoji": "🍜"
   },
   {
     "name": "Zurp",
@@ -116,8 +122,10 @@
         "text": "✅ Brand book DONE — brand.zurp.com (password: zurp2026)"
       }
     ],
-    "status": "attention",
-    "updated": "2026-04-21"
+    "status": "active",
+    "updated": "2026-04-21",
+    "alert": "Miami expansion via UnKommon partnership agreement 4/21 — monitor signature. New venue pitch to Common Country Bar.",
+    "emoji": "📱"
   },
   {
     "name": "Authentiq",
@@ -161,13 +169,15 @@
         "text": "Verticals: clothing, sports cards, cannabis, skincare"
       }
     ],
-    "status": "attention",
-    "updated": "2026-04-15"
+    "status": "active",
+    "updated": "2026-04-15",
+    "alert": "New project — awaiting Troy review of features doc",
+    "emoji": "🔐"
   },
   {
     "name": "Pigeon House Records",
     "desc": "Companies",
-    "currentStatus": "Label active with After Ours releases",
+    "currentStatus": "",
     "recentActivity": [
       {
         "date": "2026-04-17",
@@ -191,7 +201,9 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-04-17"
+    "updated": "2026-04-17",
+    "alert": null,
+    "emoji": "🐦"
   },
   {
     "name": "After Ours",
@@ -231,13 +243,15 @@
         "text": "📝 Brand voice brief owed to Brandon — due this week"
       }
     ],
-    "status": "attention",
-    "updated": "2026-04-21"
+    "status": "active",
+    "updated": "2026-04-21",
+    "alert": "Post-show Day 3 — Fireflies recap from today's sync needs review. Pull videographer assets. Brand voice brief still owed to Brandon.",
+    "emoji": "🎧"
   },
   {
     "name": "Limited Supply Podcast",
     "desc": "Media & Content",
-    "currentStatus": "🎙️ Limited Supply Recording TODAY Tue 4/21 11:30am-12:30pm ET (first session of day)",
+    "currentStatus": "",
     "recentActivity": [
       {
         "date": "2026-04-17",
@@ -261,12 +275,14 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-04-17"
+    "updated": "2026-04-17",
+    "alert": null,
+    "emoji": "🎙️"
   },
   {
     "name": "Newsletter / Workweek",
     "desc": "Media & Content",
-    "currentStatus": "✅ Apr 19 SHIPPED — 'The product is fine. The education is broken.'",
+    "currentStatus": "",
     "recentActivity": [
       {
         "date": "2026-04-20",
@@ -302,12 +318,14 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-04-20"
+    "updated": "2026-04-20",
+    "alert": null,
+    "emoji": "📰"
   },
   {
     "name": "Brand Consulting",
     "desc": "Brand Consulting",
-    "currentStatus": "Air Oasis homepage 9 days overdue + WA DOR action required + Alexandra Zatarain (Eight Sleep) TikTok intro ask (IMPORTANT)",
+    "currentStatus": "Air Oasis homepage 9 days overdue + WA DOR action required + Nicole Rose (GoodOnya) copywriter recs ask 4:53pm (Respond/IMPORTANT) + Alexandra Zatarain (Eight Sleep) TikTok intro ask (IMPORTANT)",
     "recentActivity": [
       {
         "date": "2026-04-17",
@@ -466,13 +484,15 @@
         "text": "📊 Ahrefs: 8 orphan pages flagged on nik.co (no internal links)"
       }
     ],
-    "status": "attention",
-    "updated": "2026-04-17"
+    "status": "active",
+    "updated": "2026-04-17",
+    "alert": "Air Oasis homepage 9 days overdue + WA DOR action required + Nicole Rose (GoodOnya) copywriter recs ask 4:53pm (Respond/IMPORTANT) + Alexandra Zatarain (Eight Sleep) TikTok intro ask (IMPORTANT)",
+    "emoji": "💼"
   },
   {
     "name": "Ecom Founders",
     "desc": "Brand Consulting",
-    "currentStatus": "📧 Rameez told Triple Whale (Daniela): AI Summit going live with full announcements next week",
+    "currentStatus": "",
     "recentActivity": [
       {
         "date": "2026-04-17",
@@ -496,7 +516,9 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-04-17"
+    "updated": "2026-04-17",
+    "alert": null,
+    "emoji": "🏗️"
   },
   {
     "name": "Rolling Ventures Fund",
@@ -533,6 +555,10 @@
       },
       {
         "date": "2026-04-18",
+        "text": "📧 NEW (4/21 4:52pm): Jake Valentine (Claymore Growth) follow-up 'Does Masala Capital plan to raise in 2026?' — Meeting/Pitch/Respond"
+      },
+      {
+        "date": "2026-04-18",
         "text": "📧 Jake Valentine (Claymore Growth) inbound — asking if Masala Capital plans to raise in 2026"
       },
       {
@@ -553,12 +579,14 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-04-18"
+    "updated": "2026-04-18",
+    "alert": "unspun signature still required ASAP",
+    "emoji": "🎯"
   },
   {
     "name": "Personal Investments",
     "desc": "Rolling Ventures",
-    "currentStatus": "unspun Inc — Pay-to-Play Series B-3 (signature still required ASAP)",
+    "currentStatus": "",
     "recentActivity": [
       {
         "date": "2026-04-14",
@@ -578,16 +606,30 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-04-14"
+    "updated": "2026-04-14",
+    "alert": null,
+    "emoji": "💰"
   },
   {
     "name": "Today & This Week",
     "desc": "Nik Sharma — Personal",
-    "currentStatus": "🔴 LIVE NOW 1pm: Triple-booked — YoSharma Check-In + Check-In + Zurp Check-In 1:30pm • 🎧 After Ours Sync 2pm (Fireflies prep sent) • Chris x Nik 6pm • Alec/Afters 8pm. Limited Supply recording WRAPPED.",
+    "currentStatus": "",
     "recentActivity": [
       {
         "date": "2026-04-20",
-        "text": "🔴 LIVE NOW 1pm: Triple-booked — YoSharma Check-In + Check-In + Zurp Check-In 1:30pm • 🎧 After Ours Sync 2pm (Fireflies prep sent) • Chris x Nik 6pm • Alec/Afters 8pm. Limited Supply recording WRAPPED."
+        "text": "⏰ 5pm ET — UP NEXT: Chris x Nik 6pm • Alec/Afters 8pm. Today WRAPPED: YoSharma Check-In + Check-In + Zurp Check-In + Limited Supply recording + After Ours Sync (Fireflies recap 2:51pm)."
+      },
+      {
+        "date": "2026-04-20",
+        "text": "✍️ Fresh inbound 4/21 4:53pm: Nicole Rose (GoodOnya) 'Copywriter recs' — Respond/IMPORTANT"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "📊 Fresh inbound 4/21 4:52pm: Jake Valentine (Claymore) follow-up on Masala Capital 2026 raise"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "📮 Fresh inbound 4/21 4:48pm: Ethan Potts (PostPilot) 'Tushy Email' thread now 3 msgs — Action/IMPORTANT"
       },
       {
         "date": "2026-04-20",
@@ -662,13 +704,15 @@
         "text": "✅ Back in NYC — Fort gym schedule resumed"
       }
     ],
-    "status": "attention",
-    "updated": "2026-04-20"
+    "status": "active",
+    "updated": "2026-04-20",
+    "alert": null,
+    "emoji": "✈️"
   },
   {
     "name": "My Agents",
     "desc": "Operations",
-    "currentStatus": "14 bots operational",
+    "currentStatus": "",
     "recentActivity": [
       {
         "date": "2026-04-14",
@@ -700,6 +744,8 @@
       }
     ],
     "status": "on-track",
-    "updated": "2026-04-14"
+    "updated": "2026-04-14",
+    "alert": null,
+    "emoji": "🤖"
   }
 ]
