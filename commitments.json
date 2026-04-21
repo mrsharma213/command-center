@@ -1,9 +1,9 @@
 {
-  "open": 7,
+  "open": 8,
   "resolved": 0,
   "overdue": 0,
   "aging": 0,
-  "last_updated": "2026-04-21T02:58:31.951Z",
+  "last_updated": "2026-04-21T03:30:22.995Z",
   "commitments": [
     {
       "id": "email-19dacca51451bff9",
@@ -169,6 +169,30 @@
       "urgency": "medium",
       "account": "nik@nik.co",
       "created_at": "2026-04-21T02:58:31.663Z",
+      "status": "open",
+      "checks": [],
+      "resolved": false
+    },
+    {
+      "id": "email-19dae123a0f4cd47",
+      "source": "email",
+      "transcript_id": "19dae123a0f4cd47",
+      "meeting_title": "📧 Re: Accepted: Instant x Nik Sharma @ Wed 22 Apr 2026 4:30pm - 5pm (EDT) (jaime@instant.one)",
+      "meeting_date": "2026-04-20 23:24",
+      "transcript_url": "https://mail.google.com/mail/u/0/#inbox/19dae123a0f4cd47",
+      "sentence": "Would you mind rescheduling using the provided link?",
+      "context": "From: Jaime Egan <jaime@instant.one> · Subject: Re: Accepted: Instant x Nik Sharma @ Wed 22 Apr 2026 4:30pm - 5pm (EDT) (jaime@instant.one)",
+      "speaker": "Jaime Egan (Instant)",
+      "asker_name": "Jaime Egan",
+      "asker_company": "Instant",
+      "asker_title": "",
+      "owed_to": [
+        "Jaime Egan (Instant)"
+      ],
+      "deadline": "",
+      "urgency": "medium",
+      "account": "nik@nik.co",
+      "created_at": "2026-04-21T03:30:22.808Z",
       "status": "open",
       "checks": [],
       "resolved": false
