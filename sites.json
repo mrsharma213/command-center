@@ -9,6 +9,15 @@
   },
   "sites": [
     {
+      "subdomain": "pdp-carousels.nik.co",
+      "category": "project",
+      "purpose": "PDP carousels (Manus build)",
+      "stack": "Manus",
+      "status": "live",
+      "deployed": "2026-04-20",
+      "owner": "Nik"
+    },
+    {
       "subdomain": "fireflies.nik.co",
       "category": "internal-tool",
       "purpose": "Fireflies webhook receiver — auto-recaps every meeting to Jet Status Bot, extracts commitments, tracks follow-up gaps (24h/48h cron), serves /api/commitments to dash.nik.co",

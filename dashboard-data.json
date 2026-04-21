@@ -491,7 +491,7 @@
       "niksharma.io": "Namecheap",
       "ecomfounders.com": "(separate)"
     },
-    "totalCount": 46,
+    "totalCount": 47,
     "groups": [
       {
         "category": "knowledge-base",
@@ -873,7 +873,7 @@
       {
         "category": "project",
         "label": "\ud83e\uddea Project Pages",
-        "count": 6,
+        "count": 7,
         "sites": [
           {
             "subdomain": "zurp-models.nik.co",
@@ -922,6 +922,15 @@
             "stack": "Manus",
             "status": "live",
             "owner": "Riaz / Jet"
+          },
+          {
+            "subdomain": "pdp-carousels.nik.co",
+            "category": "project",
+            "purpose": "PDP carousels (Manus build)",
+            "stack": "Manus",
+            "status": "live",
+            "deployed": "2026-04-20",
+            "owner": "Nik"
           }
         ]
       },
