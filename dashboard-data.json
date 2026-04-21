@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-20T22:05:00Z",
+  "lastRefreshed": "2026-04-21T14:00:00Z",
   "flagged": [
     {
       "id": "macra-launch",
@@ -10,12 +10,36 @@
       "since": "2026-04-16"
     },
     {
+      "id": "today-schedule-4-21",
+      "emoji": "\ud83d\udcc5",
+      "title": "Today Tue 4/21 \u2014 5 back-to-back check-ins + Chris x Nik 6pm",
+      "detail": "Wake 11:00am \u2022 Limited Supply Recording 11:30am-12:30pm \u2022 Check-In 1:00-1:30pm \u2022 Zurp Check-In 1:30-2:00pm \u2022 After Ours Sync 2:00-3:00pm \u2022 YoSharma Check-In 3:00-3:30pm \u2022 Chris x Nik 6:00-6:30pm \u2022 Alec/Afters 8:00pm. Wed 4/22: dry-clean check 8am, Fort 10am, Instant x Nik 4:30pm, Zagged Dinner 8-10:15pm.",
+      "severity": "info",
+      "since": "2026-04-21"
+    },
+    {
       "id": "yosharma-invoice-paid",
       "emoji": "\u2705",
       "title": "YoSharma LLC INV-5 PAID \u2014 $5,000 received from YC Management",
-      "detail": "Mercury: $5,000.00 ACH received 8:34am ET this morning from Y COMBINATOR MAN into YoSharma LLC checking \u2022\u20223902. Invoice INV-5 cleared.",
+      "detail": "Mercury: $5,000.00 ACH received 8:34am ET 4/20 from Y COMBINATOR MAN into YoSharma LLC checking \u2022\u20223902. Invoice INV-5 cleared.",
       "severity": "info",
       "since": "2026-04-20"
+    },
+    {
+      "id": "scott-swanson-1180",
+      "emoji": "\ud83d\udce7",
+      "title": "Scott Swanson (character.nyc) \u2014 'Fwd: 1180 Media - Payment' (4-msg thread)",
+      "detail": "Scott Swanson forwarded '1180 Media - Payment' 9:02am ET 4/21. IMPORTANT flag, 4-msg thread. Likely payment coordination \u2014 review.",
+      "severity": "attention",
+      "since": "2026-04-21"
+    },
+    {
+      "id": "dil-nfc-cards",
+      "emoji": "\ud83d\udcc7",
+      "title": "Dil P (yo.vc) \u2014 Mirrored Metal NFC Business Cards print quote (500 units)",
+      "detail": "Dil P requested quote + lead time for 500 Mirrored Metal NFC business cards 12:18am ET 4/21. Design attached. Tie to Authentiq / NFC auth workstream.",
+      "severity": "attention",
+      "since": "2026-04-21"
     },
     {
       "id": "air-oasis-homepage",
@@ -166,7 +190,8 @@
     "status": "sent",
     "sendDay": "Sunday",
     "topic": "The product is fine. The education is broken.",
-    "note": "Sent Apr 19, 6:55pm ET. Thread 9 msgs deep \u2014 replies/engagement active. Last week: 'Affiliate marketing, done right' (Apr 12). Next topic TBD \u2014 Andrew Youderian 300-store P&L study still a leading candidate.",
+    "note": "Sent Apr 19, 6:55pm ET. Thread 9 msgs deep. Next send Sun 4/26. VOTW 'Ecommerce Equation' (Josiah) draft delivered, awaiting Nik review. Last week: 'Affiliate marketing, done right' (Apr 12).",
+    "nextSend": "2026-04-26",
     "topicIdeas": [
       "Andrew Youderian 300-store P&L deep dive w/ Nik commentary"
     ]
@@ -187,9 +212,10 @@
             "\u2705 ALL 3 TRADEMARKS FILED: CARB MUTE (99765362) + MOOD BLOOM (99765355) + CARB CURB (99765775)",
             "\ud83d\udcdd GT attorney Matthew Goings: Use \u2122 symbol. 6-10 month USPTO examination.",
             "Initial ad spend $30K deploying \u2022 Monitor early performance data",
-            "\u2705 verified.macra.com CNAME added via Namecheap API"
+            "\u2705 verified.macra.com CNAME added via Namecheap API",
+            "\ud83d\udce7 NEW (4/20 11:49pm): Rameez 'New Macra Stuff' \u2014 source quote + finalize on a vendor (urgency: high)"
           ],
-          "needsAttention": "Day 4 post-launch \u2014 monitoring early sales + ad performance. Rameez testing thread active (43 msgs)."
+          "needsAttention": "Day 5 post-launch \u2014 monitoring early sales + ad performance. Rameez testing thread active (43 msgs). New: 'New Macra Stuff' thread \u2014 source quote + finalize vendor."
         },
         {
           "id": "stocked",
@@ -224,7 +250,7 @@
           "status": "on-track",
           "lastUpdated": "2026-04-20",
           "bullets": [
-            "\ud83c\udf89 Victor Calderone residency weekend wrapped \u2014 pull results at Zurp Check-In Tue 4/21 11:30am",
+            "\ud83d\udcc5 Zurp Check-In TODAY Tue 4/21 1:30-2:00pm ET \u2014 pull Victor Calderone residency weekend results",
             "\ud83d\udce7 Follow-up email sent to Remy at Refuge for charger placement",
             "\u2705 March legal invoice (Robert Freund Law) paid by Minul",
             "\u23f3 Weather-proof outdoor unit: 6-week lead time",
@@ -242,6 +268,7 @@
           "bullets": [
             "\ud83c\udd95 NEW PROJECT \u2014 NFC authentication for high-value consumer goods",
             "\ud83d\udcc4 Features doc created and sent to Troy for review",
+            "\ud83d\udcc7 NEW (4/21): Dil P (yo.vc) print request \u2014 500 Mirrored Metal NFC Business Cards (design attached, quote needed) \u2014 ties to Authentiq workstream",
             "Partners: Nik, Troy, Cameron, David",
             "V1: NFC chips, App Clip auth, SKU-level tracking, brand dashboard",
             "V2: Ownership transfer, Shopify integration",
@@ -278,7 +305,7 @@
           "lastUpdated": "2026-04-20",
           "bullets": [
             "\u2705 Sat 4/18 Somewhere Nowhere NYC \u2014 opened for Moojo, wrapped ~2am",
-            "\ud83d\udcc5 After Ours Sync Tue 4/21 2:00pm ET",
+            "\ud83d\udcc5 After Ours Sync TODAY Tue 4/21 2:00-3:00pm ET \u2014 next up",
             "\ud83d\udcf9 Awaiting pro media/videographer pull-through (N\u00dc MGMT booked)",
             "\ud83c\udfb5 'Rise & Shine' / 'Future Classic' LIVE on SoundCloud",
             "\ud83d\udd0a Sound pivot locked: keeping Future Classic, Flashback, No Control",
@@ -294,6 +321,7 @@
           "status": "on-track",
           "lastUpdated": "2026-04-17",
           "bullets": [
+            "\ud83c\udf99\ufe0f Limited Supply Recording TODAY Tue 4/21 11:30am-12:30pm ET (first session of day)",
             "Vinay Sridhar (Reddit) podcast episode \u2014 scheduling for 4/21 or 4/22",
             "Topic: catalog ads + Reddit targeting evolution for DTC brands",
             "Episodes release every Wednesday \u2014 100K+ subscribers",
@@ -309,8 +337,10 @@
           "lastUpdated": "2026-04-20",
           "bullets": [
             "\u2705 Apr 19 SHIPPED \u2014 'The product is fine. The education is broken.'",
-            "\u2705 Record Workweek today Mon 4/20 12:30-1:15pm ET \u2014 wrapped",
-            "\ud83c\udfa7 Limited Supply Podcast recording tonight 7:00-8:15pm ET",
+            "\u2705 Workweek recording 4/20 12:30-1:15pm ET \u2014 wrapped",
+            "\u2705 Limited Supply Podcast recording 4/20 7:00-8:15pm ET \u2014 wrapped",
+            "\ud83c\udf99\ufe0f TODAY 4/21 11:30am-12:30pm ET: Limited Supply recording session",
+            "\ud83d\udcc5 Next newsletter: Sun 4/26 \u2014 VOTW 'Ecommerce Equation' draft delivered, awaiting Nik review",
             "Next topic TBD \u2014 Andrew Youderian 300-store P&L study still a candidate",
             "\ud83d\udce7 Josh Payne (Onward) inbound \u2014 wants newsletter sponsorship, asking for deck/pricing",
             "Josiah 'Ecommerce Equation' VOTW draft for Apr 26 delivered, awaiting Nik review"
@@ -439,22 +469,17 @@
           "status": "attention",
           "lastUpdated": "2026-04-20",
           "bullets": [
-            "\ud83d\udcc5 Mon 4/20 TODAY (5pm): \u2705 Nik x Joe 12pm \u2022 \u2705 Workweek 12:30 \u2022 \u2705 Zagged 2pm \u2022 \u2705 Paramount VE Prep 3:00pm \u2022 \u2705 MentorPass Sterling 4:30pm CONFIRMED \u2022 \u23f1\ufe0f Lock-in sesh 5:30-9:45pm \u2022 \ud83c\udf99\ufe0f Limited Supply Recording 7:00-8:15pm \u2022 \ud83d\udd2c Mold Test 8:45-9:30pm",
-            "\u2705 MentorPass Sterling 4:30pm \u2014 'Session confirmed!' 4:50pm. Sterling thread now 24 msgs.",
-            "\u2705 MentorPass Sterling 4:30-5:30pm \u2014 WRAPPED. 24-msg thread now settled.",
-            "\ud83d\udce7 Fresh inbound 5:27pm: Myles Harris (Gribbla) 'US Sales Opp' (Meeting+Respond+IMPORTANT)",
-            "\ud83d\udce7 Fresh inbound 5:41pm: Sriram Krishnan (Kearny Jackson) PEF deal flow \u2014 Oil & Gas terminal EMEA/WAF",
-            "\ud83d\udce8 nik.co form burst 5:49-5:51pm \u2014 5 Webflow submissions in 2 min (check for spam)",
-            "\ud83d\udce7 Fresh inbound 4:42pm: Tom Logan 'Fwd: Nik and Jake Panzer' (Meeting+Respond+IMPORTANT)",
-            "\ud83d\udce7 Fresh inbound 4:19pm: Erika Hughes (bizport) 'quick loc for Nik' (pitch)",
-            "\ud83d\udcc5 Next up: Limited Supply Podcast Recording 7:00-8:15pm \u2022 Mold Test 8:45-9:30pm",
-            "\ud83d\udce7 Fresh inbound 3:50-4pm: Jack Bandera (StackAdapt) \u2018Partner Evaluation Q2 & Beyond\u2019 \u2022 Fernando Garza (ClientLoop) \u2018bold design Nik\u2019 pitch",
-            "\ud83d\udce7 Earlier inbound (2:30-3pm): Left Lane (Kristina Igoe, IMPORTANT) \u2022 Love Wellness (Minul) \u2022 Tondo Partnership Invoice (Gisela Rojas) \u2022 Ben Zises (SuperAngel)",
-            "\ud83d\udccc Anthropic API (jet@nik.co) \u2014 receipt + invoice follow-ups arrived 11:35-11:36am. Still need billing fix.",
-            "\ud83d\udea8 Anthropic API (jet@nik.co) turned OFF \u2014 $272.19 payment failed 11:35am. Update billing to restore.",
-            "\ud83d\udcc5 Tue 4/21 confirmed on calendar: Limited Supply Recording 12pm \u2022 Check-In 1pm \u2022 Zurp Check-In 1:30pm \u2022 After Ours Sync 2pm \u2022 YoSharma Check-In 3pm",
-            "\ud83d\udcc5 Wed 4/22: Chef Trey dinner \u2022 Instant x Nik 4:30pm (Jaime Egan)",
-            "\u2705 Back in NYC \u2014 first gym session back at Fort this morning"
+            "\ud83d\udcc5 TODAY Tue 4/21 (10am): \ud83c\udf99\ufe0f Limited Supply Recording 11:30am \u2022 Check-In 1pm \u2022 \ud83d\udcf1 Zurp Check-In 1:30pm \u2022 \ud83c\udfa7 After Ours Sync 2pm \u2022 YoSharma Check-In 3pm \u2022 Chris x Nik 6pm \u2022 Alec/Afters 8pm",
+            "\ud83d\udce7 Fresh inbound 4/21 9:02am: Scott Swanson (character.nyc) 'Fwd: 1180 Media - Payment' \u2014 IMPORTANT, 4-msg thread",
+            "\ud83d\udce7 Fresh inbound 4/21 9:34am: Jim Jannuzzio (Tondo Group) 'Introduction' \u2014 IMPORTANT, 5-msg thread",
+            "\ud83d\udce7 Fresh inbound 4/21 9:50am: Seth Kaplan (Unkommon Events) 'MMW P&L' \u2014 IMPORTANT, 16-msg thread",
+            "\ud83d\udcc7 Fresh inbound 4/21 12:18am: Dil P (yo.vc) \u2014 NFC Business Cards print quote request (500 units, design attached)",
+            "\ud83d\udcb3 Mercury IO credit limit increased (4/21 5:28am ET)",
+            "\ud83d\udcc5 Mon 4/20 WRAPPED: Nik x Joe 12pm \u2022 Workweek 12:30 \u2022 Zagged 2pm \u2022 Paramount VE Prep 3pm \u2022 MentorPass Sterling 4:30pm \u2022 Lock-in 5:30-9:45pm \u2022 Limited Supply 7-8:15pm \u2022 Mold Test 8:45-9:30pm",
+            "\ud83d\udce7 4/20 inbound recap: Gribbla (Myles Harris) \u2022 Kearny Jackson (Sriram Krishnan, PEF Oil&Gas) \u2022 Tom Logan (Jake Panzer fwd) \u2022 Erika Hughes (bizport) \u2022 Left Lane (IMPORTANT) \u2022 Love Wellness (Minul) \u2022 Tondo Invoice \u2022 Ben Zises (SuperAngel) \u2022 StackAdapt \u2022 ClientLoop",
+            "\ud83d\udea8 Anthropic API (jet@nik.co) OFF \u2014 $272.19 payment failed 4/20. Update billing to restore.",
+            "\ud83d\udcc5 Wed 4/22: dry-clean check 8am \u2022 Fort 10am \u2022 Chef Trey dinner \u2022 Instant x Nik 4:30pm (Jaime Egan \u2014 reschedule requested) \u2022 Zagged Dinner 8-10:15pm (Simon Wool)",
+            "\u2705 Back in NYC \u2014 Fort gym schedule resumed"
           ],
           "needsAttention": null
         }
