@@ -1,9 +1,9 @@
 {
-  "open": 11,
+  "open": 12,
   "resolved": 0,
   "overdue": 0,
   "aging": 0,
-  "last_updated": "2026-04-21T05:15:12.629Z",
+  "last_updated": "2026-04-21T13:10:14.734Z",
   "commitments": [
     {
       "id": "email-19dacca51451bff9",
@@ -265,6 +265,30 @@
       "urgency": "medium",
       "account": "nik@nik.co",
       "created_at": "2026-04-21T05:15:12.382Z",
+      "status": "open",
+      "checks": [],
+      "resolved": false
+    },
+    {
+      "id": "email-19d6d9bb9d6cbcd7",
+      "source": "email",
+      "transcript_id": "19d6d9bb9d6cbcd7",
+      "meeting_title": "📧 Fwd: 1180 Media - Payment",
+      "meeting_date": "2026-04-21 09:02",
+      "transcript_url": "https://mail.google.com/mail/u/0/#inbox/19d6d9bb9d6cbcd7",
+      "sentence": "Confirm in writing acceptance of $18,000 for settlement.",
+      "context": "From: Scott Swanson <scott@character.nyc> · Subject: Fwd: 1180 Media - Payment",
+      "speaker": "Scott Swanson (Character NYC)",
+      "asker_name": "Scott Swanson",
+      "asker_company": "Character NYC",
+      "asker_title": "",
+      "owed_to": [
+        "Scott Swanson (Character NYC)"
+      ],
+      "deadline": "",
+      "urgency": "medium",
+      "account": "nik@nik.co",
+      "created_at": "2026-04-21T13:10:14.382Z",
       "status": "open",
       "checks": [],
       "resolved": false
