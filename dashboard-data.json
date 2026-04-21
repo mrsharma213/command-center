@@ -18,22 +18,6 @@
       "since": "2026-04-21"
     },
     {
-      "id": "air-oasis-homepage",
-      "emoji": "\ud83d\udea8",
-      "title": "Air Oasis \u2014 Homepage Deadline PASSED",
-      "detail": "Font pairing mockup to Derek was due end of week (Fri 4/10) \u2014 9 days overdue. Air Oasis marketing email still active (oak season campaign 4/17). No homepage follow-up visible. Needs action.",
-      "severity": "blocked",
-      "since": "2026-04-07"
-    },
-    {
-      "id": "anthropic-api-jet",
-      "emoji": "\ud83d\udea8",
-      "title": "Anthropic \u2014 Claude API access OFF (jet@nik.co), $272.19 payment failed",
-      "detail": "Anthropic sent 3 emails to jet@nik.co this morning: 10:03am 'Your Claude API access is turned off' \u2022 11:35am '$272.19 payment to Anthropic, PBC was unsuccessful' \u2022 11:36am receipt #2110-8247-0622. Update billing method to restore API access \u2014 affects any Anthropic-backed agent on jet@nik.co account.",
-      "severity": "blocked",
-      "since": "2026-04-20"
-    },
-    {
       "id": "corpora-83b",
       "emoji": "\ud83d\udccb",
       "title": "Corpora 83(b) \u2014 physical docs to be shredded in 10 days",
