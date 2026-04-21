@@ -552,61 +552,6 @@ function render(data) {
   document.getElementById('sections').innerHTML = sectionsHtml;
 
   // ── Open Commitments Section ── (disabled 2026-04-21 - Rameez handles filtering)
-  if (false) try {
-    const cRes = await fetch('https://fireflies.nik.co/api/commitments?t=' + Date.now());
-    if (cRes.ok) {
-      const cData = await cRes.json();
-      const open = cData.commitments || [];
-      const overdueCount = open.filter(c => c.status === 'overdue').length;
-      const agingCount = open.filter(c => c.status === 'aging').length;
-      let cHtml = `
-        <div class="commitments-section">
-          <div class="commitments-section-header">
-            <h2>📝 Open Commitments</h2>
-            <div class="cmt-stats">
-              <div><strong>${open.length}</strong> open</div>
-              ${agingCount ? `<div class="cmt-stat-aging"><strong>${agingCount}</strong> aging</div>` : ''}
-              ${overdueCount ? `<div class="cmt-stat-overdue"><strong>${overdueCount}</strong> overdue</div>` : ''}
-            </div>
-          </div>
-      `;
-      if (open.length === 0) {
-        cHtml += '<div class="cmt-empty">✨ Inbox zero on commitments. All follow-ups closed.</div>';
-      } else {
-        cHtml += '<div class="commitments-list">';
-        for (const c of open.slice(0, 20)) {
-          const status = c.status || 'open';
-          const cardCls = status === 'overdue' ? 'overdue' : status === 'aging' ? 'aging' : '';
-          const source = c.source || 'meeting';
-          const sourceIcon = source === 'email' ? '📧' : '🎙️';
-          const owed = c.owed_to && c.owed_to.length ? ` → ${c.owed_to.join(', ')}` : '';
-          const mtg = c.meeting_title || 'meeting';
-          const ageMs = Date.now() - new Date(c.created_at).getTime();
-          const ageH = Math.floor(ageMs / 3600000);
-          const ageLabel = ageH < 1 ? 'just now' : ageH < 24 ? `${ageH}h ago` : `${Math.floor(ageH/24)}d ago`;
-          const linkLabel = source === 'email' ? 'open email' : 'transcript';
-          const urgencyBadge = c.urgency === 'high' ? '<span class="cmt-badge overdue" style="margin-left:4px;">high</span>' : '';
-          cHtml += `
-            <div class="commitment-card ${cardCls}">
-              <span class="cmt-badge ${status}">${sourceIcon} ${status}</span>
-              <div class="cmt-body">
-                <div class="cmt-sentence">“${c.sentence || ''}”${owed}${urgencyBadge}</div>
-                <div class="cmt-meta">
-                  <span>${mtg}</span>
-                  <span class="dot">·</span>
-                  <span>${ageLabel}</span>
-                  ${c.transcript_url ? `<span class="dot">·</span><a href="${c.transcript_url}" target="_blank">${linkLabel}</a>` : ''}
-                </div>
-              </div>
-            </div>
-          `;
-        }
-        cHtml += '</div>';
-      }
-      cHtml += '</div>';
-      document.getElementById('sections').insertAdjacentHTML('beforeend', cHtml);
-    }
-  } catch (e) { console.warn('commitments fetch failed', e); }
 
   // ── Sites Section ──
   if (data.sites && data.sites.groups && data.sites.groups.length > 0) {
