@@ -2,7 +2,7 @@
   {
     "name": "Macra",
     "desc": "Companies",
-    "currentStatus": "Day 4 post-launch — monitoring early sales + ad performance. Rameez testing thread active (43 msgs).",
+    "currentStatus": "Day 5 post-launch — monitoring early sales + ad performance. Rameez testing thread active (43 msgs). New: 'New Macra Stuff' thread — source quote + finalize vendor.",
     "recentActivity": [
       {
         "date": "2026-04-20",
@@ -27,6 +27,10 @@
       {
         "date": "2026-04-20",
         "text": "✅ verified.macra.com CNAME added via Namecheap API"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "📧 NEW (4/20 11:49pm): Rameez 'New Macra Stuff' — source quote + finalize on a vendor (urgency: high)"
       }
     ],
     "people": [],
@@ -34,8 +38,8 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "alert": "Day 4 post-launch — monitoring early sales + ad performance. Rameez testing thread active (43 msgs).",
-    "updated": "2026-04-20"
+    "updated": "2026-04-20",
+    "alert": "Day 5 post-launch — monitoring early sales + ad performance. Rameez testing thread active (43 msgs). New: 'New Macra Stuff' thread — source quote + finalize vendor."
   },
   {
     "name": "STOCKED x Sharma Brands",
@@ -60,8 +64,8 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "alert": "New client engagement — confirm scope with Minul",
-    "updated": "2026-04-20"
+    "updated": "2026-04-20",
+    "alert": "New client engagement — confirm scope with Minul"
   },
   {
     "name": "Maruchan x Nik Sharma",
@@ -86,17 +90,17 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "alert": "Thread 15 msgs deep (updated 1:53pm 4/20) — review and respond",
-    "updated": "2026-04-20"
+    "updated": "2026-04-20",
+    "alert": "Thread 15 msgs deep (updated 1:53pm 4/20) — review and respond"
   },
   {
     "name": "Zurp",
     "desc": "Companies",
-    "currentStatus": "🎉 Victor Calderone residency weekend wrapped — pull results at Zurp Check-In Tue 4/21 11:30am",
+    "currentStatus": "📅 Zurp Check-In TODAY Tue 4/21 1:30-2:00pm ET — pull Victor Calderone residency weekend results",
     "recentActivity": [
       {
         "date": "2026-04-20",
-        "text": "🎉 Victor Calderone residency weekend wrapped — pull results at Zurp Check-In Tue 4/21 11:30am"
+        "text": "📅 Zurp Check-In TODAY Tue 4/21 1:30-2:00pm ET — pull Victor Calderone residency weekend results"
       },
       {
         "date": "2026-04-20",
@@ -124,7 +128,8 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-20"
+    "updated": "2026-04-20",
+    "alert": null
   },
   {
     "name": "Authentiq",
@@ -138,6 +143,10 @@
       {
         "date": "2026-04-15",
         "text": "📄 Features doc created and sent to Troy for review"
+      },
+      {
+        "date": "2026-04-15",
+        "text": "📇 NEW (4/21): Dil P (yo.vc) print request — 500 Mirrored Metal NFC Business Cards (design attached, quote needed) — ties to Authentiq workstream"
       },
       {
         "date": "2026-04-15",
@@ -165,8 +174,8 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "alert": "New project — awaiting Troy review of features doc",
-    "updated": "2026-04-15"
+    "updated": "2026-04-15",
+    "alert": "New project — awaiting Troy review of features doc"
   },
   {
     "name": "Pigeon House Records",
@@ -199,7 +208,8 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-17"
+    "updated": "2026-04-17",
+    "alert": null
   },
   {
     "name": "After Ours",
@@ -212,7 +222,7 @@
       },
       {
         "date": "2026-04-20",
-        "text": "📅 After Ours Sync Tue 4/21 2:00pm ET"
+        "text": "📅 After Ours Sync TODAY Tue 4/21 2:00-3:00pm ET — next up"
       },
       {
         "date": "2026-04-20",
@@ -240,14 +250,18 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "alert": "Post-show Day 2 — pull videographer assets + brand voice brief still owed to Brandon.",
-    "updated": "2026-04-20"
+    "updated": "2026-04-20",
+    "alert": "Post-show Day 2 — pull videographer assets + brand voice brief still owed to Brandon."
   },
   {
     "name": "Limited Supply Podcast",
     "desc": "Media & Content",
-    "currentStatus": "Vinay Sridhar (Reddit) podcast episode — scheduling for 4/21 or 4/22",
+    "currentStatus": "🎙️ Limited Supply Recording TODAY Tue 4/21 11:30am-12:30pm ET (first session of day)",
     "recentActivity": [
+      {
+        "date": "2026-04-17",
+        "text": "🎙️ Limited Supply Recording TODAY Tue 4/21 11:30am-12:30pm ET (first session of day)"
+      },
       {
         "date": "2026-04-17",
         "text": "Vinay Sridhar (Reddit) podcast episode — scheduling for 4/21 or 4/22"
@@ -270,7 +284,8 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-17"
+    "updated": "2026-04-17",
+    "alert": null
   },
   {
     "name": "Newsletter / Workweek",
@@ -283,11 +298,19 @@
       },
       {
         "date": "2026-04-20",
-        "text": "✅ Record Workweek today Mon 4/20 12:30-1:15pm ET — wrapped"
+        "text": "✅ Workweek recording 4/20 12:30-1:15pm ET — wrapped"
       },
       {
         "date": "2026-04-20",
-        "text": "🎧 Limited Supply Podcast recording tonight 7:00-8:15pm ET"
+        "text": "✅ Limited Supply Podcast recording 4/20 7:00-8:15pm ET — wrapped"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "🎙️ TODAY 4/21 11:30am-12:30pm ET: Limited Supply recording session"
+      },
+      {
+        "date": "2026-04-20",
+        "text": "📅 Next newsletter: Sun 4/26 — VOTW 'Ecommerce Equation' draft delivered, awaiting Nik review"
       },
       {
         "date": "2026-04-20",
@@ -307,7 +330,8 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-20"
+    "updated": "2026-04-20",
+    "alert": null
   },
   {
     "name": "Brand Consulting",
@@ -476,8 +500,8 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "alert": "Air Oasis homepage 9 days overdue + WA DOR action required",
-    "updated": "2026-04-17"
+    "updated": "2026-04-17",
+    "alert": "Air Oasis homepage 9 days overdue + WA DOR action required"
   },
   {
     "name": "Ecom Founders",
@@ -510,7 +534,8 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-17"
+    "updated": "2026-04-17",
+    "alert": null
   },
   {
     "name": "Rolling Ventures Fund",
@@ -571,8 +596,8 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "alert": "unspun signature still required ASAP",
-    "updated": "2026-04-18"
+    "updated": "2026-04-18",
+    "alert": "unspun signature still required ASAP"
   },
   {
     "name": "Personal Investments",
@@ -601,76 +626,77 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-14"
+    "updated": "2026-04-14",
+    "alert": null
   },
   {
     "name": "Today & This Week",
     "desc": "Nik Sharma — Personal",
-    "currentStatus": "📅 Mon 4/20 TODAY (5pm): ✅ Nik x Joe 12pm • ✅ Workweek 12:30 • ✅ Zagged 2pm • ✅ Paramount VE Prep 3:00pm • ✅ MentorPass Sterling 4:30pm CONFIRMED • ⏱️ Lock-in sesh 5:30-9:45pm • 🎙️ Limited Supply Recording 7:00-8:15pm • 🔬 Mold Test 8:45-9:30pm",
+    "currentStatus": "🔴 LIVE NOW 11am: Wake block — 🎙️ Limited Supply Recording UP NEXT 11:30am-12:30pm • Check-In 1pm • 📱 Zurp Check-In 1:30pm • 🎧 After Ours Sync 2pm • YoSharma Check-In 3pm • Chris x Nik 6pm • Alec/Afters 8pm",
     "recentActivity": [
       {
         "date": "2026-04-20",
-        "text": "📅 Mon 4/20 TODAY (5pm): ✅ Nik x Joe 12pm • ✅ Workweek 12:30 • ✅ Zagged 2pm • ✅ Paramount VE Prep 3:00pm • ✅ MentorPass Sterling 4:30pm CONFIRMED • ⏱️ Lock-in sesh 5:30-9:45pm • 🎙️ Limited Supply Recording 7:00-8:15pm • 🔬 Mold Test 8:45-9:30pm"
+        "text": "🔴 LIVE NOW 11am: Wake block — 🎙️ Limited Supply Recording UP NEXT 11:30am-12:30pm • Check-In 1pm • 📱 Zurp Check-In 1:30pm • 🎧 After Ours Sync 2pm • YoSharma Check-In 3pm • Chris x Nik 6pm • Alec/Afters 8pm"
       },
       {
         "date": "2026-04-20",
-        "text": "✅ MentorPass Sterling 4:30pm — 'Session confirmed!' 4:50pm. Sterling thread now 24 msgs."
+        "text": "✅ NEW (4/21 10:39am): Jaime Egan (Instant) ACCEPTED Wed 4/22 4:30-5pm meeting — no reschedule"
       },
       {
         "date": "2026-04-20",
-        "text": "✅ MentorPass Sterling 4:30-5:30pm — WRAPPED. 24-msg thread now settled."
+        "text": "📊 NEW (4/21 10:34am): Arthur Root (Nostra) Q1 '26 Investor Update — portfolio review"
       },
       {
         "date": "2026-04-20",
-        "text": "📧 Fresh inbound 5:27pm: Myles Harris (Gribbla) 'US Sales Opp' (Meeting+Respond+IMPORTANT)"
+        "text": "🧉 NEW (4/21 10:00am): Philippe von Borries (Esspo) April 2026 update"
       },
       {
         "date": "2026-04-20",
-        "text": "📧 Fresh inbound 5:41pm: Sriram Krishnan (Kearny Jackson) PEF deal flow — Oil & Gas terminal EMEA/WAF"
+        "text": "🏋️ Fort reminder (Wed 4/22 10am Strength Training — The Garage, 57 W 21st St)"
       },
       {
         "date": "2026-04-20",
-        "text": "📨 nik.co form burst 5:49-5:51pm — 5 Webflow submissions in 2 min (check for spam)"
+        "text": "📝 NEW (4/21 10:16am): Jet drafted 'Podcast Outline: Supplement Brands, What's Working in 2026'"
       },
       {
         "date": "2026-04-20",
-        "text": "📧 Fresh inbound 4:42pm: Tom Logan 'Fwd: Nik and Jake Panzer' (Meeting+Respond+IMPORTANT)"
+        "text": "📧 Fresh inbound 4/21 9:02am: Scott Swanson (character.nyc) 'Fwd: 1180 Media - Payment' — IMPORTANT, 4-msg thread"
       },
       {
         "date": "2026-04-20",
-        "text": "📧 Fresh inbound 4:19pm: Erika Hughes (bizport) 'quick loc for Nik' (pitch)"
+        "text": "📧 Fresh inbound 4/21 9:34am: Jim Jannuzzio (Tondo Group) 'Introduction' — IMPORTANT, 5-msg thread"
       },
       {
         "date": "2026-04-20",
-        "text": "📅 Next up: Limited Supply Podcast Recording 7:00-8:15pm • Mold Test 8:45-9:30pm"
+        "text": "📧 Fresh inbound 4/21 9:50am: Seth Kaplan (Unkommon Events) 'MMW P&L' — IMPORTANT, 16-msg thread"
       },
       {
         "date": "2026-04-20",
-        "text": "📧 Fresh inbound 3:50-4pm: Jack Bandera (StackAdapt) ‘Partner Evaluation Q2 & Beyond’ • Fernando Garza (ClientLoop) ‘bold design Nik’ pitch"
+        "text": "📇 Fresh inbound 4/21 12:18am: Dil P (yo.vc) — NFC Business Cards print quote request (500 units, design attached)"
       },
       {
         "date": "2026-04-20",
-        "text": "📧 Earlier inbound (2:30-3pm): Left Lane (Kristina Igoe, IMPORTANT) • Love Wellness (Minul) • Tondo Partnership Invoice (Gisela Rojas) • Ben Zises (SuperAngel)"
+        "text": "💳 Mercury IO credit limit increased (4/21 5:28am ET)"
       },
       {
         "date": "2026-04-20",
-        "text": "📌 Anthropic API (jet@nik.co) — receipt + invoice follow-ups arrived 11:35-11:36am. Still need billing fix."
+        "text": "📅 Mon 4/20 WRAPPED: Nik x Joe 12pm • Workweek 12:30 • Zagged 2pm • Paramount VE Prep 3pm • MentorPass Sterling 4:30pm • Lock-in 5:30-9:45pm • Limited Supply 7-8:15pm • Mold Test 8:45-9:30pm"
       },
       {
         "date": "2026-04-20",
-        "text": "🚨 Anthropic API (jet@nik.co) turned OFF — $272.19 payment failed 11:35am. Update billing to restore."
+        "text": "📧 4/20 inbound recap: Gribbla (Myles Harris) • Kearny Jackson (Sriram Krishnan, PEF Oil&Gas) • Tom Logan (Jake Panzer fwd) • Erika Hughes (bizport) • Left Lane (IMPORTANT) • Love Wellness (Minul) • Tondo Invoice • Ben Zises (SuperAngel) • StackAdapt • ClientLoop"
       },
       {
         "date": "2026-04-20",
-        "text": "📅 Tue 4/21 confirmed on calendar: Limited Supply Recording 12pm • Check-In 1pm • Zurp Check-In 1:30pm • After Ours Sync 2pm • YoSharma Check-In 3pm"
+        "text": "🚨 Anthropic API (jet@nik.co) OFF — $272.19 payment failed 4/20. Update billing to restore."
       },
       {
         "date": "2026-04-20",
-        "text": "📅 Wed 4/22: Chef Trey dinner • Instant x Nik 4:30pm (Jaime Egan)"
+        "text": "📅 Wed 4/22: dry-clean check 8am • Fort 10am • Chef Trey dinner • Instant x Nik 4:30pm (Jaime Egan — reschedule requested) • Zagged Dinner 8-10:15pm (Simon Wool)"
       },
       {
         "date": "2026-04-20",
-        "text": "✅ Back in NYC — first gym session back at Fort this morning"
+        "text": "✅ Back in NYC — Fort gym schedule resumed"
       }
     ],
     "people": [],
@@ -678,7 +704,8 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-20"
+    "updated": "2026-04-20",
+    "alert": null
   },
   {
     "name": "My Agents",
@@ -719,6 +746,7 @@
     "links": [],
     "decisions": [],
     "status": "active",
-    "updated": "2026-04-14"
+    "updated": "2026-04-14",
+    "alert": null
   }
 ]

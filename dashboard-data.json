@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-21T14:00:00Z",
+  "lastRefreshed": "2026-04-21T15:00:00Z",
   "flagged": [
     {
       "id": "macra-launch",
@@ -11,9 +11,33 @@
     },
     {
       "id": "today-schedule-4-21",
-      "emoji": "\ud83d\udcc5",
-      "title": "Today Tue 4/21 \u2014 5 back-to-back check-ins + Chris x Nik 6pm",
-      "detail": "Wake 11:00am \u2022 Limited Supply Recording 11:30am-12:30pm \u2022 Check-In 1:00-1:30pm \u2022 Zurp Check-In 1:30-2:00pm \u2022 After Ours Sync 2:00-3:00pm \u2022 YoSharma Check-In 3:00-3:30pm \u2022 Chris x Nik 6:00-6:30pm \u2022 Alec/Afters 8:00pm. Wed 4/22: dry-clean check 8am, Fort 10am, Instant x Nik 4:30pm, Zagged Dinner 8-10:15pm.",
+      "emoji": "\ud83c\udf99\ufe0f",
+      "title": "LIVE NOW 11am \u2014 Limited Supply recording starts 11:30am, then 5 back-to-backs",
+      "detail": "NOW: Wake up block 11:00-11:30am \u2022 NEXT: Limited Supply Recording 11:30am-12:30pm \u2022 Check-In 1:00pm \u2022 Zurp Check-In 1:30pm \u2022 After Ours Sync 2:00pm \u2022 YoSharma Check-In 3:00pm \u2022 Chris x Nik 6:00pm \u2022 Alec/Afters 8:00pm. Wed 4/22: dry-clean check 8am \u2022 Fort 10am \u2022 Check-In 11:30am \u2022 Stretch 12:30pm \u2022 Jack<>Troy<>Nik 2:30pm \u2022 Instant x Nik 4:30pm (Jaime Egan CONFIRMED) \u2022 Zagged Dinner 8-10:15pm.",
+      "severity": "attention",
+      "since": "2026-04-21"
+    },
+    {
+      "id": "jaime-egan-accepted",
+      "emoji": "\u2705",
+      "title": "Jaime Egan (Instant) \u2014 ACCEPTED Wed 4/22 4:30-5pm (10:39am ET)",
+      "detail": "Jaime Egan replied 10:39am ET 4/21 accepting Instant x Nik Wed Apr 22 4:30-5pm EDT. Confirmed on calendar \u2014 no reschedule needed.",
+      "severity": "info",
+      "since": "2026-04-21"
+    },
+    {
+      "id": "nostra-q1",
+      "emoji": "\ud83d\udcca",
+      "title": "Nostra (Arthur Root) \u2014 Q1 '26 Investor Update (10:34am)",
+      "detail": "Arthur Root (arthur@nostra.ai) sent 'Nostra Q1 '26 Investor Update' 10:34am ET 4/21. Flagged IMPORTANT. Portfolio touchpoint for Rolling Ventures review.",
+      "severity": "info",
+      "since": "2026-04-21"
+    },
+    {
+      "id": "esspo-april",
+      "emoji": "\ud83e\uddc9",
+      "title": "Esspo (Philippe von Borries) \u2014 April 2026 Update (10:00am)",
+      "detail": "Philippe von Borries (philippe@drinkesspo.com) sent 'Esspo Update - April 2026' 10:00am ET 4/21. IMPORTANT flag \u2014 portfolio/investor touchpoint.",
       "severity": "info",
       "since": "2026-04-21"
     },
@@ -469,7 +493,12 @@
           "status": "attention",
           "lastUpdated": "2026-04-20",
           "bullets": [
-            "\ud83d\udcc5 TODAY Tue 4/21 (10am): \ud83c\udf99\ufe0f Limited Supply Recording 11:30am \u2022 Check-In 1pm \u2022 \ud83d\udcf1 Zurp Check-In 1:30pm \u2022 \ud83c\udfa7 After Ours Sync 2pm \u2022 YoSharma Check-In 3pm \u2022 Chris x Nik 6pm \u2022 Alec/Afters 8pm",
+            "\ud83d\udd34 LIVE NOW 11am: Wake block \u2014 \ud83c\udf99\ufe0f Limited Supply Recording UP NEXT 11:30am-12:30pm \u2022 Check-In 1pm \u2022 \ud83d\udcf1 Zurp Check-In 1:30pm \u2022 \ud83c\udfa7 After Ours Sync 2pm \u2022 YoSharma Check-In 3pm \u2022 Chris x Nik 6pm \u2022 Alec/Afters 8pm",
+            "\u2705 NEW (4/21 10:39am): Jaime Egan (Instant) ACCEPTED Wed 4/22 4:30-5pm meeting \u2014 no reschedule",
+            "\ud83d\udcca NEW (4/21 10:34am): Arthur Root (Nostra) Q1 '26 Investor Update \u2014 portfolio review",
+            "\ud83e\uddc9 NEW (4/21 10:00am): Philippe von Borries (Esspo) April 2026 update",
+            "\ud83c\udfcb\ufe0f Fort reminder (Wed 4/22 10am Strength Training \u2014 The Garage, 57 W 21st St)",
+            "\ud83d\udcdd NEW (4/21 10:16am): Jet drafted 'Podcast Outline: Supplement Brands, What's Working in 2026'",
             "\ud83d\udce7 Fresh inbound 4/21 9:02am: Scott Swanson (character.nyc) 'Fwd: 1180 Media - Payment' \u2014 IMPORTANT, 4-msg thread",
             "\ud83d\udce7 Fresh inbound 4/21 9:34am: Jim Jannuzzio (Tondo Group) 'Introduction' \u2014 IMPORTANT, 5-msg thread",
             "\ud83d\udce7 Fresh inbound 4/21 9:50am: Seth Kaplan (Unkommon Events) 'MMW P&L' \u2014 IMPORTANT, 16-msg thread",
