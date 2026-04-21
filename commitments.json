@@ -1,9 +1,9 @@
 {
-  "open": 12,
+  "open": 15,
   "resolved": 0,
   "overdue": 0,
   "aging": 0,
-  "last_updated": "2026-04-21T13:10:14.734Z",
+  "last_updated": "2026-04-21T13:46:03.213Z",
   "commitments": [
     {
       "id": "email-19dacca51451bff9",
@@ -289,6 +289,78 @@
       "urgency": "medium",
       "account": "nik@nik.co",
       "created_at": "2026-04-21T13:10:14.382Z",
+      "status": "open",
+      "checks": [],
+      "resolved": false
+    },
+    {
+      "id": "email-19d6332594318e85",
+      "source": "email",
+      "transcript_id": "19d6332594318e85",
+      "meeting_title": "📧 Contact at Tik Tok",
+      "meeting_date": "2026-04-12 09:14",
+      "transcript_url": "https://mail.google.com/mail/u/0/#inbox/19d6332594318e85",
+      "sentence": "Connect Alexandra with a TikTok contact.",
+      "context": "From: Alexandra Zatarain <alexandra@eightsleep.com> · Subject: Contact at Tik Tok",
+      "speaker": "Alexandra Zatarain (Eight Sleep)",
+      "asker_name": "Alexandra Zatarain",
+      "asker_company": "Eight Sleep",
+      "asker_title": "Co-Founder, VP of Brand & Marketing",
+      "owed_to": [
+        "Alexandra Zatarain (Eight Sleep)"
+      ],
+      "deadline": "",
+      "urgency": "medium",
+      "account": "nik@nik.co",
+      "created_at": "2026-04-21T13:45:58.500Z",
+      "status": "open",
+      "checks": [],
+      "resolved": false
+    },
+    {
+      "id": "email-19d4d1426cda2195",
+      "source": "email",
+      "transcript_id": "19d4d1426cda2195",
+      "meeting_title": "📧 Maximus Investor Update - March 2026",
+      "meeting_date": "2026-04-02 03:24",
+      "transcript_url": "https://mail.google.com/mail/u/0/#inbox/19d4d1426cda2195",
+      "sentence": "Please introduce me to any experts in CRO.",
+      "context": "From: Cameron Sepah <cam@maximustribe.com> · Subject: Maximus Investor Update - March 2026",
+      "speaker": "Cameron Sepah (Maximus Tribe)",
+      "asker_name": "Cameron Sepah",
+      "asker_company": "Maximus Tribe",
+      "asker_title": "",
+      "owed_to": [
+        "Cameron Sepah (Maximus Tribe)"
+      ],
+      "deadline": "",
+      "urgency": "medium",
+      "account": "nik@nik.co",
+      "created_at": "2026-04-21T13:46:00.452Z",
+      "status": "open",
+      "checks": [],
+      "resolved": false
+    },
+    {
+      "id": "email-19d499a7b1cd92fd",
+      "source": "email",
+      "transcript_id": "19d499a7b1cd92fd",
+      "meeting_title": "📧 immi Investor Update - March 2026",
+      "meeting_date": "2026-04-01 11:07",
+      "transcript_url": "https://mail.google.com/mail/u/0/#inbox/19d499a7b1cd92fd",
+      "sentence": "if you know of any contacts, we'd love an introduction.",
+      "context": "From: Kevin Lee <klee@immieats.com> · Subject: immi Investor Update - March 2026",
+      "speaker": "Kevin Lee (immi)",
+      "asker_name": "Kevin Lee",
+      "asker_company": "immi",
+      "asker_title": "",
+      "owed_to": [
+        "Kevin Lee (immi)"
+      ],
+      "deadline": "",
+      "urgency": "medium",
+      "account": "nik@nik.co",
+      "created_at": "2026-04-21T13:46:02.941Z",
       "status": "open",
       "checks": [],
       "resolved": false
