@@ -325,10 +325,10 @@ body { background:var(--bg); color:var(--text); min-height:100vh; }
 <div id="passcode-overlay">
   <h2>⚡ Command Center</h2>
   <p>Enter passcode to continue</p>
-  <form id="passcode-form" style="display:flex; flex-direction:column; gap:14px; align-items:center;">
+  <div style="display:flex; flex-direction:column; gap:14px; align-items:center;">
     <input type="password" id="passcode-input" maxlength="4" inputmode="numeric" pattern="[0-9]*" autocomplete="off" autofocus>
-    <button type="submit" id="passcode-submit">Enter</button>
-  </form>
+    <button type="button" id="passcode-submit">Enter</button>
+  </div>
   <p id="passcode-error">Invalid passcode</p>
 </div>
 
@@ -365,7 +365,6 @@ if (sessionStorage.getItem('dash-auth') === 'true') {
   loadData();
 }
 
-const passcodeForm = document.getElementById('passcode-form');
 const submitBtn = document.getElementById('passcode-submit');
 
 async function tryUnlock() {
@@ -394,9 +393,11 @@ input.addEventListener('input', () => {
   if (input.value.length === 4) tryUnlock();
 });
 
-passcodeForm.addEventListener('submit', (e) => {
-  e.preventDefault();
-  tryUnlock();
+input.addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') {
+    e.preventDefault();
+    tryUnlock();
+  }
 });
 
 submitBtn.addEventListener('click', (e) => {
