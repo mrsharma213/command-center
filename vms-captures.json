@@ -1,5 +1,14 @@
 {
-  "total": 0,
-  "last_updated": "2026-04-21T16:06:06Z",
-  "captures": []
+  "total": 1,
+  "last_updated": "2026-04-21T17:08:13.996Z",
+  "captures": [
+    {
+      "email": "jet+test@nik.co",
+      "ts": "2026-04-21T17:08:13.717Z",
+      "source": "jet-smoketest",
+      "referrer": "",
+      "ip": "173.68.100.246",
+      "ua": "curl/8.7.1"
+    }
+  ]
 }
