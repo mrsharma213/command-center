@@ -1,6 +1,62 @@
 {
-  "lastRefreshed": "2026-04-21T21:00:00Z",
+  "lastRefreshed": "2026-04-21T22:01:00Z",
   "flagged": [
+    {
+      "id": "hao-wang-netmind",
+      "emoji": "📧",
+      "title": "Hao Wang (NetMind) — 'Scaling motion ads at Sharma Brands' (5:55pm)",
+      "detail": "Hao Wang (hao.wang@withnetmind.com) emailed 5:55pm ET 4/21 — Pitch + Respond flags. Motion ads pitch targeted at Sharma Brands.",
+      "severity": "attention",
+      "since": "2026-04-21"
+    },
+    {
+      "id": "emma-smith-buyers",
+      "emoji": "📧",
+      "title": "Emma Smith (mrivak.link) — 'buyers for Sharma Brands' (5:46pm)",
+      "detail": "Emma Smith (emma.smith@mrivak.link) emailed 5:46pm ET 4/21 — Pitch + Respond flags. Inbound re: Sharma Brands buyers/brokerage.",
+      "severity": "attention",
+      "since": "2026-04-21"
+    },
+    {
+      "id": "zainab-pinterest-summer",
+      "emoji": "📌",
+      "title": "Zainab Tariq (Pinterest) — 'Unlock Your Summer Strategy' (5:32-5:33pm)",
+      "detail": "Zainab Tariq (ztariq@pinterest.com) sent double email 5:32-5:33pm ET 4/21 — Meeting + Pitch + Respond flags. Pinterest summer strategy pitch.",
+      "severity": "attention",
+      "since": "2026-04-21"
+    },
+    {
+      "id": "rameez-nik-content",
+      "emoji": "📁",
+      "title": "Rameez — 'Nik Content' Drive folder shared (5:16pm, IMPORTANT)",
+      "detail": "Rameez Rumy shared 'Nik Content' Google Drive folder with Nik 5:16pm ET 4/21 — flagged IMPORTANT. Likely content assets/deliverables — review.",
+      "severity": "attention",
+      "since": "2026-04-21"
+    },
+    {
+      "id": "rameez-pdp-figma",
+      "emoji": "📐",
+      "title": "Rameez — Macra PDP Carousels Figma Spec + Slot Plan (share request, 5:25pm)",
+      "detail": "Rameez requested share access to 'Macra — PDP Carousels (Figma Spec + Slot Plan)' via Google Docs 5:25pm ET 4/21 (jet@). Grant access — Macra PDP carousel execution doc.",
+      "severity": "attention",
+      "since": "2026-04-21"
+    },
+    {
+      "id": "pef-yumama",
+      "emoji": "🍼",
+      "title": "PEF Deal Flow — Yumama (Maternal Health CPG, Ruchi Desai 3:27pm)",
+      "detail": "Ruchi Desai (ruchi@risingtide.vc) posted PEF Deal Flow 3:27pm ET 4/21 — Yumama, maternal health focused CPG. Route to Rolling Ventures.",
+      "severity": "info",
+      "since": "2026-04-21"
+    },
+    {
+      "id": "pef-fermata",
+      "emoji": "🤖",
+      "title": "PEF Deal Flow — Fermata Discovery (AI Law Enforcement, 3:38pm)",
+      "detail": "Scott Caldwell posted PEF Deal Flow 3:38pm ET 4/21 — Fermata Discovery initial raise, AI law enforcement support. Route to Rolling Ventures.",
+      "severity": "info",
+      "since": "2026-04-21"
+    },
     {
       "id": "nicole-goodonya-copy",
       "emoji": "✍️",
@@ -337,6 +393,8 @@
           "bullets": [
             "💊 Day 5 post-launch — Mood Bloom™ + Carb Curb™ launched Apr 16",
             "📧 Rameez 'Macra testing' thread active (43 msgs) — coordinating COAs + Light Labs updates",
+            "📐 NEW (4/21 5:25pm jet@): Rameez share request — 'Macra PDP Carousels (Figma Spec + Slot Plan)' — grant access + review",
+            "📁 NEW (4/21 5:16pm nik@): Rameez shared 'Nik Content' Drive folder — IMPORTANT",
             "✅ ALL 3 TRADEMARKS FILED: CARB MUTE (99765362) + MOOD BLOOM (99765355) + CARB CURB (99765775)",
             "📝 GT attorney Matthew Goings: Use ™ symbol. 6-10 month USPTO examination.",
             "Initial ad spend $30K deploying • Monitor early performance data",
@@ -525,6 +583,11 @@
             "📧 NEW (4/20 4:59pm): Sterling Griffin reply — 'Scheduling this week' thread now 24 msgs",
             "📧 NEW (4/20 5:27pm): Myles Harris (Gribbla) ‘US Sales Opp’ — Meeting + Respond + IMPORTANT",
             "📧 NEW (4/20 5:41pm): Sriram Krishnan (Kearny Jackson) ‘Oil & Gas terminal EMEA/WAF’ — PEF deal flow (tag Rolling Ventures)",
+            "📧 NEW (4/21 5:55pm): Hao Wang (NetMind) ‘Scaling motion ads at Sharma Brands’ — Pitch/Respond",
+            "📧 NEW (4/21 5:46pm): Emma Smith (mrivak.link) ‘buyers for Sharma Brands’ — Pitch/Respond",
+            "📌 NEW (4/21 5:32pm): Zainab Tariq (Pinterest) ‘Unlock Your Summer Strategy’ — Meeting/Pitch/Respond",
+            "📁 NEW (4/21 5:16pm): Rameez shared ‘Nik Content’ Drive folder — IMPORTANT",
+            "📐 NEW (4/21 5:25pm jet@): Rameez share request — ‘Macra PDP Carousels (Figma Spec + Slot Plan)’",
             "📨 NEW (4/20 5:49-5:51pm): nik.co Webflow burst — 5 form submissions in 2 min (Guide, Contact, Footer Sub, NL Capture, Subscribe) — review for spam vs leads",
             "✅ Paramount x Nik — 4/29 VE Prep Call WRAPPED (3:00-3:30pm ET). Doc comment 3:06pm: ‘not accurate - requires 10k budget for...’ — review + revise",
             "📅 MentorPass: Sterling & Nik — TODAY 4:30-5:30pm ET (18-msg scheduling thread)",
@@ -568,6 +631,8 @@
             "📅 Apr 29: PEF QSBS Roundtable Lunch with Rockefeller Global Family Office",
             "📧 BodySpec Series A SPV via PEF — health-tech, AI-powered clinical imaging (Andrew Tan)",
             "📧 NEW (4/21 4:52pm): Jake Valentine (Claymore Growth) follow-up 'Does Masala Capital plan to raise in 2026?' — Meeting/Pitch/Respond",
+            "🍼 NEW (4/21 3:27pm): Ruchi Desai (Rising Tide) PEF Deal Flow — Yumama, maternal health CPG",
+            "🤖 NEW (4/21 3:38pm): Scott Caldwell PEF Deal Flow — Fermata Discovery (AI law enforcement)",
             "📧 Jake Valentine (Claymore Growth) inbound — asking if Masala Capital plans to raise in 2026",
             "Polar Verified inbound — Paul Haidu Gerea (Stanford), supplement verification rail",
             "📧 NGP SRA Fund inbound — AI Energy & Sustainability investment (Sriram Gollapalli)",
@@ -602,7 +667,12 @@
           "status": "attention",
           "lastUpdated": "2026-04-20",
           "bullets": [
-            "⏰ 5pm ET — UP NEXT: Chris x Nik 6pm • Alec/Afters 8pm. Today WRAPPED: YoSharma Check-In + Check-In + Zurp Check-In + Limited Supply recording + After Ours Sync (Fireflies recap 2:51pm).",
+            "⏰ 6pm ET — Chris x Nik STARTING NOW • Alec/Afters 8pm. Today WRAPPED: YoSharma Check-In + Check-In + Zurp Check-In + Limited Supply recording + After Ours Sync (Fireflies recap 2:51pm).",
+            "📧 Fresh (4/21 5:55pm): Hao Wang (NetMind) ‘Scaling motion ads at Sharma Brands’ — Pitch/Respond",
+            "📧 Fresh (4/21 5:46pm): Emma Smith (mrivak.link) ‘buyers for Sharma Brands’ — Pitch/Respond",
+            "📌 Fresh (4/21 5:32pm): Zainab Tariq (Pinterest) ‘Unlock Your Summer Strategy’ — Meeting/Pitch/Respond",
+            "📁 Fresh (4/21 5:16pm): Rameez shared ‘Nik Content’ Drive folder — IMPORTANT",
+            "📐 Fresh (4/21 5:25pm jet@): Rameez share request — ‘Macra PDP Carousels (Figma Spec + Slot Plan)’",
             "✍️ Fresh inbound 4/21 4:53pm: Nicole Rose (GoodOnya) 'Copywriter recs' — Respond/IMPORTANT",
             "📊 Fresh inbound 4/21 4:52pm: Jake Valentine (Claymore) follow-up on Masala Capital 2026 raise",
             "📮 Fresh inbound 4/21 4:48pm: Ethan Potts (PostPilot) 'Tushy Email' thread now 3 msgs — Action/IMPORTANT",
