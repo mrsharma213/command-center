@@ -1,8 +1,51 @@
 {
-  "open": 0,
+  "open": 2,
   "resolved": 0,
   "overdue": 0,
   "aging": 0,
-  "last_updated": "2026-04-20T14:55:00-04:00",
-  "commitments": []
+  "last_updated": "2026-04-21T02:50:27.490Z",
+  "commitments": [
+    {
+      "id": "email-19dab88966a91bc8",
+      "source": "email",
+      "transcript_id": "19dab88966a91bc8",
+      "meeting_title": "📧 $272.19 payment to Anthropic, PBC was unsuccessful",
+      "meeting_date": "2026-04-20 11:35",
+      "transcript_url": "https://mail.google.com/mail/u/0/#inbox/19dab88966a91bc8",
+      "sentence": "Please update your payment information.",
+      "context": "From: \"Anthropic, PBC\" <failed-payments@mail.anthropic.com> · Subject: $272.19 payment to Anthropic, PBC was unsuccessful",
+      "speaker": "Anthropic, PBC",
+      "owed_to": [
+        "Anthropic, PBC"
+      ],
+      "deadline": "",
+      "urgency": "medium",
+      "account": "jet@nik.co",
+      "created_at": "2026-04-21T02:50:20.154Z",
+      "status": "open",
+      "checks": [],
+      "resolved": false
+    },
+    {
+      "id": "email-19da92cc4e5824a9",
+      "source": "email",
+      "transcript_id": "19da92cc4e5824a9",
+      "meeting_title": "📧 $31.33 payment to Anthropic, PBC was unsuccessful",
+      "meeting_date": "2026-04-20 00:36",
+      "transcript_url": "https://mail.google.com/mail/u/0/#inbox/19da92cc4e5824a9",
+      "sentence": "Please update your payment information.",
+      "context": "From: \"Anthropic, PBC\" <failed-payments@mail.anthropic.com> · Subject: $31.33 payment to Anthropic, PBC was unsuccessful",
+      "speaker": "Anthropic, PBC",
+      "owed_to": [
+        "Anthropic, PBC"
+      ],
+      "deadline": "",
+      "urgency": "high",
+      "account": "jet@nik.co",
+      "created_at": "2026-04-21T02:50:22.396Z",
+      "status": "open",
+      "checks": [],
+      "resolved": false
+    }
+  ]
 }
