@@ -469,21 +469,25 @@ function render(data) {
         for (const c of open.slice(0, 20)) {
           const status = c.status || 'open';
           const cardCls = status === 'overdue' ? 'overdue' : status === 'aging' ? 'aging' : '';
+          const source = c.source || 'meeting';
+          const sourceIcon = source === 'email' ? '📧' : '🎙️';
           const owed = c.owed_to && c.owed_to.length ? ` → ${c.owed_to.join(', ')}` : '';
           const mtg = c.meeting_title || 'meeting';
           const ageMs = Date.now() - new Date(c.created_at).getTime();
           const ageH = Math.floor(ageMs / 3600000);
           const ageLabel = ageH < 1 ? 'just now' : ageH < 24 ? `${ageH}h ago` : `${Math.floor(ageH/24)}d ago`;
+          const linkLabel = source === 'email' ? 'open email' : 'transcript';
+          const urgencyBadge = c.urgency === 'high' ? '<span class="cmt-badge overdue" style="margin-left:4px;">high</span>' : '';
           cHtml += `
             <div class="commitment-card ${cardCls}">
-              <span class="cmt-badge ${status}">${status}</span>
+              <span class="cmt-badge ${status}">${sourceIcon} ${status}</span>
               <div class="cmt-body">
-                <div class="cmt-sentence">“${c.sentence || ''}”${owed}</div>
+                <div class="cmt-sentence">“${c.sentence || ''}”${owed}${urgencyBadge}</div>
                 <div class="cmt-meta">
                   <span>${mtg}</span>
                   <span class="dot">·</span>
                   <span>${ageLabel}</span>
-                  ${c.transcript_url ? `<span class="dot">·</span><a href="${c.transcript_url}" target="_blank">transcript</a>` : ''}
+                  ${c.transcript_url ? `<span class="dot">·</span><a href="${c.transcript_url}" target="_blank">${linkLabel}</a>` : ''}
                 </div>
               </div>
             </div>
