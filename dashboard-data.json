@@ -1,20 +1,60 @@
 {
-  "lastRefreshed": "2026-04-21T18:00:00Z",
+  "lastRefreshed": "2026-04-21T19:00:00Z",
   "flagged": [
     {
       "id": "macra-launch",
       "emoji": "\ud83d\udc8a",
-      "title": "Macra \u2014 Day 4 Post-Launch: Carb Curb + Mood Bloom LIVE",
-      "detail": "Day 4 post-launch. \u2705 ALL 3 TRADEMARKS FILED. $30K initial ad spend deploying. Rameez 'Macra testing' thread active (43 msgs) \u2014 coordinating COAs with Light Labs. Monitor early sales data + ad performance.",
+      "title": "Macra \u2014 Day 5 Post-Launch: Carb Curb + Mood Bloom LIVE",
+      "detail": "Day 5 post-launch. \u2705 ALL 3 TRADEMARKS FILED. $30K initial ad spend deploying. Rameez 'Macra testing' thread active (43 msgs) \u2014 coordinating COAs with Light Labs. Monitor early sales data + ad performance.",
       "severity": "attention",
       "since": "2026-04-16"
     },
     {
       "id": "today-schedule-4-21",
       "emoji": "\ud83c\udfa7",
-      "title": "LIVE NOW 2pm \u2014 After Ours Sync (Fred) \u2022 NEXT 6pm Chris x Nik",
-      "detail": "LIVE NOW 2:00-3:00pm: After Ours Sync (Fireflies prep sent 12:57pm). NEXT 6:00pm Chris x Nik \u2022 8:00pm Call Alec / Afters. Earlier today wrapped: YoSharma Check-In, Check-In, Zurp Check-In, Limited Supply recording. Wed 4/22: dry-clean 8am \u2022 Fort 10am \u2022 Instant x Nik 4:30pm (Jaime Egan confirmed) \u2022 Zagged Dinner 8-10:15pm.",
+      "title": "NEXT 6pm \u2014 Chris x Nik \u2022 8pm Call Alec / Afters",
+      "detail": "NEXT 6:00pm Chris x Nik \u2022 8:00pm Call Alec / Afters. Earlier today WRAPPED: YoSharma Check-In, Check-In, Zurp Check-In, Limited Supply recording, After Ours Sync (Fireflies recap delivered 2:51pm). Wed 4/22: dry-clean 8am \u2022 Fort 10am \u2022 Instant x Nik 4:30pm (Jaime Egan confirmed) \u2022 Zagged Dinner 8-10:15pm.",
       "severity": "attention",
+      "since": "2026-04-21"
+    },
+    {
+      "id": "unkommon-zurp-miami",
+      "emoji": "\ud83c\udd95",
+      "title": "UnKommon x Zurp \u2014 Miami expansion agreement sent (2:23pm)",
+      "detail": "Team Zurp (Minul) sent 'UnKommon x Zurp' partnership agreement to Dimitrios @ unkommonevents.com 2:23pm ET 4/21. Miami expansion launching \u2014 units heading south. Review + execute.",
+      "severity": "attention",
+      "since": "2026-04-21"
+    },
+    {
+      "id": "rameez-common-country",
+      "emoji": "\ud83c\udfd9\ufe0f",
+      "title": "Rameez \u2014 Common Country Bar pitch (Noah, 2:44pm)",
+      "detail": "Rameez sent Zurp pitch to Noah @ Common Country Bar 2:44pm ET 4/21 \u2014 new NYC venue outreach. Standard Zurp terms: zero cost install, 70/30 yr1, 60/40 yr2, 50/50 yr3+. Attached Zurp Products.pdf.",
+      "severity": "info",
+      "since": "2026-04-21"
+    },
+    {
+      "id": "fireflies-ao-recap",
+      "emoji": "\ud83c\udfa7",
+      "title": "After Ours Sync \u2014 Fireflies recap delivered (2:51pm)",
+      "detail": "Fireflies sent meeting recap for Tue 4/21 2:06pm ET After Ours Sync at 2:51pm. Review for decisions + action items. IMPORTANT flag.",
+      "severity": "info",
+      "since": "2026-04-21"
+    },
+    {
+      "id": "vercel-deploy-failures",
+      "emoji": "\ud83d\udea8",
+      "title": "Vercel \u2014 3 failed deployments from jet@nik.co (2:39-2:45pm)",
+      "detail": "Vercel sent 3 failed deployment notices 2:39-2:45pm ET 4/21 from jet@nik.co (CLI deploy + 2 production deploys). Infra issue \u2014 check team 'nik-2658's projects' build logs.",
+      "severity": "attention",
+      "since": "2026-04-21"
+    },
+    {
+      "id": "moldco-reddit-ama",
+      "emoji": "\ud83d\udcac",
+      "title": "MoldCo \u2014 Dr. Shoemaker Reddit AMA (ClickUp, 2:56pm)",
+      "detail": "ClickUp task: 'MoldCo - Dr. Shoemaker Reddit AMA' 4-msg thread, updated 2:56pm ET 4/21. Coordinate AMA logistics + content.",
+      "severity": "info",
       "since": "2026-04-21"
     },
     {
@@ -253,9 +293,9 @@
           "emoji": "\ud83d\udc8a",
           "title": "Macra",
           "status": "attention",
-          "lastUpdated": "2026-04-20",
+          "lastUpdated": "2026-04-21",
           "bullets": [
-            "\ud83d\udc8a Day 4 post-launch \u2014 Mood Bloom\u2122 + Carb Curb\u2122 launched Apr 16",
+            "\ud83d\udc8a Day 5 post-launch \u2014 Mood Bloom\u2122 + Carb Curb\u2122 launched Apr 16",
             "\ud83d\udce7 Rameez 'Macra testing' thread active (43 msgs) \u2014 coordinating COAs + Light Labs updates",
             "\u2705 ALL 3 TRADEMARKS FILED: CARB MUTE (99765362) + MOOD BLOOM (99765355) + CARB CURB (99765775)",
             "\ud83d\udcdd GT attorney Matthew Goings: Use \u2122 symbol. 6-10 month USPTO examination.",
@@ -295,17 +335,19 @@
           "id": "zurp",
           "emoji": "\ud83d\udcf1",
           "title": "Zurp",
-          "status": "on-track",
-          "lastUpdated": "2026-04-20",
+          "status": "attention",
+          "lastUpdated": "2026-04-21",
           "bullets": [
-            "\ud83d\udcc5 Zurp Check-In TODAY Tue 4/21 1:30-2:00pm ET \u2014 pull Victor Calderone residency weekend results",
+            "\ud83c\udd95 UnKommon x Zurp agreement sent to Dimitrios 2:23pm ET 4/21 \u2014 Miami expansion",
+            "\ud83c\udfd9\ufe0f Rameez outreach to Noah @ Common Country Bar 2:44pm ET 4/21 \u2014 new venue pitch",
+            "\u2705 Zurp Check-In WRAPPED 1:30-2:00pm ET 4/21",
             "\ud83d\udce7 Follow-up email sent to Remy at Refuge for charger placement",
             "\u2705 March legal invoice (Robert Freund Law) paid by Minul",
             "\u23f3 Weather-proof outdoor unit: 6-week lead time",
             "\ud83d\udcb0 Revenue split: 50/50 with venues",
             "\u2705 Brand book DONE \u2014 brand.zurp.com (password: zurp2026)"
           ],
-          "needsAttention": null
+          "needsAttention": "Miami expansion via UnKommon partnership agreement 4/21 \u2014 monitor signature. New venue pitch to Common Country Bar."
         },
         {
           "id": "authentiq",
@@ -351,17 +393,18 @@
           "emoji": "\ud83c\udfa7",
           "title": "After Ours",
           "status": "attention",
-          "lastUpdated": "2026-04-20",
+          "lastUpdated": "2026-04-21",
           "bullets": [
+            "\u2705 After Ours Sync WRAPPED 2:00-3:00pm ET 4/21 \u2014 Fireflies recap delivered 2:51pm",
+            "\ud83d\udcde Call Alec / Afters TONIGHT 8:00pm ET",
             "\u2705 Sat 4/18 Somewhere Nowhere NYC \u2014 opened for Moojo, wrapped ~2am",
-            "\ud83d\udcc5 After Ours Sync TODAY Tue 4/21 2:00-3:00pm ET \u2014 next up",
             "\ud83d\udcf9 Awaiting pro media/videographer pull-through (N\u00dc MGMT booked)",
             "\ud83c\udfb5 'Rise & Shine' / 'Future Classic' LIVE on SoundCloud",
             "\ud83d\udd0a Sound pivot locked: keeping Future Classic, Flashback, No Control",
             "Content split: IG feed = credible only, TikTok = flood",
             "\ud83d\udcdd Brand voice brief owed to Brandon \u2014 due this week"
           ],
-          "needsAttention": "Post-show Day 2 \u2014 pull videographer assets + brand voice brief still owed to Brandon."
+          "needsAttention": "Post-show Day 3 \u2014 Fireflies recap from today's sync needs review. Pull videographer assets. Brand voice brief still owed to Brandon."
         },
         {
           "id": "limited-supply",

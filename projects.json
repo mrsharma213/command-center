@@ -73,15 +73,19 @@
   {
     "name": "Zurp",
     "desc": "Companies",
-    "currentStatus": "📅 Zurp Check-In TODAY Tue 4/21 1:30-2:00pm ET — pull Victor Calderone residency weekend results",
+    "currentStatus": "🆕 UnKommon x Zurp agreement sent 4/21 2:23pm — Miami expansion. 🏙️ Rameez pitching Common Country Bar 4/21 2:44pm. ✅ Zurp Check-In wrapped.",
     "recentActivity": [
       {
-        "date": "2026-04-20",
-        "text": "📅 Zurp Check-In TODAY Tue 4/21 1:30-2:00pm ET — pull Victor Calderone residency weekend results"
+        "date": "2026-04-21",
+        "text": "🆕 UnKommon x Zurp agreement sent to Dimitrios 2:23pm ET — Miami expansion"
       },
       {
-        "date": "2026-04-20",
-        "text": "📧 Follow-up email sent to Remy at Refuge for charger placement"
+        "date": "2026-04-21",
+        "text": "📧 Rameez outreach to Noah @ Common Country Bar 2:44pm ET — new venue pitch"
+      },
+      {
+        "date": "2026-04-21",
+        "text": "✅ Zurp Check-In WRAPPED 1:30-2:00pm ET"
       },
       {
         "date": "2026-04-20",
@@ -90,14 +94,10 @@
       {
         "date": "2026-04-20",
         "text": "⏳ Weather-proof outdoor unit: 6-week lead time"
-      },
-      {
-        "date": "2026-04-20",
-        "text": "💰 Revenue split: 50/50 with venues"
       }
     ],
-    "status": "on-track",
-    "updated": "2026-04-20"
+    "status": "attention",
+    "updated": "2026-04-21"
   },
   {
     "name": "Authentiq",
@@ -160,15 +160,19 @@
   {
     "name": "After Ours",
     "desc": "Media & Content",
-    "currentStatus": "Post-show Day 2 — pull videographer assets + brand voice brief still owed to Brandon.",
+    "currentStatus": "✅ After Ours Sync wrapped 3pm — Fireflies recap delivered. Call Alec/Afters 8pm tonight. Videographer assets + brand voice brief still owed.",
     "recentActivity": [
       {
-        "date": "2026-04-20",
-        "text": "✅ Sat 4/18 Somewhere Nowhere NYC — opened for Moojo, wrapped ~2am"
+        "date": "2026-04-21",
+        "text": "✅ After Ours Sync WRAPPED 2:00-3:00pm ET — Fireflies recap delivered 2:51pm"
+      },
+      {
+        "date": "2026-04-21",
+        "text": "📞 Call Alec / Afters TONIGHT 8:00pm ET"
       },
       {
         "date": "2026-04-20",
-        "text": "📅 After Ours Sync TODAY Tue 4/21 2:00-3:00pm ET — next up"
+        "text": "✅ Sat 4/18 Somewhere Nowhere NYC — opened for Moojo, wrapped ~2am"
       },
       {
         "date": "2026-04-20",
@@ -177,14 +181,10 @@
       {
         "date": "2026-04-20",
         "text": "🎵 'Rise & Shine' / 'Future Classic' LIVE on SoundCloud"
-      },
-      {
-        "date": "2026-04-20",
-        "text": "🔊 Sound pivot locked: keeping Future Classic, Flashback, No Control"
       }
     ],
     "status": "attention",
-    "updated": "2026-04-20"
+    "updated": "2026-04-21"
   },
   {
     "name": "Limited Supply Podcast",
