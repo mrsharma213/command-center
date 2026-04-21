@@ -443,8 +443,8 @@ function render(data) {
 
   document.getElementById('sections').innerHTML = sectionsHtml;
 
-  // ── Open Commitments Section (from fireflies.nik.co) ──
-  try {
+  // ── Open Commitments Section ── (disabled 2026-04-21 - Rameez handles filtering)
+  if (false) try {
     const cRes = await fetch('https://fireflies.nik.co/api/commitments?t=' + Date.now());
     if (cRes.ok) {
       const cData = await cRes.json();
