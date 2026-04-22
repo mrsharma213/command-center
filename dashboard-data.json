@@ -1,6 +1,14 @@
 {
-  "lastRefreshed": "2026-04-22T13:04:00Z",
+  "lastRefreshed": "2026-04-22T15:00:00Z",
   "flagged": [
+    {
+      "id": "yosharma-inv5",
+      "emoji": "💰",
+      "title": "YoSharma LLC Invoice INV-5 — OVERDUE",
+      "detail": "Mercury alert 8:30am 4/22: INV-5 from YoSharma LLC is now overdue. Triple-notification received — real. Review customer + follow up on collection.",
+      "severity": "attention",
+      "since": "2026-04-22"
+    },
     {
       "id": "corpora-83b",
       "emoji": "📋",
@@ -39,19 +47,18 @@
           "status": "attention",
           "lastUpdated": "2026-04-22",
           "bullets": [
-            "💊 Day 6 post-launch — still monitoring sales/ad performance",
-            "💊 Day 5 post-launch — Mood Bloom™ + Carb Curb™ launched Apr 16",
+            "💊 Day 6 post-launch (Apr 16 → today) — monitoring sales + ad performance",
+            "📧 Rameez 'New Macra Stuff' thread now 67 msgs deep (last: 4/21 7:05pm) — source quote + finalize vendor",
             "📧 Rameez 'Macra testing' thread active (43 msgs) — coordinating COAs + Light Labs updates",
-            "📐 NEW (4/21 5:25pm jet@): Rameez share request — 'Macra PDP Carousels (Figma Spec + Slot Plan)' — grant access + review",
-            "📁 NEW (4/21 5:16pm nik@): Rameez shared 'Nik Content' Drive folder — IMPORTANT",
+            "📐 Rameez share request — 'Macra PDP Carousels (Figma Spec + Slot Plan)' — grant access + review",
+            "📁 Rameez shared 'Nik Content' Drive folder (4/21 5:16pm) — IMPORTANT",
             "✅ ALL 3 TRADEMARKS FILED: CARB MUTE (99765362) + MOOD BLOOM (99765355) + CARB CURB (99765775)",
             "📝 GT attorney Matthew Goings: Use ™ symbol. 6-10 month USPTO examination.",
             "Initial ad spend $30K deploying • Monitor early performance data",
-            "✅ verified.macra.com CNAME added via Namecheap API",
-            "📧 NEW (4/20 11:49pm): Rameez 'New Macra Stuff' — source quote + finalize on a vendor (urgency: high)"
+            "✅ verified.macra.com CNAME added via Namecheap API"
           ],
-          "needsAttention": "Day 5 post-launch — monitoring early sales + ad performance. Rameez testing thread active (43 msgs). New: 'New Macra Stuff' thread — source quote + finalize vendor.",
-          "currentStatus": "Day 6 post-launch — monitoring sales + ad performance. Grant Rameez Figma PDP Carousels access + review 'Nik Content' folder. Rameez 'New Macra Stuff' thread active."
+          "needsAttention": "Day 6 post-launch — monitor sales/ads. Rameez 'New Macra Stuff' thread at 67 msgs (vendor finalization). Grant Figma PDP access.",
+          "currentStatus": "Day 6 post-launch — monitoring sales + ad performance. Rameez 'New Macra Stuff' thread now 67 msgs (vendor finalization pending). Grant Figma PDP Carousels access + review 'Nik Content' folder."
         },
         {
           "id": "stocked",
@@ -71,22 +78,23 @@
           "emoji": "🍜",
           "title": "Maruchan x Nik Sharma",
           "status": "attention",
-          "lastUpdated": "2026-04-20",
+          "lastUpdated": "2026-04-22",
           "bullets": [
-            "📧 Minul 'Maruchan x Nik Sharma' thread — 15 msgs (updated 1:53pm 4/20)",
+            "📧 Minul 'Maruchan x Nik Sharma' thread — 16 msgs (Minul replied 9:38am 4/22)",
             "Iconic ramen brand engagement inbound",
             "Coordinated via Minul @ nik.co"
           ],
-          "needsAttention": "Thread 15 msgs deep (updated 1:53pm 4/20) — review and respond"
+          "needsAttention": "Thread now 16 msgs — Minul replied 9:38am 4/22, review + respond"
         },
         {
           "id": "zurp",
           "emoji": "📱",
           "title": "Zurp",
           "status": "attention",
-          "lastUpdated": "2026-04-21",
+          "lastUpdated": "2026-04-22",
           "bullets": [
-            "🆕 UnKommon x Zurp agreement sent to Dimitrios 2:23pm ET 4/21 — Miami expansion",
+            "📅 TODAY 4/22 2:30-3:30pm ET: Jack <> Troy <> Nik call — LIVE in 3.5h",
+            "🆕 UnKommon x Zurp agreement sent to Dimitrios 2:23pm ET 4/21 — Miami expansion (monitor signature)",
             "🏙️ Rameez outreach to Noah @ Common Country Bar 2:44pm ET 4/21 — new venue pitch",
             "✅ Zurp Check-In WRAPPED 1:30-2:00pm ET 4/21",
             "📧 Follow-up email sent to Remy at Refuge for charger placement",
@@ -95,7 +103,8 @@
             "💰 Revenue split: 50/50 with venues",
             "✅ Brand book DONE — brand.zurp.com (password: zurp2026)"
           ],
-          "needsAttention": "Miami expansion via UnKommon partnership agreement 4/21 — monitor signature. New venue pitch to Common Country Bar."
+          "needsAttention": "Jack <> Troy <> Nik TODAY 2:30pm ET (3.5h). Miami UnKommon agreement signature pending. Common Country Bar venue pitch active.",
+          "alert": "Jack <> Troy <> Nik call TODAY 2:30pm ET (3.5h)"
         },
         {
           "id": "authentiq",
@@ -200,18 +209,21 @@
           "status": "attention",
           "lastUpdated": "2026-04-22",
           "bullets": [
-            "📅 TODAY Wed 4/22 4:30pm: Instant x Nik meeting (Jaime Egan)",
-            "🚨 Air Oasis — Homepage deadline PASSED (was due Fri 4/10) — 9 days overdue",
+            "📅 TODAY Wed 4/22 4:30pm: Instant x Nik meeting (Jaime Egan) — LIVE in 5.5h",
+            "💰 Mercury: YoSharma LLC Invoice INV-5 OVERDUE (alert received 8:30am 4/22)",
+            "🚨 Air Oasis — Homepage deadline PASSED (was due Fri 4/10) — 12 days overdue",
+            "✍️ Nicole Rose (GoodOnya) — 'Copywriter recs' now 3 msgs, IMPORTANT + Action label (4/22 9:57am)",
+            "📞 Guidepoint consultation request — SMS Marketing & Sales Platforms (Hailey Qualls 4/22 8:55am)",
             "WA Dept of Revenue: Action required for Sharma Brands Inc (605-181-506)",
             "📧 David Larkin (PayFiniti) — approval rates discussion inbound",
             "✅ Boring Ecom invoice (Joe Siegel Flow Build) — PAID 4/20 11:43am (BILL confirmation)",
-            "📅 NEW: Instant x Nik meeting booked Wed Apr 22 4:30pm (Jaime Egan)",
             "📧 Laura Rossi (AI Board Advisory) — pitch for Sharma Brands",
             "📧 POV Beauty — 'getting warmer' (product update)",
             "GoDaddy: sharmabrands.com renewal placed 4/14 ($49.17)",
             "TEXTNIK.CO auto-renews 5/10 ($51.99/yr)"
           ],
-          "needsAttention": "Air Oasis homepage 9 days overdue + WA DOR action required + Nicole Rose (GoodOnya) copywriter recs ask 4:53pm (Respond/IMPORTANT) + Alexandra Zatarain (Eight Sleep) TikTok intro ask (IMPORTANT)"
+          "needsAttention": "Instant x Nik TODAY 4:30pm (5.5h). Chris Leach 'quick question' 10:46am Pitch/Respond. YoSharma INV-5 OVERDUE (Mercury). Air Oasis homepage 12 days overdue. Nicole Rose (GoodOnya) copywriter recs 3 msgs IMPORTANT. Guidepoint SMS consultation request.",
+          "alert": "INV-5 overdue + Instant call TODAY 4:30pm"
         },
         {
           "id": "ecom-founders",
@@ -237,10 +249,10 @@
           "id": "rolling-ventures",
           "emoji": "🎯",
           "title": "Rolling Ventures Fund",
-          "status": "on-track",
+          "status": "attention",
           "lastUpdated": "2026-04-22",
           "bullets": [
-            "🔥 TODAY Wed 4/22 4:30pm ET: Instant x Nik (Jaime Egan) — LIVE",
+            "🔥 TODAY Wed 4/22 4:30pm ET: Instant x Nik (Jaime Egan) — LIVE in 5.5h",
             "📧 NEW (4/20 5:41pm): Sriram Krishnan (Kearny Jackson) — PEF Oil & Gas terminal EMEA/WAF deal flow",
             "📧 NEW (4/18 1:53pm): Caraway Q1 2026 Investor Update from Jordan Nathan — portfolio review",
             "📅 Fri 4/17: Rolling Ventures TB 1:30pm ✅ + Ryan Tabb intro 2pm ET ✅",
@@ -253,8 +265,9 @@
             "🤖 NEW (4/21 3:38pm): Scott Caldwell PEF Deal Flow — Fermata Discovery (AI law enforcement)",
             "📧 Jake Valentine (Claymore Growth) inbound — asking if Masala Capital plans to raise in 2026"
           ],
-          "needsAttention": "unspun signature still required ASAP",
-          "currentStatus": "🔥 TODAY Wed 4/22 4:30pm: Instant x Nik (Jaime Egan). "
+          "needsAttention": "unspun signature still required ASAP. Instant x Nik TODAY 4:30pm (5.5h). Ben Zises 'Nik x Ben' thread now 3 msgs (4/22 10:56am) — inbound.",
+          "currentStatus": "🔥 TODAY Wed 4/22 4:30pm: Instant x Nik (Jaime Egan) — LIVE in 5.5h. unspun Series B-3 signature still pending. Ben Zises 'Nik x Ben' thread now 3 msgs.",
+          "alert": "Instant x Nik call TODAY 4:30pm"
         },
         {
           "id": "personal-investments",
@@ -281,9 +294,18 @@
           "emoji": "✈️",
           "title": "Today & This Week",
           "status": "attention",
-          "lastUpdated": "2026-04-20",
+          "lastUpdated": "2026-04-22",
           "bullets": [
-            "⏰ 6pm ET — Chris x Nik STARTING NOW • Alec/Afters 8pm. Today WRAPPED: YoSharma Check-In + Check-In + Zurp Check-In + Limited Supply recording + After Ours Sync (Fireflies recap 2:51pm).",
+            "🔥 TODAY Wed 4/22: Fort 10am ✅ • Check-In 11:30am (LIVE NOW) • Stretch 12:30pm • Jack<>Troy<>Nik 2:30pm (3.5h) • Instant x Nik 4:30pm Jaime Egan (5.5h) • AO Studio Time 5pm + 7pm • Zagged Dinner 8-10:15pm (Simon Wool)",
+            "💰 Mercury alert 8:30am 4/22: YoSharma LLC Invoice INV-5 is OVERDUE — review + collect",
+            "✍️ Nicole Rose (GoodOnya) Copywriter recs — now 3 msgs, IMPORTANT + Action (9:57am 4/22)",
+            "📞 Guidepoint consultation request — SMS Marketing & Sales Platforms (Hailey Qualls 8:55am 4/22)",
+            "🍜 Minul replied on Maruchan x Nik Sharma thread (9:38am 4/22, now 16 msgs)",
+            "⏰ 6pm ET 4/21 — Chris x Nik wrapped • Alec/Afters 8pm wrapped. 4/21 WRAPPED: YoSharma Check-In + Check-In + Zurp Check-In + Limited Supply recording + After Ours Sync (Fireflies recap 2:51pm).",
+            "📧 NEW (4/22 10:56am): Ben Zises (SuperAngel) 'Nik x Ben' thread now 3 msgs — IMPORTANT",
+            "📧 NEW (4/22 10:46am): Chris Leach (310 Creative) 'quick question' — Pitch/Respond",
+            "📧 NEW (4/22 10:18am): Jim Jannuzzio (Tondo Group) 'Introduction' thread now 8 msgs — Action/IMPORTANT",
+            "📞 Fresh (4/22 8:55am): Hailey Qualls (Guidepoint) SMS Marketing consultation request",
             "📧 Fresh (4/21 5:55pm): Hao Wang (NetMind) ‘Scaling motion ads at Sharma Brands’ — Pitch/Respond",
             "📧 Fresh (4/21 5:46pm): Emma Smith (mrivak.link) ‘buyers for Sharma Brands’ — Pitch/Respond",
             "📌 Fresh (4/21 5:32pm): Zainab Tariq (Pinterest) ‘Unlock Your Summer Strategy’ — Meeting/Pitch/Respond",
@@ -308,10 +330,9 @@
             "📅 Mon 4/20 WRAPPED: Nik x Joe 12pm • Workweek 12:30 • Zagged 2pm • Paramount VE Prep 3pm • MentorPass Sterling 4:30pm • Lock-in 5:30-9:45pm • Limited Supply 7-8:15pm • Mold Test 8:45-9:30pm",
             "📧 4/20 inbound recap: Gribbla (Myles Harris) • Kearny Jackson (Sriram Krishnan, PEF Oil&Gas) • Tom Logan (Jake Panzer fwd) • Erika Hughes (bizport) • Left Lane (IMPORTANT) • Love Wellness (Minul) • Tondo Invoice • Ben Zises (SuperAngel) • StackAdapt • ClientLoop",
             "🚨 Anthropic API (jet@nik.co) OFF — $272.19 payment failed 4/20. Update billing to restore.",
-            "📅 Wed 4/22: dry-clean check 8am • Fort 10am • Chef Trey dinner • Instant x Nik 4:30pm (Jaime Egan — reschedule requested) • Zagged Dinner 8-10:15pm (Simon Wool)",
             "✅ Back in NYC — Fort gym schedule resumed"
           ],
-          "needsAttention": null
+          "needsAttention": "Multi-meeting day: Jack<>Troy<>Nik 2:30pm (3.5h) + Instant x Nik 4:30pm (5.5h) + AO Studio 5pm/7pm + Zagged dinner 8pm. INV-5 overdue alert. Ben Zises + Chris Leach inbound this morning."
         }
       ]
     },
