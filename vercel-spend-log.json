@@ -1,0 +1,19 @@
+[
+  {
+    "receivedAt": "2026-04-22T00:06:41.753Z",
+    "type": "threshold.reached",
+    "threshold": 50,
+    "cap": 150,
+    "currentSpend": 50,
+    "teamId": "team_SMaKNWc4nnLF177pNAJJO7ST",
+    "cycleStart": null,
+    "breakdown": {
+      "bandwidth": 20,
+      "functionTime": 25,
+      "edgeRequests": 5
+    },
+    "signatureVerified": false,
+    "signaturePresent": false,
+    "rawBodyBytes": 176
+  }
+]
