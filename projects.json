@@ -3,7 +3,7 @@
     "name": "Macra",
     "emoji": "💊",
     "status": "attention",
-    "currentStatus": "Day 6 post-launch — monitoring sales + ad performance. Rameez 'New Macra Stuff' thread now 67 msgs (vendor finalization pending). Grant Figma PDP Carousels access + review 'Nik Content' folder.",
+    "currentStatus": "Day 6 post-launch — monitoring sales + ad performance. Macra TB scheduled tomorrow 4/23 3:00pm ET. Rameez 'New Macra Stuff' thread now 67 msgs (vendor finalization pending). Grant Figma PDP Carousels access + review 'Nik Content' folder.",
     "alert": null,
     "updated": "2026-04-22"
   },
@@ -18,8 +18,8 @@
   {
     "name": "Maruchan x Nik Sharma",
     "emoji": "🍜",
-    "status": "attention",
-    "currentStatus": "Thread now 16 msgs — Minul replied 9:38am 4/22, review + respond",
+    "status": "on-track",
+    "currentStatus": "KO meeting accepted by Maruchan (Katelyn Stokes 1:58pm 4/22) — confirm prep",
     "alert": null,
     "updated": "2026-04-22"
   },
@@ -27,8 +27,8 @@
     "name": "Zurp",
     "emoji": "📱",
     "status": "attention",
-    "currentStatus": "Jack <> Troy <> Nik TODAY 2:00pm ET (2h). Miami UnKommon agreement signature pending. Common Country Bar venue pitch active.",
-    "alert": "Jack <> Troy <> Nik call TODAY 2:00pm ET (2h)",
+    "currentStatus": "Jack <> Troy <> Nik call wrapped 2pm — recap/next steps pending. Miami UnKommon agreement signature pending. Common Country Bar venue pitch active.",
+    "alert": null,
     "updated": "2026-04-22"
   },
   {
@@ -51,8 +51,8 @@
     "name": "After Ours",
     "emoji": "🎧",
     "status": "attention",
-    "currentStatus": "After Ours Sync 4/21 wrapped + Alec call wrapped 8pm. Awaiting videographer/pro media pull-through. Brand voice brief still owed to Brandon.",
-    "alert": null,
+    "currentStatus": "🔴 AO Studio Time 5pm LIVE in 1h + 7pm session (in 3h). Post-show Day 4. Awaiting videographer/pro media pull-through. Brand voice brief still owed to Brandon.",
+    "alert": "🔴 AO Studio Time 5pm — LIVE in 1h",
     "updated": "2026-04-22"
   },
   {
@@ -75,24 +75,24 @@
     "name": "Brand Consulting",
     "emoji": "💼",
     "status": "attention",
-    "currentStatus": "Instant x Nik TODAY 4:30pm (4.5h). GT Law 'call with GT/Sharma and Justworks Re Meredith' inbound 11:46am. Justin Mares (TrueMed) 'Quick thing' 11:45am Respond. David Rosenberg (MediaThrottle) 'your thoughts?' 11:45am Pitch/Respond. YoSharma INV-5 OVERDUE. Air Oasis homepage 12 days overdue. Nicole Rose (GoodOnya) copywriter recs 3 msgs IMPORTANT.",
-    "alert": "INV-5 overdue + Instant call TODAY 4:30pm",
+    "currentStatus": "🔴 Instant x Nik 4:30pm ET — LIVE in 30 MIN. StreetTalk Interview locked Thu 4/23 4:30pm. Arjun Padmakumar (Jolie) intro Deana/Nik. Alexandra Zatarain (Eight Sleep) TikTok thread now 4 msgs. GT Law 'Sharma Payroll' (Dylan Nevescox) + GT/Justworks Re Meredith. Justin Mares (TrueMed) 'Quick thing' Respond. Andrew Ferenci (Comrad Socks) advisory follow-up. David Rosenberg (MediaThrottle). YoSharma INV-5 OVERDUE. Air Oasis homepage 12 days overdue.",
+    "alert": "🔴 Instant call 4:30pm — LIVE in 30 MIN + INV-5 overdue",
     "updated": "2026-04-22"
   },
   {
     "name": "Ecom Founders",
     "emoji": "🏗️",
-    "status": "on-track",
-    "currentStatus": "",
+    "status": "attention",
+    "currentStatus": "Rameez driving Sept 10 vs Oct 28 venue decision w/ Morgan (NYT) — competing hold, urgent.",
     "alert": null,
-    "updated": "2026-04-17"
+    "updated": "2026-04-22"
   },
   {
     "name": "Rolling Ventures Fund",
     "emoji": "🎯",
     "status": "attention",
-    "currentStatus": "🔥 TODAY Wed 4/22 4:30pm: Instant x Nik (Jaime Egan) — LIVE in 4.5h. unspun Series B-3 signature still pending. Ben Zises confirmed 5/6 @ 2pm ET office meeting.",
-    "alert": "Instant x Nik call TODAY 4:30pm",
+    "currentStatus": "🔴 Instant x Nik (Jaime Egan) 4:30pm ET — LIVE in 30 MIN. Jaime sent follow-up invite for Tue 4/28 4pm. unspun Series B-3 signature still pending. Ben Zises confirmed 5/6 @ 2pm ET.",
+    "alert": "🔴 Instant x Nik call 4:30pm — LIVE in 30 MIN",
     "updated": "2026-04-22"
   },
   {
@@ -107,7 +107,7 @@
     "name": "Today & This Week",
     "emoji": "✈️",
     "status": "attention",
-    "currentStatus": "Multi-meeting day: Jack<>Troy<>Nik 2:00pm (2h) + Instant x Nik 4:30pm (4.5h) + AO Studio 5pm/7pm + Zagged dinner 8pm. INV-5 overdue alert. GT Law/Justworks Re Meredith (11:46am) + Justin Mares 'Quick thing' (11:45am) + David Rosenberg 'your thoughts?' (11:45am) inbound.",
+    "currentStatus": "✅ Jack<>Troy<>Nik 2pm wrapped • 🔴 Instant x Nik 4:30pm LIVE in 30 MIN • AO Studio 5pm (1h) + 7pm • Zagged dinner 8pm. TOMORROW: Flexpower/Geoffrey 12pm + Macra TB 3pm + StreetTalk 4:30pm. INV-5 overdue. Dylan Nevescox (GT) 'Sharma Payroll'. Maruchan KO accepted. Arjun Padmakumar (Jolie) intro Deana/Nik. Alexandra Zatarain (Eight Sleep) TikTok thread now 4 msgs.",
     "alert": null,
     "updated": "2026-04-22"
   },
