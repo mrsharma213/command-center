@@ -15,5 +15,22 @@
     "signatureVerified": false,
     "signaturePresent": false,
     "rawBodyBytes": 176
+  },
+  {
+    "receivedAt": "2026-04-22T00:06:54.509Z",
+    "type": "threshold.reached",
+    "threshold": 100,
+    "cap": 150,
+    "currentSpend": 100,
+    "teamId": "team_SMaKNWc4nnLF177pNAJJO7ST",
+    "cycleStart": null,
+    "breakdown": {
+      "bandwidth": 40,
+      "functionTime": 50,
+      "edgeRequests": 10
+    },
+    "signatureVerified": true,
+    "signaturePresent": true,
+    "rawBodyBytes": 179
   }
 ]
