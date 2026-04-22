@@ -19,10 +19,10 @@
     }
   ],
   "newsletter": {
-    "status": "sent",
+    "status": "drafting",
     "sendDay": "Sunday",
-    "topic": "The product is fine. The education is broken.",
-    "note": "Sent Apr 19, 6:55pm ET. Thread 9 msgs deep. Next send Sun 4/26. VOTW 'Ecommerce Equation' (Josiah) draft delivered, awaiting Nik review. Last week: 'Affiliate marketing, done right' (Apr 12).",
+    "topic": "The 2026 Vitamins & Supplements Playbook",
+    "note": "Framed around bonkers growth in supplement + telemedicine brands driven by performance marketing. 6-10 pages, CTA to vms.nik.co (30-min deep-dive field report). Josiah briefed 4/21. First draft target: Fri 4/24. Ships Sun 4/26.",
     "nextSend": "2026-04-26",
     "topicIdeas": [
       "Andrew Youderian 300-store P&L deep dive w/ Nik commentary"
