@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-23T18:00:00Z",
+  "lastRefreshed": "2026-04-23T19:00:00Z",
   "flagged": [
     {
       "id": "yosharma-inv5",
@@ -20,8 +20,8 @@
     {
       "id": "corpora-83b",
       "emoji": "📋",
-      "title": "Corpora 83(b) — physical docs shred in 9 days",
-      "detail": "Team Corpora: 83(b) election physical documents (Order D3CS6YMK187F) will be shredded after 10 days (1 day elapsed). Confirm digital filing received + pickup decision.",
+      "title": "Corpora 83(b) — physical docs shred in 8 days",
+      "detail": "Team Corpora: 83(b) election physical documents (Order D3CS6YMK187F) will be shredded after 10 days (2 days elapsed). Confirm digital filing received + pickup decision.",
       "severity": "attention",
       "since": "2026-04-20"
     },
@@ -64,10 +64,10 @@
           "status": "attention",
           "lastUpdated": "2026-04-23",
           "bullets": [
-            "💊 Day 7 post-launch (Apr 16 → today) — monitoring sales + ad performance",
-            "🔴 TODAY Thu 4/23 3:00pm ET: Macra TB — in 1h",
-            "🔴 TODAY Thu 4/23 3:30pm ET: EXT | Lunar: Ideal Living Weekly Leadership TB — in 1.5h",
-            "🟡 MentorPass: Sterling & Nik 2pm — IN PROGRESS NOW",
+            "💊 Day 8 post-launch (Apr 16 → today) — monitoring sales + ad performance",
+            "🟡 TODAY Thu 4/23 3:00pm ET: Macra TB — STARTING NOW",
+            "🔴 TODAY Thu 4/23 3:30pm ET: EXT | Lunar: Ideal Living Weekly Leadership TB — in 30min",
+            "✅ MentorPass Sterling 2pm WRAPPED",
             "✅ YoSharma Check-In 1:30pm WRAPPED",
             "📧 Rameez 'New Macra Stuff' thread deep — vendor finalization pending",
             "📧 Rameez 'Macra testing' thread active — COAs + Light Labs coordination",
@@ -78,9 +78,9 @@
             "Initial ad spend $30K deploying • Monitor early performance data",
             "✅ verified.macra.com CNAME added via Namecheap API"
           ],
-          "needsAttention": "🔴 Macra TB in 1h (3pm) + Lunar Leadership TB 3:30pm. Day 7 post-launch — monitor sales/ads. Grant Rameez Figma access + review 'Nik Content' folder (both still outstanding).",
-          "currentStatus": "Day 7 post-launch — monitoring sales + ad performance. 🔴 Macra TB in 1h (3:00pm ET) + Lunar Leadership TB 3:30pm ET. Rameez Figma PDP Carousels access + 'Nik Content' folder review still owed.",
-          "alert": "🔴 Macra TB 3pm ET (in 1h)"
+          "needsAttention": "🟡 Macra TB STARTING NOW (3pm) + Lunar Leadership TB 3:30pm next. Day 8 post-launch — monitor sales/ads. Grant Rameez Figma access + review 'Nik Content' folder (both still outstanding).",
+          "currentStatus": "Day 8 post-launch — monitoring sales + ad performance. 🟡 Macra TB starting NOW (3:00pm ET) + Lunar Leadership TB 3:30pm ET next. Rameez Figma PDP Carousels access + 'Nik Content' folder review still owed.",
+          "alert": "🟡 Macra TB STARTING NOW"
         },
         {
           "id": "stocked",
@@ -196,14 +196,14 @@
           "status": "on-track",
           "lastUpdated": "2026-04-23",
           "bullets": [
-            "🔴 TODAY Thu 4/23 4:30pm ET: StreetTalk Interview (Matt Hickman/Flickman Media) — in 2.5h — CONFIRMED",
+            "🔴 TODAY Thu 4/23 4:30pm ET: StreetTalk Interview (Matt Hickman/Flickman Media) — in 1.5h — CONFIRMED",
             "✅ Limited Supply Recording WRAPPED 4/21",
             "Vinay Sridhar (Reddit) podcast episode — scheduling",
             "Topic: catalog ads + Reddit targeting evolution for DTC brands",
             "Episodes release every Wednesday — 100K+ subscribers",
             "Josiah Writer bot + style guide (18K words) for drafts"
           ],
-          "needsAttention": "🔴 StreetTalk Interview TODAY 4:30pm ET (in 2.5h) — Flickman Media."
+          "needsAttention": "🔴 StreetTalk Interview TODAY 4:30pm ET (in 1.5h) — Flickman Media."
         },
         {
           "id": "newsletter",
@@ -234,7 +234,7 @@
           "status": "attention",
           "lastUpdated": "2026-04-23",
           "bullets": [
-            "🔴 TODAY Thu 4/23: ✅ Check-In 11am • ✅ Flexpower 12pm • ✅ Geoffrey 12:30pm • ✅ YoSharma 1:30pm • 🟡 MentorPass Sterling 2pm IN PROGRESS • Macra TB 3pm (in 1h) • Lunar Leadership TB 3:30pm (in 1.5h) • StreetTalk 4:30pm (in 2.5h)",
+            "🔴 TODAY Thu 4/23: ✅ Check-In 11am • ✅ Flexpower 12pm • ✅ Geoffrey 12:30pm • ✅ YoSharma 1:30pm • ✅ MentorPass Sterling 2pm • 🟡 Macra TB 3pm STARTING NOW • Lunar Leadership TB 3:30pm (in 30min) • StreetTalk 4:30pm (in 1.5h)",
             "✅ Instant x Nik (Jaime Egan) 4:30-5pm WRAPPED 4/22 — recap/next steps still pending",
             "📧 Brigitta Ruha (Growth Today) 'quick ideas for Sharma Brands' (4/22 4:56pm) — Pitch/Respond",
             "💼 creators@creator-works.com — 'Paid Partnership - Nik x UpPromote' (4/22 4:15pm) — Pitch/Respond",
@@ -255,8 +255,8 @@
             "GoDaddy: sharmabrands.com renewal placed 4/14 ($49.17)",
             "TEXTNIK.CO auto-renews 5/10 ($51.99/yr)"
           ],
-          "needsAttention": "🟡 Sterling IN PROGRESS. Next: Macra TB 3pm (in 1h) → Lunar TB 3:30pm → StreetTalk 4:30pm. INV-5 still overdue (Day 2). Air Oasis 13 days late. Respond queue: Jack Bandera (StackAdapt Q2 partner eval), Brigitta Ruha, UpPromote, Arjun Padmakumar, Justin Mares, David Rosenberg, Dylan Nevescox (GT), John Richards (GT), Nikita Frantz (Goldman Sachs — client call TOMORROW re: ME war/Naval blockade), Geoffrey Huntting (3PL check-in).",
-          "alert": "🔴 7 meetings left today • INV-5 overdue Day 2 • Air Oasis 13 days late"
+          "needsAttention": "🟡 Macra TB STARTING NOW. Next: Lunar TB 3:30pm → StreetTalk 4:30pm. INV-5 still overdue (Day 2). Air Oasis 13 days late. Respond queue: Jack Bandera (StackAdapt Q2 partner eval), Brigitta Ruha, UpPromote, Arjun Padmakumar, Justin Mares, David Rosenberg, Dylan Nevescox (GT), John Richards (GT), Nikita Frantz (Goldman Sachs — client call TOMORROW re: ME war/Naval blockade), Geoffrey Huntting (3PL check-in).",
+          "alert": "🟡 Macra TB NOW • 3 commitments left • INV-5 Day 2 • Air Oasis 13 days late"
         },
         {
           "id": "ecom-founders",
@@ -335,7 +335,7 @@
           "status": "attention",
           "lastUpdated": "2026-04-23",
           "bullets": [
-            "🔥 TODAY Thu 4/23: Wake 9am ✅ • Check-In 11am ✅ • Flexpower Chat 12pm ✅ • Geoffrey/Nik In-Person 12:30pm ✅ • YoSharma Check-In 1:30pm ✅ • 🟡 MentorPass Sterling 2pm IN PROGRESS NOW • Macra TB 3pm (in 1h) • Lunar Leadership TB 3:30pm (in 1.5h) • StreetTalk 4:30pm (Flickman Media, in 2.5h)",
+            "🔥 TODAY Thu 4/23: Wake 9am ✅ • Check-In 11am ✅ • Flexpower Chat 12pm ✅ • Geoffrey/Nik In-Person 12:30pm ✅ • YoSharma Check-In 1:30pm ✅ • MentorPass Sterling 2pm ✅ • 🟡 Macra TB 3pm STARTING NOW • Lunar Leadership TB 3:30pm (in 30min) • StreetTalk 4:30pm (Flickman Media, in 1.5h)",
             "📅 TOMORROW Fri 4/24: Wake 9am • Fort 10am (Strength Training) • Check-In 1pm • Rolling Ventures TB 1:30pm • Maruchan x Nik Sharma KO 2pm • Pharmacy TB 4:30pm • Cordell<>Troy<>Nik 5pm",
             "💰 INV-5 YoSharma OVERDUE (Day 2) — review + collect today",
             "🚨 Air Oasis homepage — 13 days overdue",
@@ -357,7 +357,7 @@
             "🚨 Anthropic API (jet@nik.co) OFF — $272.19 payment failed 4/20. Update billing.",
             "📅 Apr 29 PEF QSBS Roundtable Lunch • Apr 28 Instant follow-up • May 6 Ben Zises • May 29-31 PEF Clarity Retreat"
           ],
-          "needsAttention": "🟡 Sterling IN PROGRESS. 3 commitments left: Macra TB 3pm (in 1h) → Lunar TB 3:30pm → StreetTalk 4:30pm. New inbound: Nikita Frantz (Goldman Sachs — client call TOMORROW re: ME war/Naval blockade), Jack Bandera (StackAdapt Q2). Stack-ranked owed replies: Brigitta Ruha, UpPromote, Arjun Padmakumar, Justin Mares, Dylan Nevescox, John Richards, Andrew Ferenci, David Rosenberg. INV-5 overdue Day 2. Air Oasis 13 days late. unspun B-3 signature ASAP. TOMORROW: RV TB 1:30pm + Maruchan KO 2pm."
+          "needsAttention": "🟡 Macra TB STARTING NOW. 2 commitments left after: Lunar TB 3:30pm → StreetTalk 4:30pm. New inbound: Nikita Frantz (Goldman Sachs — client call TOMORROW re: ME war/Naval blockade), Jack Bandera (StackAdapt Q2). Stack-ranked owed replies: Brigitta Ruha, UpPromote, Arjun Padmakumar, Justin Mares, Dylan Nevescox, John Richards, Andrew Ferenci, David Rosenberg. INV-5 overdue Day 2. Air Oasis 13 days late. unspun B-3 signature ASAP. TOMORROW: RV TB 1:30pm + Maruchan KO 2pm."
         }
       ]
     },
