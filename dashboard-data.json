@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-23T21:00:00Z",
+  "lastRefreshed": "2026-04-23T22:01:00Z",
   "flagged": [
     {
       "id": "yosharma-inv5",
@@ -119,6 +119,7 @@
           "lastUpdated": "2026-04-23",
           "bullets": [
             "✅ Jack <> Troy <> Nik call WRAPPED 2:00-3:00pm ET 4/22 — recap/next steps still pending",
+            "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — signature pending",
             "🆕 UnKommon x Zurp agreement (Miami expansion) — signature status monitor (sent 4/21)",
             "🏙️ Rameez pitch to Noah @ Common Country Bar still outstanding",
             "✅ Zurp Check-In WRAPPED 1:30-2:00pm ET 4/21",
@@ -128,7 +129,7 @@
             "💰 Revenue split: 50/50 with venues",
             "✅ Brand book DONE — brand.zurp.com (password: zurp2026)"
           ],
-          "needsAttention": "Still owed: Jack<>Troy<>Nik recap + next steps. Monitor UnKommon Miami signature. Common Country Bar pitch (Noah) status."
+          "needsAttention": "Alec viewed ALEC x ZURP.pdf via Docusign 5:48pm — signature pending. Still owed: Jack<>Troy<>Nik recap + next steps. Monitor UnKommon Miami signature."
         },
         {
           "id": "authentiq",
@@ -197,14 +198,14 @@
           "status": "on-track",
           "lastUpdated": "2026-04-23",
           "bullets": [
-            "🟡 StreetTalk Interview 4:30pm ET (Matt Hickman/Flickman Media) — in progress / just wrapped",
+            "✅ StreetTalk Interview WRAPPED 4:30-5pm ET 4/23 (Matt Hickman/Flickman Media) — recap/next steps owed",
             "✅ Limited Supply Recording WRAPPED 4/21",
             "Vinay Sridhar (Reddit) podcast episode — scheduling",
             "Topic: catalog ads + Reddit targeting evolution for DTC brands",
             "Episodes release every Wednesday — 100K+ subscribers",
             "Josiah Writer bot + style guide (18K words) for drafts"
           ],
-          "needsAttention": "🟡 StreetTalk Interview 4:30pm ET in progress — recap owed after."
+          "needsAttention": "✅ StreetTalk wrapped — recap/next steps owed from Matt Hickman."
         },
         {
           "id": "newsletter",
@@ -235,7 +236,9 @@
           "status": "attention",
           "lastUpdated": "2026-04-23",
           "bullets": [
-            "🔴 TODAY Thu 4/23: ✅ Check-In 11am • ✅ Flexpower 12pm • ✅ Geoffrey 12:30pm • ✅ YoSharma 1:30pm • ✅ MentorPass Sterling 2pm • ✅ Macra TB 3pm • ✅ Lunar Leadership TB 3:30pm • 🟡 StreetTalk 4:30pm (in progress) • 🧪 Mold Test 9pm • 🎵 AO release lock-in 10:30pm",
+            "🔴 TODAY Thu 4/23: ✅ Check-In 11am • ✅ Flexpower 12pm • ✅ Geoffrey 12:30pm • ✅ YoSharma 1:30pm • ✅ MentorPass Sterling 2pm • ✅ Macra TB 3pm • ✅ Lunar Leadership TB 3:30pm • ✅ StreetTalk 4:30pm WRAPPED • 🧪 Mold Test 9pm • 🎵 AO release lock-in 10:30pm",
+            "📧 Ben Walter (Postpilot) 'At Stord Summit: Please Tag Drew Hart Re: 2026 Ecom Founders Events' 5:51pm 4/23 — IMPORTANT",
+            "📧 Noah Friedman (outersignal) 'Nik Affiliate' 4:01pm — 3-msg thread Action",
             "💼 Woody Sears (Autio) — Investor Update Q1 2026 (inbound 4:40pm)",
             "⚖️ John Richards (GT Law) 'Need for call re: Meredith/Justworks' — 8-msg thread, IMPORTANT",
             "📧 Katelyn Stokes (Maruchan) replied 4:34pm on KO thread — tomorrow 2pm ET locked",
@@ -260,8 +263,8 @@
             "GoDaddy: sharmabrands.com renewal placed 4/14 ($49.17)",
             "TEXTNIK.CO auto-renews 5/10 ($51.99/yr)"
           ],
-          "needsAttention": "StreetTalk 4:30pm in progress. Next: Mold Test 9pm → AO release lock-in 10:30pm. INV-5 still overdue (Day 2). Air Oasis 13 days late. Respond queue: Jack Bandera (StackAdapt Q2), Brigitta Ruha, UpPromote, Arjun Padmakumar, Justin Mares, David Rosenberg, Dylan Nevescox (GT), John Richards (GT — Meredith/Justworks call), Woody Sears (Autio Q1 update), Geoffrey Huntting (3PL check-in), Noah Friedman (outersignal — Nik Affiliate).",
-          "alert": "🟡 StreetTalk in progress • INV-5 Day 2 • Air Oasis 13 days late"
+          "needsAttention": "StreetTalk ✅ wrapped — recap owed. Next: Mold Test 9pm → AO release lock-in 10:30pm. INV-5 still overdue (Day 2). Air Oasis 13 days late. Respond queue: Ben Walter (Postpilot — tag Drew Hart), Jack Bandera (StackAdapt Q2), Brigitta Ruha, UpPromote, Arjun Padmakumar, Justin Mares, David Rosenberg, Dylan Nevescox (GT), John Richards (GT — Meredith/Justworks call), Woody Sears (Autio Q1 update), Geoffrey Huntting (3PL check-in), Noah Friedman (outersignal — Nik Affiliate).",
+          "alert": "✅ StreetTalk wrapped • INV-5 Day 2 • Air Oasis 13 days late"
         },
         {
           "id": "ecom-founders",
@@ -272,13 +275,14 @@
           "bullets": [
             "🏛️ NYT Times Center venue walkthrough done 4/22 (Morgan Keating + Julian Santiago)",
             "📅 DECISION NEEDED: Sept 10 preferred vs backup Oct 28 — Rameez driving. Competing hold at NYT. Budget ~$60K.",
+            "📧 Ben Walter (Postpilot) 'At Stord Summit: Please Tag Drew Hart Re: 2026 Ecom Founders Events' 5:51pm 4/23 — IMPORTANT",
             "📧 Rameez to Triple Whale (Daniela): AI Summit going live with full announcements next week",
             "ecomfounders.com/pages/ai-summit live with updated info, partner logos coming soon",
             "📧 Redo AI Summit 2026: $25K silver sponsorship + speaking slot (Brandon Thurgood)",
             "Insense sponsorship: Jade sent billing info + logo — Rameez sending contract + invoice",
             "Website being built by Riaz"
           ],
-          "needsAttention": "Sept 10 vs Oct 28 venue decision — Rameez driving. Hold at NYT competing, urgent."
+          "needsAttention": "Sept 10 vs Oct 28 venue decision — Rameez driving. Hold at NYT competing, urgent. Ben Walter (Postpilot) flagged Drew Hart tag @ Stord Summit."
         }
       ]
     },
@@ -340,8 +344,10 @@
           "status": "attention",
           "lastUpdated": "2026-04-23",
           "bullets": [
-            "🔥 TODAY Thu 4/23: Wake 9am ✅ • Check-In 11am ✅ • Flexpower Chat 12pm ✅ • Geoffrey/Nik In-Person 12:30pm ✅ • YoSharma Check-In 1:30pm ✅ • MentorPass Sterling 2pm ✅ • Macra TB 3pm ✅ • Lunar Leadership TB 3:30pm ✅ • 🟡 StreetTalk 4:30pm (in progress) • 🧪 Mold Test 9pm • 🎵 AO release lock-in 10:30pm",
+            "🔥 TODAY Thu 4/23: Wake 9am ✅ • Check-In 11am ✅ • Flexpower Chat 12pm ✅ • Geoffrey/Nik In-Person 12:30pm ✅ • YoSharma Check-In 1:30pm ✅ • MentorPass Sterling 2pm ✅ • Macra TB 3pm ✅ • Lunar Leadership TB 3:30pm ✅ • StreetTalk 4:30pm ✅ WRAPPED • 🧪 Mold Test 9pm • 🎵 AO release lock-in 10:30pm",
             "📅 TOMORROW Fri 4/24: Wake 9am • Fort 10am (Strength Training) • Check-In 1pm • Rolling Ventures TB 1:30pm • Maruchan x Nik Sharma KO 2pm • Pharmacy TB 4:30pm • Cordell<>Troy<>Nik 5pm",
+            "📧 NEW 5:51pm: Ben Walter (Postpilot) — tag Drew Hart re 2026 Ecom Founders Events (at Stord Summit)",
+            "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — Zurp signature pending",
             "💰 INV-5 YoSharma OVERDUE (Day 2) — review + collect today",
             "🚨 Air Oasis homepage — 13 days overdue",
             "⚠️ unspun Inc Pay-to-Play Series B-3 signature still required ASAP",
@@ -362,7 +368,7 @@
             "🚨 Anthropic API (jet@nik.co) OFF — $272.19 payment failed 4/20. Update billing.",
             "📅 Apr 29 PEF QSBS Roundtable Lunch • Apr 28 Instant follow-up • May 6 Ben Zises • May 29-31 PEF Clarity Retreat"
           ],
-          "needsAttention": "StreetTalk 4:30pm in progress. Next: Mold Test 9pm → AO release lock-in 10:30pm. Katelyn Stokes (Maruchan) confirmed KO 2pm tomorrow. John Richards (GT Law) Meredith/Justworks call IMPORTANT. Woody Sears (Autio) Q1 investor update inbound. Stack-ranked owed replies: Brigitta Ruha, UpPromote, Arjun Padmakumar, Justin Mares, Dylan Nevescox, Andrew Ferenci, David Rosenberg, Noah Friedman. INV-5 overdue Day 2. Air Oasis 13 days late. unspun B-3 signature ASAP. TOMORROW: RV TB 1:30pm + Maruchan KO 2pm."
+          "needsAttention": "✅ StreetTalk wrapped. Next: Mold Test 9pm → AO release lock-in 10:30pm. Katelyn Stokes (Maruchan) confirmed KO 2pm tomorrow. John Richards (GT Law) Meredith/Justworks call IMPORTANT. Woody Sears (Autio) Q1 investor update inbound. Ben Walter (Postpilot) tag Drew Hart re Ecom Founders. Docusign: Alec viewed ZURP.pdf. Stack-ranked owed replies: Ben Walter, Brigitta Ruha, UpPromote, Arjun Padmakumar, Justin Mares, Dylan Nevescox, Andrew Ferenci, David Rosenberg, Noah Friedman. INV-5 overdue Day 2. Air Oasis 13 days late. unspun B-3 signature ASAP. TOMORROW: RV TB 1:30pm + Maruchan KO 2pm."
         }
       ]
     },
