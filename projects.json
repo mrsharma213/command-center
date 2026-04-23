@@ -3,40 +3,45 @@
     "name": "Macra",
     "emoji": "💊",
     "status": "attention",
-    "currentStatus": "Day 7 post-launch — monitoring sales + ad performance. 🔴 Macra TB in 3h (3:00pm ET) + Lunar Leadership TB 3:30pm ET. Rameez Figma PDP Carousels access + 'Nik Content' folder review still owed.",
-    "alert": "🔴 Macra TB 3pm (in 3h) ET (in 3h)",
+    "currentStatus": "Day 7 post-launch — monitoring sales + ad performance. 🔴 Macra TB in 1h (3:00pm ET) + Lunar Leadership TB 3:30pm ET. Rameez Figma PDP Carousels access + 'Nik Content' folder review still owed.",
+    "needsAttention": "🔴 Macra TB in 1h (3pm) + Lunar Leadership TB 3:30pm. Day 7 post-launch — monitor sales/ads. Grant Rameez Figma access + review 'Nik Content' folder (both still outstanding).",
+    "alert": "🔴 Macra TB 3pm ET (in 1h)",
     "lastUpdated": "2026-04-23"
   },
   {
     "name": "STOCKED x Sharma Brands",
     "emoji": "🆕",
     "status": "attention",
-    "currentStatus": "",
-    "alert": "",
+    "currentStatus": "New client engagement — confirm scope with Minul",
+    "needsAttention": "New client engagement — confirm scope with Minul",
+    "alert": null,
     "lastUpdated": "2026-04-23"
   },
   {
     "name": "Maruchan x Nik Sharma",
     "emoji": "🍜",
     "status": "on-track",
-    "currentStatus": "",
-    "alert": "",
+    "currentStatus": "KO call TOMORROW 2pm ET — prep today.",
+    "needsAttention": "KO call TOMORROW 2pm ET — prep today.",
+    "alert": null,
     "lastUpdated": "2026-04-23"
   },
   {
     "name": "Zurp",
     "emoji": "📱",
     "status": "attention",
-    "currentStatus": "",
-    "alert": "",
+    "currentStatus": "Still owed: Jack<>Troy<>Nik recap + next steps. Monitor UnKommon Miami signature. Common Country Bar pitch (Noah) status.",
+    "needsAttention": "Still owed: Jack<>Troy<>Nik recap + next steps. Monitor UnKommon Miami signature. Common Country Bar pitch (Noah) status.",
+    "alert": null,
     "lastUpdated": "2026-04-23"
   },
   {
     "name": "Authentiq",
     "emoji": "🔐",
     "status": "attention",
-    "currentStatus": "",
-    "alert": "",
+    "currentStatus": "Dil P NFC business card quote still owed. Troy review of features doc 8 days overdue.",
+    "needsAttention": "Dil P NFC business card quote still owed. Troy review of features doc 8 days overdue.",
+    "alert": null,
     "lastUpdated": "2026-04-23"
   },
   {
@@ -44,7 +49,8 @@
     "emoji": "🐦",
     "status": "on-track",
     "currentStatus": "",
-    "alert": "",
+    "needsAttention": null,
+    "alert": null,
     "lastUpdated": "2026-04-17"
   },
   {
@@ -52,15 +58,17 @@
     "emoji": "🎧",
     "status": "attention",
     "currentStatus": "Studio sessions 4/22 wrapped. Post-show Day 5. Still awaiting videographer/pro media pull-through. Brand voice brief owed to Brandon.",
-    "alert": "",
+    "needsAttention": "Post-show Day 5 — pull videographer assets. Brand voice brief still owed to Brandon.",
+    "alert": null,
     "lastUpdated": "2026-04-23"
   },
   {
     "name": "Limited Supply Podcast",
     "emoji": "🎙️",
     "status": "on-track",
-    "currentStatus": "",
-    "alert": "",
+    "currentStatus": "🔴 StreetTalk Interview TODAY 4:30pm ET (in 2.5h) — Flickman Media.",
+    "needsAttention": "🔴 StreetTalk Interview TODAY 4:30pm ET (in 2.5h) — Flickman Media.",
+    "alert": null,
     "lastUpdated": "2026-04-23"
   },
   {
@@ -68,14 +76,16 @@
     "emoji": "📰",
     "status": "on-track",
     "currentStatus": "",
-    "alert": "",
+    "needsAttention": null,
+    "alert": null,
     "lastUpdated": "2026-04-23"
   },
   {
     "name": "Brand Consulting",
     "emoji": "💼",
     "status": "attention",
-    "currentStatus": "",
+    "currentStatus": "🟡 Sterling IN PROGRESS. Next: Macra TB 3pm (in 1h) → Lunar TB 3:30pm → StreetTalk 4:30pm. INV-5 still overdue (Day 2). Air Oasis 13 days late. Respond queue: Jack Bandera (StackAdapt Q2 partner eval), Brigitta Ruha, UpPromote, Arjun Padmakumar, Justin Mares, David Rosenberg, Dylan Nevescox (GT), John Richards (GT), Nikita Frantz (Goldman Sachs — client call TOMORROW re: ME war/Naval blockade), Geoffrey Huntting (3PL check-in).",
+    "needsAttention": "🟡 Sterling IN PROGRESS. Next: Macra TB 3pm (in 1h) → Lunar TB 3:30pm → StreetTalk 4:30pm. INV-5 still overdue (Day 2). Air Oasis 13 days late. Respond queue: Jack Bandera (StackAdapt Q2 partner eval), Brigitta Ruha, UpPromote, Arjun Padmakumar, Justin Mares, David Rosenberg, Dylan Nevescox (GT), John Richards (GT), Nikita Frantz (Goldman Sachs — client call TOMORROW re: ME war/Naval blockade), Geoffrey Huntting (3PL check-in).",
     "alert": "🔴 7 meetings left today • INV-5 overdue Day 2 • Air Oasis 13 days late",
     "lastUpdated": "2026-04-23"
   },
@@ -83,8 +93,9 @@
     "name": "Ecom Founders",
     "emoji": "🏗️",
     "status": "attention",
-    "currentStatus": "",
-    "alert": "",
+    "currentStatus": "Sept 10 vs Oct 28 venue decision — Rameez driving. Hold at NYT competing, urgent.",
+    "needsAttention": "Sept 10 vs Oct 28 venue decision — Rameez driving. Hold at NYT competing, urgent.",
+    "alert": null,
     "lastUpdated": "2026-04-23"
   },
   {
@@ -92,6 +103,7 @@
     "emoji": "🎯",
     "status": "attention",
     "currentStatus": "RV TB TOMORROW 4/24 1:30pm ET. Instant recap pending. unspun B-3 signature still open. Ben Zises 5/6 confirmed. Instant follow-up 4/28 4pm ET.",
+    "needsAttention": "⚠️ unspun B-3 signature ASAP. Instant recap + next steps owed. RV TB TOMORROW 1:30pm ET. Respond: Andrew Ferenci (Comrad), Jake Valentine (Claymore).",
     "alert": "⚠️ unspun B-3 signature ASAP + RV TB tomorrow 1:30pm",
     "lastUpdated": "2026-04-23"
   },
@@ -100,15 +112,17 @@
     "emoji": "💰",
     "status": "on-track",
     "currentStatus": "",
-    "alert": "",
+    "needsAttention": null,
+    "alert": null,
     "lastUpdated": "2026-04-20"
   },
   {
     "name": "Today & This Week",
     "emoji": "✈️",
     "status": "attention",
-    "currentStatus": "",
-    "alert": "",
+    "currentStatus": "🟡 Sterling IN PROGRESS. 3 commitments left: Macra TB 3pm (in 1h) → Lunar TB 3:30pm → StreetTalk 4:30pm. New inbound: Nikita Frantz (Goldman Sachs — client call TOMORROW re: ME war/Naval blockade), Jack Bandera (StackAdapt Q2). Stack-ranked owed replies: Brigitta Ruha, UpPromote, Arjun Padmakumar, Justin Mares, Dylan Nevescox, John Richards, Andrew Ferenci, David Rosenberg. INV-5 overdue Day 2. Air Oasis 13 days late. unspun B-3 signature ASAP. TOMORROW: RV TB 1:30pm + Maruchan KO 2pm.",
+    "needsAttention": "🟡 Sterling IN PROGRESS. 3 commitments left: Macra TB 3pm (in 1h) → Lunar TB 3:30pm → StreetTalk 4:30pm. New inbound: Nikita Frantz (Goldman Sachs — client call TOMORROW re: ME war/Naval blockade), Jack Bandera (StackAdapt Q2). Stack-ranked owed replies: Brigitta Ruha, UpPromote, Arjun Padmakumar, Justin Mares, Dylan Nevescox, John Richards, Andrew Ferenci, David Rosenberg. INV-5 overdue Day 2. Air Oasis 13 days late. unspun B-3 signature ASAP. TOMORROW: RV TB 1:30pm + Maruchan KO 2pm.",
+    "alert": null,
     "lastUpdated": "2026-04-23"
   },
   {
@@ -116,7 +130,8 @@
     "emoji": "🤖",
     "status": "on-track",
     "currentStatus": "",
-    "alert": "",
+    "needsAttention": null,
+    "alert": null,
     "lastUpdated": "2026-04-14"
   }
 ]
