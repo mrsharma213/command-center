@@ -1,9 +1,9 @@
 {
-  "open": 2,
+  "open": 4,
   "resolved": 0,
   "overdue": 0,
   "aging": 0,
-  "last_updated": "2026-04-24T20:10:10.311Z",
+  "last_updated": "2026-04-24T20:10:28.865Z",
   "commitments": [
     {
       "id": "01KQ0AFRZVF2KFFA20HW93Q3WN-0",
@@ -33,6 +33,38 @@
       "start_time": 1610.92,
       "owed_to": [],
       "created_at": "2026-04-24T20:10:10.000Z",
+      "status": "open",
+      "checks": [],
+      "resolved": false
+    },
+    {
+      "id": "01KQ0AFRZVF2KFFA20HW93Q3WN-0",
+      "transcript_id": "01KQ0AFRZVF2KFFA20HW93Q3WN",
+      "meeting_title": "Maruchan Kick Off",
+      "meeting_date": 1777053600000,
+      "transcript_url": "https://app.fireflies.ai/view/01KQ0AFRZVF2KFFA20HW93Q3WN",
+      "sentence": "I'll send you my recommendations for all this stuff.",
+      "context": "Katelyn: But I, if they can't turn it around, I also want to be talking to like other partners. | Nik Sharma: I'll. | Nik Sharma: I'll send you my recommendations for all this stuff. | Katelyn: Okay.",
+      "speaker": "Nik Sharma",
+      "start_time": 1524.23,
+      "owed_to": [],
+      "created_at": "2026-04-24T20:10:28.691Z",
+      "status": "open",
+      "checks": [],
+      "resolved": false
+    },
+    {
+      "id": "01KQ0AFRZVF2KFFA20HW93Q3WN-1",
+      "transcript_id": "01KQ0AFRZVF2KFFA20HW93Q3WN",
+      "meeting_title": "Maruchan Kick Off",
+      "meeting_date": 1777053600000,
+      "transcript_url": "https://app.fireflies.ai/view/01KQ0AFRZVF2KFFA20HW93Q3WN",
+      "sentence": "We usually send the invoice first day of the next month, so Invoice will be 1st of May and I will prorate for April in that invoice.",
+      "context": "Katelyn: Yeah, just send me the invoice. | Nik Sharma: Amazing. | Nik Sharma: We usually send the invoice first day of the next month, so Invoice will be 1st of May and I will prorate for April in that invoice. | Katelyn: Oh, okay.",
+      "speaker": "Nik Sharma",
+      "start_time": 1610.92,
+      "owed_to": [],
+      "created_at": "2026-04-24T20:10:28.691Z",
       "status": "open",
       "checks": [],
       "resolved": false
