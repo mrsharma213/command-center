@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-24T18:00:00Z",
+  "lastRefreshed": "2026-04-24T19:00:00Z",
   "flagged": [
     {
       "id": "yosharma-inv5",
@@ -73,10 +73,10 @@
           "lastUpdated": "2026-04-24",
           "bullets": [
             "💊 Day 9 post-launch (Apr 16 → today) — monitoring sales + ad performance",
-            "💰 NEW 4/24 3:15am: Dillon Plageman invoice $3,480 (49h × $120/hr − $2,400 prepaid) for site build (Homepage 14h, PDP 12h, Revisions 5h, Upsells/Cart 2h, Science 6h, Labs/Returns/Recipes 6h, Imagery+Blog 4h)",
+            "💰 Dillon Plageman invoice $3,480 (49h × $120/hr − $2,400 prepaid) — site build, review/pay",
             "✅ Macra TB 3:00pm WRAPPED 4/23",
             "✅ Lunar: Ideal Living Weekly Leadership TB 3:30pm WRAPPED 4/23",
-            "📧 Rameez 'New Macra Stuff' thread (70 msgs) — vendor finalization pending",
+            "📧 Rameez 'New Macra Stuff' thread (74 msgs) — vendor finalization pending",
             "📧 Rameez 'Macra testing' thread active — COAs + Light Labs coordination",
             "📐 Still owed: grant Rameez Figma access on 'Macra PDP Carousels (Figma Spec + Slot Plan)'",
             "📁 Still owed: review 'Nik Content' Drive folder (Rameez shared 4/21)",
@@ -85,8 +85,8 @@
             "Initial ad spend $30K deploying • Monitor early performance data",
             "✅ verified.macra.com CNAME added via Namecheap API"
           ],
-          "needsAttention": "Day 9 post-launch — monitor sales/ads. Dillon invoice $3,480 needs review/approval. Grant Rameez Figma access + review 'Nik Content' folder (both still outstanding). Rameez 'New Macra Stuff' thread re-surfaced 11:53am (74 msgs) — active.",
-          "currentStatus": "Day 9 post-launch — monitoring sales + ad performance. Dillon invoice $3,480 in for review. Rameez 'New Macra Stuff' thread re-surfaced 11:53am (now 74 msgs). Rameez Figma PDP Carousels access still owed.",
+          "needsAttention": "Day 9 post-launch — monitor sales/ads. Dillon invoice $3,480 still needs review/approval. Grant Rameez Figma access + review 'Nik Content' folder both still outstanding.",
+          "currentStatus": "Day 9 post-launch — monitoring sales + ad performance. Dillon invoice $3,480 awaiting review. Rameez Figma PDP Carousels access still owed.",
           "alert": null
         },
         {
@@ -109,16 +109,18 @@
           "status": "on-track",
           "lastUpdated": "2026-04-24",
           "bullets": [
-            "🔥 IN PROGRESS 2:00-2:30pm ET: Maruchan x Nik Sharma KO — Katelyn Stokes (LIVE NOW)",
-            "📧 Minul 'Sharma Select Onboarding' → Katelyn 12:28pm ET 4/24 — requesting platform access (site/email/SMS/analytics/paid/subs)",
-            "📧 Katelyn Stokes shared Maruchan owned-media ecosystem 4/23 8:20pm — paid media framing up for discussion",
-            "📧 Minul replied confirming Slack invite sent to Katelyn (4/24 2:04am local)",
-            "📧 Minul 'Maruchan x Nik Sharma' thread active — onboarding prep",
-            "Iconic ramen brand engagement — KO today",
+            "✅ Maruchan x Nik Sharma KO WRAPPED 2:02pm ET 4/24 (Katelyn Stokes) — Fireflies recap delivered 2:34pm",
+            "📋 Fireflies flagged: 32+ questions, 11+ action items, 26+ dates discussed — review recap",
+            "📊 Discussed: Sales Down YoY (competitive pressure → refresh strategies), Paid Social, Influencer Marketing, Target audiences",
+            "📧 Minul 'Sharma Select Onboarding' → Katelyn 12:28pm ET — requesting platform access (site/email/SMS/analytics/paid/subs)",
+            "📧 Katelyn Stokes shared Maruchan owned-media ecosystem 4/23 8:20pm — paid media framing discussed in KO",
+            "📧 Zoom meeting assets for Maruchan KO delivered 2:37pm (recording ready)",
+            "Iconic ramen brand engagement — KO complete, onboarding begins",
             "Coordinated via Minul @ nik.co"
           ],
-          "needsAttention": "🔥 KO IN SESSION NOW 2-2:30pm ET. Katelyn Stokes ecosystem map + paid media framing on the table. Minul 'Sharma Select Onboarding' email to Katelyn 12:28pm queued platform access. Maruchan onboarding prep doc shared by Minul 1:04pm via Drive.",
-          "alert": "🔥 Maruchan KO IN SESSION NOW — 2pm ET"
+          "needsAttention": "✅ KO WRAPPED 2:02pm. Review Fireflies recap — 11 action items captured. Sales Down YoY flagged as primary issue. Katelyn onboarding queued. Next: Fireflies action item extraction + follow-up email.",
+          "currentStatus": "Maruchan KO wrapped 2:02pm. Fireflies recap + Zoom assets delivered. 11 action items from KO need extraction. Key finding: Sales Down YoY due to increased competition — refresh strategies needed.",
+          "alert": null
         },
         {
           "id": "zurp",
@@ -127,8 +129,9 @@
           "status": "attention",
           "lastUpdated": "2026-04-24",
           "bullets": [
-            "🔥 TODAY Fri 4/24 5:00pm ET: Cordell <> Troy <> Nik (3h out)",
-            "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — signature still pending (20h+ elapsed)",
+            "🔥 TODAY Fri 4/24 5:00pm ET: Cordell <> Troy <> Nik (2h out)",
+            "💸 Mercury 2:27pm: Minul sent $240 wire to Zhangjiagang Melcorp Traveling Products (hardware supplier)",
+            "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — signature still pending (21h+ elapsed)",
             "⏳ Jack <> Troy <> Nik call WRAPPED 4/22 — recap/next steps still pending (Day 2)",
             "🆕 UnKommon x Zurp agreement (Miami expansion) — signature status monitor (sent 4/21)",
             "🏙️ Rameez pitch to Noah @ Common Country Bar still outstanding",
@@ -150,7 +153,7 @@
           "bullets": [
             "🆕 NFC authentication for high-value consumer goods — V1 roadmap",
             "📄 Features doc sent to Troy for review — 8 days, still owed",
-            "📇 Dil P (yo.vc) print request — 500 Mirrored Metal NFC Business Cards (thread NOW 58 msgs, latest 4/24 1:31pm — Dil replied)",
+            "📇 Dil P (yo.vc) print request — 500 Mirrored Metal NFC Business Cards (thread NOW 59 msgs, latest 4/24 2:29pm — Dil replied)",
             "💾 Troy ‘custom USBs’ — thread 46 msgs, active workstream",
             "Partners: Nik, Troy, Cameron, David",
             "V1: NFC chips, App Clip auth, SKU-level tracking, brand dashboard",
@@ -363,7 +366,7 @@
           "status": "attention",
           "lastUpdated": "2026-04-24",
           "bullets": [
-            "🔥 TODAY Fri 4/24: Wake 9am ✅ • Fort 10am ✅ • Prep for Maruchan 1pm ✅ • Rolling Ventures TB 1:30-2pm ✅ • Maruchan KO 2pm 🟢 LIVE NOW (Katelyn Stokes) • Pharmacy TB 4:30pm • Cordell<>Troy<>Nik 5pm • Beard Trim 6:40pm",
+            "🔥 TODAY Fri 4/24: Wake 9am ✅ • Fort 10am ✅ • Prep for Maruchan 1pm ✅ • RV TB 1:30-2pm ✅ • Maruchan KO 2-2:30pm ✅ • 🔥 Pharmacy TB 4:30pm (1.5h) • Cordell<>Troy<>Nik 5pm (2h) • Beard Trim 6:40pm • In:Person 8pm • Charge Shades 10pm",
             "📅 WEEKEND: Newsletter first draft target TODAY • Ships Sun 4/26 (2 days)",
             "💰 NEW 4/24 3:15am: Dillon Plageman invoice $3,480 (49h × $120/hr − $2,400 prepaid) for Macra site build",
             "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — Zurp signature still pending",
@@ -375,14 +378,14 @@
             "📧 Mercury: YoSharma INV-5 OVERDUE Day 3 + Mercury IO credit limit increased (4/21)",
             "📝 Jet sent 'Website Refresh Project' master brief 4/23 8:40am (7-msg thread)",
             "🎙️ Asher Brooks (Theorist Studios) — podcast pitch pending",
-            "📇 Dil P NFC business cards — quote still owed (thread now 57 msgs)",
+            "📇 Dil P NFC business cards — quote still owed (thread now 59 msgs)",
             "📁 Rameez 'Nik Content' Drive folder — review still owed",
             "📐 Rameez Figma PDP Carousels access — grant still owed",
             "🚨 Anthropic API (jet@nik.co) OFF — $272.19 payment failed 4/20. Update billing.",
             "📅 Apr 28 Instant follow-up • Apr 29 PEF QSBS Roundtable Lunch • May 6 Ben Zises • May 29-31 PEF Clarity Retreat"
           ],
-          "needsAttention": "TODAY 2pm: Maruchan KO IN SESSION NOW (Katelyn). Next: Pharmacy TB 4:30pm → Cordell<>Troy<>Nik 5pm → Beard Trim 6:40pm. Dillon invoice $3,480 (Macra site) review. Lindsay Gatto (Harper Wilde 'Update') just landed 1:25pm — IMPORTANT. Zurp Docusign signature pending 20h+. INV-5 overdue Day 3. Air Oasis 14 days late. unspun B-3 ASAP. Newsletter first draft target today — ships Sun 4/26.",
-          "currentStatus": "Friday 4/24 2pm. Fort done. RV TB wrapped. Maruchan KO LIVE NOW 2-2:30pm with Katelyn Stokes. Next: Pharmacy TB 4:30pm → Cordell<>Troy<>Nik 5pm → Beard Trim 6:40pm. Newsletter first draft target today. Dillon invoice $3,480 landed overnight. Lindsay Gatto (Harper Wilde) 'Update' unread since 1:25pm."
+          "needsAttention": "✅ Maruchan KO wrapped 2:02pm — Fireflies recap in inbox, 11 action items to extract. Next: Pharmacy TB 4:30pm (1.5h) → Cordell<>Troy<>Nik 5pm → Beard Trim 6:40pm → In:Person 8pm. Dillon invoice $3,480 (Macra site) review. Lindsay Gatto (Harper Wilde 'Update') IMPORTANT still unread since 1:25pm. Zurp Docusign signature pending 21h+. INV-5 overdue Day 3. Air Oasis 14 days late. unspun B-3 ASAP. Newsletter first draft target today — ships Sun 4/26.",
+          "currentStatus": "Friday 4/24 3pm. Maruchan KO wrapped clean — Fireflies recap delivered 2:34pm, Zoom assets ready. Next up: Pharmacy TB 4:30pm (1.5h out) → Cordell<>Troy<>Nik 5pm → Beard Trim 6:40pm → In:Person 8pm. Newsletter draft target today. Dillon $3,480 invoice awaiting review. Lindsay Gatto (Harper Wilde) 'Update' still unread since 1:25pm."
         }
       ]
     },
