@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-24T21:00:00Z",
+  "lastRefreshed": "2026-04-24T22:06:00Z",
   "flagged": [
     {
       "id": "yosharma-inv5",
@@ -106,9 +106,14 @@
           "id": "maruchan",
           "emoji": "🍜",
           "title": "Maruchan x Nik Sharma",
-          "status": "on-track",
+          "status": "attention",
           "lastUpdated": "2026-04-24",
           "bullets": [
+            "🎙️ Fireflies KO recap parsed 4/24: strategy around boomers/core buyers, Gen Z foodies, and value-focused “saving slurpers”",
+            "📝 Nik commitment: review all materials over weekend and compile comprehensive strategy doc by Monday/Tuesday",
+            "📤 Nik commitment: send recommendations across influencer program, TikTok Shop, retail media, social/content, and alternate vendor partners",
+            "💰 Nik commitment: send May 1 invoice with April prorated services included",
+            "📥 Katelyn owes: segmentation, marketing materials, vendor/agency decks, influencer/TikTok Shop proposals, PR/LLM audits, Pacvue/Kale + raw media data",
             "✅ Maruchan x Nik Sharma KO WRAPPED 2:02pm ET 4/24 (Katelyn Stokes) — Fireflies recap delivered 2:34pm",
             "📋 Fireflies flagged: 32+ questions, 11+ action items, 26+ dates discussed — review recap",
             "📊 Discussed: Sales Down YoY (competitive pressure → refresh strategies), Paid Social, Influencer Marketing, Target audiences",
@@ -120,8 +125,8 @@
             "Iconic ramen brand engagement — KO complete, onboarding begins",
             "Coordinated via Minul @ nik.co"
           ],
-          "needsAttention": "✅ KO WRAPPED 2:02pm. Review Fireflies recap — 11 action items captured. Sales Down YoY flagged as primary issue. Katelyn onboarding queued. Next: Fireflies action item extraction + follow-up email.",
-          "currentStatus": "Maruchan KO wrapped 2:02pm. Fireflies recap + Zoom assets delivered. 11 action items from KO need extraction. Key finding: Sales Down YoY due to increased competition — refresh strategies needed.",
+          "needsAttention": "Nik owes Maruchan strategy/recommendation doc by Mon/Tues after reviewing weekend materials. Watch for Katelyn’s Slack/data package and access grants.",
+          "currentStatus": "KO complete. Katelyn to send segmentation, vendor decks, TikTok Shop/influencer proposals, LLM/PR audits, Pacvue/Kale access, and raw media data. Nik owes comprehensive strategy doc + vendor recommendations by Mon/Tues and May 1 prorated invoice.",
           "alert": null
         },
         {
@@ -131,7 +136,8 @@
           "status": "attention",
           "lastUpdated": "2026-04-24",
           "bullets": [
-            "🔥 NOW 5:00pm ET: Cordell <> Troy <> Nik — LIVE",
+            "🔥 5:30-6:30pm ET: Amoria meet live — Cordell/Troy/D/Rameez/Jim/Gisela/Frank/Nik",
+            "📅 Calendar changed from Cordell<>Troy<>Nik to Amoria meet; capture post-call next steps",
             "💸 Mercury 2:27pm: Minul sent $240 wire to Zhangjiagang Melcorp Traveling Products (hardware supplier)",
             "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — signature still pending (22h+ elapsed, Day 2)",
             "⏳ Jack <> Troy <> Nik call WRAPPED 4/22 — recap/next steps still pending (Day 2)",
@@ -144,7 +150,9 @@
             "💰 Revenue split: 50/50 with venues",
             "✅ Brand book DONE — brand.zurp.com (password: zurp2026)"
           ],
-          "needsAttention": "🔥 Cordell<>Troy<>Nik LIVE NOW 5pm ET. Alec Docusign signature still pending 25h+ (Day 2). Jack recap Day 2 overdue. Monitor UnKommon Miami signature."
+          "needsAttention": "Amoria/Cordell meet live until 6:30pm. After it wraps, capture next steps. Alec signature + Jack recap remain open.",
+          "currentStatus": "5:30-6:30pm Amoria/Cordell meet live with Troy/D/Rameez/Jim/Gisela/Frank. Alec Docusign still pending after 4/23 view. Jack recap/next steps still overdue. UnKommon Miami signature monitor.",
+          "alert": "🔥 Amoria/Cordell meet live until 6:30pm • Alec signature pending • Jack recap overdue"
         },
         {
           "id": "authentiq",
@@ -250,8 +258,12 @@
           "emoji": "💼",
           "title": "Brand Consulting",
           "status": "attention",
-          "lastUpdated": "2026-04-23",
+          "lastUpdated": "2026-04-24",
           "bullets": [
+            "🎙️ Pharmacy TB Fireflies parsed 4/24: pharmacy can source, branded-repackage, and ship peptides direct, including cold-chain",
+            "⏱️ Pharmacy expects ~30 days to operationalize after manufacturer authorization starts",
+            "✅ Nik commitment: provide peptide offerings list to Myles; join group thread with Myles/Jimmy/Troy/John/pharmacy/legal",
+            "📭 Slack scan 6:06pm: key nikco channels quiet since 4pm",
             "🔴 TODAY Thu 4/23: ✅ Check-In 11am • ✅ Flexpower 12pm • ✅ Geoffrey 12:30pm • ✅ YoSharma 1:30pm • ✅ MentorPass Sterling 2pm • ✅ Macra TB 3pm • ✅ Lunar Leadership TB 3:30pm • ✅ StreetTalk 4:30pm WRAPPED • 🧪 Mold Test 9pm • 🎵 AO release lock-in 10:30pm",
             "🆕 NEW 4/24 3:19pm: Harper Wilde Slack — 5 unread msgs (in addition to Lindsay Gatto 'Update' 1:25pm IMPORTANT)",
             "🆕 NEW 4/24 1:25pm: Lindsay Gatto (Harper Wilde) 'Update' — IMPORTANT, unread",
@@ -289,8 +301,9 @@
             "GoDaddy: sharmabrands.com renewal placed 4/14 ($49.17)",
             "TEXTNIK.CO auto-renews 5/10 ($51.99/yr)"
           ],
-          "needsAttention": "INV-5 Day 3 overdue. Air Oasis 14 days late. Harper Wilde escalating: 5 unread Slack (3:19pm) + Lindsay Gatto 'Update' (1:25pm IMPORTANT). Afternoon adds: Myles Harris (AllTheThings — Pharmacy TB just wrapped, 11-msg thread), Jim Jannuzzio (Flexpower doc comment 4:15pm), David Larkin (Payfiniti 'approval rates' 4:52pm, 3-msg thread), David Rosenberg (MediaThrottle), Krishna Dev (Valore GACAD), Konrad Lercher (Blueincloop Q2 casestudy), Sarah Hunt (Adidas), Dan Pantelo (Marpipe 3-msg). Existing respond queue: Bryce Lindberg, Ben Walter (Postpilot — tag Drew Hart), Brigitta Ruha, UpPromote, Arjun Padmakumar, Justin Mares, Dylan Nevescox (GT), John Richards (GT — Meredith/Justworks call), Woody Sears (Autio Q1 update), Geoffrey Huntting (3PL check-in), Noah Friedman (outersignal — Nik Affiliate).",
-          "alert": "INV-5 Day 3 overdue • Air Oasis 14 days late"
+          "needsAttention": "Open items: INV-5 Day 3 overdue; Air Oasis 14 days late; Nik owes peptide list to Myles; Jim Jannuzzio Flexpower doc comment; David Larkin Payfiniti approval-rates thread; existing response queue still needs triage.",
+          "alert": "INV-5 Day 3 overdue • Air Oasis 14 days late • Peptide list owed to Myles",
+          "currentStatus": "Pharmacy/peptide TB wrapped: pharmacy can source, repackage/brand, and ship peptides directly with cold-chain support; ~30-day operational timeline after manufacturer authorization. Nik owes peptide offerings list to Myles and participation in stakeholder/legal group thread. Slack key channels quiet since 4pm. New unread email mostly noise; Jim “Introduction” thread remains in Action."
         },
         {
           "id": "ecom-founders",
@@ -370,7 +383,10 @@
           "status": "attention",
           "lastUpdated": "2026-04-24",
           "bullets": [
-            "🔥 TODAY Fri 4/24 (5:00pm ET): Wake 9am ✅ • Fort 10am ✅ • Prep for Maruchan 1pm ✅ • RV TB 1:30-2pm ✅ • Maruchan KO 2-2:30pm ✅ • Pharmacy TB 4:30pm ✅ • 🔥 Cordell<>Troy<>Nik 5pm LIVE NOW • Beard Trim 6:40pm (1h40m) • In:Person 8pm (3h) • Charge Shades 10pm (5h)",
+            "🔥 NOW 5:30-6:30pm: Amoria meet — Cordell/Troy/D/Rameez/Jim/Gisela/Frank/Nik",
+            "💈 UP NEXT 6:40-7:10pm: Beard Trim at Dardan’s (Melo)",
+            "📅 Tonight: In:Person 8-9pm → Charge Shades 10-10:30pm",
+            "📭 jet@ calendar: no events next 48h; nik@ weekend calendar light after tonight",
             "💸 NEW 4/24 4:52pm: David Larkin (Payfiniti) 'Dave x Nik - approval rates' 3-msg thread — Pitch queue",
             "📄 NEW 4/24 4:15pm: Jim Jannuzzio Google Doc comment on Flexpower — 'take this out'",
             "📅 WEEKEND: Newsletter first draft target TODAY • Ships Sun 4/26 (2 days)",
@@ -390,8 +406,8 @@
             "🚨 Anthropic API (jet@nik.co) OFF — $272.19 payment failed 4/20. Update billing.",
             "📅 Apr 28 Instant follow-up • Apr 29 PEF QSBS Roundtable Lunch • May 6 Ben Zises • May 29-31 PEF Clarity Retreat"
           ],
-          "needsAttention": "🔥 Cordell<>Troy<>Nik LIVE NOW 5pm. UP NEXT: Beard Trim 6:40pm → In:Person 8pm → Charge Shades 10pm. Pharmacy TB just wrapped (Myles Harris — 11-msg thread to action). Dillon invoice $3,480 (Macra site) review. Flexpower Google Doc comment from Jim Jannuzzio ('take this out'). Harper Wilde: Lindsay Gatto 'Update' + 5 unread Slack still open. Zurp Docusign 25h+ pending. INV-5 Day 3 overdue. Air Oasis 14 days late. unspun B-3 ASAP. Newsletter first draft target today — ships Sun 4/26.",
-          "currentStatus": "Friday 4/24 5:00pm ET. Cordell<>Troy<>Nik live now. Pharmacy TB WRAPPED 4:30pm (Myles Harris, AllTheThings — 11-msg thread). Maruchan KO recap delivered (11 action items to extract). UP NEXT: Beard Trim 6:40pm → In:Person 8pm → Charge Shades 10pm. Afternoon inbounds: David Larkin (Payfiniti approval rates), Jim Jannuzzio (Flexpower doc comment). Newsletter draft target today. Dillon $3,480 invoice awaiting review."
+          "needsAttention": "Leave buffer for Beard Trim 6:40pm immediately after Amoria meet. Later: In:Person 8pm and Charge Shades 10pm.",
+          "currentStatus": "Friday 4/24 6:06pm ET. Amoria/Cordell meet live 5:30-6:30. Up next: Beard Trim 6:40pm, In:Person 8pm, Charge Shades 10pm. Weekend calendar otherwise light through Sunday evening aside from birthdays."
         }
       ]
     },
@@ -403,7 +419,7 @@
           "emoji": "🤖",
           "title": "My Agents",
           "status": "on-track",
-          "lastUpdated": "2026-04-14",
+          "lastUpdated": "2026-04-24",
           "bullets": [
             "14 bots operational",
             "⚡ Jet (Opus) · 📇 CRM (Sonnet) · 💊 Macra (Opus) · 📱 Macra App (Sonnet)",
@@ -413,7 +429,8 @@
             "🆕 Jet Status Bot configured for monitoring output",
             "Namecheap API connected — macra.com + niksharma.io managed"
           ],
-          "needsAttention": null
+          "needsAttention": null,
+          "currentStatus": "Dashboard refresh 6:06pm pulled calendar, unread email, Slack key channels, and Fireflies. Fresh Fireflies items: Maruchan KO and Pharmacy TB. Slack key channels quiet. Widget JSON regenerated."
         }
       ]
     }
