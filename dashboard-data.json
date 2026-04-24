@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-24T13:03:00Z",
+  "lastRefreshed": "2026-04-24T15:00:00Z",
   "flagged": [
     {
       "id": "yosharma-inv5",
@@ -247,6 +247,7 @@
           "lastUpdated": "2026-04-23",
           "bullets": [
             "🔴 TODAY Thu 4/23: ✅ Check-In 11am • ✅ Flexpower 12pm • ✅ Geoffrey 12:30pm • ✅ YoSharma 1:30pm • ✅ MentorPass Sterling 2pm • ✅ Macra TB 3pm • ✅ Lunar Leadership TB 3:30pm • ✅ StreetTalk 4:30pm WRAPPED • 🧪 Mold Test 9pm • 🎵 AO release lock-in 10:30pm",
+            "🆕 Bryce Lindberg (Stellar Digital) 'Nik - growth idea' inbound 10:57am 4/24 — Pitch/Respond",
             "📧 Ben Walter (Postpilot) 'At Stord Summit: Please Tag Drew Hart Re: 2026 Ecom Founders Events' 5:51pm 4/23 — IMPORTANT",
             "📧 Noah Friedman (outersignal) 'Nik Affiliate' 4:01pm — 3-msg thread Action",
             "💼 Woody Sears (Autio) — Investor Update Q1 2026 (inbound 4:40pm)",
@@ -273,8 +274,8 @@
             "GoDaddy: sharmabrands.com renewal placed 4/14 ($49.17)",
             "TEXTNIK.CO auto-renews 5/10 ($51.99/yr)"
           ],
-          "needsAttention": "StreetTalk ✅ wrapped — recap owed. Next: Mold Test 9pm → AO release lock-in 10:30pm. INV-5 still overdue (Day 2). Air Oasis 13 days late. Respond queue: Ben Walter (Postpilot — tag Drew Hart), Jack Bandera (StackAdapt Q2), Brigitta Ruha, UpPromote, Arjun Padmakumar, Justin Mares, David Rosenberg, Dylan Nevescox (GT), John Richards (GT — Meredith/Justworks call), Woody Sears (Autio Q1 update), Geoffrey Huntting (3PL check-in), Noah Friedman (outersignal — Nik Affiliate).",
-          "alert": "✅ StreetTalk wrapped • INV-5 Day 2 • Air Oasis 13 days late"
+          "needsAttention": "INV-5 Day 3 overdue. Air Oasis 14 days late. NEW 4/24: Bryce Lindberg (Stellar Digital) inbound — growth idea pitch. Respond queue: Bryce Lindberg, Ben Walter (Postpilot — tag Drew Hart), Brigitta Ruha, UpPromote, Arjun Padmakumar, Justin Mares, David Rosenberg, Dylan Nevescox (GT), John Richards (GT — Meredith/Justworks call), Woody Sears (Autio Q1 update), Geoffrey Huntting (3PL check-in), Noah Friedman (outersignal — Nik Affiliate).",
+          "alert": "INV-5 Day 3 overdue • Air Oasis 14 days late"
         },
         {
           "id": "ecom-founders",
@@ -354,7 +355,7 @@
           "status": "attention",
           "lastUpdated": "2026-04-24",
           "bullets": [
-            "🔥 TODAY Fri 4/24: Wake 9am ✅ • Fort 10am (Strength Training) • Check-In 1pm • Rolling Ventures TB 1:30pm • Maruchan x Nik Sharma KO 2pm (Katelyn Stokes) • Pharmacy TB 4:30pm • Cordell<>Troy<>Nik 5pm",
+            "🔥 TODAY Fri 4/24: Wake 9am ✅ • Fort 10am ✅ • Check-In 1pm (2h) • Rolling Ventures TB 1:30pm (2.5h) • Maruchan x Nik Sharma KO 2pm (Katelyn Stokes, 3h) • Pharmacy TB 4:30pm • Cordell<>Troy<>Nik 5pm",
             "📅 WEEKEND: Newsletter first draft target TODAY • Ships Sun 4/26 (2 days)",
             "💰 NEW 4/24 3:15am: Dillon Plageman invoice $3,480 (49h × $120/hr − $2,400 prepaid) for Macra site build",
             "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — Zurp signature still pending",
@@ -373,7 +374,7 @@
             "📅 Apr 28 Instant follow-up • Apr 29 PEF QSBS Roundtable Lunch • May 6 Ben Zises • May 29-31 PEF Clarity Retreat"
           ],
           "needsAttention": "TODAY: Fort 10am → Check-In 1pm → RV TB 1:30pm → Maruchan KO 2pm → Pharmacy TB 4:30pm → Cordell<>Troy<>Nik 5pm. NEW: Dillon invoice $3,480 (Macra site). Katelyn Stokes shared Maruchan ecosystem 4/23 8:20pm — prep before KO. Zurp Docusign signature pending. INV-5 overdue Day 3. Air Oasis 14 days late. unspun B-3 ASAP. Newsletter first draft target today — ships Sun 4/26.",
-          "currentStatus": "Friday 4/24. Big KO day: Rolling Ventures TB 1:30pm + Maruchan KO 2pm back-to-back. Newsletter first draft target today. Dillon invoice $3,480 landed overnight."
+          "currentStatus": "Friday 4/24 11am. Fort done. Next up: Check-In 1pm → RV TB 1:30pm → Maruchan KO 2pm → Pharmacy TB 4:30pm → Cordell<>Troy<>Nik 5pm. Newsletter first draft target today. Dillon invoice $3,480 landed overnight. New inbound from Bryce Lindberg (Stellar Digital)."
         }
       ]
     },
