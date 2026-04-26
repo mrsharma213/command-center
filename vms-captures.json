@@ -1,6 +1,6 @@
 {
-  "total": 13,
-  "last_updated": "2026-04-26T19:40:47.224Z",
+  "total": 14,
+  "last_updated": "2026-04-26T21:34:19.468Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -105,6 +105,14 @@
       "referrer": "",
       "ip": "173.68.100.246",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "ben@laticoleathers.com",
+      "ts": "2026-04-26T21:34:19.130Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "108.29.189.74",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
     }
   ]
 }
