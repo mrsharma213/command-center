@@ -4,7 +4,7 @@
     "emoji": "💊",
     "title": "Macra",
     "status": "attention",
-    "lastUpdated": "2026-04-26T08:00",
+    "lastUpdated": "2026-04-26T14:00",
     "bullets": [
       "💊 Day 10 post-launch (Apr 16 → Sat 4/25) — monitoring sales + ad performance",
       "💰 Dillon Plageman invoice $3,480 (49h × $120/hr − $2,400 prepaid) — site build, review/pay",
@@ -20,7 +20,7 @@
       "✅ verified.macra.com CNAME added via Namecheap API"
     ],
     "needsAttention": "Day 10 post-launch — quiet Sat. Dillon invoice $3,480 still needs review/approval Mon. Grant Rameez Figma access + review 'Nik Content' folder both still outstanding.",
-    "currentStatus": "Day 10 post-launch (Sat 10pm) — quiet weekend, monitoring sales + ad performance. Dillon $3,480 invoice still pending review. Rameez Figma PDP Carousels access still owed.",
+    "currentStatus": "Day 10 post-launch (Sun 2pm) — quiet weekend, monitoring sales + ad performance. Dillon $3,480 invoice still pending review Mon AM. Rameez Figma PDP Carousels access + 'Nik Content' Drive review both still owed.",
     "alert": null
   },
   {
@@ -68,7 +68,7 @@
     "emoji": "📱",
     "title": "Zurp",
     "status": "attention",
-    "lastUpdated": "2026-04-26T08:00",
+    "lastUpdated": "2026-04-26T14:00",
     "bullets": [
       "✅ Amoria meet WRAPPED 4/24 5:30-6:30pm — Cordell/Troy/D/Rameez/Jim/Gisela/Frank/Nik. Recap/next steps owed Mon.",
       "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — signature still pending (Day 3, 70h+ elapsed)",
@@ -84,7 +84,7 @@
       "✅ Brand book DONE — brand.zurp.com (password: zurp2026)"
     ],
     "needsAttention": "Capture Amoria/Cordell next steps from 4/24 meet. Alec Docusign signature pending (Day 3). Jack recap still overdue.",
-    "currentStatus": "Sun 4/26 8am quiet weekend close. Amoria meet WRAPPED Fri 4/24 — recap owed Mon. Alec Docusign still pending after 4/23 view (Day 4, 90h+). Jack recap still overdue Day 4. UnKommon Miami signature monitor.",
+    "currentStatus": "Sun 4/26 2pm — quiet weekend close. Amoria meet WRAPPED Fri 4/24 (Cordell/Troy/D/Rameez/Jim/Gisela/Frank/Nik) — recap owed Mon AM. Alec Docusign signature pending Day 4 since 4/23 view. Jack <> Troy <> Nik recap overdue Day 4. UnKommon Miami signature monitor.",
     "alert": null
   },
   {
@@ -188,7 +188,7 @@
     "emoji": "📰",
     "title": "Newsletter / Workweek",
     "status": "attention",
-    "lastUpdated": "2026-04-26T08:00",
+    "lastUpdated": "2026-04-26T14:00",
     "bullets": [
       "🚨 SHIPS TOMORROW Sun 4/26 — 'The 2026 Vitamins & Supplements Playbook' • final pass today",
       "📝 Josiah first draft was due Fri 4/24 — confirm + Nik review",
@@ -200,15 +200,15 @@
       "CTA destination: vms.nik.co (30-min deep-dive field report, live)"
     ],
     "needsAttention": "Newsletter ships in <24h. Confirm Josiah draft + final pass tonight or AM.",
-    "currentStatus": "🚨 SHIPS TODAY — Sun 4/26. The 2026 Vitamins & Supplements Playbook. Final pass + send today. CTA to vms.nik.co field report.",
-    "alert": "🚨 Sends TODAY — final pass + send"
+    "currentStatus": "🚨 SHIPS TODAY — Sun 4/26 (in-progress, 2pm). 'The 2026 Vitamins & Supplements Playbook'. Final pass + send window. CTA → vms.nik.co field report. No 'sent' confirmation observed yet.",
+    "alert": "🚨 Sends TODAY — final pass + send window OPEN"
   },
   {
     "id": "brand-consulting",
     "emoji": "💼",
     "title": "Brand Consulting",
     "status": "attention",
-    "lastUpdated": "2026-04-25",
+    "lastUpdated": "2026-04-26T14:00",
     "bullets": [
       "🎙️ Pharmacy TB Fireflies parsed 4/24: pharmacy can source, branded-repackage, and ship peptides direct, including cold-chain",
       "⏱️ Pharmacy expects ~30 days to operationalize after manufacturer authorization starts",
@@ -253,7 +253,7 @@
     ],
     "needsAttention": "Open items: INV-5 Day 4 overdue; Air Oasis 15 days late; Nik owes peptide list to Myles; Jim Jannuzzio Flexpower doc comment; David Larkin Payfiniti approval-rates thread; existing response queue still needs triage.",
     "alert": "INV-5 Day 4 overdue • Air Oasis 15 days late • Peptide list owed to Myles",
-    "currentStatus": "Quiet Saturday evening. Pharmacy/peptide TB wrapped 4/24: pharmacy can source/repackage/ship peptides direct with cold-chain (~30-day operational timeline). Nik still owes peptide offerings list to Myles + group thread join. INV-5 now Day 4 overdue. Air Oasis 15 days late."
+    "currentStatus": "Sun 4/26 2pm quiet. Pharmacy/peptide TB wrapped 4/24: pharmacy can source/repackage/ship peptides direct with cold-chain (~30-day operational timeline). Nik still owes peptide offerings list to Myles + group thread join. INV-5 now Day 4+ overdue. Air Oasis 16 days late."
   },
   {
     "id": "ecom-founders",
@@ -278,7 +278,7 @@
     "emoji": "🎯",
     "title": "Rolling Ventures Fund",
     "status": "attention",
-    "lastUpdated": "2026-04-26T08:00",
+    "lastUpdated": "2026-04-26T14:00",
     "bullets": [
       "✅ Rolling Ventures TB WRAPPED 1:30-2:00pm ET 4/24 — recap owed",
       "✅ Instant x Nik (Jaime Egan) 4:30-5pm WRAPPED 4/22 — recap/next steps still pending",
@@ -298,7 +298,7 @@
       "📧 Kristina Igoe (Left Lane) — in-person w/ Nik/Troy/Rohit coordinating"
     ],
     "needsAttention": "RV TB WRAPPED 2pm — recap/next steps owed. unspun B-3 signature ASAP. Instant follow-up Tue 4/28. Ben Zises 5/6. PEF QSBS Roundtable Apr 29. NEW PEF inbound: Carl Warkentin (Cawa Ventures) — 'Growing high quality wood in minutes' 11:39am.",
-    "currentStatus": "Sun 4/26 8am. RV TB WRAPPED Fri 4/24 — recap/next steps still owed. Instant x Nik (Jaime Egan) recap now Day 4+ pending. Ben Zises confirmed 5/6 @ 2pm office. Tue 4/28 4pm Instant follow-up. ⚠️ unspun B-3 signature still required ASAP.",
+    "currentStatus": "Sun 4/26 2pm. RV TB WRAPPED Fri 4/24 — recap/next steps still owed. Instant x Nik (Jaime Egan) recap now Day 4+. Tue 4/28 4pm Instant follow-up. Wed 5/6 2pm Ben Zises office. ⚠️ unspun B-3 signature still required ASAP. PEF QSBS Roundtable Apr 29. PEF Clarity Retreat May 29-31.",
     "alert": "unspun B-3 signature ASAP"
   },
   {
@@ -321,37 +321,37 @@
     "emoji": "✈️",
     "title": "Today & This Week",
     "status": "attention",
-    "lastUpdated": "2026-04-26T08:00",
+    "lastUpdated": "2026-04-26T14:00",
     "bullets": [
-      "🚨 NEWSLETTER SHIPS TOMORROW (Sun 4/26) — final pass owed tonight/AM",
-      "📅 Tonight (Sat 4/25 10pm): quiet evening, no events",
-      "🍽️ Sun 4/26 7:00-9:45pm: Dinner with Ben",
-      "💪 Mon 4/27: Reminder 8am • Wake 9am • Fort 10-11am",
+      "🚨 NEWSLETTER SHIPS TODAY (Sun 4/26) — final pass + send",
+      "🍽️ Tonight Sun 4/26 7:00-9:45pm: Dinner with Ben",
       "🎂 Sun 4/26: Anil Advani birthday",
-      "📭 jet@ calendar: no events next 48h",
+      "💪 Mon 4/27: Reminder 8am • Wake 9am • Travel 9:30am • Fort 10-11am • Travel 11:30am",
+      "🤝 Mon 4/27 12-1pm: Sandra x Nik (In-Person)",
+      "📞 Mon 4/27 1-1:30pm: Check-In",
+      "📧 NEW Sun 1:24pm: Pierson Krass yanked Nik off Lunar Ideal Living TB Apr 30 — invite removed",
+      "🏠 NEW Sun 1:24pm: Lightwork Home Health invite (Fri May 8 12-5pm) — Johnny Bowman, via Justin Mares (TrueMed) intro 4/22 — free home test (air/water/EMF/mold)",
       "💸 INV-5 YoSharma OVERDUE (Day 4) — collect Mon",
-      "🚨 Air Oasis homepage — 15 days overdue",
+      "💰 Dillon Plageman invoice $3,480 (Macra site) — review Mon",
+      "🚨 Air Oasis homepage — 16 days overdue",
       "⚠️ unspun Inc Pay-to-Play Series B-3 signature still required ASAP",
-      "💰 Dillon Plageman invoice $3,480 (Macra site) — review/pay Mon",
-      "📄 Jim Jannuzzio Google Doc comment on Flexpower — 'take this out' (review)",
       "📁 Rameez 'Nik Content' Drive folder — review still owed",
       "📐 Rameez Figma PDP Carousels access — grant still owed",
       "📇 Dil P NFC business cards — quote still owed (thread 59 msgs)",
-      "🚨 Anthropic API (jet@nik.co): $55.45 payment failed 4/25 (NEW) + prior $272.19 fail 4/20 — update billing URGENT",
-      "📧 Karim Massar (superday) inbound 4/25 9:17pm — pitch (nik@)",
-      "📧 Respond queue: Brigitta Ruha • UpPromote • Arjun Padmakumar • Alexandra Zatarain • Justin Mares • David Rosenberg • Dylan Nevescox • John Richards • Andrew Ferenci • Scott Swanson • Stephen Colwell • Geoffrey Huntting",
-      "📅 Apr 28 Instant follow-up • Apr 29 PEF QSBS Roundtable Lunch • May 6 Ben Zises • May 29-31 PEF Clarity Retreat"
+      "🚨 Anthropic API (jet@nik.co): $55.45 + $272.19 payment failures — update billing URGENT",
+      "📧 Respond queue still hot: Brigitta Ruha • Arjun Padmakumar • Alexandra Zatarain • John Richards • Andrew Ferenci • Justin Mares (TrueMed)",
+      "📅 Apr 28 Instant follow-up • Apr 29 PEF QSBS Roundtable Lunch • May 6 Ben Zises • May 8 Lightwork Home Health • May 29-31 PEF Clarity Retreat"
     ],
-    "needsAttention": "Newsletter ships <24h (Sun 4/26). Dinner with Ben 7pm Sun. Fort 10am Mon.",
-    "currentStatus": "Sun 4/26: Anil Advani birthday (all day). 7pm Dinner with Ben. Mon 4/27: Fort 10am, Sandra in-person 12pm, Check-In 1pm. Mom flying LHR Thu 5/21.",
-    "alert": "7pm Dinner with Ben tonight"
+    "needsAttention": "Newsletter ship window OPEN — final pass + send today. Dinner with Ben 7pm. Fort 10am Mon. Lunar Ideal Living invite Apr 30 dropped (Pierson yanked Nik).",
+    "currentStatus": "Sun 4/26 2pm: Anil Advani birthday (all day). 7pm Dinner with Ben tonight. Mon 4/27: Fort 10am → Sandra in-person 12pm → Check-In 1pm. Newsletter ships TODAY. Lightwork Home Health intro confirmed (Justin Mares → Johnny Bowman) for Fri May 8.",
+    "alert": "🚨 Newsletter ships TODAY • 7pm Dinner with Ben"
   },
   {
     "id": "my-agents",
     "emoji": "🤖",
     "title": "My Agents",
     "status": "on-track",
-    "lastUpdated": "2026-04-25",
+    "lastUpdated": "2026-04-26T14:00",
     "bullets": [
       "14 bots operational",
       "⚡ Jet (Opus) · 📇 CRM (Sonnet) · 💊 Macra (Opus) · 📱 Macra App (Sonnet)",
@@ -362,6 +362,6 @@
       "Namecheap API connected — macra.com + niksharma.io managed"
     ],
     "needsAttention": null,
-    "currentStatus": "Dashboard refresh 10:00pm Sat — pulled calendar (next 48h), unread email (8h, both accounts), Slack n/a, Fireflies stale. New: roast.nik.co live as $5 paid product (shipped today). Anthropic API failed payment alert (jet@). Newsletter ships <24h."
+    "currentStatus": "Dashboard refresh 2pm Sun — pulled calendar (next 48h), unread email (6h, both accounts), Slack quiet, Fireflies stale. Net new since 8am: Pierson Krass dropped Lunar Ideal Living TB invite (Apr 30); Lightwork Home Health calendar invite from Johnny Bowman (May 8) via Justin Mares (TrueMed) intro thread."
   }
 ]
