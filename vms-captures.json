@@ -1,6 +1,6 @@
 {
-  "total": 15,
-  "last_updated": "2026-04-26T23:22:28.891Z",
+  "total": 16,
+  "last_updated": "2026-04-26T23:24:02.952Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -121,6 +121,14 @@
       "referrer": "",
       "ip": "153.66.153.139",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "stelka.rubin@gmail.com",
+      "ts": "2026-04-26T23:24:02.826Z",
+      "source": "web",
+      "referrer": "android-app://com.google.android.gm/",
+      "ip": "69.124.209.112",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36"
     }
   ]
 }
