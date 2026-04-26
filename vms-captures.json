@@ -1,6 +1,6 @@
 {
-  "total": 22,
-  "last_updated": "2026-04-26T23:27:20.554Z",
+  "total": 23,
+  "last_updated": "2026-04-26T23:28:39.235Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -177,6 +177,14 @@
       "referrer": "",
       "ip": "24.211.22.228",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "alexandrasowa@getsowell.com",
+      "ts": "2026-04-26T23:28:39.107Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "73.150.207.5",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1"
     }
   ]
 }
