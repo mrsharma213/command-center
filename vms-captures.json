@@ -1,6 +1,6 @@
 {
-  "total": 28,
-  "last_updated": "2026-04-26T23:38:13.123Z",
+  "total": 29,
+  "last_updated": "2026-04-26T23:38:37.036Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -225,6 +225,14 @@
       "referrer": "",
       "ip": "209.53.30.39",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "david@trydaire.com",
+      "ts": "2026-04-26T23:38:36.868Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "192.157.84.185",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Mobile/15E148 Safari/604.1"
     }
   ]
 }
