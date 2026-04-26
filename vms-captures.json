@@ -1,6 +1,6 @@
 {
-  "total": 9,
-  "last_updated": "2026-04-25T01:00:37.406Z",
+  "total": 10,
+  "last_updated": "2026-04-26T19:00:08.910Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -73,6 +73,14 @@
       "referrer": "",
       "ip": "65.78.10.155",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "qa-test+vms-nl@nik.co",
+      "ts": "2026-04-26T19:00:08.580Z",
+      "source": "qa-prelaunch",
+      "referrer": "",
+      "ip": "173.68.100.246",
+      "ua": "curl/8.7.1"
     }
   ]
 }
