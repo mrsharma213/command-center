@@ -1,6 +1,6 @@
 {
-  "total": 41,
-  "last_updated": "2026-04-26T23:56:12.209Z",
+  "total": 42,
+  "last_updated": "2026-04-26T23:57:44.095Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -329,6 +329,14 @@
       "referrer": "",
       "ip": "136.49.184.237",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_2_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "madkaldigital@gmail.com",
+      "ts": "2026-04-26T23:57:43.963Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "131.222.252.119",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36; Manus-User/1.0"
     }
   ]
 }
