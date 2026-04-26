@@ -1,6 +1,6 @@
 {
-  "total": 32,
-  "last_updated": "2026-04-26T23:42:13.042Z",
+  "total": 33,
+  "last_updated": "2026-04-26T23:42:18.575Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -257,6 +257,14 @@
       "referrer": "",
       "ip": "35.151.94.138",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "nadine@olathelabel.com.au",
+      "ts": "2026-04-26T23:42:18.452Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "58.166.230.28",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
