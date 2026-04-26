@@ -1,6 +1,6 @@
 {
-  "total": 37,
-  "last_updated": "2026-04-26T23:50:23.987Z",
+  "total": 38,
+  "last_updated": "2026-04-26T23:53:30.589Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -297,6 +297,14 @@
       "referrer": "",
       "ip": "14.200.32.102",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "andrew@myfreebird.com",
+      "ts": "2026-04-26T23:53:30.444Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "50.126.210.64",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
