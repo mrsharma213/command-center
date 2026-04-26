@@ -1,6 +1,6 @@
 {
-  "total": 18,
-  "last_updated": "2026-04-26T23:25:48.177Z",
+  "total": 19,
+  "last_updated": "2026-04-26T23:25:56.434Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -145,6 +145,14 @@
       "referrer": "",
       "ip": "73.150.207.5",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "robinsondeklan@gmail.com",
+      "ts": "2026-04-26T23:25:56.312Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "160.223.200.64",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1"
     }
   ]
 }
