@@ -1,9 +1,9 @@
 {
   "open": 4,
   "resolved": 0,
-  "overdue": 0,
-  "aging": 4,
-  "last_updated": "2026-04-25T22:00:25.537Z",
+  "overdue": 4,
+  "aging": 0,
+  "last_updated": "2026-04-26T22:00:25.528Z",
   "commitments": [
     {
       "id": "01KQ0AFRZVF2KFFA20HW93Q3WN-0",
@@ -17,15 +17,19 @@
       "start_time": 1524.23,
       "owed_to": [],
       "created_at": "2026-04-24T20:10:10.000Z",
-      "status": "aging",
+      "status": "overdue",
       "checks": [
         {
           "status": "aging",
           "at": "2026-04-25T22:00:25.431Z"
+        },
+        {
+          "status": "overdue",
+          "at": "2026-04-26T22:00:25.437Z"
         }
       ],
       "resolved": false,
-      "updated_at": "2026-04-25T22:00:25.431Z"
+      "updated_at": "2026-04-26T22:00:25.437Z"
     },
     {
       "id": "01KQ0AFRZVF2KFFA20HW93Q3WN-1",
@@ -39,15 +43,19 @@
       "start_time": 1610.92,
       "owed_to": [],
       "created_at": "2026-04-24T20:10:10.000Z",
-      "status": "aging",
+      "status": "overdue",
       "checks": [
         {
           "status": "aging",
           "at": "2026-04-25T22:00:25.431Z"
+        },
+        {
+          "status": "overdue",
+          "at": "2026-04-26T22:00:25.437Z"
         }
       ],
       "resolved": false,
-      "updated_at": "2026-04-25T22:00:25.431Z"
+      "updated_at": "2026-04-26T22:00:25.437Z"
     },
     {
       "id": "01KQ0AFRZVF2KFFA20HW93Q3WN-0",
@@ -61,15 +69,19 @@
       "start_time": 1524.23,
       "owed_to": [],
       "created_at": "2026-04-24T20:10:28.691Z",
-      "status": "aging",
+      "status": "overdue",
       "checks": [
         {
           "status": "aging",
           "at": "2026-04-25T22:00:25.431Z"
+        },
+        {
+          "status": "overdue",
+          "at": "2026-04-26T22:00:25.437Z"
         }
       ],
       "resolved": false,
-      "updated_at": "2026-04-25T22:00:25.431Z"
+      "updated_at": "2026-04-26T22:00:25.437Z"
     },
     {
       "id": "01KQ0AFRZVF2KFFA20HW93Q3WN-1",
@@ -83,15 +95,19 @@
       "start_time": 1610.92,
       "owed_to": [],
       "created_at": "2026-04-24T20:10:28.691Z",
-      "status": "aging",
+      "status": "overdue",
       "checks": [
         {
           "status": "aging",
           "at": "2026-04-25T22:00:25.431Z"
+        },
+        {
+          "status": "overdue",
+          "at": "2026-04-26T22:00:25.437Z"
         }
       ],
       "resolved": false,
-      "updated_at": "2026-04-25T22:00:25.431Z"
+      "updated_at": "2026-04-26T22:00:25.437Z"
     }
   ]
 }
