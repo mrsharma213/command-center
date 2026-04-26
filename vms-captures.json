@@ -1,6 +1,6 @@
 {
-  "total": 30,
-  "last_updated": "2026-04-26T23:41:18.801Z",
+  "total": 31,
+  "last_updated": "2026-04-26T23:41:40.096Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -241,6 +241,14 @@
       "referrer": "",
       "ip": "76.32.32.119",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "ben@awespirestudios.com",
+      "ts": "2026-04-26T23:41:39.978Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "71.72.254.202",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
