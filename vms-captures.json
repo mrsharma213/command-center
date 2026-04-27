@@ -1,6 +1,6 @@
 {
-  "total": 98,
-  "last_updated": "2026-04-27T03:36:42.748Z",
+  "total": 99,
+  "last_updated": "2026-04-27T03:40:48.986Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -785,6 +785,14 @@
       "referrer": "",
       "ip": "99.163.68.168",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "zolenex@gmail.com",
+      "ts": "2026-04-27T03:40:48.855Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "124.189.214.163",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
     }
   ]
 }
