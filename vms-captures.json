@@ -1,6 +1,6 @@
 {
-  "total": 133,
-  "last_updated": "2026-04-27T06:06:45.054Z",
+  "total": 134,
+  "last_updated": "2026-04-27T06:17:02.876Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1065,6 +1065,14 @@
       "referrer": "",
       "ip": "95.120.99.245",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15"
+    },
+    {
+      "email": "shashankal2016@email.iimcal.ac.in",
+      "ts": "2026-04-27T06:17:02.710Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "59.145.117.102",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36"
     }
   ]
 }
