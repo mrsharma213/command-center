@@ -1,6 +1,6 @@
 {
-  "total": 251,
-  "last_updated": "2026-04-27T15:12:59.911Z",
+  "total": 252,
+  "last_updated": "2026-04-27T15:15:11.341Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2008,6 +2008,14 @@
       "source": "web",
       "referrer": "",
       "ip": "190.8.97.73",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "benno.stengel@tinuiti.com",
+      "ts": "2026-04-27T15:15:11.131Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "85.255.27.229",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
