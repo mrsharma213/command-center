@@ -1,6 +1,6 @@
 {
-  "total": 252,
-  "last_updated": "2026-04-27T15:15:11.341Z",
+  "total": 253,
+  "last_updated": "2026-04-27T15:20:46.197Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2016,6 +2016,14 @@
       "source": "web",
       "referrer": "",
       "ip": "85.255.27.229",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "luke@trelli.health",
+      "ts": "2026-04-27T15:20:46.029Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "184.104.184.210",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
