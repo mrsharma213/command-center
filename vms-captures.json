@@ -1,6 +1,6 @@
 {
-  "total": 223,
-  "last_updated": "2026-04-27T13:42:18.409Z",
+  "total": 224,
+  "last_updated": "2026-04-27T13:47:29.549Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1785,6 +1785,14 @@
       "referrer": "",
       "ip": "88.166.76.218",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "rfagen@cellcosmet.com",
+      "ts": "2026-04-27T13:47:29.378Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "89.187.164.251",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
     }
   ]
 }
