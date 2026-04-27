@@ -1,6 +1,6 @@
 {
-  "total": 131,
-  "last_updated": "2026-04-27T05:57:54.977Z",
+  "total": 132,
+  "last_updated": "2026-04-27T06:04:24.030Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1049,6 +1049,14 @@
       "referrer": "",
       "ip": "82.28.63.188",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "workflow220@gmail.com",
+      "ts": "2026-04-27T06:04:23.875Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "205.164.158.217",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
