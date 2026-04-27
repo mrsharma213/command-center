@@ -1,6 +1,6 @@
 {
-  "total": 182,
-  "last_updated": "2026-04-27T10:02:12.391Z",
+  "total": 183,
+  "last_updated": "2026-04-27T10:11:13.400Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1457,6 +1457,14 @@
       "referrer": "",
       "ip": "71.235.111.116",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.14 Safari/605.1.15"
+    },
+    {
+      "email": "timi.fashina@gmail.com",
+      "ts": "2026-04-27T10:11:13.217Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "31.54.159.9",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
