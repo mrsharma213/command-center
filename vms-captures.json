@@ -1,6 +1,6 @@
 {
-  "total": 241,
-  "last_updated": "2026-04-27T14:47:06.882Z",
+  "total": 242,
+  "last_updated": "2026-04-27T14:47:46.984Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1929,6 +1929,14 @@
       "referrer": "",
       "ip": "73.150.207.5",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "holly@ella-ola.com",
+      "ts": "2026-04-27T14:47:46.805Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "108.14.63.81",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
