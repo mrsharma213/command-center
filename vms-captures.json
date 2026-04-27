@@ -1,6 +1,6 @@
 {
-  "total": 248,
-  "last_updated": "2026-04-27T15:04:13.512Z",
+  "total": 249,
+  "last_updated": "2026-04-27T15:08:42.878Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1985,6 +1985,14 @@
       "referrer": "",
       "ip": "89.205.63.26",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "asha@glowuppartners.com",
+      "ts": "2026-04-27T15:08:42.693Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "74.72.228.241",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3.1 Safari/605.1.15"
     }
   ]
 }
