@@ -1,6 +1,6 @@
 {
-  "total": 269,
-  "last_updated": "2026-04-27T16:47:10.850Z",
+  "total": 270,
+  "last_updated": "2026-04-27T16:47:26.771Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2153,6 +2153,14 @@
       "referrer": "",
       "ip": "50.77.183.241",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "alex@enjoynothingspecial.com",
+      "ts": "2026-04-27T16:47:26.615Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "136.144.35.63",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
