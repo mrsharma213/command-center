@@ -1,6 +1,6 @@
 {
-  "total": 297,
-  "last_updated": "2026-04-27T18:53:49.297Z",
+  "total": 298,
+  "last_updated": "2026-04-27T18:57:28.057Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2377,6 +2377,14 @@
       "referrer": "android-app://com.slack/",
       "ip": "92.178.152.111",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "may@girlfriend.com",
+      "ts": "2026-04-27T18:57:27.769Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "174.21.182.62",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
