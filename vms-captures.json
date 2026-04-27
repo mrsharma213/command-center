@@ -1,6 +1,6 @@
 {
-  "total": 299,
-  "last_updated": "2026-04-27T18:58:46.952Z",
+  "total": 300,
+  "last_updated": "2026-04-27T19:00:01.717Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2393,6 +2393,14 @@
       "referrer": "",
       "ip": "69.122.52.172",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15"
+    },
+    {
+      "email": "koby@goatfoods.com",
+      "ts": "2026-04-27T19:00:01.490Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "136.28.75.90",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
