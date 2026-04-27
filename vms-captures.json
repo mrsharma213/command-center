@@ -1,6 +1,6 @@
 {
-  "total": 305,
-  "last_updated": "2026-04-27T20:06:41.112Z",
+  "total": 306,
+  "last_updated": "2026-04-27T20:30:02.543Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2441,6 +2441,14 @@
       "referrer": "",
       "ip": "66.194.134.138",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "joseph@mina-inc.com",
+      "ts": "2026-04-27T20:30:02.362Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "67.243.244.183",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
     }
   ]
 }
