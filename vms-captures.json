@@ -1,6 +1,6 @@
 {
-  "total": 102,
-  "last_updated": "2026-04-27T04:10:06.954Z",
+  "total": 103,
+  "last_updated": "2026-04-27T04:12:24.909Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -817,6 +817,14 @@
       "referrer": "",
       "ip": "102.113.135.110",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "kyna@youvit.co.id",
+      "ts": "2026-04-27T04:12:24.771Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "38.225.121.228",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
     }
   ]
 }
