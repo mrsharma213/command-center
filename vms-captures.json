@@ -1,6 +1,6 @@
 {
-  "total": 90,
-  "last_updated": "2026-04-27T02:54:14.017Z",
+  "total": 91,
+  "last_updated": "2026-04-27T02:57:24.203Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -721,6 +721,14 @@
       "referrer": "android-app://com.google.android.gm/",
       "ip": "193.160.101.141",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "james.hs@getfunneled.com",
+      "ts": "2026-04-27T02:57:24.055Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "58.110.56.249",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
