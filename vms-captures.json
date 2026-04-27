@@ -1,6 +1,6 @@
 {
-  "total": 266,
-  "last_updated": "2026-04-27T16:29:14.868Z",
+  "total": 267,
+  "last_updated": "2026-04-27T16:34:31.657Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2129,6 +2129,14 @@
       "referrer": "",
       "ip": "172.59.224.157",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "adam@vitawild.co",
+      "ts": "2026-04-27T16:34:31.485Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "99.127.175.235",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
