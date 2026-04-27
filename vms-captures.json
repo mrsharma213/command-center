@@ -1,6 +1,6 @@
 {
-  "total": 218,
-  "last_updated": "2026-04-27T13:26:44.207Z",
+  "total": 219,
+  "last_updated": "2026-04-27T13:28:21.054Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1745,6 +1745,14 @@
       "referrer": "",
       "ip": "177.92.83.2",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "michelle@womaness.com",
+      "ts": "2026-04-27T13:28:20.875Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "68.129.150.154",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
