@@ -1,6 +1,6 @@
 {
-  "total": 80,
-  "last_updated": "2026-04-27T02:16:44.912Z",
+  "total": 81,
+  "last_updated": "2026-04-27T02:19:39.030Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -641,6 +641,14 @@
       "referrer": "",
       "ip": "104.220.50.26",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/416.4.894748588 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "tzeyuan@avea-life.com",
+      "ts": "2026-04-27T02:19:38.898Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "161.142.140.127",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
