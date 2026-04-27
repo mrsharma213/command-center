@@ -1,6 +1,6 @@
 {
-  "total": 96,
-  "last_updated": "2026-04-27T03:25:09.147Z",
+  "total": 97,
+  "last_updated": "2026-04-27T03:30:07.797Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -769,6 +769,14 @@
       "referrer": "",
       "ip": "24.12.189.227",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "ann.t@webprofits.com.au",
+      "ts": "2026-04-27T03:30:07.660Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "106.68.238.241",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
