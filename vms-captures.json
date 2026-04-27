@@ -1,6 +1,6 @@
 {
-  "total": 193,
-  "last_updated": "2026-04-27T11:03:32.454Z",
+  "total": 194,
+  "last_updated": "2026-04-27T11:14:11.606Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1544,6 +1544,14 @@
       "source": "web",
       "referrer": "",
       "ip": "162.195.141.215",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "jonas.stropus@gmail.com",
+      "ts": "2026-04-27T11:14:11.417Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "78.57.222.168",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
