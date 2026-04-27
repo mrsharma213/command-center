@@ -1,6 +1,6 @@
 {
-  "total": 207,
-  "last_updated": "2026-04-27T12:40:07.725Z",
+  "total": 208,
+  "last_updated": "2026-04-27T12:46:05.332Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1657,6 +1657,14 @@
       "referrer": "",
       "ip": "104.191.135.210",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "alexandra.espinoza@monks.com",
+      "ts": "2026-04-27T12:46:05.174Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "172.58.129.82",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1"
     }
   ]
 }
