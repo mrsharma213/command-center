@@ -1,6 +1,6 @@
 {
-  "total": 45,
-  "last_updated": "2026-04-27T00:05:06.381Z",
+  "total": 46,
+  "last_updated": "2026-04-27T00:07:05.263Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -361,6 +361,14 @@
       "referrer": "",
       "ip": "76.150.0.81",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "jim@cxoadvisorypartners.com",
+      "ts": "2026-04-27T00:07:05.134Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "68.216.113.25",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_3_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/145.0.7632.117 Mobile/15E148 Safari/604.1"
     }
   ]
 }
