@@ -1,6 +1,6 @@
 {
-  "total": 268,
-  "last_updated": "2026-04-27T16:47:08.255Z",
+  "total": 269,
+  "last_updated": "2026-04-27T16:47:10.850Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2145,6 +2145,14 @@
       "referrer": "",
       "ip": "99.127.175.235",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "alex@thenakedmarket.com",
+      "ts": "2026-04-27T16:47:10.686Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "50.77.183.241",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
     }
   ]
 }
