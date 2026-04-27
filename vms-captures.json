@@ -1,6 +1,6 @@
 {
-  "total": 256,
-  "last_updated": "2026-04-27T15:36:36.058Z",
+  "total": 257,
+  "last_updated": "2026-04-27T15:37:58.222Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2048,6 +2048,14 @@
       "source": "web",
       "referrer": "",
       "ip": "82.79.64.231",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "hunter.lindgren@tinuiti.com",
+      "ts": "2026-04-27T15:37:57.877Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "73.153.187.205",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
