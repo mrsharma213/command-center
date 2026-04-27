@@ -1,6 +1,6 @@
 {
-  "total": 129,
-  "last_updated": "2026-04-27T05:33:12.613Z",
+  "total": 130,
+  "last_updated": "2026-04-27T05:40:13.647Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1032,6 +1032,14 @@
       "source": "web",
       "referrer": "",
       "ip": "109.54.180.178",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "samantha.kwok@prenetics.com",
+      "ts": "2026-04-27T05:40:13.486Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "37.140.223.10",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
