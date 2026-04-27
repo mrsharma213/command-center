@@ -1,6 +1,6 @@
 {
-  "total": 243,
-  "last_updated": "2026-04-27T14:49:25.368Z",
+  "total": 244,
+  "last_updated": "2026-04-27T14:50:21.272Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1945,6 +1945,14 @@
       "referrer": "",
       "ip": "142.154.213.198",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "teileengardner48@gmail.com",
+      "ts": "2026-04-27T14:50:21.060Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "108.191.54.48",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
