@@ -1,6 +1,6 @@
 {
-  "total": 321,
-  "last_updated": "2026-04-27T22:52:03.057Z",
+  "total": 322,
+  "last_updated": "2026-04-27T22:59:25.024Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2569,6 +2569,14 @@
       "referrer": "",
       "ip": "174.229.84.143",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "alex.mcevoy@gmail.com",
+      "ts": "2026-04-27T22:59:24.760Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "75.166.149.226",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ]
 }
