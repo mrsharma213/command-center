@@ -1,6 +1,6 @@
 {
-  "total": 317,
-  "last_updated": "2026-04-27T21:53:17.708Z",
+  "total": 318,
+  "last_updated": "2026-04-27T21:58:19.115Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2537,6 +2537,14 @@
       "referrer": "",
       "ip": "89.228.174.141",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    },
+    {
+      "email": "oliver.drazsky@gmail.com",
+      "ts": "2026-04-27T21:58:18.954Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "182.169.230.117",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
     }
   ]
 }
