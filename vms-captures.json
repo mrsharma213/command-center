@@ -1,6 +1,6 @@
 {
-  "total": 62,
-  "last_updated": "2026-04-27T01:06:43.056Z",
+  "total": 63,
+  "last_updated": "2026-04-27T01:08:29.183Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -497,6 +497,14 @@
       "referrer": "",
       "ip": "174.254.196.37",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "akasope@gmail.com",
+      "ts": "2026-04-27T01:08:29.056Z",
+      "source": "web",
+      "referrer": "android-app://com.google.android.gm/",
+      "ip": "104.203.175.58",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36"
     }
   ]
 }
