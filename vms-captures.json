@@ -1,6 +1,6 @@
 {
-  "total": 73,
-  "last_updated": "2026-04-27T01:37:22.947Z",
+  "total": 74,
+  "last_updated": "2026-04-27T01:42:48.415Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -585,6 +585,14 @@
       "referrer": "",
       "ip": "158.140.140.40",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "dbernstein@seraphinatherapeutics.com",
+      "ts": "2026-04-27T01:42:48.275Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "98.97.143.225",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
