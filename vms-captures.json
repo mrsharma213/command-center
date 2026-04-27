@@ -1,6 +1,6 @@
 {
-  "total": 300,
-  "last_updated": "2026-04-27T19:00:01.717Z",
+  "total": 301,
+  "last_updated": "2026-04-27T19:04:16.256Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2400,6 +2400,14 @@
       "source": "web",
       "referrer": "",
       "ip": "136.28.75.90",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "mondon.yannick@gmail.com",
+      "ts": "2026-04-27T19:04:16.070Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "85.253.16.22",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
