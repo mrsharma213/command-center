@@ -1,6 +1,6 @@
 {
-  "total": 230,
-  "last_updated": "2026-04-27T14:15:22.011Z",
+  "total": 231,
+  "last_updated": "2026-04-27T14:21:15.484Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1841,6 +1841,14 @@
       "referrer": "",
       "ip": "188.195.158.230",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "nathanael.clanton@op2labs.com",
+      "ts": "2026-04-27T14:21:15.292Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "45.24.65.59",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
