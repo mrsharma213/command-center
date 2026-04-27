@@ -1,6 +1,6 @@
 {
-  "total": 249,
-  "last_updated": "2026-04-27T15:08:42.878Z",
+  "total": 250,
+  "last_updated": "2026-04-27T15:09:43.790Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1993,6 +1993,14 @@
       "referrer": "",
       "ip": "74.72.228.241",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3.1 Safari/605.1.15"
+    },
+    {
+      "email": "teresa.mandolesi@waterdrop.com",
+      "ts": "2026-04-27T15:09:43.589Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "77.237.49.90",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
