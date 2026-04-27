@@ -1,6 +1,6 @@
 {
-  "total": 224,
-  "last_updated": "2026-04-27T13:47:29.549Z",
+  "total": 225,
+  "last_updated": "2026-04-27T13:55:10.012Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1793,6 +1793,14 @@
       "referrer": "",
       "ip": "89.187.164.251",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
+    },
+    {
+      "email": "daniel.vivas@liquidz.com.br",
+      "ts": "2026-04-27T13:55:09.874Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "179.105.130.137",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
