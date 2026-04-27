@@ -1,6 +1,6 @@
 {
-  "total": 111,
-  "last_updated": "2026-04-27T04:39:21.230Z",
+  "total": 112,
+  "last_updated": "2026-04-27T04:44:15.093Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -888,6 +888,14 @@
       "source": "web",
       "referrer": "",
       "ip": "94.202.121.230",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "hello@lunher.com",
+      "ts": "2026-04-27T04:44:14.957Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "108.162.185.236",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
