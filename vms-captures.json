@@ -1,6 +1,6 @@
 {
-  "total": 237,
-  "last_updated": "2026-04-27T14:32:54.191Z",
+  "total": 238,
+  "last_updated": "2026-04-27T14:43:29.372Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1896,6 +1896,14 @@
       "source": "web",
       "referrer": "",
       "ip": "71.202.111.18",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "rebecca@theremedyhealth.com",
+      "ts": "2026-04-27T14:43:29.201Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "209.178.209.162",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
