@@ -1,6 +1,6 @@
 {
-  "total": 161,
-  "last_updated": "2026-04-27T08:01:47.522Z",
+  "total": 162,
+  "last_updated": "2026-04-27T08:03:54.832Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1288,6 +1288,14 @@
       "source": "web",
       "referrer": "",
       "ip": "94.207.190.10",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "john@soarwithus.co",
+      "ts": "2026-04-27T08:03:54.671Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "86.176.186.115",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
