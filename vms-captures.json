@@ -1,6 +1,6 @@
 {
-  "total": 89,
-  "last_updated": "2026-04-27T02:52:32.759Z",
+  "total": 90,
+  "last_updated": "2026-04-27T02:54:14.017Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -713,6 +713,14 @@
       "referrer": "",
       "ip": "142.169.185.6",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "jim@viljamedia.com",
+      "ts": "2026-04-27T02:54:13.870Z",
+      "source": "web",
+      "referrer": "android-app://com.google.android.gm/",
+      "ip": "193.160.101.141",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Mobile Safari/537.36"
     }
   ]
 }
