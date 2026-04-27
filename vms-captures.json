@@ -1,6 +1,6 @@
 {
-  "total": 325,
-  "last_updated": "2026-04-27T23:47:43.277Z",
+  "total": 326,
+  "last_updated": "2026-04-27T23:58:23.372Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2601,6 +2601,14 @@
       "referrer": "",
       "ip": "128.201.105.245",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "kurt@zentrumgroup.com",
+      "ts": "2026-04-27T23:58:23.221Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "198.91.56.137",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36"
     }
   ]
 }
