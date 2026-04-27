@@ -1,6 +1,6 @@
 {
-  "total": 116,
-  "last_updated": "2026-04-27T05:02:02.169Z",
+  "total": 117,
+  "last_updated": "2026-04-27T05:04:12.777Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -929,6 +929,14 @@
       "referrer": "",
       "ip": "35.147.152.175",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0"
+    },
+    {
+      "email": "teresa@superlativabotanicals.com",
+      "ts": "2026-04-27T05:04:12.637Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "85.57.35.61",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
