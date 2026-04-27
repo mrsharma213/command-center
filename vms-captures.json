@@ -1,6 +1,6 @@
 {
-  "total": 166,
-  "last_updated": "2026-04-27T08:24:37.141Z",
+  "total": 167,
+  "last_updated": "2026-04-27T08:30:09.914Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1328,6 +1328,14 @@
       "source": "web",
       "referrer": "",
       "ip": "87.237.192.245",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "rishika@cosmix.in",
+      "ts": "2026-04-27T08:30:09.776Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "106.51.81.238",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
