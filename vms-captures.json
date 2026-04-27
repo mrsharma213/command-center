@@ -1,6 +1,6 @@
 {
-  "total": 234,
-  "last_updated": "2026-04-27T14:23:37.561Z",
+  "total": 235,
+  "last_updated": "2026-04-27T14:24:09.823Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1873,6 +1873,14 @@
       "referrer": "",
       "ip": "95.20.73.128",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "lantz@retailforthepeople.com",
+      "ts": "2026-04-27T14:24:09.633Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "38.61.121.19",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
