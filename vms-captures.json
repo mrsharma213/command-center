@@ -1,6 +1,6 @@
 {
-  "total": 279,
-  "last_updated": "2026-04-27T17:17:15.674Z",
+  "total": 280,
+  "last_updated": "2026-04-27T17:24:51.159Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2233,6 +2233,14 @@
       "referrer": "",
       "ip": "145.224.65.111",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "m.godlewski@viloway.com",
+      "ts": "2026-04-27T17:24:51.002Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "89.68.68.129",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0"
     }
   ]
 }
