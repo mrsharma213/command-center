@@ -1,6 +1,6 @@
 {
-  "total": 164,
-  "last_updated": "2026-04-27T08:17:09.900Z",
+  "total": 165,
+  "last_updated": "2026-04-27T08:21:48.885Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1312,6 +1312,14 @@
       "source": "web",
       "referrer": "",
       "ip": "86.248.50.64",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "vivek@mobikasa.com",
+      "ts": "2026-04-27T08:21:48.726Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "139.167.224.58",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
