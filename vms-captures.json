@@ -1,6 +1,6 @@
 {
-  "total": 185,
-  "last_updated": "2026-04-27T10:41:40.045Z",
+  "total": 186,
+  "last_updated": "2026-04-27T10:42:03.218Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1481,6 +1481,14 @@
       "referrer": "",
       "ip": "90.46.97.99",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "dinuk@correxiko.com",
+      "ts": "2026-04-27T10:42:03.078Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "31.221.116.148",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 AtContent/94.5.4668.41"
     }
   ]
 }
