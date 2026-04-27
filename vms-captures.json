@@ -1,6 +1,6 @@
 {
-  "total": 70,
-  "last_updated": "2026-04-27T01:35:35.271Z",
+  "total": 71,
+  "last_updated": "2026-04-27T01:36:26.594Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -561,6 +561,14 @@
       "referrer": "",
       "ip": "158.140.140.40",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "richard@rpreiss.com",
+      "ts": "2026-04-27T01:36:26.465Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "69.158.246.87",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
     }
   ]
 }
