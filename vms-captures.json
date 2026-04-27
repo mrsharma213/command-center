@@ -1,6 +1,6 @@
 {
-  "total": 303,
-  "last_updated": "2026-04-27T19:40:37.844Z",
+  "total": 304,
+  "last_updated": "2026-04-27T20:00:35.886Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2425,6 +2425,14 @@
       "referrer": "",
       "ip": "5.31.140.27",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "maggie@squiggle.studio",
+      "ts": "2026-04-27T20:00:35.721Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "162.194.38.49",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
