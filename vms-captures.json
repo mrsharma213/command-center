@@ -1,6 +1,6 @@
 {
-  "total": 85,
-  "last_updated": "2026-04-27T02:22:30.907Z",
+  "total": 86,
+  "last_updated": "2026-04-27T02:26:05.154Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -681,6 +681,14 @@
       "referrer": "",
       "ip": "174.164.221.64",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "ken.asme@gmail.com",
+      "ts": "2026-04-27T02:26:05.013Z",
+      "source": "web",
+      "referrer": "https://mail.google.com/",
+      "ip": "172.58.114.246",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
     }
   ]
 }
