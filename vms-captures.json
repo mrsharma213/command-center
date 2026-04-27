@@ -1,6 +1,6 @@
 {
-  "total": 311,
-  "last_updated": "2026-04-27T21:12:24.251Z",
+  "total": 312,
+  "last_updated": "2026-04-27T21:13:09.767Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2485,6 +2485,14 @@
     {
       "email": "dain.bauman@opascope.com",
       "ts": "2026-04-27T21:12:24.059Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "46.110.31.177",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "dain.bauman@opascope.com",
+      "ts": "2026-04-27T21:13:09.619Z",
       "source": "web",
       "referrer": "",
       "ip": "46.110.31.177",
