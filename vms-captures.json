@@ -1,6 +1,6 @@
 {
-  "total": 115,
-  "last_updated": "2026-04-27T04:57:46.201Z",
+  "total": 116,
+  "last_updated": "2026-04-27T05:02:02.169Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -921,6 +921,14 @@
       "referrer": "",
       "ip": "103.175.215.231",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "simonpage@rockfieldtx.com",
+      "ts": "2026-04-27T05:02:02.014Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "35.147.152.175",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0"
     }
   ]
 }
