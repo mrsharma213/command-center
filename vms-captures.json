@@ -1,6 +1,6 @@
 {
-  "total": 154,
-  "last_updated": "2026-04-27T07:39:59.010Z",
+  "total": 155,
+  "last_updated": "2026-04-27T07:43:56.491Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1233,6 +1233,14 @@
       "referrer": "",
       "ip": "81.7.89.21",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "elaine.digital.media+nik@gmail.com",
+      "ts": "2026-04-27T07:43:56.332Z",
+      "source": "web",
+      "referrer": "android-app://com.google.android.gm/",
+      "ip": "51.182.114.217",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36"
     }
   ]
 }
