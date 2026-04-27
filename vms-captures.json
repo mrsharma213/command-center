@@ -1,6 +1,6 @@
 {
-  "total": 50,
-  "last_updated": "2026-04-27T00:21:24.225Z",
+  "total": 51,
+  "last_updated": "2026-04-27T00:25:02.400Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -401,6 +401,14 @@
       "referrer": "",
       "ip": "66.75.89.167",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/145.0.7632.108 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "jerel@hellotushy.com",
+      "ts": "2026-04-27T00:25:02.284Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "47.230.158.162",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
     }
   ]
 }
