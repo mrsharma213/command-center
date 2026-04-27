@@ -1,6 +1,6 @@
 {
-  "total": 244,
-  "last_updated": "2026-04-27T14:50:21.272Z",
+  "total": 245,
+  "last_updated": "2026-04-27T14:55:03.619Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1952,6 +1952,14 @@
       "source": "web",
       "referrer": "",
       "ip": "108.191.54.48",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "lauren.mahon@tinuiti.com",
+      "ts": "2026-04-27T14:55:03.467Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "150.195.205.47",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
