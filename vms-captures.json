@@ -1,6 +1,6 @@
 {
-  "total": 148,
-  "last_updated": "2026-04-27T07:28:45.853Z",
+  "total": 149,
+  "last_updated": "2026-04-27T07:29:54.554Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1185,6 +1185,14 @@
       "referrer": "https://mail.google.com/",
       "ip": "161.142.118.82",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "espen.waloen@gmail.com",
+      "ts": "2026-04-27T07:29:54.413Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "151.177.243.21",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/142.0.7444.148 Mobile/15E148 Safari/604.1"
     }
   ]
 }
