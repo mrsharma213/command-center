@@ -1,6 +1,6 @@
 {
-  "total": 54,
-  "last_updated": "2026-04-27T00:32:51.434Z",
+  "total": 55,
+  "last_updated": "2026-04-27T00:42:26.111Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -433,6 +433,14 @@
       "referrer": "android-app://com.google.android.gm/",
       "ip": "217.217.114.114",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "julie@mymenowell.com",
+      "ts": "2026-04-27T00:42:25.964Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "73.93.172.181",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
