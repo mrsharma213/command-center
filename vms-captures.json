@@ -1,6 +1,6 @@
 {
-  "total": 270,
-  "last_updated": "2026-04-27T16:47:26.771Z",
+  "total": 271,
+  "last_updated": "2026-04-27T16:50:18.368Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2161,6 +2161,14 @@
       "referrer": "",
       "ip": "136.144.35.63",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "steve.cavezza@4patriots.com",
+      "ts": "2026-04-27T16:50:18.190Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "73.88.157.24",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
