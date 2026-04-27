@@ -1,6 +1,6 @@
 {
-  "total": 258,
-  "last_updated": "2026-04-27T15:39:09.221Z",
+  "total": 259,
+  "last_updated": "2026-04-27T15:40:35.111Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2065,6 +2065,14 @@
       "referrer": "",
       "ip": "73.150.207.5",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    },
+    {
+      "email": "laura.loughran@factor75.com",
+      "ts": "2026-04-27T15:40:34.956Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "184.74.229.226",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
