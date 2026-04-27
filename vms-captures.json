@@ -1,6 +1,6 @@
 {
-  "total": 262,
-  "last_updated": "2026-04-27T15:50:01.310Z",
+  "total": 263,
+  "last_updated": "2026-04-27T15:53:30.541Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2097,6 +2097,14 @@
       "referrer": "",
       "ip": "136.34.216.127",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0"
+    },
+    {
+      "email": "amber@circadianoptics.com",
+      "ts": "2026-04-27T15:53:30.370Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "24.7.195.177",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
