@@ -1,6 +1,6 @@
 {
-  "total": 309,
-  "last_updated": "2026-04-27T21:03:28.160Z",
+  "total": 310,
+  "last_updated": "2026-04-27T21:04:05.431Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2473,6 +2473,14 @@
       "referrer": "",
       "ip": "146.75.203.10",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "aborowiak@skleppapierowka.pl",
+      "ts": "2026-04-27T21:04:05.267Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "91.226.96.186",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
