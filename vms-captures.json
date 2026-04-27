@@ -1,6 +1,6 @@
 {
-  "total": 260,
-  "last_updated": "2026-04-27T15:42:09.880Z",
+  "total": 261,
+  "last_updated": "2026-04-27T15:42:52.403Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2080,6 +2080,14 @@
       "source": "web",
       "referrer": "",
       "ip": "38.42.118.141",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "david@kiidcoffee.com",
+      "ts": "2026-04-27T15:42:52.266Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "108.198.50.182",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
