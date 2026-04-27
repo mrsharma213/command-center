@@ -1,6 +1,6 @@
 {
-  "total": 201,
-  "last_updated": "2026-04-27T12:11:56.448Z",
+  "total": 202,
+  "last_updated": "2026-04-27T12:15:15.390Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1608,6 +1608,14 @@
       "source": "web",
       "referrer": "",
       "ip": "92.180.229.180",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "hello@thegoodlaundry.com",
+      "ts": "2026-04-27T12:15:15.232Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "194.88.96.181",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
     }
   ]
