@@ -1,6 +1,6 @@
 {
-  "total": 47,
-  "last_updated": "2026-04-27T00:08:28.516Z",
+  "total": 48,
+  "last_updated": "2026-04-27T00:11:01.812Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -377,6 +377,14 @@
       "referrer": "",
       "ip": "70.224.64.175",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "rory@mcdowellmktng.com",
+      "ts": "2026-04-27T00:11:01.701Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "98.244.203.158",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
     }
   ]
 }
