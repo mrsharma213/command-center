@@ -1,6 +1,6 @@
 {
-  "total": 274,
-  "last_updated": "2026-04-27T16:54:05.504Z",
+  "total": 275,
+  "last_updated": "2026-04-27T16:55:32.958Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2192,6 +2192,14 @@
       "source": "web",
       "referrer": "",
       "ip": "172.91.108.60",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "karilyn.anderson@liquid-iv.com",
+      "ts": "2026-04-27T16:55:32.800Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "50.39.114.120",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
