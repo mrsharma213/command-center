@@ -1,6 +1,6 @@
 {
-  "total": 140,
-  "last_updated": "2026-04-27T06:34:14.269Z",
+  "total": 141,
+  "last_updated": "2026-04-27T06:37:39.837Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1121,6 +1121,14 @@
       "referrer": "android-app://com.google.android.gm/",
       "ip": "89.8.42.116",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "matteo.hoetzinger@waterdrop.com",
+      "ts": "2026-04-27T06:37:39.690Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "77.237.49.90",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
