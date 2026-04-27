@@ -1,6 +1,6 @@
 {
-  "total": 290,
-  "last_updated": "2026-04-27T18:03:45.096Z",
+  "total": 291,
+  "last_updated": "2026-04-27T18:07:03.933Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2321,6 +2321,14 @@
       "referrer": "",
       "ip": "97.222.27.77",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "kent.kasica@surfisurus.com",
+      "ts": "2026-04-27T18:07:03.733Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "71.33.148.34",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
