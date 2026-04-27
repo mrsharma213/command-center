@@ -1,10 +1,11 @@
 [
   {
+    "section": "Companies",
     "id": "macra",
     "emoji": "💊",
     "title": "Macra",
     "status": "attention",
-    "lastUpdated": "2026-04-27T10:00",
+    "lastUpdated": "2026-04-27T11:00",
     "bullets": [
       "💊 Day 11 post-launch (Apr 16 launch) — Mon 10am, monitoring sales + ad performance",
       "💰 Dillon Plageman invoice $3,480 (49h × $120/hr − $2,400 prepaid) — site build, review/pay",
@@ -19,11 +20,10 @@
       "Initial ad spend $30K deploying • Monitor early performance data",
       "✅ verified.macra.com CNAME added via Namecheap API"
     ],
-    "needsAttention": "Mon 10am action: review/approve Dillon $3,480 invoice TODAY. Grant Rameez Figma access on PDP Carousels file. Review 'Nik Content' Drive folder.",
-    "currentStatus": "Day 11 post-launch (Mon 10am — Nik at Fort gym 10-11am). Dillon $3,480 invoice review tops Mon AM action list. Rameez Figma PDP Carousels access + 'Nik Content' Drive review still outstanding. Ad spend monitoring continues. No fresh Macra-specific email since 4/24.",
-    "alert": null
+    "needsAttention": "Mon 10am action: review/approve Dillon $3,480 invoice TODAY. Grant Rameez Figma access on PDP Carousels file. Review 'Nik Content' Drive folder."
   },
   {
+    "section": "Companies",
     "id": "stocked",
     "emoji": "🆕",
     "title": "STOCKED x Sharma Brands",
@@ -34,11 +34,10 @@
       "New client engagement in progress via Minul",
       "Awaiting scope / next steps"
     ],
-    "needsAttention": "New client engagement — confirm scope with Minul",
-    "currentStatus": "",
-    "alert": null
+    "needsAttention": "New client engagement — confirm scope with Minul"
   },
   {
+    "section": "Companies",
     "id": "maruchan",
     "emoji": "🍜",
     "title": "Maruchan x Nik Sharma",
@@ -61,16 +60,15 @@
       "Iconic ramen brand engagement — KO complete, onboarding begins",
       "Coordinated via Minul @ nik.co"
     ],
-    "needsAttention": "Nik owes Maruchan strategy/recommendation doc by Mon/Tues after reviewing weekend materials. Watch for Katelyn’s Slack/data package and access grants.",
-    "currentStatus": "Sat 10pm — KO complete (4/24). Weekend review window: Katelyn to send segmentation, vendor decks, TikTok Shop/influencer proposals, LLM/PR audits, Pacvue/Kale access, raw media data. Nik owes comprehensive strategy doc + vendor recommendations by Mon/Tues + May 1 prorated invoice.",
-    "alert": null
+    "needsAttention": "Nik owes Maruchan strategy/recommendation doc by Mon/Tues after reviewing weekend materials. Watch for Katelyn’s Slack/data package and access grants."
   },
   {
+    "section": "Companies",
     "id": "zurp",
     "emoji": "📱",
     "title": "Zurp",
     "status": "attention",
-    "lastUpdated": "2026-04-27T10:00",
+    "lastUpdated": "2026-04-27T11:00",
     "bullets": [
       "✅ Amoria meet WRAPPED 4/24 5:30-6:30pm — Cordell/Troy/D/Rameez/Jim/Gisela/Frank/Nik. Recap/next steps owed TODAY.",
       "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — signature still pending (Day 3, 70h+ elapsed)",
@@ -85,11 +83,10 @@
       "💰 Revenue split: 50/50 with venues",
       "✅ Brand book DONE — brand.zurp.com (password: zurp2026)"
     ],
-    "needsAttention": "Capture Amoria/Cordell next steps Mon AM. Alec Docusign Day 4. Jack <> Troy <> Nik recap overdue Day 5. Zurp Check-In Tue 4/28 11:30am.",
-    "currentStatus": "Mon 4/27 10am. Amoria meet WRAPPED Fri 4/24 — recap/next steps owed TODAY. Alec Docusign signature pending Day 5 (~96h+ since view). Jack <> Troy <> Nik recap overdue Day 5. UnKommon Miami signature monitor. Zurp Check-In Tue 4/28 11:30am.",
-    "alert": null
+    "needsAttention": "Capture Amoria/Cordell next steps Mon AM. Alec Docusign Day 4. Jack <> Troy <> Nik recap overdue Day 5. Zurp Check-In Tue 4/28 11:30am."
   },
   {
+    "section": "Companies",
     "id": "authentiq",
     "emoji": "🔐",
     "title": "Authentiq",
@@ -106,11 +103,10 @@
       "V3: Authenticated marketplace (Grailed/StockX competitor)",
       "Verticals: clothing, sports cards, cannabis, skincare"
     ],
-    "needsAttention": "Dil P NFC business card quote still owed. Troy review of features doc 8 days overdue.",
-    "currentStatus": "",
-    "alert": null
+    "needsAttention": "Dil P NFC business card quote still owed. Troy review of features doc 8 days overdue."
   },
   {
+    "section": "Companies",
     "id": "pigeon-house",
     "emoji": "🐦",
     "title": "Pigeon House Records",
@@ -123,11 +119,10 @@
       "Brandon Launerts handling social/content scheduling",
       "Rahul onboarding to IG strategy + content research"
     ],
-    "needsAttention": null,
-    "currentStatus": "",
-    "alert": null
+    "needsAttention": null
   },
   {
+    "section": "Companies",
     "id": "roast-nik-co",
     "emoji": "🔥",
     "title": "roast.nik.co",
@@ -147,16 +142,15 @@
       "📋 Pending: first organic conversion = first real signal on copy/landing strength",
       "🧪 Pending: Nik to do live $5 purchase + refund for true E2E validation"
     ],
-    "needsAttention": "Nik to do real $5 purchase + refund for true end-to-end Stripe validation (live cards can't be test-carded). Watch first conversions.",
-    "currentStatus": "LIVE $5 paid product — '$5 Mini Growth Audit by the Sharma Brands playbook'. Shipped today (4/25). Pay-first → generate flow. Stripe live (acct Sharma Brands Inc). Watching for first organic conversions.",
-    "alert": null
+    "needsAttention": "Nik to do real $5 purchase + refund for true end-to-end Stripe validation (live cards can't be test-carded). Watch first conversions."
   },
   {
+    "section": "Media & Content",
     "id": "after-ours",
     "emoji": "🎧",
     "title": "After Ours",
     "status": "attention",
-    "lastUpdated": "2026-04-27T10:00",
+    "lastUpdated": "2026-04-27T11:00",
     "bullets": [
       "✅ AO release lock-in 10:30pm WRAPPED 4/23 (Minul)",
       "✅ AO Studio Time 5-6pm + 7-10pm WRAPPED 4/22",
@@ -171,11 +165,10 @@
       "🤖 NEW 4/27 9:04am: Manus job processing — 'Update Spotify Stats and Rebuild Site for After Ours' (afterourssound.com refresh)",
       "💸 NEW 4/27 9:05am: Mercury — Minul sent $650 wire to CG Videos LLC (videographer/content payment)"
     ],
-    "needsAttention": "Post-show Day 9 — pull videographer assets. Brand voice brief still owed to Brandon. After Ours Sync Tue 4/28 2pm. CG Videos $650 paid — watch for asset delivery.",
-    "currentStatus": "Post-show Day 9 (Mon 10am). Release lock-in wrapped 4/23. 🔴 Two fresh signals 9:04-9:05am: Manus rebuilding afterourssound.com site (Spotify stats refresh) + Minul wired $650 to CG Videos LLC (videographer pull-through likely). After Ours Sync Tue 4/28 2pm — agenda: media pull-through, release calendar, brand voice doc.",
-    "alert": null
+    "needsAttention": "Post-show Day 9 — pull videographer assets. Brand voice brief still owed to Brandon. After Ours Sync Tue 4/28 2pm. CG Videos $650 paid — watch for asset delivery."
   },
   {
+    "section": "Media & Content",
     "id": "limited-supply",
     "emoji": "🎙️",
     "title": "Limited Supply Podcast",
@@ -189,16 +182,15 @@
       "Episodes release every Wednesday — 100K+ subscribers",
       "Josiah Writer bot + style guide (18K words) for drafts"
     ],
-    "needsAttention": "✅ StreetTalk wrapped — recap/next steps owed from Matt Hickman.",
-    "currentStatus": "",
-    "alert": null
+    "needsAttention": "✅ StreetTalk wrapped — recap/next steps owed from Matt Hickman."
   },
   {
+    "section": "Media & Content",
     "id": "newsletter",
     "emoji": "📰",
     "title": "Newsletter / Workweek",
     "status": "on-track",
-    "lastUpdated": "2026-04-27T10:00",
+    "lastUpdated": "2026-04-27T11:00",
     "bullets": [
       "✅ SHIPPED Sun 4/26 7:20pm ET — 'The 2026 Vitamins & Supplements Playbook' (Workweek)",
       "📊 Mon AM: pull open/click data — first signal on this week's send",
@@ -210,11 +202,10 @@
       "Josiah 'Ecommerce Equation' VOTW draft delivered — Nik review owed",
       "CTA destination: vms.nik.co (30-min deep-dive field report, live)"
     ],
-    "needsAttention": "Pull open/click data Mon AM on V&S Playbook send. Two LS pod recordings this week (Mon 7pm, Tue 12pm).",
-    "currentStatus": "✅ SHIPPED Sun 4/26 7:20pm ET — 'The 2026 Vitamins & Supplements Playbook'. Mon 10am: open/click data still not in. Two pod recordings stacked Mon 7pm + Tue 12pm.",
-    "alert": null
+    "needsAttention": "Pull open/click data Mon AM on V&S Playbook send. Two LS pod recordings this week (Mon 7pm, Tue 12pm)."
   },
   {
+    "section": "Brand Consulting",
     "id": "brand-consulting",
     "emoji": "💼",
     "title": "Brand Consulting",
@@ -262,11 +253,10 @@
       "GoDaddy: sharmabrands.com renewal placed 4/14 ($49.17)",
       "TEXTNIK.CO auto-renews 5/10 ($51.99/yr)"
     ],
-    "needsAttention": "🔥 BIG INBOUND Mon 4/27 7:57am: Peter Spiegel (Ideal Living CEO) asking Nik to be CMO — $176M → $400M 4yr plan, hybrid 3 days/week LA, PE-backed. Strategic decision needed. Other: INV-5 Day 5 overdue; Air Oasis 17 days late; Peptide list owed to Myles.",
-    "currentStatus": "Mon 4/27 10am. 🔥 Peter Spiegel (Ideal Living CEO) emailed 7:57am asking Nik to consider joining as CMO — $176M → $400M 4yr scale, PE-backed (30%), hybrid LA 3 days/wk. Major strategic decision pending. Pharmacy/peptide TB wrapped 4/24, Nik still owes peptide list to Myles. Sandra in-person 12:30pm. Left Lane in-person 5pm w/ Troy/Rohit. INV-5 Day 5+, Air Oasis 17 days late. Zagged All Hands 2pm conflicts with Dentist 2-4pm.",
-    "alert": "🔥 Peter Spiegel CMO ask (Ideal Living) • INV-5 Day 5 overdue • Air Oasis 17 days late"
+    "needsAttention": "🔥 BIG INBOUND Mon 4/27 7:57am: Peter Spiegel (Ideal Living CEO) asking Nik to be CMO — $176M → $400M 4yr plan, hybrid 3 days/week LA, PE-backed. Strategic decision needed. Other: INV-5 Day 5 overdue; Air Oasis 17 days late; Peptide list owed to Myles."
   },
   {
+    "section": "Brand Consulting",
     "id": "ecom-founders",
     "emoji": "🏗️",
     "title": "Ecom Founders",
@@ -282,11 +272,10 @@
       "Insense sponsorship: Jade sent billing info + logo — Rameez sending contract + invoice",
       "Website being built by Riaz"
     ],
-    "needsAttention": "Sept 10 vs Oct 28 venue decision — Rameez driving. Hold at NYT competing, urgent. Ben Walter (Postpilot) flagged Drew Hart tag @ Stord Summit.",
-    "currentStatus": "",
-    "alert": null
+    "needsAttention": "Sept 10 vs Oct 28 venue decision — Rameez driving. Hold at NYT competing, urgent. Ben Walter (Postpilot) flagged Drew Hart tag @ Stord Summit."
   },
   {
+    "section": "Rolling Ventures",
     "id": "rolling-ventures",
     "emoji": "🎯",
     "title": "Rolling Ventures Fund",
@@ -310,11 +299,10 @@
       "⚠️ unspun Inc Pay-to-Play Series B-3 — signature still required ASAP",
       "📧 Kristina Igoe (Left Lane) — in-person w/ Nik/Troy/Rohit coordinating"
     ],
-    "needsAttention": "Mon 5pm: Left Lane in-person w/ Nik/Troy/Rohit. Tue 4/28 stack: PDQ 3pm → Instant 4pm → Matt 4:30pm. unspun B-3 signature ASAP. PEF QSBS Roundtable Wed 4/29.",
-    "currentStatus": "Mon 4/27 10am. RV TB WRAPPED Fri 4/24 — recap still owed. 🔥 Mon 5pm: Left Lane in-person (Nik/Troy/Rohit — Kristina Igoe coordinated). Tue 4/28 stack: PDQ 3pm + Instant follow-up 4pm + Matt 4:30pm + Data-First Commerce 6-8:30pm. Wed 4/29 PEF QSBS Roundtable. Ben Zises 5/6. ⚠️ unspun B-3 signature still required ASAP.",
-    "alert": "unspun B-3 signature ASAP"
+    "needsAttention": "Mon 5pm: Left Lane in-person w/ Nik/Troy/Rohit. Tue 4/28 stack: PDQ 3pm → Instant 4pm → Matt 4:30pm. unspun B-3 signature ASAP. PEF QSBS Roundtable Wed 4/29."
   },
   {
+    "section": "Rolling Ventures",
     "id": "personal-investments",
     "emoji": "💰",
     "title": "Personal Investments",
@@ -326,28 +314,30 @@
       "POPWTR — Lemon Perfect founder, $175M+ sales track, Seed Round",
       "Tracked separately from Rolling Ventures fund"
     ],
-    "needsAttention": null,
-    "currentStatus": "",
-    "alert": null
+    "needsAttention": null
   },
   {
+    "section": "Nik Sharma — Personal",
     "id": "travel",
     "emoji": "✈️",
     "title": "Today & This Week",
     "status": "attention",
-    "lastUpdated": "2026-04-27T10:00",
+    "lastUpdated": "2026-04-27T11:00",
     "bullets": [
       "🔥 Mon 7:57am: Peter Spiegel (Ideal Living CEO) — CMO recruiting ask — IMPORTANT, brand label",
-      "✅ Newsletter SHIPPED Sun 4/26 7:20pm — V&S Playbook (open/click data Mon AM)",
-      "💪 MON 4/27 NOW: Fort 10-11am LIVE • Sandra in-person 12:30pm • Check-In 11:30am",
+      "✅ Newsletter SHIPPED Sun 4/26 7:20pm — V&S Playbook (open/click data still pending Mon AM)",
+      "🚨 NEW 10:51am: Google Ads admin user removed (805-397-5093) — IMPORTANT, verify intentional",
+      "📅 MON 4/27 NOW (11am): Fort done • Check-In 11:30am NEXT • Sandra in-person 12:30pm • Dentist 2-4pm",
       "⚠️ Mon 2pm CONFLICT: Dentist 2-4pm overlaps Zagged All Hands 2-2:30pm",
-      "🔥 Mon 5pm Left Lane in-person (Troy/Rohit) • Mon 7pm LS Pod recording",
+      "🔥 Mon 4pm Prep for Leftlane (Facetime) → 5pm Left Lane in-person (Troy/Rohit) • Mon 7pm LS Pod recording",
       "📞 TUE 4/28: Zurp 11:30am → LS Pod 12pm → After Ours Sync 2pm → PDQ 3pm → Instant 4pm → Matt 4:30pm → Data-First Commerce 6-8:30pm",
-      "📧 NEW Sun 1:24pm: Pierson Krass yanked Nik off Lunar Ideal Living TB Apr 30 — invite removed",
-      "🏠 NEW Sun 1:24pm: Lightwork Home Health invite (Fri May 8 12-5pm) — Johnny Bowman, via Justin Mares (TrueMed) intro 4/22 — free home test (air/water/EMF/mold)",
-      "💸 INV-5 YoSharma OVERDUE (Day 4) — collect Mon",
+      "📧 NEW Mon 10:39am: Nichole (codingcopsdev.cloud) inbound 'external help' — pitch/respond",
+      "📧 NEW Mon 10:19am: Priyesh Tiwarkar (Soshals) — sponsored content partnership pitch",
+      "📧 Sun 1:24pm: Pierson Krass yanked Nik off Lunar Ideal Living TB Apr 30 — invite removed",
+      "🏠 Sun 1:24pm: Lightwork Home Health invite (Fri May 8 12-5pm) — Johnny Bowman via Justin Mares intro",
+      "💸 INV-5 YoSharma OVERDUE (Day 5) — collect Mon",
       "💰 Dillon Plageman invoice $3,480 (Macra site) — review Mon",
-      "🚨 Air Oasis homepage — 16 days overdue",
+      "🚨 Air Oasis homepage — 17 days overdue",
       "⚠️ unspun Inc Pay-to-Play Series B-3 signature still required ASAP",
       "📁 Rameez 'Nik Content' Drive folder — review still owed",
       "📐 Rameez Figma PDP Carousels access — grant still owed",
@@ -356,11 +346,10 @@
       "📧 Respond queue still hot: Brigitta Ruha • Arjun Padmakumar • Alexandra Zatarain • John Richards • Andrew Ferenci • Justin Mares (TrueMed)",
       "📅 Apr 28 Instant follow-up • Apr 29 PEF QSBS Roundtable Lunch • May 6 Ben Zises • May 8 Lightwork Home Health • May 29-31 PEF Clarity Retreat"
     ],
-    "needsAttention": "⚠️ Mon 2pm conflict: Dentist 2-4pm vs Zagged All Hands 2-2:30pm — resolve in next 4hrs. 🔥 Peter Spiegel CMO ask landed 7:57am — strategic decision pending.",
-    "currentStatus": "Mon 4/27 10am LIVE. Fort 10-11am NOW → Sandra in-person 12:30pm → Dentist 2-4pm (⚠️ conflicts Zagged All Hands 2pm) → Left Lane in-person 5pm (Troy/Rohit) → LS Pod 7pm. 🔥 Peter Spiegel CMO ask still open.",
-    "alert": "⚠️ Mon 2pm conflict: Dentist vs Zagged • 🔥 Peter Spiegel CMO ask"
+    "needsAttention": "⚠️ Mon 2pm conflict: Dentist 2-4pm vs Zagged All Hands 2-2:30pm — resolve in next 4hrs. 🔥 Peter Spiegel CMO ask landed 7:57am — strategic decision pending."
   },
   {
+    "section": "Operations",
     "id": "my-agents",
     "emoji": "🤖",
     "title": "My Agents",
@@ -375,8 +364,6 @@
       "🆕 Jet Status Bot configured for monitoring output",
       "Namecheap API connected — macra.com + niksharma.io managed"
     ],
-    "needsAttention": null,
-    "currentStatus": "Dashboard refresh Mon 4/27 10:00am ET (cron) — calendar pulled (next 48h), unread email (4h, both accounts), Slack quiet, Fireflies stale. Net new since 9am: Manus job processing After Ours site rebuild (9:04am) + Minul wired $650 to CG Videos LLC (9:05am). Peter Spiegel CMO ask still hot from 7:57am.",
-    "alert": null
+    "needsAttention": null
   }
 ]
