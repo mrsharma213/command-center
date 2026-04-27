@@ -1,6 +1,6 @@
 {
-  "total": 158,
-  "last_updated": "2026-04-27T07:54:27.691Z",
+  "total": 159,
+  "last_updated": "2026-04-27T07:54:56.511Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1264,6 +1264,14 @@
       "source": "web",
       "referrer": "",
       "ip": "159.224.229.27",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "sebastian.mueller@maxgruendl.de",
+      "ts": "2026-04-27T07:54:56.371Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "80.187.113.38",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
