@@ -1,6 +1,6 @@
 {
-  "total": 261,
-  "last_updated": "2026-04-27T15:42:52.403Z",
+  "total": 262,
+  "last_updated": "2026-04-27T15:50:01.310Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2089,6 +2089,14 @@
       "referrer": "",
       "ip": "108.198.50.182",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "snooze@uglysleepclub.com",
+      "ts": "2026-04-27T15:50:00.999Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "136.34.216.127",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0"
     }
   ]
 }
