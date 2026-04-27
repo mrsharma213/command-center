@@ -1,6 +1,6 @@
 {
-  "total": 296,
-  "last_updated": "2026-04-27T18:53:28.260Z",
+  "total": 297,
+  "last_updated": "2026-04-27T18:53:49.297Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2369,6 +2369,14 @@
       "referrer": "",
       "ip": "69.113.128.123",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "anna@wydawnictwosam.pl",
+      "ts": "2026-04-27T18:53:49.160Z",
+      "source": "web",
+      "referrer": "android-app://com.slack/",
+      "ip": "92.178.152.111",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36"
     }
   ]
 }
