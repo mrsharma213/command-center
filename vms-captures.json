@@ -1,6 +1,6 @@
 {
-  "total": 320,
-  "last_updated": "2026-04-27T22:30:09.478Z",
+  "total": 321,
+  "last_updated": "2026-04-27T22:52:03.057Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2561,6 +2561,14 @@
       "referrer": "",
       "ip": "98.164.199.153",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "tessaschrupp@drinkwholesome.company",
+      "ts": "2026-04-27T22:52:02.883Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "174.229.84.143",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
