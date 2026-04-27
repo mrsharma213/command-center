@@ -1,6 +1,6 @@
 {
-  "total": 63,
-  "last_updated": "2026-04-27T01:08:29.183Z",
+  "total": 64,
+  "last_updated": "2026-04-27T01:08:35.385Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -505,6 +505,14 @@
       "referrer": "android-app://com.google.android.gm/",
       "ip": "104.203.175.58",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "felix@timewarp.com",
+      "ts": "2026-04-27T01:08:35.255Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "172.59.223.33",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1"
     }
   ]
 }
