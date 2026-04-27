@@ -1,6 +1,6 @@
 {
-  "total": 48,
-  "last_updated": "2026-04-27T00:11:01.812Z",
+  "total": 49,
+  "last_updated": "2026-04-27T00:12:53.563Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -384,6 +384,14 @@
       "source": "web",
       "referrer": "",
       "ip": "98.244.203.158",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "hello@junula.com",
+      "ts": "2026-04-27T00:12:53.416Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "162.239.189.20",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
     }
   ]
