@@ -1,6 +1,6 @@
 {
-  "total": 236,
-  "last_updated": "2026-04-27T14:24:50.998Z",
+  "total": 237,
+  "last_updated": "2026-04-27T14:32:54.191Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1889,6 +1889,14 @@
       "referrer": "",
       "ip": "47.203.29.102",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "smari@byggfoods.com",
+      "ts": "2026-04-27T14:32:54.010Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "71.202.111.18",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
