@@ -1,6 +1,6 @@
 {
-  "total": 202,
-  "last_updated": "2026-04-27T12:15:15.390Z",
+  "total": 203,
+  "last_updated": "2026-04-27T12:16:04.029Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1617,6 +1617,14 @@
       "referrer": "",
       "ip": "194.88.96.181",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "douglas@completebari.com.br",
+      "ts": "2026-04-27T12:16:03.856Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "179.87.130.237",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
