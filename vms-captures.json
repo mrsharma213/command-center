@@ -1,6 +1,6 @@
 {
-  "total": 196,
-  "last_updated": "2026-04-27T11:28:14.660Z",
+  "total": 197,
+  "last_updated": "2026-04-27T11:38:06.211Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1568,6 +1568,14 @@
       "source": "web",
       "referrer": "",
       "ip": "150.220.144.19",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "thiago@vhita.com.br",
+      "ts": "2026-04-27T11:38:06.059Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "172.225.83.39",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1"
     }
   ]
