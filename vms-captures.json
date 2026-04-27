@@ -1,6 +1,6 @@
 {
-  "total": 301,
-  "last_updated": "2026-04-27T19:04:16.256Z",
+  "total": 302,
+  "last_updated": "2026-04-27T19:32:07.000Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2408,6 +2408,14 @@
       "source": "web",
       "referrer": "",
       "ip": "85.253.16.22",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "david.yu@klevahealth.com",
+      "ts": "2026-04-27T19:32:06.828Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "174.83.136.23",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
