@@ -1,6 +1,6 @@
 {
-  "total": 163,
-  "last_updated": "2026-04-27T08:07:27.504Z",
+  "total": 164,
+  "last_updated": "2026-04-27T08:17:09.900Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1304,6 +1304,14 @@
       "source": "web",
       "referrer": "",
       "ip": "151.82.21.163",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "laila@joinmelina.com",
+      "ts": "2026-04-27T08:17:09.725Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "86.248.50.64",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
