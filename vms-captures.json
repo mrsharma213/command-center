@@ -1,6 +1,6 @@
 {
-  "total": 229,
-  "last_updated": "2026-04-27T14:14:18.981Z",
+  "total": 230,
+  "last_updated": "2026-04-27T14:15:22.011Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1833,6 +1833,14 @@
       "referrer": "",
       "ip": "85.49.11.88",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "goncalo@sunnasupplements.com",
+      "ts": "2026-04-27T14:15:21.834Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "188.195.158.230",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
