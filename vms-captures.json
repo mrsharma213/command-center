@@ -1,6 +1,6 @@
 {
-  "total": 74,
-  "last_updated": "2026-04-27T01:42:48.415Z",
+  "total": 75,
+  "last_updated": "2026-04-27T01:55:07.991Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -593,6 +593,14 @@
       "referrer": "",
       "ip": "98.97.143.225",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "victoria@thepatchremedy.com",
+      "ts": "2026-04-27T01:55:07.859Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "1.158.95.33",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
