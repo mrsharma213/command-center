@@ -1,6 +1,6 @@
 {
-  "total": 285,
-  "last_updated": "2026-04-27T17:54:37.061Z",
+  "total": 286,
+  "last_updated": "2026-04-27T17:56:14.993Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2280,6 +2280,14 @@
       "source": "web",
       "referrer": "",
       "ip": "76.65.45.44",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "brenda.manthe@naturesway.com",
+      "ts": "2026-04-27T17:56:14.811Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "71.195.15.79",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
