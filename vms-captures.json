@@ -1,6 +1,6 @@
 {
-  "total": 213,
-  "last_updated": "2026-04-27T13:10:08.927Z",
+  "total": 214,
+  "last_updated": "2026-04-27T13:12:59.201Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1705,6 +1705,14 @@
       "referrer": "",
       "ip": "219.79.3.69",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "austin@healthycell.com",
+      "ts": "2026-04-27T13:12:59.054Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "69.1.197.249",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
     }
   ]
 }
