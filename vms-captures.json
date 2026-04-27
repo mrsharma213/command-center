@@ -1,6 +1,6 @@
 {
-  "total": 110,
-  "last_updated": "2026-04-27T04:27:45.223Z",
+  "total": 111,
+  "last_updated": "2026-04-27T04:39:21.230Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -881,6 +881,14 @@
       "referrer": "",
       "ip": "76.33.86.102",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "sharma.udit90@gmail.com",
+      "ts": "2026-04-27T04:39:21.098Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "94.202.121.230",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
