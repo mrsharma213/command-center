@@ -1,6 +1,6 @@
 {
-  "total": 143,
-  "last_updated": "2026-04-27T06:51:06.155Z",
+  "total": 144,
+  "last_updated": "2026-04-27T06:53:16.186Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -1144,6 +1144,14 @@
       "source": "web",
       "referrer": "",
       "ip": "83.9.136.206",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "halvard@simpleness.no",
+      "ts": "2026-04-27T06:53:16.030Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "213.52.15.91",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
     }
   ]
