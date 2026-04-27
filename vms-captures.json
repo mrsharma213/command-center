@@ -1,6 +1,6 @@
 {
-  "total": 72,
-  "last_updated": "2026-04-27T01:37:04.075Z",
+  "total": 73,
+  "last_updated": "2026-04-27T01:37:22.947Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -577,6 +577,14 @@
       "referrer": "",
       "ip": "47.186.75.168",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "justin.chiam@thepurestgroup.com",
+      "ts": "2026-04-27T01:37:22.832Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "158.140.140.40",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
