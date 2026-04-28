@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-27T22:00:00Z",
+  "lastRefreshed": "2026-04-28T14:00:00Z",
   "flagged": [
     {
       "id": "google-ads-admin",
@@ -21,23 +21,23 @@
       "id": "yosharma-inv5",
       "emoji": "💰",
       "title": "YoSharma LLC Invoice INV-5 — OVERDUE (Day 5)",
-      "detail": "Mercury alert 4/22 AM: INV-5 from YoSharma LLC overdue. Still outstanding Mon 4/27 11am. Day 5 — review customer + collect.",
+      "detail": "Mercury alert 4/22 AM: INV-5 from YoSharma LLC overdue. Still outstanding Tue 4/28 9am. Day 6 — review customer + collect.",
       "severity": "attention",
       "since": "2026-04-22"
     },
     {
       "id": "air-oasis",
       "emoji": "🚨",
-      "title": "Air Oasis homepage — 17 days overdue",
-      "detail": "Homepage deliverable was due Fri 4/10. Still outstanding 17 days in (Mon 4/27). Ping client + status update.",
+      "title": "Air Oasis homepage — 18 days overdue",
+      "detail": "Homepage deliverable was due Fri 4/10. Still outstanding 18 days in (Tue 4/28). Ping client + status update.",
       "severity": "attention",
       "since": "2026-04-10"
     },
     {
       "id": "corpora-83b",
       "emoji": "📋",
-      "title": "Corpora 83(b) — physical docs shred in 5 days",
-      "detail": "Team Corpora: 83(b) election physical documents (Order D3CS6YMK187F) will be shredded after 10 days (5 days elapsed). Confirm digital filing received + pickup decision.",
+      "title": "Corpora 83(b) — physical docs shred in 4 days",
+      "detail": "Team Corpora: 83(b) election physical documents (Order D3CS6YMK187F) will be shredded after 10 days (6 days elapsed). Confirm digital filing received + pickup decision.",
       "severity": "attention",
       "since": "2026-04-20"
     },
@@ -78,7 +78,7 @@
     "status": "shipped",
     "sendDay": "Sunday",
     "topic": "The 2026 Vitamins & Supplements Playbook",
-    "note": "✅ SHIPPED Sun 4/26 7:20pm ET — 'The 2026 Vitamins & Supplements Playbook' (Workweek). Mon AM: pull open/click data. Next send Sun 5/3.",
+    "note": "✅ SHIPPED Sun 4/26 7:20pm ET — 'The 2026 Vitamins & Supplements Playbook' (Workweek). 2-day open/click data due. Next send Sun 5/3.",
     "daysToSend": 6,
     "nextSend": "2026-05-03",
     "topicIdeas": [
@@ -96,12 +96,13 @@
           "status": "attention",
           "lastUpdated": "2026-04-27T17:00",
           "bullets": [
-            "💊 Day 11 post-launch (Apr 16 launch) — Mon noon, monitoring sales + ad performance",
-            "📄 NEW 11:10am: Jet shared 'Scout — Kids Need-Based Supplements — Opportunity Assessment — 2026-04-27' Google Doc — adjacency review",
-            "💰 Dillon Plageman invoice $3,480 (49h × $120/hr − $2,400 prepaid) — site build, review/pay",
+            "💊 Day 12 post-launch (Apr 16 launch) — Tue 9am, monitoring sales + ad performance",
+            "📧 Rameez 'New Macra Stuff' thread NOW 78 msgs (latest 4/28 1:53am ET) — vendor finalization moving overnight",
+            "📄 Scout — Kids Need-Based Supplements — Opportunity Assessment doc (shared 4/27 11:10am) — adjacency review still owed",
+            "💰 Dillon Plageman invoice $3,480 (49h × $120/hr − $2,400 prepaid) — site build, review/pay (Day 4)",
             "✅ Macra TB 3:00pm WRAPPED 4/23",
             "✅ Lunar: Ideal Living Weekly Leadership TB 3:30pm WRAPPED 4/23",
-            "📧 Rameez 'New Macra Stuff' thread (75 msgs, last 4/24 12:00pm) — vendor finalization pending",
+            "📧 Rameez 'Re: Novel Follow Up' — Tim Combatti (Queen One) credit + Shopify refund coordination active",
             "📧 Rameez 'Macra testing' thread active — COAs + Light Labs coordination",
             "📐 Still owed: grant Rameez Figma access on 'Macra PDP Carousels (Figma Spec + Slot Plan)'",
             "📁 Still owed: review 'Nik Content' Drive folder (Rameez shared 4/21)",
@@ -110,8 +111,8 @@
             "Initial ad spend $30K deploying • Monitor early performance data",
             "✅ verified.macra.com CNAME added via Namecheap API"
           ],
-          "needsAttention": "Review/approve Dillon $3,480 invoice TODAY. Read Scout Kids Need-Based Supplements doc (shared 11:10am) — adjacency to Macra. Grant Rameez Figma access on PDP Carousels file. Review 'Nik Content' Drive folder.",
-          "currentStatus": "Day 11 post-launch (Mon 5pm). Dillon $3,480 invoice review still pending TODAY. Scout Kids Need-Based Supplements doc (shared 11:10am) review pending. Rameez Figma PDP Carousels access + 'Nik Content' Drive review still outstanding. Rameez 14:21 'Re: Novel Follow Up' inbound.",
+          "needsAttention": "Review/approve Dillon $3,480 invoice (Day 4). Read Scout Kids Need-Based Supplements doc — adjacency to Macra. Grant Rameez Figma access on PDP Carousels file. Review 'Nik Content' Drive folder.",
+          "currentStatus": "Tue 4/28 10am — Day 12 post-launch. Rameez 'New Macra Stuff' active overnight (78 msgs, latest 1:53am Tue). Dillon $3,480 invoice review Day 4. Scout Kids Need-Based Supplements doc still owed. Figma + 'Nik Content' Drive still outstanding.",
           "alert": null
         },
         {
@@ -151,7 +152,8 @@
             "Coordinated via Minul @ nik.co"
           ],
           "needsAttention": "Nik owes Maruchan strategy/recommendation doc by Mon/Tues after reviewing weekend materials. Watch for Katelyn’s Slack/data package and access grants.",
-          "currentStatus": "Sat 10pm — KO complete (4/24). Weekend review window: Katelyn to send segmentation, vendor decks, TikTok Shop/influencer proposals, LLM/PR audits, Pacvue/Kale access, raw media data. Nik owes comprehensive strategy doc + vendor recommendations by Mon/Tues + May 1 prorated invoice.",
+          "currentStatus": "Tue 4/28 10am — KO complete 4/24 (Day 4 post). Minul 'Maruchan x Nik Sharma' thread 19 msgs (latest 4/27 5:17pm). Strategy doc due Mon/Tues — TODAY is the deadline. May 1 prorated invoice 3 days out.",
+          "alert": "📝 Maruchan strategy doc due TODAY",
           "alert": null
         },
         {
@@ -161,9 +163,10 @@
           "status": "attention",
           "lastUpdated": "2026-04-27T17:00",
           "bullets": [
-            "✅ Amoria meet WRAPPED 4/24 5:30-6:30pm — Cordell/Troy/D/Rameez/Jim/Gisela/Frank/Nik. Recap/next steps owed TODAY.",
-            "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — signature still pending (Day 3, 70h+ elapsed)",
-            "⏳ Jack <> Troy <> Nik call WRAPPED 4/22 — recap/next steps still pending (Day 3)",
+            "🔥 Zurp Check-In TODAY 11:30am ET (within 1.5h) — bring Amoria recap, Alec status, Jack/Troy/Nik recap, UnKommon Miami status",
+            "✅ Amoria meet WRAPPED 4/24 5:30-6:30pm — Cordell/Troy/D/Rameez/Jim/Gisela/Frank/Nik. Recap/next steps still owed (Day 4).",
+            "📧 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 — signature still pending (Day 6, ~115h+ since view)",
+            "⏳ Jack <> Troy <> Nik call WRAPPED 4/22 — recap/next steps still pending (Day 6)",
             "🆕 UnKommon x Zurp agreement (Miami expansion) — signature status monitor (sent 4/21)",
             "🏙️ Rameez pitch to Noah @ Common Country Bar still outstanding",
             "💸 Mercury 4/24 2:27pm: Minul sent $240 wire to Zhangjiagang Melcorp (hardware supplier)",
@@ -174,9 +177,9 @@
             "💰 Revenue split: 50/50 with venues",
             "✅ Brand book DONE — brand.zurp.com (password: zurp2026)"
           ],
-          "needsAttention": "Capture Amoria/Cordell next steps TODAY. Alec Docusign Day 5. Jack <> Troy <> Nik recap overdue Day 5. Zurp Check-In Tue 4/28 11:30am (~17.5h).",
-          "currentStatus": "Mon 4/27 6pm. Amoria meet WRAPPED Fri 4/24 — recap/next steps still owed. Alec Docusign signature pending Day 5+ (~100h+ since view). Jack <> Troy <> Nik recap overdue Day 5. UnKommon Miami signature monitor. Zurp Check-In Tue 4/28 11:30am (~17.5h).",
-          "alert": "Zurp Check-In Tue 11:30am — within 24h"
+          "needsAttention": "🔥 Zurp Check-In TODAY 11:30am (within 1.5h) — bring Amoria recap, Alec status, Jack/Troy/Nik recap, UnKommon Miami status. Alec Docusign Day 6. Jack recap Day 6.",
+          "currentStatus": "Tue 4/28 10am. 🔥 Zurp Check-In TODAY 11:30am (within 1.5h). Amoria meet WRAPPED Fri 4/24 — recap/next steps still owed (Day 4). Alec Docusign signature pending Day 6 (~115h+ since view). Jack <> Troy <> Nik recap overdue Day 6. UnKommon Miami signature monitor.",
+          "alert": "🔥 Zurp Check-In TODAY 11:30am — within 1.5h"
         },
         {
           "id": "authentiq",
@@ -246,7 +249,7 @@
           "emoji": "🎧",
           "title": "After Ours",
           "status": "attention",
-          "lastUpdated": "2026-04-27T17:00",
+          "lastUpdated": "2026-04-28T09:00",
           "bullets": [
             "✅ AO release lock-in 10:30pm WRAPPED 4/23 (Minul)",
             "✅ AO Studio Time 5-6pm + 7-10pm WRAPPED 4/22",
@@ -261,17 +264,19 @@
             "🤖 NEW 4/27 9:04am: Manus job processing — 'Update Spotify Stats and Rebuild Site for After Ours' (afterourssound.com refresh)",
             "💸 NEW 4/27 9:05am: Mercury — Minul sent $650 wire to CG Videos LLC (videographer/content payment)"
           ],
-          "needsAttention": "Post-show Day 9 — pull videographer assets. Brand voice brief still owed to Brandon. After Ours Sync Tue 4/28 2pm. CG Videos $650 paid — watch for asset delivery.",
-          "currentStatus": "Post-show Day 9 (Mon 6pm). After Ours Sync Tue 4/28 2-3pm scheduled (~20h). Release lock-in wrapped 4/23. Manus job processing afterourssound.com still pending review.",
-          "alert": "After Ours Sync Tue 2pm — within 24h"
+          "needsAttention": "🔥 After Ours Sync TODAY 2-3pm (within 4h). Post-show Day 10 — pull videographer assets. Brand voice brief still owed to Brandon. CG Videos $650 paid — watch for asset delivery. Wed AO Studio Time 5-6pm + 7-10pm.",
+          "currentStatus": "Tue 4/28 10am. After Ours Sync TODAY 2-3pm (within 4h). Post-show Day 10. Release lock-in wrapped 4/23. Manus afterourssound.com refresh still pending review. Wed double-block AO Studio Time scheduled.",
+          "alert": "🔥 After Ours Sync TODAY 2pm — within 4h"
         },
         {
           "id": "limited-supply",
           "emoji": "🎙️",
           "title": "Limited Supply Podcast",
           "status": "on-track",
-          "lastUpdated": "2026-04-27T17:00",
+          "lastUpdated": "2026-04-28T09:00",
           "bullets": [
+            "🔥 LS Podcast Recording TODAY 12-1pm ET (within 2h) — second of two recordings this week",
+            "✅ LS Podcast Recording WRAPPED 4/27 7-8:15pm ET",
             "✅ StreetTalk Interview WRAPPED 4:30-5pm ET 4/23 (Matt Hickman/Flickman Media) — recap/next steps owed",
             "✅ Limited Supply Recording WRAPPED 4/21",
             "Vinay Sridhar (Reddit) podcast episode — scheduling",
@@ -279,19 +284,21 @@
             "Episodes release every Wednesday — 100K+ subscribers",
             "Josiah Writer bot + style guide (18K words) for drafts"
           ],
-          "needsAttention": "✅ StreetTalk wrapped — recap/next steps owed from Matt Hickman.",
-          "currentStatus": "Mon 4/27 6pm. 🎙️ Limited Supply Podcast Recording 7-8:15pm TONIGHT (~1h) + Tue 4/28 12-1pm follow-up recording. Newsletter sent Sun 4/26 7:20pm ET — open/click data tracking 23h post-send."
+          "needsAttention": "🔥 LS Podcast Recording TODAY 12-1pm (within 2h). ✅ StreetTalk recap/next steps still owed from Matt Hickman.",
+          "currentStatus": "Tue 4/28 10am. 🔥 LS Podcast Recording TODAY 12-1pm ET (within 2h). Mon 7-8:15pm pod recording WRAPPED. Newsletter sent Sun 4/26 7:20pm ET — open/click data ~39h post-send.",
+          "alert": "🔥 LS Pod Recording TODAY 12pm — within 2h"
         },
         {
           "id": "newsletter",
           "emoji": "📰",
           "title": "Newsletter / Workweek",
           "status": "on-track",
-          "lastUpdated": "2026-04-27T12:00",
+          "lastUpdated": "2026-04-28T09:00",
           "bullets": [
             "✅ SHIPPED Sun 4/26 7:20pm ET — 'The 2026 Vitamins & Supplements Playbook' (Workweek)",
-            "📊 Mon AM: pull open/click data — first signal on this week's send",
-            "🎙️ LS Pod recordings this week: Mon 4/27 7-8:15pm + Tue 4/28 12-1pm",
+            "📊 38h post-send: pull open/click data on V&S Playbook",
+            "✅ LS Pod recording Mon 4/27 7-8:15pm WRAPPED",
+            "🔥 LS Pod recording Tue 4/28 12-1pm — within 3h",
             "📅 Next send: Sun 5/3",
             "✅ Apr 19 SHIPPED — 'The product is fine. The education is broken.'",
             "✅ Workweek recording 4/20 — wrapped",
@@ -299,8 +306,8 @@
             "Josiah 'Ecommerce Equation' VOTW draft delivered — Nik review owed",
             "CTA destination: vms.nik.co (30-min deep-dive field report, live)"
           ],
-          "needsAttention": "Pull open/click data Mon EOD on V&S Playbook send. Two LS pod recordings this week (Mon 7pm in ~1h, Tue 12pm).",
-          "currentStatus": "✅ SHIPPED Sun 4/26 7:20pm ET — 'The 2026 Vitamins & Supplements Playbook'. Mon 6pm: open/click data still pending. LS pod #1 in ~1h (7pm), pod #2 Tue 12pm.",
+          "needsAttention": "Pull V&S Playbook open/click data (39h post-send). 🔥 LS pod recording TODAY 12pm (within 2h).",
+          "currentStatus": "Tue 4/28 10am. V&S Playbook 39h post-send — open/click data review still pending. LS pod #1 (Mon 7pm) WRAPPED — #2 TODAY 12pm (within 2h).",
           "alert": null
         }
       ]
@@ -409,9 +416,9 @@
             "⚠️ unspun Inc Pay-to-Play Series B-3 — signature still required ASAP",
             "📧 Kristina Igoe (Left Lane) — in-person w/ Nik/Troy/Rohit coordinating"
           ],
-          "needsAttention": "Left Lane in-person should be wrapping (5-6pm). Tue 4/28 stack: PDQ 3pm → Instant 4pm → Matt 4:30pm. unspun B-3 signature ASAP. PEF QSBS Roundtable Wed 4/29.",
-          "currentStatus": "Mon 4/27 6pm. RV TB WRAPPED Fri 4/24 — recap still owed (Day 3). Left Lane in-person 5-6pm wrapping; capture next steps. Tue 4pm Instant follow-up locked. PEF QSBS Roundtable Wed 4/29.",
-          "alert": "📝 Left Lane next steps owed • RV recap Day 3 • PEF QSBS Wed 4/29"
+          "needsAttention": "Tue 4/28 stack: PDQ 3pm → Instant 4pm → Matt 4:30pm. RV TB recap Day 4. Left Lane in-person next steps still owed. unspun B-3 signature ASAP. PEF QSBS Roundtable TOMORROW Wed 4/29.",
+          "currentStatus": "Tue 4/28 10am. RV TB WRAPPED Fri 4/24 — recap still owed (Day 4). Left Lane in-person Mon 5-6pm WRAPPED — next steps still owed. Tue 4pm Instant follow-up locked (within 6h). PEF QSBS Roundtable Wed 4/29 — TOMORROW.",
+          "alert": "📝 PEF QSBS Roundtable TOMORROW Wed 4/29 • RV recap Day 4 • Left Lane next steps owed"
         },
         {
           "id": "personal-investments",
@@ -468,9 +475,9 @@
             "📧 Respond queue still hot: Brigitta Ruha • Arjun Padmakumar • Alexandra Zatarain • John Richards • Andrew Ferenci • Justin Mares (TrueMed)",
             "📅 Apr 28 Instant follow-up • Apr 29 PEF QSBS Roundtable Lunch • May 6 Ben Zises • May 8 Lightwork Home Health • May 29-31 PEF Clarity Retreat"
           ],
-          "needsAttention": "🔥 Peter Spiegel CMO ask still pending strategic decision. 🎙️ LS Pod recording 7pm tonight (~1h). 📧 NEW 12:08pm: Rameez 'Jim x Nik' UNREAD/IMPORTANT — review. 📄 Scout Kids Supplements doc still owed review (shared 11:10am).",
-          "currentStatus": "Mon 4/27 6pm. Left Lane in-person 5-6pm wrapping → 7-8:15pm Limited Supply Podcast Recording in ~1h. Newsletter open/click data still pending 23h post-send.",
-          "alert": "🎙️ 7pm LS Pod (~1h) • 🔥 Peter Spiegel CMO ask • 📝 Left Lane next steps owed"
+          "needsAttention": "🔥 Peter Spiegel CMO ask still pending strategic decision. 🎙️ LS Pod #2 TODAY 12pm (within 2h). 🎧 AO Sync 2pm. 📧 Rameez 'Jim x Nik' UNREAD/IMPORTANT — review. 📄 Scout Kids Supplements doc still owed review.",
+          "currentStatus": "Tue 4/28 10am. ON DECK: 11am Check-In → 11:30am Zurp → 12pm LS Pod → 1pm YoSharma → 2pm AO Sync → 3pm PDQ → 4pm Instant → 4:30pm Matt → 6-8:30pm Data-First Commerce. Newsletter 39h post-send — open/click data still pending.",
+          "alert": "🔥 11am Check-In • 11:30am Zurp • 12pm LS Pod • 2pm AO Sync • 6pm Data-First Commerce"
         }
       ]
     },
@@ -493,7 +500,7 @@
             "Namecheap API connected — macra.com + niksharma.io managed"
           ],
           "needsAttention": null,
-          "currentStatus": "Dashboard refresh Mon 4/27 6:00pm ET (cron) — Left Lane in-person 5-6pm wrapping, LS pod 7pm tonight; Tue Zurp 11:30am, YoSharma 1pm, After Ours 2pm, PDQ 3pm, Instant 4pm, Matt 4:30pm, Data-First Commerce 6-8:30pm. New 5:31pm: Justin Mares 'Quick thing' 9-msg thread. New 5:54pm: Chandni Saeed (Paychex) 'Dropping By'. All 3 dashboards (Command Center, YoSharma, Internal) regenerated."
+          "currentStatus": "Dashboard refresh Tue 4/28 10:00am ET (cron) — TODAY: 11am Check-In, 11:30am Zurp, 12pm LS Pod #2, 1pm YoSharma, 2pm AO Sync, 3pm PDQ, 4pm Instant, 4:30pm Matt, 6-8:30pm Data-First Commerce. NEW overnight: Rameez 'New Macra Stuff' 78 msgs (1:53am ET). NEW 9:55am: Zlatin Manahov 'outbound idea' inbound. All 3 dashboards (Command Center, YoSharma, Internal) regenerated."
         }
       ]
     }
