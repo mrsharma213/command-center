@@ -1,6 +1,6 @@
 {
-  "total": 356,
-  "last_updated": "2026-04-28T09:27:27.606Z",
+  "total": 357,
+  "last_updated": "2026-04-28T09:37:07.032Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2849,6 +2849,14 @@
       "referrer": "",
       "ip": "151.225.152.115",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "shoshana@equitihealth.co.uk",
+      "ts": "2026-04-28T09:37:06.867Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "195.26.117.254",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
     }
   ]
 }
