@@ -22,9 +22,10 @@
       "Initial ad spend $30K deploying • Monitor early performance data",
       "✅ verified.macra.com CNAME added via Namecheap API"
     ],
-    "needsAttention": "Review/approve Dillon $3,480 invoice (Day 4). Read Scout Kids Need-Based Supplements doc — adjacency to Macra. Grant Rameez Figma access on PDP Carousels file. Review 'Nik Content' Drive folder.",
-    "currentStatus": "Tue 4/28 3pm — Day 12 post-launch. Macra TB on cal 5-6pm (within 2h). Rameez 'New Macra Stuff' 79+ msgs. Dillon $3,480 invoice review Day 4. Scout Kids Need-Based Supplements doc still owed. Figma + 'Nik Content' Drive still outstanding.",
-    "alert": null
+    "needsAttention": "Review/approve Dillon $3,480 invoice (Day 4). 🆕 Macra Site Audit (GPT-5.5) doc shared by Jet 3:34pm — review. Read Scout Kids Need-Based Supplements doc. Grant Rameez Figma access on PDP Carousels file. Review 'Nik Content' Drive folder.",
+    "currentStatus": "Tue 4/28 5pm — Day 12 post-launch. 🔴 Macra TB LIVE NOW (5-6pm). 🆕 4:26pm: Natalie Mayr (Google Docs) commented on 'Sharma x Instant...' doc — @rameez @nik. Rameez 'New Macra Stuff' 79+ msgs. Dillon $3,480 invoice review Day 4.",
+    "alert": null,
+    "section": "Companies"
   },
   {
     "id": "stocked",
@@ -37,7 +38,8 @@
       "New client engagement in progress via Minul",
       "Awaiting scope / next steps"
     ],
-    "needsAttention": "New client engagement — confirm scope with Minul"
+    "needsAttention": "New client engagement — confirm scope with Minul",
+    "section": "Companies"
   },
   {
     "id": "maruchan",
@@ -64,7 +66,8 @@
     ],
     "needsAttention": "Nik owes Maruchan strategy/recommendation doc by Mon/Tues after reviewing weekend materials. Watch for Katelyn’s Slack/data package and access grants.",
     "currentStatus": "Tue 4/28 1pm — KO complete 4/24 (Day 4 post). Minul 'Maruchan x Nik Sharma' thread 19 msgs (latest 4/27 5:17pm). Strategy doc due Mon/Tues — TODAY is the deadline. May 1 prorated invoice 3 days out.",
-    "alert": null
+    "alert": null,
+    "section": "Companies"
   },
   {
     "id": "zurp",
@@ -88,9 +91,10 @@
       "💰 Revenue split: 50/50 with venues",
       "✅ Brand book DONE — brand.zurp.com (password: zurp2026)"
     ],
-    "needsAttention": "🎯 The Ave x ZURP fully executed — coordinate rollout w/ Dimitri. Zurp Check-In recap/next steps owed. Alec Docusign Day 6. Jack <> Troy <> Nik recap Day 6.",
-    "currentStatus": "Tue 4/28 3pm. 🎯 The Ave x ZURP Docusign EXECUTED 1:52pm — new venue locked, kick off rollout. ✅ Zurp Check-In WRAPPED 11:30am-12pm — recap/next steps owed. Amoria meet WRAPPED Fri 4/24 (Day 4 — recap still owed). Alec Docusign Day 6 (~125h+ since view). Jack <> Troy <> Nik recap Day 6. UnKommon Miami signature monitor.",
-    "alert": "🎯 The Ave x ZURP EXECUTED 1:52pm — kick off rollout • Alec Docusign Day 6 • Jack recap Day 6"
+    "needsAttention": "🎯 The Ave x ZURP fully executed — coordinate rollout w/ Dimitri. 🆕 Troy 3:55pm: 'Finalize Transaction Bonus Plan' invite Mon 5/4 3:30-4pm (UNREAD/IMPORTANT). Zurp Check-In recap owed. Alec Docusign Day 6. Jack <> Troy <> Nik recap Day 6.",
+    "currentStatus": "Tue 4/28 5pm. 🎯 The Ave x ZURP Docusign EXECUTED 1:52pm — new venue locked, kick off rollout w/ Dimitri. 🆕 3:55pm: Troy invite 'Zurp — Finalize Transaction Bonus Plan' Mon 5/4 3:30-4pm (UNREAD/IMPORTANT) — review/accept. ✅ Zurp Check-In WRAPPED 11:30am-12pm — recap owed. Amoria meet WRAPPED 4/24 (Day 4 — recap owed). Alec Docusign Day 6.",
+    "alert": "🆕 Troy: Finalize Transaction Bonus Plan Mon 5/4 • Ave x ZURP EXECUTED • Alec Day 6",
+    "section": "Companies"
   },
   {
     "id": "authentiq",
@@ -109,7 +113,8 @@
       "V3: Authenticated marketplace (Grailed/StockX competitor)",
       "Verticals: clothing, sports cards, cannabis, skincare"
     ],
-    "needsAttention": "Dil P NFC business card quote still owed. Troy review of features doc 8 days overdue."
+    "needsAttention": "Dil P NFC business card quote still owed. Troy review of features doc 8 days overdue.",
+    "section": "Companies"
   },
   {
     "id": "pigeon-house",
@@ -124,7 +129,8 @@
       "Brandon Launerts handling social/content scheduling",
       "Rahul onboarding to IG strategy + content research"
     ],
-    "needsAttention": null
+    "needsAttention": null,
+    "section": "Companies"
   },
   {
     "id": "roast-nik-co",
@@ -148,7 +154,8 @@
       "🎁 Output: diagnosis, hero rewrite, priority fix plan, section-by-section rebuild, missing proof checklist, test plan (PDF + share link)",
       "📋 Pending: first organic conversion = first real signal on copy/landing strength",
       "🧪 Pending: Nik to do live $5 purchase + refund for true E2E validation"
-    ]
+    ],
+    "section": "Companies"
   },
   {
     "id": "after-ours",
@@ -172,8 +179,9 @@
       "💸 NEW 4/27 9:05am: Mercury — Minul sent $650 wire to CG Videos LLC (videographer/content payment)"
     ],
     "needsAttention": "✅ AO Sync WRAPPED 2pm — pull recap/next steps. Brand voice brief still owed to Brandon. CG Videos $650 paid — watch for asset delivery. Wed AO Studio Time 5-6pm + 7-10pm.",
-    "currentStatus": "Tue 4/28 3pm. ✅ After Ours Sync WRAPPED 2-3pm ET — recap/next steps owed. Post-show Day 10. Manus afterourssound.com refresh still pending review. Wed double-block AO Studio Time scheduled.",
-    "alert": null
+    "currentStatus": "Tue 4/28 5pm. ✅ After Ours Sync WRAPPED 2-3pm ET — recap/next steps owed (Day 0). Post-show Day 10. Manus afterourssound.com refresh still pending review. Wed 4/29 AO Studio Time 5-6pm + 7-10pm.",
+    "alert": null,
+    "section": "Media & Content"
   },
   {
     "id": "limited-supply",
@@ -192,8 +200,9 @@
       "Josiah Writer bot + style guide (18K words) for drafts"
     ],
     "needsAttention": "✅ LS Podcast Recording WRAPPED 12-1pm Tue — second of two this week complete. ✅ StreetTalk recap/next steps still owed from Matt Hickman.",
-    "currentStatus": "Tue 4/28 1pm. ✅ LS Podcast Recording WRAPPED 12-1pm ET — second of two this week complete. Mon 7-8:15pm pod also wrapped. Newsletter sent Sun 4/26 7:20pm ET — open/click data ~42h post-send (still pending pull).",
-    "alert": null
+    "currentStatus": "Tue 4/28 5pm. ✅ Both LS pod recordings WRAPPED this week (Mon 7-8:15pm + Tue 12-1pm). 🆕 5:00pm: Rameez 'Limited Supply Podcast with Nik' thread (11 msgs) — likely production/scheduling coordination. Newsletter sent Sun 4/26 7:20pm ET — open/click data ~46h post-send (still pending pull).",
+    "alert": null,
+    "section": "Media & Content"
   },
   {
     "id": "newsletter",
@@ -213,9 +222,10 @@
       "Josiah 'Ecommerce Equation' VOTW draft delivered — Nik review owed",
       "CTA destination: vms.nik.co (30-min deep-dive field report, live)"
     ],
-    "needsAttention": "Pull V&S Playbook open/click data (42h post-send). ✅ LS pod #2 WRAPPED 12-1pm Tue — both recordings complete this week.",
-    "currentStatus": "Tue 4/28 3pm. V&S Playbook 44h post-send — open/click data review still pending. LS pod #1 (Mon 7pm) + #2 (Tue 12pm) BOTH WRAPPED — production cycle complete.",
-    "alert": null
+    "needsAttention": "Pull V&S Playbook open/click data (45h post-send). ✅ LS pod #2 WRAPPED 12-1pm Tue — both recordings complete this week.",
+    "currentStatus": "Tue 4/28 5pm. V&S Playbook 46h post-send — open/click data review still pending. LS pod #1 (Mon 7pm) + #2 (Tue 12pm) BOTH WRAPPED — production cycle complete. 🆕 5:00pm: Rameez 'Limited Supply Podcast with Nik' thread (11 msgs).",
+    "alert": null,
+    "section": "Media & Content"
   },
   {
     "id": "brand-consulting",
@@ -267,9 +277,10 @@
       "GoDaddy: sharmabrands.com renewal placed 4/14 ($49.17)",
       "TEXTNIK.CO auto-renews 5/10 ($51.99/yr)"
     ],
-    "needsAttention": "🔥 Peter Spiegel (Ideal Living CEO) CMO ask still open — strategic decision pending. NEW 5:31pm: Justin Mares (TrueMed) 'Quick thing' now 9-msg thread heating up — IMPORTANT/Action. NEW 5:54pm: Chandni Saeed (Paychex) 'Dropping By' — Pitch/Meeting/Respond. NEW 12:08pm: Rameez 'Jim x Nik' UNREAD/IMPORTANT. INV-5 Day 5 overdue; Air Oasis 17 days late; Peptide list owed to Myles.",
-    "alert": "🔥 Peter Spiegel CMO ask (Ideal Living) • INV-5 Day 5 overdue • Air Oasis 17 days late",
-    "currentStatus": "Tue 4/28 3pm. ✅ AO Sync 2pm WRAPPED. NOW: 3pm PDQ → 3:30pm Urgent RV TB → 4pm Instant (Jaime Egan) → 4:30pm Matt → 5pm Macra → 6-8:30pm Data-First Commerce → 10pm Shades. Peter Spiegel CMO ask still pending strategic decision. Justin Mares 'Quick thing' 9-msg thread (TrueMed) still in respond queue."
+    "needsAttention": "🔥 Peter Spiegel (Ideal Living CEO) CMO ask still open — strategic decision pending. 💳 NEW 3:42pm: Typefully $149.99 Stripe payment failed AGAIN — IMPORTANT. 🆕 3:55pm: Troy 'Zurp Finalize Transaction Bonus Plan' invite Mon 5/4. Justin Mares (TrueMed) 9-msg thread. INV-5 Day 6 overdue; Air Oasis 18 days late; Peptide list owed to Myles.",
+    "alert": "🔥 Peter Spiegel CMO ask • 💳 Typefully payment failed • INV-5 Day 6 • Air Oasis 18d late",
+    "currentStatus": "Tue 4/28 5pm. ✅ Instant x Nik (Jaime Egan) WRAPPED 4-4:30pm. ✅ Matt x Nik WRAPPED 4:30pm (Fireflies joined 4:26pm). 🔴 Macra TB LIVE NOW 5-6pm → 6-8:30pm Data-First Commerce: The Agentic Playbook → 10pm Shades. 📤 4:43pm: Nik sent 'Intro - David / Matt - GoodOnya' (Waiting label). 4:30pm: Brightland Q1 2026 Update inbound (Aishwarya Iyer). Peter Spiegel CMO ask still pending strategic decision.",
+    "section": "Brand Consulting"
   },
   {
     "id": "ecom-founders",
@@ -287,7 +298,8 @@
       "Insense sponsorship: Jade sent billing info + logo — Rameez sending contract + invoice",
       "Website being built by Riaz"
     ],
-    "needsAttention": "Sept 10 vs Oct 28 venue decision — Rameez driving. Hold at NYT competing, urgent. Ben Walter (Postpilot) flagged Drew Hart tag @ Stord Summit."
+    "needsAttention": "Sept 10 vs Oct 28 venue decision — Rameez driving. Hold at NYT competing, urgent. Ben Walter (Postpilot) flagged Drew Hart tag @ Stord Summit.",
+    "section": "Brand Consulting"
   },
   {
     "id": "rolling-ventures",
@@ -313,9 +325,10 @@
       "⚠️ unspun Inc Pay-to-Play Series B-3 — signature still required ASAP",
       "📧 Kristina Igoe (Left Lane) — in-person w/ Nik/Troy/Rohit coordinating"
     ],
-    "needsAttention": "Tue 4/28 stack: PDQ 3pm → Instant 4pm → Matt 4:30pm. RV TB recap Day 4. Left Lane in-person next steps still owed. unspun B-3 signature ASAP. PEF QSBS Roundtable TOMORROW Wed 4/29.",
-    "currentStatus": "Tue 4/28 3pm. PDQ NOW 3pm → Urgent RV TB 3:30pm → Instant (Jaime Egan) 4pm → Matt 4:30pm → Data-First Commerce 6-8:30pm. RV TB WRAPPED Fri 4/24 — recap still owed (Day 4). Left Lane in-person Mon 5-6pm WRAPPED — next steps still owed. US ANGELS Investor Mtg + PEF QSBS Roundtable BOTH Wed 4/29.",
-    "alert": "🔥 PDQ 3pm NOW → 3:30pm Urgent RV TB → 4pm Instant → 4:30pm Matt → 6pm Data-First Commerce • US ANGELS + PEF QSBS BOTH TOMORROW 4/29"
+    "needsAttention": "Tue 4/28 stack: Instant LIVE NOW 4pm → Matt 4:30pm. RV TB recap Day 4. Left Lane in-person next steps still owed. unspun B-3 signature ASAP. PEF QSBS Roundtable TOMORROW Wed 4/29.",
+    "currentStatus": "Tue 4/28 5pm. ✅ Instant x Nik (Jaime Egan) WRAPPED 4-4:30pm. ✅ Matt x Nik WRAPPED 4:30pm. 🔴 Macra TB LIVE NOW 5-6pm → 6-8:30pm Data-First Commerce. 4:30pm: Aishwarya Iyer Brightland Q1 2026 Update inbound — review. RV TB recap Day 4 still owed. Left Lane in-person Mon — next steps still owed. US ANGELS + PEF QSBS BOTH Wed 4/29.",
+    "alert": "🔥 LIVE NOW 4pm Instant → 4:30pm Matt → 5pm Macra → 6pm Data-First Commerce • US ANGELS + PEF QSBS TOMORROW 4/29",
+    "section": "Rolling Ventures"
   },
   {
     "id": "personal-investments",
@@ -330,7 +343,8 @@
       "Tracked separately from Rolling Ventures fund"
     ],
     "needsAttention": null,
-    "currentStatus": ""
+    "currentStatus": "",
+    "section": "Rolling Ventures"
   },
   {
     "id": "travel",
@@ -367,9 +381,10 @@
       "📧 Respond queue still hot: Brigitta Ruha • Arjun Padmakumar • Alexandra Zatarain • John Richards • Andrew Ferenci • Justin Mares (TrueMed)",
       "📅 Apr 28 Instant follow-up • Apr 29 PEF QSBS Roundtable Lunch • May 6 Ben Zises • May 8 Lightwork Home Health • May 29-31 PEF Clarity Retreat"
     ],
-    "needsAttention": "🔥 Peter Spiegel CMO ask still pending strategic decision. 📞 YoSharma Check-In LIVE NOW 1-1:30pm. 🎧 AO Sync NEXT 2pm. 📧 Rameez 'Jim x Nik' UNREAD/IMPORTANT — review. 📄 Scout Kids Supplements doc still owed review.",
-    "currentStatus": "Tue 4/28 1pm. ✅ 11am Check-In WRAPPED. ✅ 11:30am Zurp WRAPPED. ✅ 12pm LS Pod WRAPPED. 🔥 1pm YoSharma Check-In LIVE NOW → 2pm AO Sync → 3pm PDQ → 4pm Instant → 4:30pm Matt → 6-8:30pm Data-First Commerce. Newsletter 42h post-send — open/click data still pending.",
-    "alert": "🔥 LIVE NOW: YoSharma Check-In 1pm • NEXT: 2pm AO Sync • 3pm PDQ • 4pm Instant • 6pm Data-First Commerce"
+    "needsAttention": "🔥 Peter Spiegel CMO ask still pending strategic decision. 🔥 LIVE NOW 4pm: Instant x Nik (Jaime Egan). 🆕 3:55pm Troy: Finalize Transaction Bonus Plan Mon 5/4. 🆕 3:42pm: Typefully Stripe payment failed AGAIN — IMPORTANT. 🆕 3:34pm: Macra Site Audit (GPT-5.5) doc shared. 📄 Scout Kids Supplements doc still owed.",
+    "currentStatus": "Tue 4/28 5pm. ✅ ALL AFTERNOON DONE: 11am Check-In, 11:30 Zurp, 12pm LS Pod, 1pm YoSharma, 2pm AO Sync, 3pm PDQ, 4pm Instant x Nik, 4:30pm Matt. 🔴 LIVE NOW: 5-6pm Macra TB → 6-8:30pm Data-First Commerce: The Agentic Playbook → 10pm Shades. Newsletter 46h post-send — open/click data still pending. Wed: 9am Wake → 10am Fort → 12:30pm Highbeam x Ecom Founders → 1-3:30pm Paramount Event.",
+    "alert": "🔥 LIVE NOW 4pm Instant • NEXT 4:30pm Matt → 5pm Macra → 6pm Data-First Commerce • 10pm Shades",
+    "section": "Nik Sharma — Personal"
   },
   {
     "id": "my-agents",
@@ -387,6 +402,7 @@
       "Namecheap API connected — macra.com + niksharma.io managed"
     ],
     "needsAttention": null,
-    "currentStatus": "Dashboard refresh Tue 4/28 1:00pm ET (cron) — LIVE NOW: 1pm YoSharma Check-In. WRAPPED: 11am Check-In, 11:30am Zurp, 12pm LS Pod #2. NEXT: 2pm AO Sync, 3pm PDQ, 4pm Instant, 4:30pm Matt, 6-8:30pm Data-First Commerce. NEW since 12pm refresh: Macra thread now 79 msgs (latest 11:27am Tue), Dimitri viewed 'The Ave x ZURP 4.28.26.docx' Docusign 12:45pm (NEW Zurp venue), Troy Downtown Dog Show invite Sun 5/3, John Coyle podcast email. Jet inbox: Anthropic receipt only. All 3 dashboards regenerated."
+    "currentStatus": "Dashboard refresh Tue 4/28 5:00pm ET (cron). 🔴 LIVE NOW: 5-6pm Macra TB. WRAPPED today: Check-In, Zurp, LS Pod #2, YoSharma, AO Sync, PDQ, Instant x Nik (4-4:30pm), Matt x Nik (4:30pm). NEXT: 6-8:30pm Data-First Commerce: The Agentic Playbook → 10pm Shades. NEW since 4pm refresh: Rameez 'Limited Supply Podcast with Nik' 11-msg thread (5pm), Aishwarya Iyer Brightland Q1 2026 Update (4:30pm), Natalie Mayr Google Docs comment on Sharma x Instant doc (4:26pm), Nik sent 'Intro - David / Matt - GoodOnya' (4:43pm Waiting label), Alexandra Sowa MD inbound to jet@nik.co. All 3 dashboards regenerated.",
+    "section": "Operations"
   }
 ]
