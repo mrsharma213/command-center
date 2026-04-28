@@ -1,6 +1,6 @@
 {
-  "total": 331,
-  "last_updated": "2026-04-28T01:29:52.911Z",
+  "total": 332,
+  "last_updated": "2026-04-28T01:46:23.390Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2649,6 +2649,14 @@
       "referrer": "",
       "ip": "142.189.154.89",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "keiton@mycorrhizon.ca",
+      "ts": "2026-04-28T01:46:23.217Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "207.34.93.20",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1"
     }
   ]
 }
