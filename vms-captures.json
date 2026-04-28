@@ -1,6 +1,6 @@
 {
-  "total": 369,
-  "last_updated": "2026-04-28T14:39:59.011Z",
+  "total": 370,
+  "last_updated": "2026-04-28T14:43:39.420Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2952,6 +2952,14 @@
       "source": "web",
       "referrer": "",
       "ip": "69.117.215.21",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "keisha.s@pomegranate.co.uk",
+      "ts": "2026-04-28T14:43:39.169Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "109.159.36.132",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
