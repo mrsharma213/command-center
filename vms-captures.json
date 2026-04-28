@@ -1,6 +1,6 @@
 {
-  "total": 384,
-  "last_updated": "2026-04-28T17:38:27.253Z",
+  "total": 385,
+  "last_updated": "2026-04-28T17:38:28.235Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3073,6 +3073,14 @@
       "referrer": "",
       "ip": "35.142.166.44",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "eric@wearemeremortals.com",
+      "ts": "2026-04-28T17:38:27.628Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "67.4.85.253",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
