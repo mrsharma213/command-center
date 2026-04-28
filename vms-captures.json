@@ -1,6 +1,6 @@
 {
-  "total": 355,
-  "last_updated": "2026-04-28T08:59:40.924Z",
+  "total": 356,
+  "last_updated": "2026-04-28T09:27:27.606Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2841,6 +2841,14 @@
       "referrer": "",
       "ip": "176.227.243.57",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "hello@phewcrew.com",
+      "ts": "2026-04-28T09:27:27.307Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "151.225.152.115",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
