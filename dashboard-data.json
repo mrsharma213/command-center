@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-28T16:00:00Z",
+  "lastRefreshed": "2026-04-28T17:00:00Z",
   "flagged": [
     {
       "id": "google-ads-admin",
@@ -21,7 +21,7 @@
       "id": "yosharma-inv5",
       "emoji": "\ud83d\udcb0",
       "title": "YoSharma LLC Invoice INV-5 \u2014 OVERDUE (Day 5)",
-      "detail": "Mercury alert 4/22 AM: INV-5 from YoSharma LLC overdue. Still outstanding Tue 4/28 12pm. Day 6 \u2014 review customer + collect.",
+      "detail": "Mercury alert 4/22 AM: INV-5 from YoSharma LLC overdue. Still outstanding Tue 4/28 1pm. Day 6 \u2014 review customer + collect (YoSharma Check-In LIVE NOW 1-1:30pm).",
       "severity": "attention",
       "since": "2026-04-22"
     },
@@ -29,7 +29,7 @@
       "id": "air-oasis",
       "emoji": "\ud83d\udea8",
       "title": "Air Oasis homepage \u2014 18 days overdue",
-      "detail": "Homepage deliverable was due Fri 4/10. Still outstanding 18 days in (Tue 4/28 12pm). Ping client + status update.",
+      "detail": "Homepage deliverable was due Fri 4/10. Still outstanding 18 days in (Tue 4/28 1pm). Ping client + status update.",
       "severity": "attention",
       "since": "2026-04-10"
     },
@@ -96,8 +96,9 @@
           "status": "attention",
           "lastUpdated": "2026-04-27T17:00",
           "bullets": [
-            "\ud83d\udc8a Day 12 post-launch (Apr 16 launch) \u2014 Tue 9am, monitoring sales + ad performance",
-            "\ud83d\udce7 Rameez 'New Macra Stuff' thread NOW 78 msgs (latest 4/28 1:53am ET) \u2014 vendor finalization moving overnight",
+            "\ud83d\udc8a Day 12 post-launch (Apr 16 launch) \u2014 Tue 1pm, monitoring sales + ad performance",
+            "\ud83d\udce7 Rameez 'New Macra Stuff' thread NOW 79 msgs (latest 4/28 11:27am ET) \u2014 vendor finalization continuing through Tue",
+            "\ud83d\udce4 NEW Tue 1:29am: Nik 'Website Refresh Project' \u2014 10-msg thread (active outbound on Macra/site)",
             "\ud83d\udcc4 Scout \u2014 Kids Need-Based Supplements \u2014 Opportunity Assessment doc (shared 4/27 11:10am) \u2014 adjacency review still owed",
             "\ud83d\udcb0 Dillon Plageman invoice $3,480 (49h \u00d7 $120/hr \u2212 $2,400 prepaid) \u2014 site build, review/pay (Day 4)",
             "\u2705 Macra TB 3:00pm WRAPPED 4/23",
@@ -112,7 +113,7 @@
             "\u2705 verified.macra.com CNAME added via Namecheap API"
           ],
           "needsAttention": "Review/approve Dillon $3,480 invoice (Day 4). Read Scout Kids Need-Based Supplements doc \u2014 adjacency to Macra. Grant Rameez Figma access on PDP Carousels file. Review 'Nik Content' Drive folder.",
-          "currentStatus": "Tue 4/28 11am \u2014 Day 12 post-launch. Rameez 'New Macra Stuff' active overnight (78 msgs, latest 1:53am Tue). Dillon $3,480 invoice review Day 4. Scout Kids Need-Based Supplements doc still owed. Figma + 'Nik Content' Drive still outstanding.",
+          "currentStatus": "Tue 4/28 1pm \u2014 Day 12 post-launch. Rameez 'New Macra Stuff' now 79 msgs (latest 11:27am Tue). Dillon $3,480 invoice review Day 4. Scout Kids Need-Based Supplements doc still owed. Figma + 'Nik Content' Drive still outstanding.",
           "alert": null
         },
         {
@@ -152,7 +153,7 @@
             "Coordinated via Minul @ nik.co"
           ],
           "needsAttention": "Nik owes Maruchan strategy/recommendation doc by Mon/Tues after reviewing weekend materials. Watch for Katelyn\u2019s Slack/data package and access grants.",
-          "currentStatus": "Tue 4/28 11am \u2014 KO complete 4/24 (Day 4 post). Minul 'Maruchan x Nik Sharma' thread 19 msgs (latest 4/27 5:17pm). Strategy doc due Mon/Tues \u2014 TODAY is the deadline. May 1 prorated invoice 3 days out.",
+          "currentStatus": "Tue 4/28 1pm \u2014 KO complete 4/24 (Day 4 post). Minul 'Maruchan x Nik Sharma' thread 19 msgs (latest 4/27 5:17pm). Strategy doc due Mon/Tues \u2014 TODAY is the deadline. May 1 prorated invoice 3 days out.",
           "alert": null
         },
         {
@@ -162,9 +163,10 @@
           "status": "attention",
           "lastUpdated": "2026-04-28T12:00",
           "bullets": [
-            "\ud83d\udd25 Zurp Check-In TODAY 11:30am ET (within 1.5h) \u2014 bring Amoria recap, Alec status, Jack/Troy/Nik recap, UnKommon Miami status",
+            "\u2705 Zurp Check-In WRAPPED 11:30am-12pm ET 4/28 \u2014 recap/next steps owed",
+            "\ud83d\udd25 NEW 4/28 12:45pm: Docusign \u2014 Dimitri viewed 'The Ave x ZURP 4.28.26.docx' \u2014 NEW venue agreement in motion",
             "\u2705 Amoria meet WRAPPED 4/24 5:30-6:30pm \u2014 Cordell/Troy/D/Rameez/Jim/Gisela/Frank/Nik. Recap/next steps still owed (Day 4).",
-            "\ud83d\udce7 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 \u2014 signature still pending (Day 6, ~115h+ since view)",
+            "\ud83d\udce7 Docusign: Alec viewed ALEC x ZURP.pdf 5:48pm 4/23 \u2014 signature still pending (Day 6, ~119h+ since view)",
             "\u23f3 Jack <> Troy <> Nik call WRAPPED 4/22 \u2014 recap/next steps still pending (Day 6)",
             "\ud83c\udd95 UnKommon x Zurp agreement (Miami expansion) \u2014 signature status monitor (sent 4/21)",
             "\ud83c\udfd9\ufe0f Rameez pitch to Noah @ Common Country Bar still outstanding",
@@ -176,9 +178,9 @@
             "\ud83d\udcb0 Revenue split: 50/50 with venues",
             "\u2705 Brand book DONE \u2014 brand.zurp.com (password: zurp2026)"
           ],
-          "needsAttention": "\u2705 Zurp Check-In WRAPPED 11:30am-12pm \u2014 recap/next steps owed. Alec Docusign Day 6. Jack <> Troy <> Nik recap Day 6.",
-          "currentStatus": "Tue 4/28 12pm. \u2705 Zurp Check-In WRAPPED 11:30am-12pm ET \u2014 pull recap/next steps. Amoria meet WRAPPED Fri 4/24 (Day 4 \u2014 recap still owed). Alec Docusign signature pending Day 6 (~118h+ since view). Jack <> Troy <> Nik recap Day 6. UnKommon Miami signature monitor.",
-          "alert": "\u2705 Zurp Check-In WRAPPED 12pm \u2014 pull recap \u2022 Alec Docusign Day 6 \u2022 Jack recap Day 6"
+          "needsAttention": "\ud83d\udd25 NEW Zurp/The Ave docusign in motion (Dimitri viewed 12:45pm). Zurp Check-In WRAPPED \u2014 recap/next steps owed. Alec Docusign Day 6. Jack <> Troy <> Nik recap Day 6.",
+          "currentStatus": "Tue 4/28 1pm. \u2705 Zurp Check-In WRAPPED 11:30am-12pm ET \u2014 recap/next steps owed. NEW 12:45pm: Dimitri viewed 'The Ave x ZURP 4.28.26.docx' Docusign \u2014 new venue agreement live. Amoria meet WRAPPED Fri 4/24 (Day 4 \u2014 recap still owed). Alec Docusign signature pending Day 6 (~119h+ since view). Jack <> Troy <> Nik recap Day 6. UnKommon Miami signature monitor.",
+          "alert": "\ud83d\udd25 The Ave x Zurp Docusign in motion (Dimitri viewed 12:45pm) \u2022 Alec Docusign Day 6 \u2022 Jack recap Day 6"
         },
         {
           "id": "authentiq",
@@ -263,9 +265,9 @@
             "\ud83e\udd16 NEW 4/27 9:04am: Manus job processing \u2014 'Update Spotify Stats and Rebuild Site for After Ours' (afterourssound.com refresh)",
             "\ud83d\udcb8 NEW 4/27 9:05am: Mercury \u2014 Minul sent $650 wire to CG Videos LLC (videographer/content payment)"
           ],
-          "needsAttention": "\ud83d\udd25 After Ours Sync TODAY 2-3pm (within 2h). Post-show Day 10 \u2014 pull videographer assets. Brand voice brief still owed to Brandon. CG Videos $650 paid \u2014 watch for asset delivery. Wed AO Studio Time 5-6pm + 7-10pm.",
-          "currentStatus": "Tue 4/28 12pm. After Ours Sync TODAY 2-3pm (within 2h). Post-show Day 10. Release lock-in wrapped 4/23. Manus afterourssound.com refresh still pending review. Wed double-block AO Studio Time scheduled.",
-          "alert": "\ud83d\udd25 After Ours Sync TODAY 2pm \u2014 within 2h"
+          "needsAttention": "\ud83d\udd25 After Ours Sync TODAY 2-3pm (within 1h). Post-show Day 10 \u2014 pull videographer assets. Brand voice brief still owed to Brandon. CG Videos $650 paid \u2014 watch for asset delivery. Wed AO Studio Time 5-6pm + 7-10pm.",
+          "currentStatus": "Tue 4/28 1pm. \ud83d\udd25 After Ours Sync NEXT 2-3pm (within 1h). Post-show Day 10. Release lock-in wrapped 4/23. Manus afterourssound.com refresh still pending review. Wed double-block AO Studio Time scheduled.",
+          "alert": "\ud83d\udd25 After Ours Sync 2pm \u2014 within 1h"
         },
         {
           "id": "limited-supply",
@@ -283,9 +285,9 @@
             "Episodes release every Wednesday \u2014 100K+ subscribers",
             "Josiah Writer bot + style guide (18K words) for drafts"
           ],
-          "needsAttention": "\ud83d\udd25 LS Podcast Recording LIVE NOW 12-1pm. \u2705 StreetTalk recap/next steps still owed from Matt Hickman.",
-          "currentStatus": "Tue 4/28 12pm. \ud83d\udd25 LS Podcast Recording LIVE NOW 12-1pm ET. Mon 7-8:15pm pod recording WRAPPED. Newsletter sent Sun 4/26 7:20pm ET \u2014 open/click data ~41h post-send (still pending pull).",
-          "alert": "\ud83d\udd25 LS Pod Recording LIVE NOW 12-1pm"
+          "needsAttention": "\u2705 LS Podcast Recording WRAPPED 12-1pm Tue \u2014 second of two this week complete. \u2705 StreetTalk recap/next steps still owed from Matt Hickman.",
+          "currentStatus": "Tue 4/28 1pm. \u2705 LS Podcast Recording WRAPPED 12-1pm ET \u2014 second of two this week complete. Mon 7-8:15pm pod also wrapped. Newsletter sent Sun 4/26 7:20pm ET \u2014 open/click data ~42h post-send (still pending pull).",
+          "alert": null
         },
         {
           "id": "newsletter",
@@ -295,9 +297,9 @@
           "lastUpdated": "2026-04-28T12:00",
           "bullets": [
             "\u2705 SHIPPED Sun 4/26 7:20pm ET \u2014 'The 2026 Vitamins & Supplements Playbook' (Workweek)",
-            "\ud83d\udcca 38h post-send: pull open/click data on V&S Playbook",
+            "\ud83d\udcca 42h post-send: pull open/click data on V&S Playbook",
             "\u2705 LS Pod recording Mon 4/27 7-8:15pm WRAPPED",
-            "\ud83d\udd25 LS Pod recording Tue 4/28 12-1pm \u2014 within 3h",
+            "\u2705 LS Pod recording Tue 4/28 12-1pm WRAPPED",
             "\ud83d\udcc5 Next send: Sun 5/3",
             "\u2705 Apr 19 SHIPPED \u2014 'The product is fine. The education is broken.'",
             "\u2705 Workweek recording 4/20 \u2014 wrapped",
@@ -305,8 +307,8 @@
             "Josiah 'Ecommerce Equation' VOTW draft delivered \u2014 Nik review owed",
             "CTA destination: vms.nik.co (30-min deep-dive field report, live)"
           ],
-          "needsAttention": "Pull V&S Playbook open/click data (41h post-send). \ud83d\udd25 LS pod #2 LIVE NOW 12-1pm.",
-          "currentStatus": "Tue 4/28 12pm. V&S Playbook 41h post-send \u2014 open/click data review still pending. LS pod #1 (Mon 7pm) WRAPPED \u2014 #2 LIVE NOW 12-1pm.",
+          "needsAttention": "Pull V&S Playbook open/click data (42h post-send). \u2705 LS pod #2 WRAPPED 12-1pm Tue \u2014 both recordings complete this week.",
+          "currentStatus": "Tue 4/28 1pm. V&S Playbook 42h post-send \u2014 open/click data review still pending. LS pod #1 (Mon 7pm) + #2 (Tue 12pm) BOTH WRAPPED \u2014 production cycle complete.",
           "alert": null
         }
       ]
@@ -366,7 +368,7 @@
           ],
           "needsAttention": "\ud83d\udd25 Peter Spiegel (Ideal Living CEO) CMO ask still open \u2014 strategic decision pending. NEW 5:31pm: Justin Mares (TrueMed) 'Quick thing' now 9-msg thread heating up \u2014 IMPORTANT/Action. NEW 5:54pm: Chandni Saeed (Paychex) 'Dropping By' \u2014 Pitch/Meeting/Respond. NEW 12:08pm: Rameez 'Jim x Nik' UNREAD/IMPORTANT. INV-5 Day 5 overdue; Air Oasis 17 days late; Peptide list owed to Myles.",
           "alert": "\ud83d\udd25 Peter Spiegel CMO ask (Ideal Living) \u2022 INV-5 Day 5 overdue \u2022 Air Oasis 17 days late",
-          "currentStatus": "Mon 4/27 6pm. \ud83d\udd25 5pm Left Lane in-person should be wrapping \u2192 7-8:15pm LS pod recording in ~1h. Tue 11:30am Zurp + 1pm YoSharma + 2pm AO Sync + 3pm PDQ + 4pm Instant + 4:30pm Matt + 6-8:30pm Data-First Commerce. NEW 5:31pm: Justin Mares 'Quick thing' 9-msg thread (TrueMed). NEW 5:54pm: Chandni Saeed (Paychex) 'Dropping By' inbound."
+          "currentStatus": "Tue 4/28 1pm. Mon meetings WRAPPED (Left Lane in-person 5-6pm + LS pod #1 7-8:15pm). Tue: \u2705 11am Check-In \u2705 11:30am Zurp \u2705 12pm LS Pod #2 \u2014 NOW 1pm YoSharma LIVE \u2192 2pm AO Sync \u2192 3pm PDQ \u2192 4pm Instant \u2192 4:30pm Matt \u2192 6-8:30pm Data-First Commerce. Peter Spiegel CMO ask still pending strategic decision. Justin Mares 'Quick thing' 9-msg thread (TrueMed) still in respond queue."
         },
         {
           "id": "ecom-founders",
@@ -416,8 +418,8 @@
             "\ud83d\udce7 Kristina Igoe (Left Lane) \u2014 in-person w/ Nik/Troy/Rohit coordinating"
           ],
           "needsAttention": "Tue 4/28 stack: PDQ 3pm \u2192 Instant 4pm \u2192 Matt 4:30pm. RV TB recap Day 4. Left Lane in-person next steps still owed. unspun B-3 signature ASAP. PEF QSBS Roundtable TOMORROW Wed 4/29.",
-          "currentStatus": "Tue 4/28 11am. RV TB WRAPPED Fri 4/24 \u2014 recap still owed (Day 4). Left Lane in-person Mon 5-6pm WRAPPED \u2014 next steps still owed. Tue 4pm Instant follow-up locked (within 5h). Tue 3pm PDQ + 4:30pm Matt today. PEF QSBS Roundtable Wed 4/29 \u2014 TOMORROW.",
-          "alert": "\ud83d\udcdd PEF QSBS Roundtable TOMORROW Wed 4/29 \u2022 RV recap Day 4 \u2022 Left Lane next steps owed"
+          "currentStatus": "Tue 4/28 1pm. RV TB WRAPPED Fri 4/24 \u2014 recap still owed (Day 4). Left Lane in-person Mon 5-6pm WRAPPED \u2014 next steps still owed. Tue 3pm PDQ \u2192 4pm Instant follow-up \u2192 4:30pm Matt \u2014 within 2-3.5h. PEF QSBS Roundtable Wed 4/29 \u2014 TOMORROW.",
+          "alert": "\ud83d\udcdd PEF QSBS Roundtable TOMORROW Wed 4/29 \u2022 Tue 3pm PDQ \u2192 4pm Instant \u2192 4:30pm Matt \u2022 Left Lane next steps owed"
         },
         {
           "id": "personal-investments",
@@ -474,9 +476,9 @@
             "\ud83d\udce7 Respond queue still hot: Brigitta Ruha \u2022 Arjun Padmakumar \u2022 Alexandra Zatarain \u2022 John Richards \u2022 Andrew Ferenci \u2022 Justin Mares (TrueMed)",
             "\ud83d\udcc5 Apr 28 Instant follow-up \u2022 Apr 29 PEF QSBS Roundtable Lunch \u2022 May 6 Ben Zises \u2022 May 8 Lightwork Home Health \u2022 May 29-31 PEF Clarity Retreat"
           ],
-          "needsAttention": "\ud83d\udd25 Peter Spiegel CMO ask still pending strategic decision. \ud83c\udf99\ufe0f LS Pod #2 TODAY 12pm (within 2h). \ud83c\udfa7 AO Sync 2pm. \ud83d\udce7 Rameez 'Jim x Nik' UNREAD/IMPORTANT \u2014 review. \ud83d\udcc4 Scout Kids Supplements doc still owed review.",
-          "currentStatus": "Tue 4/28 12pm. \u2705 11am Check-In WRAPPED. \u2705 11:30am Zurp WRAPPED. \ud83d\udd25 12pm LS Pod LIVE NOW \u2192 1pm YoSharma \u2192 2pm AO Sync \u2192 3pm PDQ \u2192 4pm Instant \u2192 4:30pm Matt \u2192 6-8:30pm Data-First Commerce. Newsletter 41h post-send \u2014 open/click data still pending.",
-          "alert": "\ud83d\udd25 LIVE NOW: LS Pod 12pm \u2022 NEXT: 1pm YoSharma \u2022 2pm AO Sync \u2022 6pm Data-First Commerce"
+          "needsAttention": "\ud83d\udd25 Peter Spiegel CMO ask still pending strategic decision. \ud83d\udcde YoSharma Check-In LIVE NOW 1-1:30pm. \ud83c\udfa7 AO Sync NEXT 2pm. \ud83d\udce7 Rameez 'Jim x Nik' UNREAD/IMPORTANT \u2014 review. \ud83d\udcc4 Scout Kids Supplements doc still owed review.",
+          "currentStatus": "Tue 4/28 1pm. \u2705 11am Check-In WRAPPED. \u2705 11:30am Zurp WRAPPED. \u2705 12pm LS Pod WRAPPED. \ud83d\udd25 1pm YoSharma Check-In LIVE NOW \u2192 2pm AO Sync \u2192 3pm PDQ \u2192 4pm Instant \u2192 4:30pm Matt \u2192 6-8:30pm Data-First Commerce. Newsletter 42h post-send \u2014 open/click data still pending.",
+          "alert": "\ud83d\udd25 LIVE NOW: YoSharma Check-In 1pm \u2022 NEXT: 2pm AO Sync \u2022 3pm PDQ \u2022 4pm Instant \u2022 6pm Data-First Commerce"
         }
       ]
     },
@@ -499,7 +501,7 @@
             "Namecheap API connected \u2014 macra.com + niksharma.io managed"
           ],
           "needsAttention": null,
-          "currentStatus": "Dashboard refresh Tue 4/28 12:00pm ET (cron) \u2014 LIVE NOW: 12pm LS Pod #2. WRAPPED THIS HOUR: 11am Check-In, 11:30am Zurp. NEXT: 1pm YoSharma, 2pm AO Sync, 3pm PDQ, 4pm Instant, 4:30pm Matt, 6-8:30pm Data-First Commerce. 14 unread Nik emails since 11am refresh \u2014 Webflow 'DTC Guy' contact form (5-msg thread), Cari Miller paid survey reopen, Rohit/Troy/Left Lane invitation, Sam Elevar, John Coyle podcast move, Russell Katz Guidepoint Affirm 0% APR offer. Jet inbox: Anthropic receipt only. All 3 dashboards regenerated."
+          "currentStatus": "Dashboard refresh Tue 4/28 1:00pm ET (cron) \u2014 LIVE NOW: 1pm YoSharma Check-In. WRAPPED: 11am Check-In, 11:30am Zurp, 12pm LS Pod #2. NEXT: 2pm AO Sync, 3pm PDQ, 4pm Instant, 4:30pm Matt, 6-8:30pm Data-First Commerce. NEW since 12pm refresh: Macra thread now 79 msgs (latest 11:27am Tue), Dimitri viewed 'The Ave x ZURP 4.28.26.docx' Docusign 12:45pm (NEW Zurp venue), Troy Downtown Dog Show invite Sun 5/3, John Coyle podcast email. Jet inbox: Anthropic receipt only. All 3 dashboards regenerated."
         }
       ]
     }
