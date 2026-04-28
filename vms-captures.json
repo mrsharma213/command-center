@@ -1,6 +1,6 @@
 {
-  "total": 386,
-  "last_updated": "2026-04-28T18:41:43.445Z",
+  "total": 387,
+  "last_updated": "2026-04-28T18:43:37.141Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3089,6 +3089,14 @@
       "referrer": "",
       "ip": "104.7.99.149",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "nick@heritagehausstudio.com",
+      "ts": "2026-04-28T18:43:36.936Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "108.54.64.99",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
     }
   ]
 }
