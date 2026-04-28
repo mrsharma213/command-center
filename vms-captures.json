@@ -1,6 +1,6 @@
 {
-  "total": 358,
-  "last_updated": "2026-04-28T11:52:14.864Z",
+  "total": 359,
+  "last_updated": "2026-04-28T11:59:26.206Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2865,6 +2865,14 @@
       "referrer": "",
       "ip": "174.173.9.166",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "louis.mouazan@sciencespo.fr",
+      "ts": "2026-04-28T11:59:26.036Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "46.107.26.186",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
     }
   ]
 }
