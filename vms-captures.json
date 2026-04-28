@@ -1,6 +1,6 @@
 {
-  "total": 393,
-  "last_updated": "2026-04-28T21:02:51.582Z",
+  "total": 394,
+  "last_updated": "2026-04-28T21:35:14.518Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3145,6 +3145,14 @@
       "referrer": "",
       "ip": "73.153.178.181",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "carl@naturecity.com",
+      "ts": "2026-04-28T21:35:14.347Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "50.150.167.50",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0"
     }
   ]
 }
