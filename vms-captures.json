@@ -1,6 +1,6 @@
 {
-  "total": 395,
-  "last_updated": "2026-04-28T21:59:59.454Z",
+  "total": 396,
+  "last_updated": "2026-04-28T23:16:39.055Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3161,6 +3161,14 @@
       "referrer": "",
       "ip": "76.120.229.16",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "vtg@perelelhealth.com",
+      "ts": "2026-04-28T23:16:38.779Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "172.91.138.117",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
