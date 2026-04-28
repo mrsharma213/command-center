@@ -1,6 +1,6 @@
 {
-  "total": 399,
-  "last_updated": "2026-04-28T23:45:57.078Z",
+  "total": 400,
+  "last_updated": "2026-04-28T23:56:58.098Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3193,6 +3193,14 @@
       "referrer": "",
       "ip": "71.42.85.66",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "faraz@fullyvital.com",
+      "ts": "2026-04-28T23:56:57.968Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "99.70.247.119",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
     }
   ]
 }
