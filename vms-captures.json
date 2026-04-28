@@ -1,6 +1,6 @@
 {
-  "total": 362,
-  "last_updated": "2026-04-28T13:19:08.353Z",
+  "total": 363,
+  "last_updated": "2026-04-28T13:27:06.924Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2897,6 +2897,14 @@
       "referrer": "",
       "ip": "66.234.208.196",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_3_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "kyleprice18@gmail.com",
+      "ts": "2026-04-28T13:27:06.729Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "209.178.209.162",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
