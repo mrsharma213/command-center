@@ -1,6 +1,6 @@
 {
-  "total": 343,
-  "last_updated": "2026-04-28T06:04:14.778Z",
+  "total": 344,
+  "last_updated": "2026-04-28T06:21:00.378Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2745,6 +2745,14 @@
       "referrer": "",
       "ip": "79.154.253.70",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/147.0.3912.75 Version/26.0 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "petar.cerina@waterdrop.com",
+      "ts": "2026-04-28T06:21:00.185Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "77.237.49.90",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
