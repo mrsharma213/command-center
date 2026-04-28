@@ -1,6 +1,6 @@
 {
-  "total": 378,
-  "last_updated": "2026-04-28T16:13:57.384Z",
+  "total": 379,
+  "last_updated": "2026-04-28T16:30:10.605Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3024,6 +3024,14 @@
       "source": "web",
       "referrer": "",
       "ip": "47.159.201.95",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "suze@patternbrands.com",
+      "ts": "2026-04-28T16:30:10.420Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "173.52.222.137",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
