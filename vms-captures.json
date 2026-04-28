@@ -1,6 +1,6 @@
 {
-  "total": 352,
-  "last_updated": "2026-04-28T08:16:37.476Z",
+  "total": 353,
+  "last_updated": "2026-04-28T08:20:41.776Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2817,6 +2817,14 @@
       "referrer": "https://claude.ai/",
       "ip": "76.33.141.66",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "javi9693@gmail.com",
+      "ts": "2026-04-28T08:20:41.584Z",
+      "source": "web",
+      "referrer": "https://mail.google.com/",
+      "ip": "46.26.132.160",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
     }
   ]
 }
