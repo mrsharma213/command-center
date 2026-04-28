@@ -1,6 +1,6 @@
 {
-  "total": 351,
-  "last_updated": "2026-04-28T07:59:49.298Z",
+  "total": 352,
+  "last_updated": "2026-04-28T08:16:37.476Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2809,6 +2809,14 @@
       "referrer": "",
       "ip": "185.145.153.148",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "damienlaw88@gmail.com",
+      "ts": "2026-04-28T08:16:37.244Z",
+      "source": "web",
+      "referrer": "https://claude.ai/",
+      "ip": "76.33.141.66",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
     }
   ]
 }
