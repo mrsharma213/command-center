@@ -1,6 +1,6 @@
 {
-  "total": 350,
-  "last_updated": "2026-04-28T07:56:42.734Z",
+  "total": 351,
+  "last_updated": "2026-04-28T07:59:49.298Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2800,6 +2800,14 @@
       "source": "web",
       "referrer": "",
       "ip": "86.98.189.151",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "joe@heights.com",
+      "ts": "2026-04-28T07:59:49.079Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "185.145.153.148",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
