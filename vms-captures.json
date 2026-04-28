@@ -1,6 +1,6 @@
 {
-  "total": 372,
-  "last_updated": "2026-04-28T14:58:54.607Z",
+  "total": 373,
+  "last_updated": "2026-04-28T15:02:01.454Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2977,6 +2977,14 @@
       "referrer": "",
       "ip": "109.72.212.67",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "katie@wellex.co",
+      "ts": "2026-04-28T15:02:01.050Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "24.150.190.24",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
     }
   ]
 }
