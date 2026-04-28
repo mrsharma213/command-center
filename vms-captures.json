@@ -1,6 +1,6 @@
 {
-  "total": 339,
-  "last_updated": "2026-04-28T03:55:24.060Z",
+  "total": 340,
+  "last_updated": "2026-04-28T04:01:41.988Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -2713,6 +2713,14 @@
       "referrer": "",
       "ip": "151.205.96.167",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "nicolemitrov@thecollagen.co",
+      "ts": "2026-04-28T04:01:41.815Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "203.129.147.99",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
