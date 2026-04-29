@@ -1,6 +1,6 @@
 {
-  "total": 405,
-  "last_updated": "2026-04-29T01:58:40.267Z",
+  "total": 406,
+  "last_updated": "2026-04-29T02:15:58.983Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3240,6 +3240,14 @@
       "source": "web",
       "referrer": "",
       "ip": "175.141.173.167",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "chad.seeber@fijiwater.com",
+      "ts": "2026-04-29T02:15:58.714Z",
+      "source": "web",
+      "referrer": "https://mail.google.com/",
+      "ip": "199.231.236.10",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
