@@ -1,6 +1,14 @@
 {
-  "lastRefreshed": "2026-04-29T17:03:00Z",
+  "lastRefreshed": "2026-04-29T18:00:00Z",
   "flagged": [
+    {
+      "id": "macra-chase-access",
+      "emoji": "🏦",
+      "title": "Macra Chase account access — Nik + Troy missing",
+      "detail": "Wed 4/29 1:54pm: Jim Jannuzzio emailed Chase asking Jeff Donovan to get Nik and Troy access to the Macra Chase account. Watch for bank response / credentials.",
+      "severity": "attention",
+      "since": "2026-04-29"
+    },
     {
       "id": "macra-figma-comments",
       "emoji": "💊",
@@ -134,7 +142,7 @@
           "emoji": "💊",
           "title": "Macra",
           "status": "attention",
-          "lastUpdated": "2026-04-29T11:00",
+          "lastUpdated": "2026-04-29T18:00:00Z",
           "bullets": [
             "🆕 1:03am 4/29: Figma '5 new comments in Macra — Feedback File' (IMPORTANT) — review",
             "💊 Day 12 post-launch (Apr 16 launch) — Tue 1pm, monitoring sales + ad performance",
@@ -153,9 +161,32 @@
             "Initial ad spend $30K deploying • Monitor early performance data",
             "✅ verified.macra.com CNAME added via Namecheap API"
           ],
-          "needsAttention": "Review/approve Dillon $3,480 invoice (Day 5). 🆕 Figma 5 new comments on Macra Feedback File (1:03am) — review. Read Scout Kids Need-Based Supplements doc. Grant Rameez Figma access on PDP Carousels file. Review 'Nik Content' Drive folder.",
-          "currentStatus": "Wed 4/29 11am — Day 13 post-launch. ✅ Macra TB WRAPPED 4/28 5-6pm — recap owed. 🆕 1:03am: Figma '5 new comments in Macra — Feedback File' (IMPORTANT) — review. Rameez 'New Macra Stuff' 79+ msgs. Dillon $3,480 invoice review Day 5. Scout Kids Supplements doc still owed.",
-          "alert": null
+          "needsAttention": "Resolve Macra Chase account access for Nik + Troy. Execute subscription cadence/UI/backend fixes from 4/28 Macra call. Review Figma comments + Dillon invoice. Prepare for Macra TB Thu 4/30 3pm.",
+          "currentStatus": "Wed 4/29 2:00pm ET — Day 13 post-launch. 🆕 Jim/Tondo emailed Chase at 1:54pm: Nik + Troy still need Macra Chase account access. Latest Fireflies Macra decisions captured: 2-order subscription model, first order = 90-day sachets + jar, second order = tin + tumbler, no formal bundled SKUs. Backend cadence/test orders still open. Macra TB tomorrow 3:00pm.",
+          "alert": "🆕 Chase access needed for Nik + Troy • Macra TB Thu 3pm",
+          "recentActivity": [
+            {
+              "date": "4/29",
+              "text": "📞 Fireflies: Macra subscription model locked — first order ships 90-day sachets + jar; second order ships tin + tumbler; no formal bundled SKUs"
+            },
+            {
+              "date": "4/29",
+              "text": "🆕 Jim/Tondo emailed Chase: Nik + Troy need access to the Macra Chase account (1:54pm)"
+            }
+          ],
+          "upcomingEvents": [
+            {
+              "date": "Thu 4/30 3:00pm",
+              "event": "Macra TB"
+            }
+          ],
+          "decisions": [
+            {
+              "date": "4/28",
+              "text": "Use a two-order subscription model: first shipment = 90-day sachets + jar; second shipment = tin + tumbler. Avoid formal bundled SKUs for now."
+            }
+          ],
+          "updated": "2026-04-29T18:00:00Z"
         },
         {
           "id": "stocked",
@@ -201,8 +232,8 @@
           "id": "zurp",
           "emoji": "📱",
           "title": "Zurp",
-          "status": "attention",
-          "lastUpdated": "2026-04-29T11:00",
+          "status": "active",
+          "lastUpdated": "2026-04-29T18:00:00Z",
           "bullets": [
             "✅ Zurp Check-In WRAPPED 11:30am-12pm ET 4/28 — recap/next steps owed",
             "🎯 NEW 4/28 1:52pm: Docusign COMPLETED — 'The Ave x ZURP 4.28.26.docx' fully executed (Dimitri signed). NEW venue locked.",
@@ -220,8 +251,27 @@
             "✅ Brand book DONE — brand.zurp.com (password: zurp2026)"
           ],
           "needsAttention": "🎯 The Ave x ZURP fully executed — coordinate rollout w/ Dimitri. Troy 'Finalize Transaction Bonus Plan' invite Mon 5/4 3:30-4pm pending review/accept. Zurp Check-In recap owed Day 1. Alec Docusign Day 7. Jack <> Troy <> Nik recap Day 7.",
-          "currentStatus": "Wed 4/29 11am. ✅ Zurp Check-In WRAPPED 4/28 11:30am-12pm — recap owed. 🎯 The Ave x ZURP Docusign EXECUTED 4/28 1:52pm — new venue locked, kick off rollout w/ Dimitri. Troy invite 'Zurp — Finalize Transaction Bonus Plan' Mon 5/4 3:30-4pm pending review. Alec Docusign Day 7. Jack <> Troy <> Nik recap Day 7. UnKommon Miami signature monitor.",
-          "alert": "🎯 Ave x ZURP EXECUTED • Troy: Bonus Plan Mon 5/4 • Alec Docusign Day 7"
+          "currentStatus": "Wed 4/29 2:00pm ET. Zurp Check-In decisions captured: ordering 8 battery units at $1,900/unit with ~45-day lead time; MSG Afters locked; moving/storage logistics still active; transaction bonus plan review still pending before lawyer submission. Next YoSharma Check-In Thu 1:30pm.",
+          "alert": "8 battery units / 45-day lead • Bonus plan review pending • YoSharma Thu 1:30pm",
+          "recentActivity": [
+            {
+              "date": "4/29",
+              "text": "📞 Fireflies recap captured: 8 units @ $1,900 each, 45-day lead time; MSG Afters locked; logistics/storage workstream active"
+            }
+          ],
+          "upcomingEvents": [
+            {
+              "date": "Thu 4/30 1:30pm",
+              "event": "YoSharma Check-In"
+            }
+          ],
+          "decisions": [
+            {
+              "date": "4/28",
+              "text": "Proceed with ordering eight battery units at $1,900/unit despite 45-day lead time to cover summer demand."
+            }
+          ],
+          "updated": "2026-04-29T18:00:00Z"
         },
         {
           "id": "authentiq",
@@ -291,7 +341,7 @@
           "emoji": "🎧",
           "title": "After Ours",
           "status": "attention",
-          "lastUpdated": "2026-04-29T11:00",
+          "lastUpdated": "2026-04-29T18:00:00Z",
           "bullets": [
             "✅ After Ours Sync WRAPPED 2-3pm ET 4/28 — recap/next steps owed",
             "✅ AO release lock-in 10:30pm WRAPPED 4/23 (Minul)",
@@ -308,15 +358,32 @@
             "💸 NEW 4/27 9:05am: Mercury — Minul sent $650 wire to CG Videos LLC (videographer/content payment)"
           ],
           "needsAttention": "AO Sync recap/next steps owed (Day 1). Brand voice brief still owed to Brandon. CG Videos $650 paid — watch for asset delivery. AO Studio Time TODAY 5-6pm + 7-10pm.",
-          "currentStatus": "Wed 4/29 11am. ✅ After Ours Sync WRAPPED 4/28 2-3pm — recap/next steps owed (Day 1). Post-show Day 11 from Somewhere Nowhere. Manus afterourssound.com refresh still pending review. CG Videos $650 paid 4/27 — watch for asset delivery. AO Studio Time TODAY 5-6pm + 7-10pm.",
-          "alert": "🎙️ AO Studio Time TODAY 5-6pm + 7-10pm."
+          "currentStatus": "Wed 4/29 2:00pm ET. No fresh Fireflies transcript found for the expected 4/28 AO Sync, so treat recap as missing/not captured rather than complete. AO Studio Time tonight 7:00-10:00pm. Post-show media/assets and afterourssound.com refresh still pending review.",
+          "alert": "AO Studio tonight 7-10pm • 4/28 sync transcript missing",
+          "recentActivity": [
+            {
+              "date": "4/29",
+              "text": "🎧 AO Studio Time on calendar tonight 7:00-10:00pm"
+            },
+            {
+              "date": "4/29",
+              "text": "⚠️ Fireflies check: no 4/28 After Ours Sync transcript found — recap/cadence still unresolved"
+            }
+          ],
+          "upcomingEvents": [
+            {
+              "date": "Wed 4/29 7:00pm",
+              "event": "AO Studio Time (7-10pm)"
+            }
+          ],
+          "updated": "2026-04-29T18:00:00Z"
         },
         {
           "id": "limited-supply",
           "emoji": "🎙️",
           "title": "Limited Supply Podcast",
-          "status": "on-track",
-          "lastUpdated": "2026-04-29T11:00",
+          "status": "active",
+          "lastUpdated": "2026-04-29T18:00:00Z",
           "bullets": [
             "🔥 LS Podcast Recording TODAY 12-1pm ET (within 2h) — second of two recordings this week",
             "✅ LS Podcast Recording WRAPPED 4/27 7-8:15pm ET",
@@ -328,8 +395,21 @@
             "Josiah Writer bot + style guide (18K words) for drafts"
           ],
           "needsAttention": "Pull V&S Playbook open/click data (62h post-send). Episode release TODAY — confirm. StreetTalk recap/next steps still owed from Matt Hickman.",
-          "currentStatus": "Wed 4/29 11am. ✅ Both LS pod recordings WRAPPED this week (Mon 7-8:15pm + Tue 12-1pm). Newsletter sent Sun 4/26 7:20pm ET — open/click data ~62h post-send (still pending pull). Episode release TODAY (Wed cadence). Next send Sun 5/3 (4 days).",
-          "alert": null
+          "currentStatus": "Wed 4/29 2:00pm ET. Newsletter sent Sun 4/26; open/click data still pending pull. Instant x Nik Fireflies captured attribution-window follow-up for Harper Wilde; Colin/Natalie Instant draft comments remain the active Workweek thread. Next send Sun 5/3.",
+          "alert": null,
+          "recentActivity": [
+            {
+              "date": "4/29",
+              "text": "📞 Instant x Nik Fireflies: attribution-window feature discussed; Nik to check Harper Wilde Klaviyo settings and follow up"
+            }
+          ],
+          "upcomingEvents": [
+            {
+              "date": "Sun 5/3",
+              "event": "Next Limited Supply send"
+            }
+          ],
+          "updated": "2026-04-29T18:00:00Z"
         },
         {
           "id": "newsletter",
@@ -363,7 +443,7 @@
           "emoji": "💼",
           "title": "Brand Consulting",
           "status": "attention",
-          "lastUpdated": "2026-04-29T11:00",
+          "lastUpdated": "2026-04-29T18:00:00Z",
           "bullets": [
             "🆕 8:08am 4/29: Anthony Graziano (CTH Advisors) — 'Nik do you have 20mins to catch up on GLPrelief's $3M Seed Round?' (Pitch/Meeting/Respond)",
             "📧 NEW Mon 12:08pm: Rameez Rumy 'Jim x Nik' — UNREAD/IMPORTANT, review needed",
@@ -397,15 +477,38 @@
             "⚖️ John Richards (GT Law) — 'Need for call with GT/Sharma and Justworks Re Meredith' — IMPORTANT (6-msg thread)"
           ],
           "needsAttention": "🆕 Anthony Graziano (CTH) GLPrelief $3M Seed inbound — 20min ask. 🔥 Peter Spiegel CMO ask Day 2. 🆕 GS Sharma Brands exit liquidity pitch still pending review. 💳 Typefully payment failed — update card. INV-5 Day 7. Air Oasis 19 days late. Peptide list owed Myles.",
-          "alert": "🔴 Paramount Virtual 1:45-3pm IMMINENT (42min) • 🆕 Graziano GLPrelief $3M Seed • INV-5 Day 7 • Air Oasis 19d late",
-          "currentStatus": "Wed 4/29 1:03pm. ✅ Highbeam x Ecom Founders WRAPPED 12:30-1pm. 🔴 NEXT: Paramount x Nik Sharma Virtual Event 1:45-3pm (42min). 🆕 8:08am: Anthony Graziano (CTH Advisors) GLPrelief $3M Seed (Pitch/Meeting/Respond) — owed reply. 🔥 Peter Spiegel CMO ask Day 2. 🆕 GS exit liquidity pitch pending. 🆕 Sean Goldfaden (Coefficient Labs) 'AI-Trends for Sharma Brands' inbound 11:09am — Pitch/Respond. Justin Mares (TrueMed) 'Quick thing' bumped to 11 msgs 12:40pm."
+          "alert": "Paramount live • Katie W 3:30pm • Highbeam/PDQ sponsor follow-ups",
+          "currentStatus": "Wed 4/29 2:00pm ET. Paramount virtual event live until 3pm; Katie W / Ideal Living at 3:30pm. Highbeam call wrapped with AI Summit/Q4 Summit sponsorship path. PDQ call from 4/28 needs sponsor-deck + RSVP/ICP follow-up. Matt/GoodOnYa Fireflies has Nik-owned funnel + Highbeam-intro follow-ups.",
+          "recentActivity": [
+            {
+              "date": "4/28",
+              "text": "📞 Matt x Nik / GoodOnYa: Nik owes Highbeam intro, lean funnel/retargeting proposal, Klaviyo review after docs arrive"
+            },
+            {
+              "date": "4/29",
+              "text": "✅ Highbeam x Ecom Founders wrapped — Silver sponsorship + AI panel planning follow-up"
+            }
+          ],
+          "upcomingEvents": [
+            {
+              "date": "Thu 4/30 2:00pm",
+              "event": "Ecom Founders TB (Sponsor Check-In)"
+            }
+          ],
+          "decisions": [
+            {
+              "date": "4/29",
+              "text": "Ecom Founders event focus: drop smaller gatherings, concentrate on AI Summit + Q4 Summit."
+            }
+          ],
+          "updated": "2026-04-29T18:00:00Z"
         },
         {
           "id": "ecom-founders",
           "emoji": "🏗️",
           "title": "Ecom Founders",
           "status": "attention",
-          "lastUpdated": "2026-04-23",
+          "lastUpdated": "2026-04-29T18:00:00Z",
           "bullets": [
             "🏛️ NYT Times Center venue walkthrough done 4/22 (Morgan Keating + Julian Santiago)",
             "📅 DECISION NEEDED: Sept 10 preferred vs backup Oct 28 — Rameez driving. Competing hold at NYT. Budget ~$60K.",
@@ -416,7 +519,32 @@
             "Insense sponsorship: Jade sent billing info + logo — Rameez sending contract + invoice",
             "Website being built by Riaz"
           ],
-          "needsAttention": "Sept 10 vs Oct 28 venue decision — Rameez driving. Hold at NYT competing, urgent. Ben Walter (Postpilot) flagged Drew Hart tag @ Stord Summit."
+          "needsAttention": "Sept 10 vs Oct 28 venue decision — Rameez driving. Hold at NYT competing, urgent. Ben Walter (Postpilot) flagged Drew Hart tag @ Stord Summit.",
+          "currentStatus": "Wed 4/29 2:00pm ET. Paramount virtual event live until 3pm; Katie W / Ideal Living at 3:30pm. Highbeam call wrapped with AI Summit/Q4 Summit sponsorship path. PDQ call from 4/28 needs sponsor-deck + RSVP/ICP follow-up. Matt/GoodOnYa Fireflies has Nik-owned funnel + Highbeam-intro follow-ups.",
+          "alert": "Paramount live • Katie W 3:30pm • Highbeam/PDQ sponsor follow-ups",
+          "recentActivity": [
+            {
+              "date": "4/28",
+              "text": "📞 Matt x Nik / GoodOnYa: Nik owes Highbeam intro, lean funnel/retargeting proposal, Klaviyo review after docs arrive"
+            },
+            {
+              "date": "4/29",
+              "text": "✅ Highbeam x Ecom Founders wrapped — Silver sponsorship + AI panel planning follow-up"
+            }
+          ],
+          "upcomingEvents": [
+            {
+              "date": "Thu 4/30 2:00pm",
+              "event": "Ecom Founders TB (Sponsor Check-In)"
+            }
+          ],
+          "decisions": [
+            {
+              "date": "4/29",
+              "text": "Ecom Founders event focus: drop smaller gatherings, concentrate on AI Summit + Q4 Summit."
+            }
+          ],
+          "updated": "2026-04-29T18:00:00Z"
         }
       ]
     },
@@ -428,7 +556,7 @@
           "emoji": "🎯",
           "title": "Rolling Ventures Fund",
           "status": "attention",
-          "lastUpdated": "2026-04-29T11:00",
+          "lastUpdated": "2026-04-29T18:00:00Z",
           "bullets": [
             "🆕 8:08am 4/29: Anthony Graziano (CTH Advisors) — GLPrelief $3M Seed Round 20min ask (Pitch/Meeting/Respond)",
             "✅ Rolling Ventures TB WRAPPED 1:30-2:00pm ET 4/24 — recap owed",
@@ -449,8 +577,35 @@
             "📧 Kristina Igoe (Left Lane) — in-person w/ Nik/Troy/Rohit coordinating"
           ],
           "needsAttention": "🆕 Graziano GLPrelief $3M Seed — 20min ask. 🆕 GS Sharma Brands exit liquidity pitch — review. 📅 PEF QSBS Roundtable Lunch TODAY (Rockefeller). RV TB recap Day 5. Left Lane in-person next steps still owed. unspun B-3 signature ASAP.",
-          "currentStatus": "Wed 4/29 1:03pm. ✅ Highbeam x Ecom Founders 12:30-1pm WRAPPED. 🔴 Paramount Virtual 1:45-3pm next. 🆕 8:08am: Anthony Graziano (CTH Advisors) inbound — GLPrelief $3M Seed Round, 20min ask (Pitch/Meeting/Respond) — review. 🆕 Tue 5:51pm: Goldman Sachs (Nikita Frantz) 'Sharma Brands exit liquidity + Masala's 2026 Special Situations' — direct exit-liquidity pitch, review. 📅 PEF QSBS Roundtable Lunch TODAY (Rockefeller Global Family Office). RV TB recap Day 5 owed. Left Lane in-person Mon — next steps still owed. unspun B-3 signature ASAP.",
-          "alert": "🆕 Graziano GLPrelief $3M Seed • 🆕 GS exit liquidity • 📅 PEF QSBS LUNCH TODAY"
+          "currentStatus": "Wed 4/29 2:00pm ET. Paramount virtual event is live/in progress until 3:00pm, then Katie W / Ideal Living at 3:30pm. Highbeam x Ecom Founders call wrapped: AI Summit + Q4 Summit sponsorship focus, Silver package follow-up owned by Rameez, Nik to help facilitate David/Grace/Ecom Founders panel planning. Graziano GLPrelief + Goldman exit-liquidity pitches still need review.",
+          "alert": "🔴 Paramount live until 3pm • Katie W 3:30pm • Highbeam follow-up",
+          "recentActivity": [
+            {
+              "date": "4/29",
+              "text": "📅 Paramount x Nik Sharma Virtual Event live 1:45-3:00pm, followed by Katie W / Ideal Living 3:30pm"
+            },
+            {
+              "date": "4/29",
+              "text": "✅ Highbeam x Ecom Founders wrapped — focus narrowed to AI Summit + Q4 Summit; Silver package/panel planning follow-up"
+            }
+          ],
+          "upcomingEvents": [
+            {
+              "date": "Thu 4/30 1:00pm",
+              "event": "Check-In"
+            },
+            {
+              "date": "Thu 4/30 12:30pm",
+              "event": "ben@postpilot.com"
+            }
+          ],
+          "decisions": [
+            {
+              "date": "4/29",
+              "text": "Highbeam sponsorship strategy: concentrate resources on AI Summit + Q4 Summit, with C-suite DTC audience and interactive/case-study formats."
+            }
+          ],
+          "updated": "2026-04-29T18:00:00Z"
         },
         {
           "id": "personal-investments",
@@ -477,7 +632,7 @@
           "emoji": "✈️",
           "title": "Today & This Week",
           "status": "attention",
-          "lastUpdated": "2026-04-29T12:00",
+          "lastUpdated": "2026-04-29T18:00:00Z",
           "bullets": [
             "🆕 Wed 8:08am: Anthony Graziano (CTH) GLPrelief $3M Seed Round — 20min ask",
             "📧 NEW Mon 12:08pm: Rameez Rumy 'Jim x Nik' — UNREAD/IMPORTANT",
@@ -511,8 +666,9 @@
             "📅 Apr 28 Instant follow-up • Apr 29 PEF QSBS Roundtable Lunch • May 6 Ben Zises • May 8 Lightwork Home Health • May 29-31 PEF Clarity Retreat"
           ],
           "needsAttention": "🔴 Paramount Virtual Event 1:45-3pm IMMINENT (42min). AO Studio 5-6 + 7-10pm. 🆕 Graziano GLPrelief 20min ask. 🔥 Peter Spiegel CMO Day 3. INV-5 Day 7. Air Oasis 19d late. Continental mold dispute reactivated.",
-          "currentStatus": "Wed 1:03pm: ✅ Fort/Travel/Prep/Highbeam DONE → 🔴 Get Ready 1:15-1:45pm → Paramount Virtual Event 1:45-3pm IMMINENT (42min) → Extra Time 3-3:30pm → AO Studio 5-6pm + 7-10pm. Justin Mares 'Quick thing' now 11 msgs (12:40pm bump). Continental mold thread reactivated 11:46am (HPD on record). New 11:09am: Sean Goldfaden (Coefficient Labs) AI-Trends pitch.",
-          "alert": "🔴 Paramount Virtual 1:45-3pm IMMINENT (42min). AO Studio 5-10pm."
+          "currentStatus": "Wed 4/29 2:00pm ET: Paramount Virtual Event is live until 3:00pm → Katie W / Ideal Living 3:30pm → AO Studio 7:00-10:00pm. Tomorrow: PostPilot 12:30, Check-In 1:00, YoSharma 1:30, Ecom Founders Sponsor Check-In 2:00, Macra TB 3:00, Chiro 4:00.",
+          "alert": "🔴 Paramount live • Katie W 3:30pm • AO Studio 7pm",
+          "updated": "2026-04-29T18:00:00Z"
         }
       ]
     },
@@ -523,8 +679,8 @@
           "id": "my-agents",
           "emoji": "🤖",
           "title": "My Agents",
-          "status": "on-track",
-          "lastUpdated": "2026-04-29T12:00",
+          "status": "active",
+          "lastUpdated": "2026-04-29T18:00:00Z",
           "bullets": [
             "14 bots operational",
             "⚡ Jet (Opus) · 📇 CRM (Sonnet) · 💊 Macra (Opus) · 📱 Macra App (Sonnet)",
@@ -535,7 +691,14 @@
             "Namecheap API connected — macra.com + niksharma.io managed"
           ],
           "needsAttention": null,
-          "currentStatus": "Dashboard refresh Wed 4/29 1:03pm ET (cron). 🚨 NEXT: 1:45-3pm Paramount Virtual IMMINENT (42min) → 3-3:30pm Extra Time → 5pm AO Studio. ✅ Highbeam 12:30pm WRAPPED. Justin Mares thread now 11 msgs."
+          "currentStatus": "Wed 4/29 2:00pm ET. Dashboard refresh pulled Google Calendar/Gmail, Fireflies recent transcripts, and Slack priority channels. Slack priority channels returned no new post-2pm messages. Main updates: Macra Chase access, Highbeam sponsor follow-up, AO sync transcript missing, tomorrow calendar staged.",
+          "recentActivity": [
+            {
+              "date": "4/29",
+              "text": "🔄 2pm dashboard refresh: Calendar/Gmail/Fireflies/Slack checked; dashboards + widget JSON regenerated"
+            }
+          ],
+          "updated": "2026-04-29T18:00:00Z"
         }
       ]
     }
