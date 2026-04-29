@@ -1,6 +1,6 @@
 {
-  "total": 411,
-  "last_updated": "2026-04-29T06:51:12.223Z",
+  "total": 412,
+  "last_updated": "2026-04-29T06:59:06.105Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3288,6 +3288,14 @@
       "source": "web",
       "referrer": "",
       "ip": "176.223.173.203",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "varsha@cureveda.com",
+      "ts": "2026-04-29T06:59:05.943Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "14.96.91.228",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
