@@ -1,6 +1,6 @@
 {
-  "total": 407,
-  "last_updated": "2026-04-29T02:43:27.537Z",
+  "total": 408,
+  "last_updated": "2026-04-29T03:56:06.866Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3257,6 +3257,14 @@
       "referrer": "",
       "ip": "23.241.227.214",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "ashley.chan@thepurestgroup.com",
+      "ts": "2026-04-29T03:56:06.576Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "101.127.111.46",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
