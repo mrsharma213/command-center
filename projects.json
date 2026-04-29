@@ -128,19 +128,19 @@
   {
     "name": "Today & This Week",
     "status": "attention",
-    "currentStatus": "Wed 11am: ✅ Fort 10-11am DONE → Travel Time NOW 11-11:30am → Prep Paramount 11:30-12 → Highbeam x Ecom Founders 12:30-1pm → Get Ready 1:15-1:45pm → Paramount x Nik Sharma Virtual Event 1:45-3pm → Extra Time 3-3:30pm → AO Studio Time 5-6pm + 7-10pm.",
-    "alert": "🔴 Paramount Virtual Event 1:45-3pm (in ~2.75h). Highbeam x Ecom Founders 12:30pm next (in ~1.5h).",
-    "needsAttention": "🔴 Paramount Virtual Event 1:45-3pm (in ~2.75h). Highbeam x Ecom Founders 12:30pm (in ~1.5h). Prep Paramount 11:30-12 NEXT. AO Studio 5-6 + 7-10pm. 🆕 Graziano GLPrelief 20min ask. 🔥 Peter Spiegel CMO Day 2. INV-5 Day 7. Air Oasis 19d late.",
-    "updated": "2026-04-29T11:00",
+    "currentStatus": "Wed 12pm: ✅ Fort/Travel/Prep DONE → Highbeam x Ecom Founders 12:30-1pm IMMINENT (30min) → Get Ready 1:15-1:45pm → 🔴 Paramount Virtual Event 1:45-3pm → Extra Time 3-3:30pm → AO Studio 5-6pm + 7-10pm. New since 11am: Continental mold thread (13 msgs) reactivated; Marissa Pizzuto (Almost Friday) NYC pitch; Justin Mares Lightwork home-health offer dovetails with mold dispute.",
+    "alert": "🔴 Highbeam x Ecom Founders 12:30pm IMMINENT (30min). Paramount Virtual Event 1:45-3pm next.",
+    "needsAttention": "🔴 Paramount Virtual Event 1:45-3pm (in ~1.75h). Highbeam x Ecom Founders 12:30pm IMMINENT (30min). Get Ready 1:15-1:45pm. AO Studio 5-6 + 7-10pm. 🆕 Graziano GLPrelief 20min ask. 🔥 Peter Spiegel CMO Day 3. INV-5 Day 7. Air Oasis 19d late. Continental mold dispute reactivated.",
+    "updated": "2026-04-29T12:00",
     "section": "Nik Sharma — Personal"
   },
   {
     "name": "My Agents",
     "status": "on-track",
-    "currentStatus": "Dashboard refresh Wed 4/29 11:00am ET (cron). 🚨 NOW: Travel Time 11-11:30am → Prep Paramount 11:30-12. NEXT: 12:30pm Highbeam → 1:45-3pm Paramount Virtual → 5pm AO Studio. Recent inbound: 🆕 8:08am Anthony Graziano (CTH) GLPrelief $3M Seed. 1:03am Figma 5 new comments on Macra Feedback File. All 3 dashboards regenerated.",
+    "currentStatus": "Dashboard refresh Wed 4/29 12:00pm ET (cron). 🚨 NEXT: 12:30pm Highbeam → 1:45-3pm Paramount Virtual → 5pm AO Studio. New since 11am: Continental mold dispute thread reactivated (13 msgs, HPD on record); Justin Mares Lightwork home-health home-test offer; Marissa Pizzuto (Almost Friday, 30M+ audience) NYC coffee pitch.",
     "alert": null,
     "needsAttention": null,
-    "updated": "2026-04-29T11:00",
+    "updated": "2026-04-29T12:00",
     "section": "Operations"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-04-29T15:00:00Z",
+  "lastRefreshed": "2026-04-29T16:00:00Z",
   "flagged": [
     {
       "id": "macra-figma-comments",
@@ -104,6 +104,14 @@
       "detail": "Tue 4/28 3:42pm: Stripe failed-payments notice — '$149.99 payment to Typefully was unsuccessful again' (IMPORTANT). Update card or cancel sub.",
       "severity": "attention",
       "since": "2026-04-28"
+    },
+    {
+      "id": "continental-mold",
+      "emoji": "🏠",
+      "title": "Continental (apt) — mold escalation thread reactivated",
+      "detail": "Wed 4/29 11:46am bump on 13-msg thread to Troy Parker / Nicole Paiva / The Continental front desk. Nik's formal notice: HPD complaint filed, demanding inspection report + remediation plan. Lightwork Home Health (via Justin Mares) offering free home test — may be useful evidence/independent assessment.",
+      "severity": "attention",
+      "since": "2026-04-29"
     }
   ],
   "newsletter": {
@@ -469,7 +477,7 @@
           "emoji": "✈️",
           "title": "Today & This Week",
           "status": "attention",
-          "lastUpdated": "2026-04-29T11:00",
+          "lastUpdated": "2026-04-29T12:00",
           "bullets": [
             "🆕 Wed 8:08am: Anthony Graziano (CTH) GLPrelief $3M Seed Round — 20min ask",
             "📧 NEW Mon 12:08pm: Rameez Rumy 'Jim x Nik' — UNREAD/IMPORTANT",
@@ -483,7 +491,7 @@
             "🔥 Mon 4pm Prep for Leftlane (Facetime) → 5pm Left Lane in-person (Troy/Rohit) • Mon 7pm LS Pod recording",
             "📞 TUE 4/28: Zurp 11:30am → LS Pod 12pm → AO Sync 2pm → PDQ 3pm → Instant 4pm → Matt 4:30pm → Macra TB 5-6pm → 🔴 LIVE Data-First Commerce 6-8:30pm → Shades 10pm",
             "🆕 Tue 5:51pm: Goldman Sachs (Nikita Frantz) 'Sharma Brands exit liquidity + Masala's 2026 Special Situations' — direct pitch, review",
-            "📅 WED 4/29 NOW (10am): Fort 10-11am ENDING → Travel 11-11:30am → Prep Paramount 11:30-12 → Highbeam x Ecom Founders 12:30-1pm → Get Ready 1:15-1:45pm → 🔴 Paramount x Nik Sharma Virtual Event 1:45-3pm → AO Studio 5-6pm + 7-10pm",
+            "📅 WED 4/29 NOW (12pm): ✅ Fort/Travel/Prep DONE → Highbeam x Ecom Founders 12:30-1pm IMMINENT → Get Ready 1:15-1:45pm → 🔴 Paramount x Nik Sharma Virtual Event 1:45-3pm → Extra Time 3-3:30pm → AO Studio 5-6pm + 7-10pm",
             "📧 Mon 10:39am: Nichole (codingcopsdev.cloud) inbound 'external help' — pitch/respond",
             "📧 Mon 10:19am: Priyesh Tiwarkar (Soshals) — sponsored content partnership pitch",
             "📧 Sun 1:24pm: Pierson Krass yanked Nik off Lunar Ideal Living TB Apr 30 — invite removed",
@@ -497,14 +505,14 @@
             "📇 Dil P NFC business cards — quote still owed (thread 59 msgs)",
             "🚨 Anthropic API (jet@nik.co): $55.45 + $272.19 payment failures — update billing URGENT",
             "📧 Mon 2:21pm: Rameez 'Re: Novel Follow Up' — 10-msg thread, Tim Combatti credit/Shopify refund coordination active",
-            "📧 Mon 2:26pm: Justin Mares (TrueMed) 'Quick thing' — now 8-msg thread, IMPORTANT/Action",
+            "📧 Wed 11:59am: Justin Mares (TrueMed) 'Quick thing' — now 10-msg thread, Lightwork Home Health home test offer (timely — see Continental mold dispute)",
             "📧 Mon 2:30pm: Minul 'Nik Sharma Reporting' — 8-msg thread",
             "📧 Respond queue still hot: Brigitta Ruha • Arjun Padmakumar • Alexandra Zatarain • John Richards • Andrew Ferenci • Justin Mares (TrueMed)",
             "📅 Apr 28 Instant follow-up • Apr 29 PEF QSBS Roundtable Lunch • May 6 Ben Zises • May 8 Lightwork Home Health • May 29-31 PEF Clarity Retreat"
           ],
-          "needsAttention": "🔴 Paramount Virtual Event 1:45-3pm (in ~2.75h). Highbeam x Ecom Founders 12:30pm (in ~1.5h). Prep Paramount 11:30-12 NEXT. AO Studio 5-6 + 7-10pm. 🆕 Graziano GLPrelief 20min ask. 🔥 Peter Spiegel CMO Day 2. INV-5 Day 7. Air Oasis 19d late.",
-          "currentStatus": "Wed 11am: ✅ Fort 10-11am DONE → Travel Time NOW 11-11:30am → Prep Paramount 11:30-12 → Highbeam x Ecom Founders 12:30-1pm → Get Ready 1:15-1:45pm → Paramount x Nik Sharma Virtual Event 1:45-3pm → Extra Time 3-3:30pm → AO Studio Time 5-6pm + 7-10pm.",
-          "alert": "🔴 Paramount Virtual Event 1:45-3pm (in ~2.75h). Highbeam x Ecom Founders 12:30pm next (in ~1.5h)."
+          "needsAttention": "🔴 Paramount Virtual Event 1:45-3pm (in ~1.75h). Highbeam x Ecom Founders 12:30pm IMMINENT (30min). Get Ready 1:15-1:45pm. AO Studio 5-6 + 7-10pm. 🆕 Graziano GLPrelief 20min ask. 🔥 Peter Spiegel CMO Day 3. INV-5 Day 7. Air Oasis 19d late. Continental mold dispute reactivated.",
+          "currentStatus": "Wed 12pm: ✅ Fort/Travel/Prep DONE → Highbeam x Ecom Founders 12:30-1pm IMMINENT (30min) → Get Ready 1:15-1:45pm → 🔴 Paramount Virtual Event 1:45-3pm → Extra Time 3-3:30pm → AO Studio 5-6pm + 7-10pm. New since 11am: Continental mold thread (13 msgs) reactivated; Marissa Pizzuto (Almost Friday) NYC pitch; Justin Mares Lightwork home-health offer dovetails with mold dispute.",
+          "alert": "🔴 Highbeam x Ecom Founders 12:30pm IMMINENT (30min). Paramount Virtual Event 1:45-3pm next."
         }
       ]
     },
@@ -516,7 +524,7 @@
           "emoji": "🤖",
           "title": "My Agents",
           "status": "on-track",
-          "lastUpdated": "2026-04-29T11:00",
+          "lastUpdated": "2026-04-29T12:00",
           "bullets": [
             "14 bots operational",
             "⚡ Jet (Opus) · 📇 CRM (Sonnet) · 💊 Macra (Opus) · 📱 Macra App (Sonnet)",
@@ -527,7 +535,7 @@
             "Namecheap API connected — macra.com + niksharma.io managed"
           ],
           "needsAttention": null,
-          "currentStatus": "Dashboard refresh Wed 4/29 11:00am ET (cron). 🚨 NOW: Travel Time 11-11:30am → Prep Paramount 11:30-12. NEXT: 12:30pm Highbeam → 1:45-3pm Paramount Virtual → 5pm AO Studio. Recent inbound: 🆕 8:08am Anthony Graziano (CTH) GLPrelief $3M Seed. 1:03am Figma 5 new comments on Macra Feedback File. All 3 dashboards regenerated."
+          "currentStatus": "Dashboard refresh Wed 4/29 12:00pm ET (cron). 🚨 NEXT: 12:30pm Highbeam → 1:45-3pm Paramount Virtual → 5pm AO Studio. New since 11am: Continental mold dispute thread reactivated (13 msgs, HPD on record); Justin Mares Lightwork home-health home-test offer; Marissa Pizzuto (Almost Friday, 30M+ audience) NYC coffee pitch."
         }
       ]
     }
