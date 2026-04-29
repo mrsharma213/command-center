@@ -1,6 +1,14 @@
 {
-  "lastRefreshed": "2026-04-29T19:00:00Z",
+  "lastRefreshed": "2026-04-29T20:00:00Z",
   "flagged": [
+    {
+      "id": "highbeam-ai-summit-silver",
+      "emoji": "📤",
+      "title": "Highbeam x Ecom Founders — $25K AI Summit Silver ask sent",
+      "detail": "Wed 4/29 3:51pm: Rameez sent Grace the AI Summit $25K Silver sponsorship recap/proposal: 7–15 min speaking slot, logo placement, 5 tickets, post-event RSVP list, unique invite link, and audience mix. Waiting on Highbeam lock-in + Div/Nik session-planning call.",
+      "severity": "attention",
+      "since": "2026-04-29"
+    },
     {
       "id": "tatari-ecom-contracts",
       "emoji": "🧾",
@@ -213,8 +221,8 @@
           "id": "maruchan",
           "emoji": "🍜",
           "title": "Maruchan x Nik Sharma",
-          "status": "active",
-          "lastUpdated": "2026-04-29T19:00:00Z",
+          "status": "attention",
+          "lastUpdated": "2026-04-29T20:00:00Z",
           "bullets": [
             "🎙️ Fireflies KO recap parsed 4/24: strategy around boomers/core buyers, Gen Z foodies, and value-focused “saving slurpers”",
             "📝 Nik commitment: review all materials over weekend and compile comprehensive strategy doc by Monday/Tuesday",
@@ -233,21 +241,20 @@
             "Coordinated via Minul @ nik.co"
           ],
           "needsAttention": "Capture Maruchan call transcript/decisions once Fireflies posts. Keep strategy/recommendation doc moving after Nik reviews the weekend materials and call notes.",
-          "currentStatus": "Wed 4/29 3:00pm ET. Maruchan meeting is live 3:00-3:30pm; Katelyn accepted at 2:59pm after an earlier decline, and Fireflies joined the Zoom at 3:00pm. Strategy/recommendation doc remains the core follow-up after the call; watch for transcript/next steps.",
-          "alert": "Maruchan call live now • Fireflies joined • strategy doc follow-up",
-          "updated": "2026-04-29T19:00:00Z",
+          "currentStatus": "Wed 4/29 4:00pm ET. Maruchan x Nik Sharma call ran 3:00-3:30pm; Katelyn accepted at 2:59pm and Fireflies joined at 3:00pm. Transcript/recap has not posted yet, so next move is to watch for the call output and convert it into the strategy/recommendation doc.",
+          "alert": "Maruchan call completed • transcript pending • strategy doc follow-up",
+          "updated": "2026-04-29T20:00:00Z",
           "recentActivity": [
+            {
+              "date": "4/29",
+              "text": "📞 Maruchan call completed 3:00-3:30pm; Fireflies joined, transcript still pending"
+            },
             {
               "date": "4/29",
               "text": "📞 Maruchan x Nik Sharma live at 3:00pm; Katelyn accepted at 2:59pm and Fireflies joined the meeting"
             }
           ],
-          "upcomingEvents": [
-            {
-              "date": "Wed 4/29 3:00pm",
-              "event": "Maruchan x Nik Sharma"
-            }
-          ]
+          "upcomingEvents": []
         },
         {
           "id": "zurp",
@@ -317,8 +324,8 @@
           "id": "pigeon-house",
           "emoji": "🐦",
           "title": "Pigeon House Records",
-          "status": "on-track",
-          "lastUpdated": "2026-04-17",
+          "status": "attention",
+          "lastUpdated": "2026-04-29T20:00:00Z",
           "bullets": [
             "Label active with After Ours releases",
             "🎵 'Rise & Shine' / 'Future Classic' going live TODAY",
@@ -326,7 +333,26 @@
             "Brandon Launerts handling social/content scheduling",
             "Rahul onboarding to IG strategy + content research"
           ],
-          "needsAttention": null
+          "needsAttention": null,
+          "currentStatus": "Wed 4/29 4:00pm ET. After Ours/Pigeon House work is active tonight: AO Studio Time 5-6pm and 7-10pm, plus “Finalize Never Come Back” 9:15-9:45pm with Minul + Troy. Nik still needsAction on the invite.",
+          "alert": "AO Studio tonight • Finalize Never Come Back 9:15pm",
+          "upcomingEvents": [
+            {
+              "date": "Wed 4/29 7:00pm",
+              "event": "AO Studio Time"
+            },
+            {
+              "date": "Wed 4/29 9:15pm",
+              "event": "Finalize Never Come Back"
+            }
+          ],
+          "recentActivity": [
+            {
+              "date": "4/29",
+              "text": "🎵 Finalize Never Come Back added tonight 9:15-9:45pm"
+            }
+          ],
+          "updated": "2026-04-29T20:00:00Z"
         },
         {
           "id": "roast-nik-co",
@@ -362,7 +388,7 @@
           "emoji": "🎧",
           "title": "After Ours",
           "status": "attention",
-          "lastUpdated": "2026-04-29T19:00:00Z",
+          "lastUpdated": "2026-04-29T20:00:00Z",
           "bullets": [
             "✅ After Ours Sync WRAPPED 2-3pm ET 4/28 — recap/next steps owed",
             "✅ AO release lock-in 10:30pm WRAPPED 4/23 (Minul)",
@@ -379,9 +405,13 @@
             "💸 NEW 4/27 9:05am: Mercury — Minul sent $650 wire to CG Videos LLC (videographer/content payment)"
           ],
           "needsAttention": "Capture AO studio/finalization outputs after tonight. AO Sync recap/next steps still missing if the 4/28 sync happened off-Fireflies.",
-          "currentStatus": "Wed 4/29 3:00pm ET. No fresh 4/28 AO Sync transcript found. AO Studio Time is now staged twice today: 5:00-6:00pm and 7:00-10:00pm in Palisades Park, plus “Finalize Never Come Back” at 9:15-9:45pm. Post-show media/assets and afterourssound.com refresh still pending review.",
-          "alert": "AO Studio 5-6pm + 7-10pm • Finalize Never Come Back 9:15pm • sync transcript missing",
+          "currentStatus": "Wed 4/29 4:00pm ET. AO has a packed night: Studio Time 5:00-6:00pm, then 7:00-10:00pm in Palisades Park, plus Minul’s “Finalize Never Come Back” session 9:15-9:45pm. Nik is still needsAction on the finalization invite. No fresh AO Sync transcript found.",
+          "alert": "AO Studio starts 5pm • Finalize Never Come Back 9:15pm • Nik needsAction",
           "recentActivity": [
+            {
+              "date": "4/29",
+              "text": "🎵 AO night confirmed: studio 5-6pm + 7-10pm; Finalize Never Come Back 9:15-9:45pm"
+            },
             {
               "date": "4/29",
               "text": "🎵 AO Studio Time 5-6pm and 7-10pm; Finalize Never Come Back 9:15-9:45pm"
@@ -409,7 +439,7 @@
               "event": "Finalize Never Come Back"
             }
           ],
-          "updated": "2026-04-29T19:00:00Z"
+          "updated": "2026-04-29T20:00:00Z"
         },
         {
           "id": "limited-supply",
@@ -476,7 +506,7 @@
           "emoji": "💼",
           "title": "Brand Consulting",
           "status": "attention",
-          "lastUpdated": "2026-04-29T19:00:00Z",
+          "lastUpdated": "2026-04-29T20:00:00Z",
           "bullets": [
             "🆕 8:08am 4/29: Anthony Graziano (CTH Advisors) — 'Nik do you have 20mins to catch up on GLPrelief's $3M Seed Round?' (Pitch/Meeting/Respond)",
             "📧 NEW Mon 12:08pm: Rameez Rumy 'Jim x Nik' — UNREAD/IMPORTANT, review needed",
@@ -510,9 +540,13 @@
             "⚖️ John Richards (GT Law) — 'Need for call with GT/Sharma and Justworks Re Meredith' — IMPORTANT (6-msg thread)"
           ],
           "needsAttention": "🆕 Anthony Graziano (CTH) GLPrelief $3M Seed inbound — 20min ask. 🔥 Peter Spiegel CMO ask Day 2. 🆕 GS Sharma Brands exit liquidity pitch still pending review. 💳 Typefully payment failed — update card. INV-5 Day 7. Air Oasis 19 days late. Peptide list owed Myles.",
-          "alert": "Katie / Ideal Living 3:30pm • Maruchan live • Tatari contracts sent",
-          "currentStatus": "Wed 4/29 3:00pm ET. Paramount virtual event window ended at 3:00pm; Katie W / Ideal Living is next at 3:30pm. Ecom Founders/Tatari moved to contract stage with contracts + invoice sent. Maruchan call is live 3:00-3:30 with Fireflies in-room.",
+          "alert": "Maruchan transcript pending • Highbeam ask sent • Tatari contracts pending",
+          "currentStatus": "Wed 4/29 4:00pm ET. Paramount virtual + Katie W / Ideal Living windows have wrapped. Maruchan call completed 3:00-3:30 with Fireflies in-room but transcript still pending. Ecom Founders sponsor motion advanced: Highbeam $25K Silver recap sent at 3:51pm; Tatari contracts/invoice still pending DocuSign routing.",
           "recentActivity": [
+            {
+              "date": "4/29",
+              "text": "📞 Maruchan call completed; Fireflies transcript pending. Highbeam $25K Silver sponsor recap sent minutes later."
+            },
             {
               "date": "4/29",
               "text": "🧾 Tatari sponsor contracts/invoice sent; Maruchan call live and Katie / Ideal Living queued at 3:30pm"
@@ -528,10 +562,6 @@
           ],
           "upcomingEvents": [
             {
-              "date": "Wed 4/29 3:30pm",
-              "event": "Katie W / Ideal Living"
-            },
-            {
               "date": "Thu 4/30 12:30pm",
               "event": "ben@postpilot.com"
             }
@@ -542,14 +572,14 @@
               "text": "Ecom Founders event focus: drop smaller gatherings, concentrate on AI Summit + Q4 Summit."
             }
           ],
-          "updated": "2026-04-29T19:00:00Z"
+          "updated": "2026-04-29T20:00:00Z"
         },
         {
           "id": "ecom-founders",
           "emoji": "🏗️",
           "title": "Ecom Founders",
           "status": "attention",
-          "lastUpdated": "2026-04-29T19:00:00Z",
+          "lastUpdated": "2026-04-29T20:00:00Z",
           "bullets": [
             "🏛️ NYT Times Center venue walkthrough done 4/22 (Morgan Keating + Julian Santiago)",
             "📅 DECISION NEEDED: Sept 10 preferred vs backup Oct 28 — Rameez driving. Competing hold at NYT. Budget ~$60K.",
@@ -561,9 +591,13 @@
             "Website being built by Riaz"
           ],
           "needsAttention": "Confirm Tatari DocuSign recipient/routing, lock activation call time, and update deck/site/logo collateral before Sponsor Check-In Thu 2pm.",
-          "currentStatus": "Wed 4/29 3:00pm ET. Tatari sponsorship moved to contract stage: Minul sent AI Summit + Q4 Summit sponsorship contracts and invoice to Hooman/Amit, asking whether DocuSign should route to Hooman or someone else. Rameez proposed 5/4 4:30pm, 5/5 1pm, or 5/6 1pm for the activation/programming call. Sponsor Check-In still tomorrow 2:00pm.",
-          "alert": "Tatari contracts + invoice sent • DocuSign routing pending • Sponsor Check-In Thu 2pm",
+          "currentStatus": "Wed 4/29 4:00pm ET. Highbeam follow-up is now in-market: Rameez sent Grace the AI Summit $25K Silver sponsorship recap at 3:51pm with speaking slot, logo placement, 5 tickets, RSVP list, unique invite link, and audience mix. Tatari remains in contracts/invoice stage with DocuSign routing pending. Sponsor Check-In tomorrow 2:00pm.",
+          "alert": "Highbeam $25K Silver ask sent • Tatari DocuSign routing pending • Sponsor Check-In Thu 2pm",
           "recentActivity": [
+            {
+              "date": "4/29",
+              "text": "📤 Rameez sent Highbeam the $25K AI Summit Silver sponsorship recap/proposal at 3:51pm"
+            },
             {
               "date": "4/29",
               "text": "🧾 Minul sent Tatari AI Summit + Q4 Summit sponsorship contracts plus invoice; DocuSign routing question pending"
@@ -586,6 +620,10 @@
           "decisions": [
             {
               "date": "4/29",
+              "text": "Highbeam ask framed as AI Summit $25K Silver sponsorship: 7-15 min speaking slot, logo placement, 5 tickets, RSVP list, and unique brand invite link."
+            },
+            {
+              "date": "4/29",
               "text": "Move forward with Tatari combined AI Summit + Q4 Summit sponsorship package; contracts/invoice now out for review."
             },
             {
@@ -593,7 +631,7 @@
               "text": "Ecom Founders event focus: drop smaller gatherings, concentrate on AI Summit + Q4 Summit."
             }
           ],
-          "updated": "2026-04-29T19:00:00Z"
+          "updated": "2026-04-29T20:00:00Z"
         }
       ]
     },
@@ -605,7 +643,7 @@
           "emoji": "🎯",
           "title": "Rolling Ventures Fund",
           "status": "attention",
-          "lastUpdated": "2026-04-29T19:00:00Z",
+          "lastUpdated": "2026-04-29T20:00:00Z",
           "bullets": [
             "🆕 8:08am 4/29: Anthony Graziano (CTH Advisors) — GLPrelief $3M Seed Round 20min ask (Pitch/Meeting/Respond)",
             "✅ Rolling Ventures TB WRAPPED 1:30-2:00pm ET 4/24 — recap owed",
@@ -626,9 +664,13 @@
             "📧 Kristina Igoe (Left Lane) — in-person w/ Nik/Troy/Rohit coordinating"
           ],
           "needsAttention": "🆕 Graziano GLPrelief $3M Seed — 20min ask. 🆕 GS Sharma Brands exit liquidity pitch — review. 📅 PEF QSBS Roundtable Lunch TODAY (Rockefeller). RV TB recap Day 5. Left Lane in-person next steps still owed. unspun B-3 signature ASAP.",
-          "currentStatus": "Wed 4/29 3:00pm ET. Paramount virtual event just wrapped at 3:00pm; Katie W / Ideal Living is next at 3:30pm. Highbeam x Ecom Founders follow-up remains active, and Tatari sponsorship has moved to contracts/invoice + DocuSign routing. GLPrelief / Goldman deal-flow review still pending.",
-          "alert": "Katie / Ideal Living 3:30pm • Tatari contracts sent • deal-flow review pending",
+          "currentStatus": "Wed 4/29 4:00pm ET. Paramount/Katie W windows have wrapped. Fresh commercial motion is on Ecom Founders: Highbeam received the $25K AI Summit Silver sponsorship recap at 3:51pm, while Tatari remains at contracts/invoice + DocuSign routing. Rolling Ventures TB is now on calendar Fri 5/1 1:30pm; GLPrelief / Goldman deal-flow review still pending.",
+          "alert": "Highbeam/Tatari sponsor follow-up • RV TB Fri 1:30pm • deal-flow review pending",
           "recentActivity": [
+            {
+              "date": "4/29",
+              "text": "📤 Highbeam received AI Summit $25K Silver sponsorship recap/proposal; next ask is lock-in + Div/Nik session planning call"
+            },
             {
               "date": "4/29",
               "text": "🧾 Tatari AI Summit + Q4 Summit sponsorship contracts/invoice sent; DocuSign routing pending"
@@ -644,10 +686,6 @@
           ],
           "upcomingEvents": [
             {
-              "date": "Wed 4/29 3:30pm",
-              "event": "Katie W / Ideal Living"
-            },
-            {
               "date": "Fri 5/1 1:30pm",
               "event": "Rolling Ventures TB"
             }
@@ -655,10 +693,14 @@
           "decisions": [
             {
               "date": "4/29",
+              "text": "Highbeam sponsorship motion is now a concrete $25K AI Summit Silver ask with panel/speaking follow-up."
+            },
+            {
+              "date": "4/29",
               "text": "Highbeam sponsorship strategy: concentrate resources on AI Summit + Q4 Summit, with C-suite DTC audience and interactive/case-study formats."
             }
           ],
-          "updated": "2026-04-29T19:00:00Z"
+          "updated": "2026-04-29T20:00:00Z"
         },
         {
           "id": "personal-investments",
@@ -685,7 +727,7 @@
           "emoji": "✈️",
           "title": "Today & This Week",
           "status": "attention",
-          "lastUpdated": "2026-04-29T19:00:00Z",
+          "lastUpdated": "2026-04-29T20:00:00Z",
           "bullets": [
             "🆕 Wed 8:08am: Anthony Graziano (CTH) GLPrelief $3M Seed Round — 20min ask",
             "📧 NEW Mon 12:08pm: Rameez Rumy 'Jim x Nik' — UNREAD/IMPORTANT",
@@ -719,9 +761,9 @@
             "📅 Apr 28 Instant follow-up • Apr 29 PEF QSBS Roundtable Lunch • May 6 Ben Zises • May 8 Lightwork Home Health • May 29-31 PEF Clarity Retreat"
           ],
           "needsAttention": "🔴 Paramount Virtual Event 1:45-3pm IMMINENT (42min). AO Studio 5-6 + 7-10pm. 🆕 Graziano GLPrelief 20min ask. 🔥 Peter Spiegel CMO Day 3. INV-5 Day 7. Air Oasis 19d late. Continental mold dispute reactivated.",
-          "currentStatus": "Wed 4/29 3:00pm ET: Maruchan x Nik Sharma is live 3:00-3:30pm, Katie W / Ideal Living at 3:30pm, AO Studio 5:00-6:00pm + 7:00-10:00pm, and Finalize Never Come Back 9:15-9:45pm. Tomorrow: PostPilot 12:30, Check-In 1:00, YoSharma 1:30, Ecom Founders Sponsor Check-In 2:00, Macra TB 3:00.",
-          "alert": "Maruchan live now • Katie 3:30 • AO tonight",
-          "updated": "2026-04-29T19:00:00Z"
+          "currentStatus": "Wed 4/29 4:00pm ET: Paramount, Maruchan, and Katie W / Ideal Living windows have wrapped. Next up: AO Studio 5:00-6:00pm, AO Studio 7:00-10:00pm, and Finalize Never Come Back 9:15-9:45pm. Tomorrow: PostPilot 12:30, Check-In 1:00, YoSharma 1:30, Ecom Founders Sponsor Check-In 2:00, Macra TB 3:00, Chiro 4:00.",
+          "alert": "AO Studio 5pm + 7pm • Finalize Never Come Back 9:15pm • packed Thu afternoon",
+          "updated": "2026-04-29T20:00:00Z"
         }
       ]
     },
@@ -733,7 +775,7 @@
           "emoji": "🤖",
           "title": "My Agents",
           "status": "active",
-          "lastUpdated": "2026-04-29T19:00:00Z",
+          "lastUpdated": "2026-04-29T20:00:00Z",
           "bullets": [
             "14 bots operational",
             "⚡ Jet (Opus) · 📇 CRM (Sonnet) · 💊 Macra (Opus) · 📱 Macra App (Sonnet)",
@@ -744,8 +786,12 @@
             "Namecheap API connected — macra.com + niksharma.io managed"
           ],
           "needsAttention": null,
-          "currentStatus": "Wed 4/29 3:00pm ET. Dashboard refresh pulled Google Calendar/Gmail and recent Fireflies. Fresh updates: Maruchan call live with Fireflies joined; Tatari/Ecom Founders contracts + invoice sent with DocuSign routing pending; AO studio/finalization staged tonight. Slack direct channel-name reads were inconclusive due ambiguous/missing targets; no Slack-derived project changes applied.",
+          "currentStatus": "Wed 4/29 4:00pm ET. Dashboard refresh pulled Calendar/Gmail, Fireflies, and Slack key channels. Fresh changes: Highbeam $25K AI Summit Silver proposal sent at 3:51pm; Maruchan call completed with transcript pending; AO finalization invite tonight; Flexpower follow-up reminder added Fri 7:30am. Slack sampled key channels returned no post-3pm messages.",
           "recentActivity": [
+            {
+              "date": "4/29",
+              "text": "🔄 4pm refresh updated Highbeam sponsor ask, Maruchan transcript-pending state, AO tonight, Flexpower reminder, and Slack no-message check"
+            },
             {
               "date": "4/29",
               "text": "🔄 3pm refresh updated Maruchan live-call state, Tatari sponsor contract stage, AO studio/finalization calendar, and today/tomorrow agenda"
@@ -755,7 +801,8 @@
               "text": "🔄 2pm dashboard refresh: Calendar/Gmail/Fireflies/Slack checked; dashboards + widget JSON regenerated"
             }
           ],
-          "updated": "2026-04-29T19:00:00Z"
+          "updated": "2026-04-29T20:00:00Z",
+          "alert": null
         }
       ]
     }
