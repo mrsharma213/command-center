@@ -1,6 +1,6 @@
 {
-  "total": 421,
-  "last_updated": "2026-04-29T12:19:44.929Z",
+  "total": 422,
+  "last_updated": "2026-04-29T12:55:24.342Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3369,6 +3369,14 @@
       "referrer": "",
       "ip": "91.72.205.195",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "fc@fosscos.com",
+      "ts": "2026-04-29T12:55:24.011Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "91.74.18.72",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
