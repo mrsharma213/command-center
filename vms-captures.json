@@ -1,6 +1,6 @@
 {
-  "total": 404,
-  "last_updated": "2026-04-29T01:28:40.091Z",
+  "total": 405,
+  "last_updated": "2026-04-29T01:58:40.267Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3232,6 +3232,14 @@
       "source": "web",
       "referrer": "",
       "ip": "116.86.208.31",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "chunjingtai@gmail.com",
+      "ts": "2026-04-29T01:58:40.111Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "175.141.173.167",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
