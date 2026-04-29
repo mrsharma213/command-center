@@ -1,6 +1,6 @@
 {
-  "total": 412,
-  "last_updated": "2026-04-29T06:59:06.105Z",
+  "total": 413,
+  "last_updated": "2026-04-29T07:30:50.769Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3297,6 +3297,14 @@
       "referrer": "",
       "ip": "14.96.91.228",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "aloomba@cyclingfrog.com",
+      "ts": "2026-04-29T07:30:50.612Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "24.22.180.227",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
     }
   ]
 }
