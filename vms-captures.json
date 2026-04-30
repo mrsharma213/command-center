@@ -1,6 +1,6 @@
 {
-  "total": 465,
-  "last_updated": "2026-04-30T18:25:45.280Z",
+  "total": 466,
+  "last_updated": "2026-04-30T19:00:10.293Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3721,6 +3721,14 @@
       "referrer": "",
       "ip": "174.195.195.232",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/145.0.7632.108 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "david@kaged.com",
+      "ts": "2026-04-30T19:00:10.073Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "23.28.68.221",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
