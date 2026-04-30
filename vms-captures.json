@@ -1,6 +1,6 @@
 {
-  "total": 437,
-  "last_updated": "2026-04-29T23:32:43.398Z",
+  "total": 438,
+  "last_updated": "2026-04-30T00:18:47.465Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3496,6 +3496,14 @@
       "source": "web",
       "referrer": "",
       "ip": "174.4.238.51",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "brian@decisioninteractive.com",
+      "ts": "2026-04-30T00:18:47.301Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "209.160.250.98",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
