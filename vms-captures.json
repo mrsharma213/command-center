@@ -1,6 +1,6 @@
 {
-  "total": 464,
-  "last_updated": "2026-04-30T18:13:09.620Z",
+  "total": 465,
+  "last_updated": "2026-04-30T18:25:45.280Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3713,6 +3713,14 @@
       "referrer": "",
       "ip": "117.206.121.186",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "maxitnutrition@gmail.com",
+      "ts": "2026-04-30T18:25:44.957Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "174.195.195.232",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/145.0.7632.108 Mobile/15E148 Safari/604.1"
     }
   ]
 }
