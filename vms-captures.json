@@ -1,6 +1,6 @@
 {
-  "total": 454,
-  "last_updated": "2026-04-30T11:54:52.044Z",
+  "total": 455,
+  "last_updated": "2026-04-30T12:03:04.423Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3632,6 +3632,14 @@
       "source": "web",
       "referrer": "",
       "ip": "84.164.249.151",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "nputin.offical@gmail.com",
+      "ts": "2026-04-30T12:03:04.269Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "178.220.185.84",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
