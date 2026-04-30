@@ -1,6 +1,6 @@
 {
-  "total": 472,
-  "last_updated": "2026-04-30T20:28:33.428Z",
+  "total": 473,
+  "last_updated": "2026-04-30T20:58:30.311Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3777,6 +3777,14 @@
       "referrer": "",
       "ip": "174.164.221.64",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "jessecannone@gmail.com",
+      "ts": "2026-04-30T20:58:30.145Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "74.244.47.3",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
