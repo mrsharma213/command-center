@@ -1,6 +1,6 @@
 {
-  "total": 457,
-  "last_updated": "2026-04-30T12:13:02.650Z",
+  "total": 458,
+  "last_updated": "2026-04-30T12:31:06.046Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3656,6 +3656,14 @@
       "source": "web",
       "referrer": "",
       "ip": "43.224.169.155",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "babett.schultze@fairment.de",
+      "ts": "2026-04-30T12:31:05.743Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "84.164.249.151",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
