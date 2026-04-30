@@ -1,6 +1,6 @@
 {
-  "total": 468,
-  "last_updated": "2026-04-30T19:14:58.255Z",
+  "total": 469,
+  "last_updated": "2026-04-30T19:36:10.207Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3745,6 +3745,14 @@
       "referrer": "",
       "ip": "70.22.224.208",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "charlie.genry@biotiquest.com",
+      "ts": "2026-04-30T19:36:10.023Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "73.181.96.160",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Rambox/2.6.2 Chrome/138.0.7204.251 Safari/537.36"
     }
   ]
 }
