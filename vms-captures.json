@@ -1,6 +1,6 @@
 {
-  "total": 459,
-  "last_updated": "2026-04-30T15:20:56.714Z",
+  "total": 460,
+  "last_updated": "2026-04-30T15:47:27.988Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3672,6 +3672,14 @@
       "source": "web",
       "referrer": "",
       "ip": "122.172.86.245",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "pedro@labsmomentum.com",
+      "ts": "2026-04-30T15:47:27.780Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "189.128.254.241",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
