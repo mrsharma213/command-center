@@ -1,6 +1,6 @@
 {
-  "total": 467,
-  "last_updated": "2026-04-30T19:11:31.033Z",
+  "total": 468,
+  "last_updated": "2026-04-30T19:14:58.255Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3737,6 +3737,14 @@
       "referrer": "",
       "ip": "206.223.169.154",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "sam@thesecondlunch.com",
+      "ts": "2026-04-30T19:14:58.029Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "70.22.224.208",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
