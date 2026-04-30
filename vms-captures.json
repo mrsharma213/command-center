@@ -1,6 +1,6 @@
 {
-  "total": 448,
-  "last_updated": "2026-04-30T09:15:57.229Z",
+  "total": 449,
+  "last_updated": "2026-04-30T09:21:32.976Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3585,6 +3585,14 @@
       "referrer": "",
       "ip": "49.36.108.248",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0"
+    },
+    {
+      "email": "timo@moonbird.life",
+      "ts": "2026-04-30T09:21:32.788Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "84.199.255.226",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
