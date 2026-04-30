@@ -1,6 +1,6 @@
 {
-  "total": 469,
-  "last_updated": "2026-04-30T19:36:10.207Z",
+  "total": 470,
+  "last_updated": "2026-04-30T19:38:10.178Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3753,6 +3753,14 @@
       "referrer": "",
       "ip": "73.181.96.160",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Rambox/2.6.2 Chrome/138.0.7204.251 Safari/537.36"
+    },
+    {
+      "email": "niklas@thebettercat.com",
+      "ts": "2026-04-30T19:38:09.900Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "109.42.117.108",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
     }
   ]
 }
