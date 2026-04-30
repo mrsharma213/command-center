@@ -1,6 +1,6 @@
 {
-  "total": 442,
-  "last_updated": "2026-04-30T02:29:12.836Z",
+  "total": 443,
+  "last_updated": "2026-04-30T03:32:54.211Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3537,6 +3537,14 @@
       "referrer": "android-app://com.google.android.gm/",
       "ip": "174.170.43.131",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "brooklyn@nunonalife.com",
+      "ts": "2026-04-30T03:32:53.874Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "134.53.242.55",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
     }
   ]
 }
