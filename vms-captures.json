@@ -1,6 +1,6 @@
 {
-  "total": 451,
-  "last_updated": "2026-04-30T10:15:41.172Z",
+  "total": 452,
+  "last_updated": "2026-04-30T10:17:29.966Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3609,6 +3609,14 @@
       "referrer": "",
       "ip": "27.252.98.76",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "asalasalaje@gmail.com",
+      "ts": "2026-04-30T10:17:29.781Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "115.135.198.96",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0"
     }
   ]
 }
