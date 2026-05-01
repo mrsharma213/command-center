@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-05-01T15:00:00Z",
+  "lastRefreshed": "2026-05-01T17:01:00Z",
   "flagged": [
     {
       "id": "ecom-founders-slash-docsign-invoice",
@@ -939,64 +939,52 @@
           "emoji": "✈️",
           "title": "Today & This Week",
           "status": "on-track",
-          "lastUpdated": "2026-05-01T15:00:00Z",
+          "lastUpdated": "2026-05-01T17:01:00Z",
           "bullets": [
-            "Fri 5/1 11:00am ET: Check-In at 1:00pm, Rolling Ventures TB at 1:30pm today. Tomorrow (Sat): Beard Trim 2:00pm. Sunday: Reminder 8:00am, Stretch 1:00pm, Downtown Dog Show 3:00pm.",
-            "📅 Today's calendar: Fort 10:00am, Check-In 1:00pm, Rolling Ventures TB 1:30pm",
-            "👋 Weekend ahead: Beard trim Sat 2pm, Dog Show Sun 3pm at Bogardus Plaza",
-            "📧 Inbox quiet — no urgent items in past 4h",
+            "Fri 5/1 1:01pm ET: Check-In at 1:00pm (live now), TB on Supernatural at 1:30pm. Tomorrow (Sat 5/2): Beard Trim 1:40pm. Sunday (5/3): Reminder 8am, Stretch 1pm, Downtown Dog Show 3pm at Bogardus Plaza.",
+            "📅 Today: Fort wrapped, Check-In live now, TB on Supernatural 1:30pm",
+            "👋 Weekend: Beard Trim Sat 1:40pm, Dog Show Sun 3pm",
+            "📧 Inbox: Rameez on Macra (still active), Ian Myers thread",
             "✅ Newsletter: Next send Sunday 5/3"
           ],
           "needsAttention": "Time-box today’s stacked 1–4pm commitments and keep tomorrow’s Flexpower/RV reminders visible.",
-          "currentStatus": "Thu 4/30 5:00pm ET: Chiro is the live remaining calendar block until 6:00pm. Tonight has Minul's “Finalize Never Come Back” hold 9:15–9:45pm with Nik still needsAction. Tomorrow: Flexpower text reminder 7:30am, Fort/stretch late morning, Check-In 1:00pm, Rolling Ventures TB 1:30pm, MentorPass hold 2:00–6:00pm.",
+          "currentStatus": "Fri 5/1 1:01pm ET: Check-In is live now until 1:30pm, then TB on Supernatural 1:30-2pm. Fort session wrapped earlier this morning. Weekend ahead includes beard trim Saturday 1:40pm and Downtown Dog Show Sunday 3pm.",
           "alert": "Chiro until 6pm • Finalize Never Come Back 9:15pm • Flexpower/RV tomorrow",
           "updated": "2026-04-30T21:00:00Z",
           "recentActivity": [
             {
-              "date": "4/30",
-              "text": "📅 5:00pm refresh: Chiro remains live until 6pm; Finalize Never Come Back is tonight 9:15–9:45pm with Nik needsAction; Friday has Flexpower 7:30am + RV TB 1:30pm."
+              "date": "5/1",
+              "text": "📅 1:01pm refresh: Check-In live now; TB on Supernatural at 1:30pm; Fort wrapped."
+            },
+            {
+              "date": "5/1",
+              "text": "🏋️ 10:00am: Fort session completed."
             },
             {
               "date": "4/30",
-              "text": "📅 3:00pm refresh: Bill live now, SUPR 3:30, Chiro 4–6; Friday has Flexpower 7:30am and Rolling Ventures TB 1:30pm."
-            },
-            {
-              "date": "4/30",
-              "text": "📅 1:01pm all-pages calendar: 20 Nik events in next 48h; Santi live now, YoSharma/Ecom/Macra/Bill/SUPR/Chiro stacked through 6pm; Fri Flexpower 7:30 + RV TB 1:30."
-            },
-            {
-              "date": "4/30",
-              "text": "📅 12:06pm all-pages calendar: 20 Nik events in next 48h; Macra now 2:30pm, then Bill/SUPR/Chiro; Fri Flexpower 7:30 + RV TB 1:30."
-            },
-            {
-              "date": "4/30",
-              "text": "📅 11:00am all-pages calendar: 20 Nik events in next 48h; remaining today starts 1pm and tomorrow includes Flexpower 7:30 + RV TB 1:30."
+              "text": "📅 Evening calendar clear after Chiro wrapped at 6pm."
             }
           ],
           "upcomingEvents": [
             {
-              "date": "Thu 4/30 until 6:00pm",
-              "text": "Chiro"
-            },
-            {
-              "date": "Thu 4/30 9:15–9:45pm",
-              "text": "🎵 Finalize Never Come Back — Nik needsAction; Minul organizer; Troy invited"
-            },
-            {
-              "date": "Fri 5/1 7:30am",
-              "text": "Text Dylan / Flexpower if no reply"
-            },
-            {
-              "date": "Fri 5/1 1:00pm",
-              "text": "Check-In"
-            },
-            {
               "date": "Fri 5/1 1:30pm",
-              "text": "Rolling Ventures TB"
+              "text": "TB on Supernatural"
             },
             {
-              "date": "Fri 5/1 2:00–6:00pm",
-              "text": "MentorPass Hold"
+              "date": "Sat 5/2 1:40pm",
+              "text": "Beard Trim"
+            },
+            {
+              "date": "Sun 5/3 8:00am",
+              "text": "Reminder"
+            },
+            {
+              "date": "Sun 5/3 1:00pm",
+              "text": "Stretch"
+            },
+            {
+              "date": "Sun 5/3 3:00pm",
+              "text": "🐕 Downtown Dog Show @ Bogardus Plaza"
             }
           ],
           "decisions": []
