@@ -1,6 +1,6 @@
 {
-  "total": 479,
-  "last_updated": "2026-05-01T16:14:57.216Z",
+  "total": 480,
+  "last_updated": "2026-05-01T16:15:19.125Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3833,6 +3833,14 @@
       "referrer": "",
       "ip": "63.116.49.146",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "haley@satoriwellness.co",
+      "ts": "2026-05-01T16:15:18.977Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "65.78.83.125",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
