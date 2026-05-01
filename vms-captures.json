@@ -1,6 +1,6 @@
 {
-  "total": 478,
-  "last_updated": "2026-05-01T16:08:01.975Z",
+  "total": 479,
+  "last_updated": "2026-05-01T16:14:57.216Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3825,6 +3825,14 @@
       "referrer": "",
       "ip": "63.116.49.146",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "rachel@novalifeventures.com",
+      "ts": "2026-05-01T16:14:57.024Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "63.116.49.146",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
     }
   ]
 }
