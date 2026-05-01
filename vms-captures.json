@@ -1,6 +1,6 @@
 {
-  "total": 476,
-  "last_updated": "2026-05-01T09:28:50.022Z",
+  "total": 477,
+  "last_updated": "2026-05-01T10:55:12.875Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3808,6 +3808,14 @@
       "source": "web",
       "referrer": "",
       "ip": "169.150.254.102",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "stan@commerceplus.asia",
+      "ts": "2026-05-01T10:55:12.551Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "193.36.237.59",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
