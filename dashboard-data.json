@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-05-01T13:02:00Z",
+  "lastRefreshed": "2026-05-01T15:00:00Z",
   "flagged": [
     {
       "id": "ecom-founders-slash-docsign-invoice",
@@ -938,17 +938,14 @@
           "id": "travel",
           "emoji": "✈️",
           "title": "Today & This Week",
-          "status": "attention",
-          "lastUpdated": "2026-04-30T21:00:00Z",
+          "status": "on-track",
+          "lastUpdated": "2026-05-01T15:00:00Z",
           "bullets": [
-            "Wed 4/29 5:00pm ET: AO Studio is live now (5-6pm), next AO block 7-10pm in Palisades Park, then Finalize Never Come Back 9:15-9:45pm. Tomorrow: wake/travel, PostPilot 12:30, Check-In 1:00, YoSharma 1:30, Ecom Founders Sponsor Check-In 2:00, Macra TB 3:00. Inbox notable: YouArt sponsored partnership, Ian/Oceans draft angle, Nicki Briggs retail-playbook pitch. Jet calendar empty.",
-            "🆕 Wed 8:08am: Anthony Graziano (CTH) GLPrelief $3M Seed Round — 20min ask",
-            "📧 NEW Mon 12:08pm: Rameez Rumy 'Jim x Nik' — UNREAD/IMPORTANT",
-            "🔥 Mon 7:57am: Peter Spiegel (Ideal Living CEO) — CMO recruiting ask — IMPORTANT, brand label",
-            "✅ Newsletter SHIPPED Sun 4/26 7:20pm — V&S Playbook (open/click data still pending)",
-            "🚨 Mon 10:51am: Google Ads admin user removed (805-397-5093) — IMPORTANT, verify intentional",
-            "📄 NEW Mon 11:10am: Jet shared 'Scout — Kids Need-Based Supplements — Opportunity Assessment' doc to nik@nik.co — review",
-            "📧 NEW Mon 11:48am: Tim Combatti (Queen One) replied on Novel refund thread — offering credit toward upcoming event + Shopify refund (last 3 months only). Confirm w/ Santi."
+            "Fri 5/1 11:00am ET: Check-In at 1:00pm, Rolling Ventures TB at 1:30pm today. Tomorrow (Sat): Beard Trim 2:00pm. Sunday: Reminder 8:00am, Stretch 1:00pm, Downtown Dog Show 3:00pm.",
+            "📅 Today's calendar: Fort 10:00am, Check-In 1:00pm, Rolling Ventures TB 1:30pm",
+            "👋 Weekend ahead: Beard trim Sat 2pm, Dog Show Sun 3pm at Bogardus Plaza",
+            "📧 Inbox quiet — no urgent items in past 4h",
+            "✅ Newsletter: Next send Sunday 5/3"
           ],
           "needsAttention": "Time-box today’s stacked 1–4pm commitments and keep tomorrow’s Flexpower/RV reminders visible.",
           "currentStatus": "Thu 4/30 5:00pm ET: Chiro is the live remaining calendar block until 6:00pm. Tonight has Minul's “Finalize Never Come Back” hold 9:15–9:45pm with Nik still needsAction. Tomorrow: Flexpower text reminder 7:30am, Fort/stretch late morning, Check-In 1:00pm, Rolling Ventures TB 1:30pm, MentorPass hold 2:00–6:00pm.",
