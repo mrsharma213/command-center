@@ -1,6 +1,6 @@
 {
-  "total": 473,
-  "last_updated": "2026-04-30T20:58:30.311Z",
+  "total": 474,
+  "last_updated": "2026-05-01T05:08:28.306Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3784,6 +3784,14 @@
       "source": "web",
       "referrer": "",
       "ip": "74.244.47.3",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "kamil@somahealthco.com",
+      "ts": "2026-05-01T05:08:28.009Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "43.224.169.155",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
