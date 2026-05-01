@@ -1,6 +1,6 @@
 {
-  "total": 477,
-  "last_updated": "2026-05-01T10:55:12.875Z",
+  "total": 478,
+  "last_updated": "2026-05-01T16:08:01.975Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3817,6 +3817,14 @@
       "referrer": "",
       "ip": "193.36.237.59",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "joseazambuja95@gmail.com",
+      "ts": "2026-05-01T16:08:01.554Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "63.116.49.146",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
