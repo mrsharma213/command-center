@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-05-01T17:01:00Z",
+  "lastRefreshed": "2026-05-01T19:00:00Z",
   "flagged": [
     {
       "id": "ecom-founders-slash-docsign-invoice",
@@ -941,35 +941,35 @@
           "status": "on-track",
           "lastUpdated": "2026-05-01T17:01:00Z",
           "bullets": [
-            "Fri 5/1 1:01pm ET: Check-In at 1:00pm (live now), TB on Supernatural at 1:30pm. Tomorrow (Sat 5/2): Beard Trim 1:40pm. Sunday (5/3): Reminder 8am, Stretch 1pm, Downtown Dog Show 3pm at Bogardus Plaza.",
-            "📅 Today: Fort wrapped, Check-In live now, TB on Supernatural 1:30pm",
+            "Fri 5/1 3:00pm ET: Check-In wrapped, TB on Supernatural wrapped. Tomorrow (Sat 5/2): Beard Trim 1:40pm. Sunday (5/3): Reminder 8am, Stretch 1pm, Downtown Dog Show 3pm at Bogardus Plaza.",
+            "📅 Today: Fort wrapped, Check-In wrapped, Supernatural wrapped",
             "👋 Weekend: Beard Trim Sat 1:40pm, Dog Show Sun 3pm",
-            "📧 Inbox: Rameez on Macra (still active), Ian Myers thread",
+            "📧 Inbox: Light — mostly promotional, some billing receipts",
             "✅ Newsletter: Next send Sunday 5/3"
           ],
           "needsAttention": "Time-box today’s stacked 1–4pm commitments and keep tomorrow’s Flexpower/RV reminders visible.",
-          "currentStatus": "Fri 5/1 1:01pm ET: Check-In is live now until 1:30pm, then TB on Supernatural 1:30-2pm. Fort session wrapped earlier this morning. Weekend ahead includes beard trim Saturday 1:40pm and Downtown Dog Show Sunday 3pm.",
-          "alert": "Chiro until 6pm • Finalize Never Come Back 9:15pm • Flexpower/RV tomorrow",
-          "updated": "2026-04-30T21:00:00Z",
+          "currentStatus": "Fri 5/1 3:00pm ET: Check-In and TB on Supernatural both wrapped. Fort session completed this morning. Weekend ahead includes beard trim Saturday 1:40pm and Downtown Dog Show Sunday 3pm. Inbox is light — no urgent items.",
+          "alert": null,
+          "updated": "2026-05-01T19:00:00Z",
           "recentActivity": [
             {
               "date": "5/1",
-              "text": "📅 1:01pm refresh: Check-In live now; TB on Supernatural at 1:30pm; Fort wrapped."
+              "text": "📅 3:00pm: Check-In and TB on Supernatural both wrapped. Inbox light with no urgent items."
             },
             {
               "date": "5/1",
-              "text": "🏋️ 10:00am: Fort session completed."
+              "text": "📅 1:30pm: TB on Supernatural session."
             },
             {
-              "date": "4/30",
-              "text": "📅 Evening calendar clear after Chiro wrapped at 6pm."
+              "date": "5/1",
+              "text": "📅 1:00pm: Check-In session."
+            },
+            {
+              "date": "5/1",
+              "text": "🏋️ Morning: Fort session completed."
             }
           ],
           "upcomingEvents": [
-            {
-              "date": "Fri 5/1 1:30pm",
-              "text": "TB on Supernatural"
-            },
             {
               "date": "Sat 5/2 1:40pm",
               "text": "Beard Trim"
