@@ -1,6 +1,6 @@
 {
-  "total": 484,
-  "last_updated": "2026-05-01T20:24:17.679Z",
+  "total": 485,
+  "last_updated": "2026-05-01T22:51:28.222Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3872,6 +3872,14 @@
       "source": "web",
       "referrer": "",
       "ip": "38.156.229.73",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "carly@mindbloom.com",
+      "ts": "2026-05-01T22:51:27.966Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "47.197.85.202",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
