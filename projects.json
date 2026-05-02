@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-05-02T12:00:00Z",
+  "lastRefreshed": "2026-05-02T18:01:00Z",
   "flagged": [],
   "newsletter": {
     "status": "done",
@@ -25,7 +25,7 @@
             "Rameez finalizing PO with vendor (invoice received)"
           ],
           "needsAttention": null,
-          "currentStatus": "Sat 5/2 8:00am ET — Day 16 post-launch. Active procurement: Rameez finalizing tumbler order ($4.5/pc with lid). Invoice received from vendor at 4:26am.",
+          "currentStatus": "Sat 5/2 2:00pm ET — Day 16 post-launch. Active procurement: Rameez finalizing tumbler order ($4.5/pc with lid). Invoice received from vendor at 4:26am.",
           "alert": null,
           "recentActivity": [
             {
@@ -54,7 +54,7 @@
             "Venue partnerships progressing"
           ],
           "needsAttention": null,
-          "currentStatus": "Sat 5/2 8:00am ET. Operations continuing with venue expansion in progress.",
+          "currentStatus": "Sat 5/2 2:00pm ET. Operations continuing with venue expansion in progress.",
           "alert": null,
           "recentActivity": [],
           "upcomingEvents": [],
@@ -78,7 +78,7 @@
             "Social content pipeline operational"
           ],
           "needsAttention": null,
-          "currentStatus": "Sat 5/2 8:00am ET. Production work progressing on schedule.",
+          "currentStatus": "Sat 5/2 2:00pm ET. Production work progressing on schedule.",
           "alert": null,
           "recentActivity": [],
           "upcomingEvents": [],
@@ -97,7 +97,7 @@
             "Episodes release every Wednesday"
           ],
           "needsAttention": null,
-          "currentStatus": "Sat 5/2 8:00am ET. Podcast operations running smoothly.",
+          "currentStatus": "Sat 5/2 2:00pm ET. Podcast operations running smoothly.",
           "alert": null,
           "recentActivity": [],
           "upcomingEvents": [
@@ -121,7 +121,7 @@
             "Subscriber base steady"
           ],
           "needsAttention": null,
-          "currentStatus": "Sat 5/2 8:00am ET. This week's edition sent successfully on Thursday. Next Sunday send is tomorrow.",
+          "currentStatus": "Sat 5/2 2:00pm ET. This week's edition sent successfully on Thursday. Next Sunday send is tomorrow.",
           "alert": null,
           "updated": "2026-05-02",
           "recentActivity": [
@@ -154,7 +154,7 @@
           ],
           "needsAttention": null,
           "alert": null,
-          "currentStatus": "Sat 5/2 8:00am ET. Client work continuing on schedule.",
+          "currentStatus": "Sat 5/2 2:00pm ET. Client work continuing on schedule.",
           "recentActivity": [],
           "upcomingEvents": [],
           "decisions": [],
@@ -172,7 +172,7 @@
             "Sponsor partnerships progressing"
           ],
           "needsAttention": null,
-          "currentStatus": "Sat 5/2 8:00am ET. Event planning and sponsor coordination continuing.",
+          "currentStatus": "Sat 5/2 2:00pm ET. Event planning and sponsor coordination continuing.",
           "alert": null,
           "recentActivity": [],
           "upcomingEvents": [],
@@ -195,7 +195,7 @@
             "Portfolio management active"
           ],
           "needsAttention": null,
-          "currentStatus": "Sat 5/2 8:00am ET. Fund operations continuing.",
+          "currentStatus": "Sat 5/2 2:00pm ET. Fund operations continuing.",
           "alert": null,
           "recentActivity": [],
           "upcomingEvents": [],
@@ -214,12 +214,12 @@
           "status": "on-track",
           "lastUpdated": "2026-05-02",
           "bullets": [
-            "Sat 5/2: Beard Trim 1:40pm",
+            "Sat 5/2: Beard Trim 6:40pm",
             "Sun 5/3: Reminder 8am, Stretch 1pm, Downtown Dog Show 3pm at Bogardus Plaza",
             "Mon 5/4: Fort 10am"
           ],
           "needsAttention": null,
-          "currentStatus": "Sat 5/2 8:00am ET. Saturday morning. Beard trim this afternoon, dog show tomorrow.",
+          "currentStatus": "Sat 5/2 2:00pm ET. Saturday afternoon. Beard trim at 6:40pm, dog show tomorrow at 3pm.",
           "alert": null,
           "updated": "2026-05-02",
           "recentActivity": [
@@ -238,7 +238,7 @@
           ],
           "upcomingEvents": [
             {
-              "date": "Today 1:40pm",
+              "date": "Today 6:40pm",
               "text": "Beard Trim"
             },
             {
@@ -280,11 +280,11 @@
             "Dashboard refresh operational"
           ],
           "needsAttention": null,
-          "currentStatus": "Sat 5/2 8:00am ET. All systems operational. Weekend dashboard refresh completing.",
+          "currentStatus": "Sat 5/2 2:00pm ET. All systems operational. Weekend dashboard refresh completed.",
           "recentActivity": [
             {
-              "date": "5/2 8:00am",
-              "text": "🤖 Weekend dashboard refresh in progress"
+              "date": "5/2 2:00pm",
+              "text": "🤖 Weekend dashboard refresh completed"
             }
           ],
           "updated": "2026-05-02",
