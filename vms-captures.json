@@ -1,6 +1,6 @@
 {
-  "total": 491,
-  "last_updated": "2026-05-02T08:00:35.911Z",
+  "total": 492,
+  "last_updated": "2026-05-02T09:49:57.641Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3929,6 +3929,14 @@
       "referrer": "",
       "ip": "83.175.183.30",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0"
+    },
+    {
+      "email": "manu@nuver.com.au",
+      "ts": "2026-05-02T09:49:57.306Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "58.107.178.11",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
