@@ -1,6 +1,6 @@
 {
-  "total": 489,
-  "last_updated": "2026-05-02T07:22:47.359Z",
+  "total": 490,
+  "last_updated": "2026-05-02T07:30:28.861Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3913,6 +3913,14 @@
       "referrer": "",
       "ip": "103.240.234.76",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3.1 Mobile/23D8133 Safari/604.1"
+    },
+    {
+      "email": "care@euradius.com",
+      "ts": "2026-05-02T07:30:28.704Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "103.240.234.76",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
