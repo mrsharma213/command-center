@@ -1,6 +1,6 @@
 {
-  "total": 487,
-  "last_updated": "2026-05-01T23:35:52.462Z",
+  "total": 488,
+  "last_updated": "2026-05-02T05:06:14.626Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3897,6 +3897,14 @@
       "referrer": "",
       "ip": "131.72.150.213",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "toshita.b@porcellia.com",
+      "ts": "2026-05-02T05:06:13.991Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "223.190.82.91",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
