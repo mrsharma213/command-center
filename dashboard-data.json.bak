@@ -46,7 +46,7 @@
           "emoji": "📱",
           "title": "Zurp",
           "status": "on-track",
-          "lastUpdated": "2026-05-02",
+          "lastUpdated": "2026-05-01",
           "bullets": [
             "Power bank rental operations active",
             "6 stations, 24 banks each",
@@ -59,7 +59,7 @@
           "recentActivity": [],
           "upcomingEvents": [],
           "decisions": [],
-          "updated": "2026-05-02"
+          "updated": "2026-05-01"
         }
       ]
     },
@@ -71,7 +71,7 @@
           "emoji": "🎧",
           "title": "After Ours",
           "status": "on-track",
-          "lastUpdated": "2026-05-02",
+          "lastUpdated": "2026-05-01",
           "bullets": [
             "Music production continuing",
             "Studio sessions active",
@@ -82,7 +82,7 @@
           "alert": null,
           "recentActivity": [],
           "upcomingEvents": [],
-          "updated": "2026-05-02",
+          "updated": "2026-05-01",
           "decisions": []
         },
         {
@@ -90,7 +90,7 @@
           "emoji": "🎙️",
           "title": "Limited Supply Podcast",
           "status": "on-track",
-          "lastUpdated": "2026-05-02",
+          "lastUpdated": "2026-05-01",
           "bullets": [
             "Weekly podcast release schedule maintained",
             "100K+ subscribers",
@@ -106,7 +106,7 @@
               "event": "Next Limited Supply send"
             }
           ],
-          "updated": "2026-05-02",
+          "updated": "2026-05-01",
           "decisions": []
         },
         {
@@ -114,7 +114,7 @@
           "emoji": "📰",
           "title": "Newsletter / Workweek",
           "status": "on-track",
-          "lastUpdated": "2026-05-02",
+          "lastUpdated": "2026-05-01",
           "bullets": [
             "✅ Thu 4/30 noon — 'How HexClad built a billion-dollar brand' sent",
             "📅 Next send: Sun 5/3",
@@ -147,7 +147,7 @@
           "emoji": "💼",
           "title": "Brand Consulting",
           "status": "on-track",
-          "lastUpdated": "2026-05-02",
+          "lastUpdated": "2026-05-01",
           "bullets": [
             "Client engagements progressing",
             "Deliverables on schedule"
@@ -158,14 +158,14 @@
           "recentActivity": [],
           "upcomingEvents": [],
           "decisions": [],
-          "updated": "2026-05-02"
+          "updated": "2026-05-01"
         },
         {
           "id": "ecom-founders",
           "emoji": "🏗️",
           "title": "Ecom Founders",
           "status": "on-track",
-          "lastUpdated": "2026-05-02",
+          "lastUpdated": "2026-05-01",
           "bullets": [
             "AI Summit planning active",
             "Q4 Summit on track",
@@ -177,7 +177,7 @@
           "recentActivity": [],
           "upcomingEvents": [],
           "decisions": [],
-          "updated": "2026-05-02"
+          "updated": "2026-05-01"
         }
       ]
     },
@@ -189,7 +189,7 @@
           "emoji": "🎯",
           "title": "Rolling Ventures Fund",
           "status": "on-track",
-          "lastUpdated": "2026-05-02",
+          "lastUpdated": "2026-05-01",
           "bullets": [
             "Deal flow review ongoing",
             "Portfolio management active"
@@ -200,7 +200,7 @@
           "recentActivity": [],
           "upcomingEvents": [],
           "decisions": [],
-          "updated": "2026-05-02"
+          "updated": "2026-05-01"
         }
       ]
     },
@@ -270,7 +270,7 @@
           "emoji": "🤖",
           "title": "My Agents",
           "status": "active",
-          "lastUpdated": "2026-05-02",
+          "lastUpdated": "2026-05-01",
           "bullets": [
             "14 bots operational",
             "⚡ Jet (Opus) · 📇 CRM (Sonnet) · 💊 Macra (Opus) · 📱 Macra App (Sonnet)",
@@ -296,7 +296,7 @@
     }
   ],
   "sites": {
-    "lastUpdated": "2026-05-02",
+    "lastUpdated": "2026-05-01",
     "domains": {
       "nik.co": "GoDaddy",
       "macra.com": "Namecheap",
