@@ -1,6 +1,6 @@
 {
-  "total": 493,
-  "last_updated": "2026-05-03T04:05:40.222Z",
+  "total": 494,
+  "last_updated": "2026-05-03T17:23:14.649Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3945,6 +3945,14 @@
       "referrer": "",
       "ip": "24.64.115.200",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "hamish@prime6brands.com",
+      "ts": "2026-05-03T17:23:14.350Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "164.86.16.90",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
