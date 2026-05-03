@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-05-02T18:01:00Z",
+  "lastRefreshed": "2026-05-03T02:00:00Z",
   "flagged": [],
   "newsletter": {
     "status": "done",
@@ -54,10 +54,15 @@
             "Venue partnerships progressing"
           ],
           "needsAttention": null,
-          "currentStatus": "Sat 5/2 2:00pm ET. Operations continuing with venue expansion in progress.",
+          "currentStatus": "Sat 5/2 10:00pm ET. Weekend operations continuing. Transaction bonus plan meeting scheduled for Monday.",
           "alert": null,
           "recentActivity": [],
-          "upcomingEvents": [],
+          "upcomingEvents": [
+            {
+              "date": "Mon 5/4 3:30pm",
+              "event": "Finalize Transaction Bonus Plan"
+            }
+          ],
           "decisions": [],
           "updated": "2026-05-02"
         }
@@ -97,13 +102,17 @@
             "Episodes release every Wednesday"
           ],
           "needsAttention": null,
-          "currentStatus": "Sat 5/2 2:00pm ET. Podcast operations running smoothly.",
+          "currentStatus": "Sat 5/2 10:00pm ET. Recording sessions scheduled for Monday afternoon/evening.",
           "alert": null,
           "recentActivity": [],
           "upcomingEvents": [
             {
-              "date": "Sun 5/3",
-              "event": "Next Limited Supply send"
+              "date": "Mon 5/4 4:30pm",
+              "event": "Limited Supply Podcast Recording"
+            },
+            {
+              "date": "Mon 5/4 7:00pm",
+              "event": "Limited Supply Podcast Recording (continued)"
             }
           ],
           "updated": "2026-05-02",
@@ -214,12 +223,11 @@
           "status": "on-track",
           "lastUpdated": "2026-05-02",
           "bullets": [
-            "Sat 5/2: Beard Trim 6:40pm",
-            "Sun 5/3: Reminder 8am, Stretch 1pm, Downtown Dog Show 3pm at Bogardus Plaza",
-            "Mon 5/4: Fort 10am"
+            "Sun 5/3: Downtown Dog Show 3pm at Bogardus Plaza 🐕",
+            "Mon 5/4: Fort 10am, Dentist 12:30pm, Zurp meeting 3:30pm, Nik/Ben 3:30pm, Podcast recording 4:30pm & 7pm"
           ],
           "needsAttention": null,
-          "currentStatus": "Sat 5/2 2:00pm ET. Saturday afternoon. Beard trim at 6:40pm, dog show tomorrow at 3pm.",
+          "currentStatus": "Sat 5/2 10:00pm ET. Saturday evening winding down. Dog show tomorrow at 3pm, busy Monday ahead with dentist, Zurp meeting, and podcast recording.",
           "alert": null,
           "updated": "2026-05-02",
           "recentActivity": [
@@ -238,24 +246,36 @@
           ],
           "upcomingEvents": [
             {
-              "date": "Today 6:40pm",
-              "text": "Beard Trim"
-            },
-            {
-              "date": "Sun 5/3 8:00am",
-              "text": "Reminder"
-            },
-            {
-              "date": "Sun 5/3 1:00pm",
-              "text": "Stretch"
-            },
-            {
               "date": "Sun 5/3 3:00pm",
               "text": "🐕 Downtown Dog Show @ Bogardus Plaza"
             },
             {
               "date": "Mon 5/4 10:00am",
               "text": "Fort"
+            },
+            {
+              "date": "Mon 5/4 12:30pm",
+              "text": "Dentist"
+            },
+            {
+              "date": "Mon 5/4 3:30pm",
+              "text": "Zurp - Finalize Transaction Bonus Plan"
+            },
+            {
+              "date": "Mon 5/4 3:30pm",
+              "text": "Nik / Ben"
+            },
+            {
+              "date": "Mon 5/4 4:00pm",
+              "text": "Daily: Lunar x SB"
+            },
+            {
+              "date": "Mon 5/4 4:30pm",
+              "text": "Limited Supply Podcast Recording"
+            },
+            {
+              "date": "Mon 5/4 7:00pm",
+              "text": "Limited Supply Podcast Recording (continued)"
             }
           ],
           "decisions": []
@@ -280,10 +300,10 @@
             "Dashboard refresh operational"
           ],
           "needsAttention": null,
-          "currentStatus": "Sat 5/2 2:00pm ET. All systems operational. Weekend dashboard refresh completed.",
+          "currentStatus": "Sat 5/2 10:00pm ET. All systems operational. Weekend dashboard refresh completed at 10pm.",
           "recentActivity": [
             {
-              "date": "5/2 2:00pm",
+              "date": "5/2 10:00pm",
               "text": "🤖 Weekend dashboard refresh completed"
             }
           ],
