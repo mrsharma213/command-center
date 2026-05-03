@@ -1,6 +1,6 @@
 {
-  "total": 494,
-  "last_updated": "2026-05-03T17:23:14.649Z",
+  "total": 495,
+  "last_updated": "2026-05-03T22:37:28.905Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3952,6 +3952,14 @@
       "source": "web",
       "referrer": "",
       "ip": "164.86.16.90",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "viniciusglms@gmail.com",
+      "ts": "2026-05-03T22:37:28.559Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "45.225.171.75",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
