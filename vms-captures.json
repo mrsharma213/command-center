@@ -1,6 +1,6 @@
 {
-  "total": 492,
-  "last_updated": "2026-05-02T09:49:57.641Z",
+  "total": 493,
+  "last_updated": "2026-05-03T04:05:40.222Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3937,6 +3937,14 @@
       "referrer": "",
       "ip": "58.107.178.11",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "wgeraldo@fitfoods.ca",
+      "ts": "2026-05-03T04:05:39.908Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "24.64.115.200",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
