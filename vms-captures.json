@@ -1,6 +1,6 @@
 {
-  "total": 495,
-  "last_updated": "2026-05-03T22:37:28.905Z",
+  "total": 496,
+  "last_updated": "2026-05-03T23:05:05.900Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3960,6 +3960,14 @@
       "source": "web",
       "referrer": "",
       "ip": "45.225.171.75",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "tienl@macroidea.com",
+      "ts": "2026-05-03T23:05:05.718Z",
+      "source": "web",
+      "referrer": "https://mail.google.com/",
+      "ip": "12.125.37.166",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
