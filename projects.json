@@ -1,411 +1,102 @@
-{
-  "lastRefreshed": "2026-05-02T18:01:00Z",
-  "flagged": [],
-  "newsletter": {
-    "status": "done",
-    "sendDay": "Sunday",
-    "topic": "Next edition in progress",
-    "note": "✅ Thu 4/30 noon Workweek send landed — 'How HexClad built a billion-dollar brand'. Next Sunday send is May 3.",
-    "daysToSend": 1,
-    "nextSend": "2026-05-03"
+[
+  {
+    "id": "macra",
+    "emoji": "💊",
+    "title": "Macra",
+    "status": "on-track",
+    "section": "Companies",
+    "currentStatus": "Sun 5/3 8:00am ET — Day 17 post-launch. Active procurement: Rameez finalizing tumbler order ($4.5/pc with lid). Invoice received from vendor at 4:26am Sat.",
+    "alert": null,
+    "updated": "2026-05-03"
   },
-  "sections": [
-    {
-      "name": "Companies",
-      "projects": [
-        {
-          "id": "macra",
-          "emoji": "💊",
-          "title": "Macra",
-          "status": "on-track",
-          "lastUpdated": "2026-05-02",
-          "bullets": [
-            "Post-launch operations stabilizing",
-            "Active procurement: tumbler order in progress",
-            "Rameez finalizing PO with vendor (invoice received)"
-          ],
-          "needsAttention": null,
-          "currentStatus": "Sat 5/2 2:00pm ET — Day 16 post-launch. Active procurement: Rameez finalizing tumbler order ($4.5/pc with lid). Invoice received from vendor at 4:26am.",
-          "alert": null,
-          "recentActivity": [
-            {
-              "date": "5/2 4:26am",
-              "text": "📦 Tumbler procurement: Invoice received from vendor Tony ($4.5/pc with lid)"
-            },
-            {
-              "date": "5/1 12:34pm",
-              "text": "📧 Rameez confirmed tumbler specs: bottle + lid option"
-            }
-          ],
-          "upcomingEvents": [],
-          "decisions": [],
-          "updated": "2026-05-02"
-        },
-        {
-          "id": "zurp",
-          "emoji": "📱",
-          "title": "Zurp",
-          "status": "on-track",
-          "lastUpdated": "2026-05-02",
-          "bullets": [
-            "Power bank rental operations active",
-            "6 stations, 24 banks each",
-            "NYC nightclub deployment",
-            "Venue partnerships progressing"
-          ],
-          "needsAttention": null,
-          "currentStatus": "Sat 5/2 2:00pm ET. Operations continuing with venue expansion in progress.",
-          "alert": null,
-          "recentActivity": [],
-          "upcomingEvents": [],
-          "decisions": [],
-          "updated": "2026-05-02"
-        }
-      ]
-    },
-    {
-      "name": "Media & Content",
-      "projects": [
-        {
-          "id": "after-ours",
-          "emoji": "🎧",
-          "title": "After Ours",
-          "status": "on-track",
-          "lastUpdated": "2026-05-02",
-          "bullets": [
-            "Music production continuing",
-            "Studio sessions active",
-            "Social content pipeline operational"
-          ],
-          "needsAttention": null,
-          "currentStatus": "Sat 5/2 2:00pm ET. Production work progressing on schedule.",
-          "alert": null,
-          "recentActivity": [],
-          "upcomingEvents": [],
-          "updated": "2026-05-02",
-          "decisions": []
-        },
-        {
-          "id": "limited-supply",
-          "emoji": "🎙️",
-          "title": "Limited Supply Podcast",
-          "status": "on-track",
-          "lastUpdated": "2026-05-02",
-          "bullets": [
-            "Weekly podcast release schedule maintained",
-            "100K+ subscribers",
-            "Episodes release every Wednesday"
-          ],
-          "needsAttention": null,
-          "currentStatus": "Sat 5/2 2:00pm ET. Podcast operations running smoothly.",
-          "alert": null,
-          "recentActivity": [],
-          "upcomingEvents": [
-            {
-              "date": "Sun 5/3",
-              "event": "Next Limited Supply send"
-            }
-          ],
-          "updated": "2026-05-02",
-          "decisions": []
-        },
-        {
-          "id": "newsletter",
-          "emoji": "📰",
-          "title": "Newsletter / Workweek",
-          "status": "on-track",
-          "lastUpdated": "2026-05-02",
-          "bullets": [
-            "✅ Thu 4/30 noon — 'How HexClad built a billion-dollar brand' sent",
-            "📅 Next send: Sun 5/3",
-            "Subscriber base steady"
-          ],
-          "needsAttention": null,
-          "currentStatus": "Sat 5/2 2:00pm ET. This week's edition sent successfully on Thursday. Next Sunday send is tomorrow.",
-          "alert": null,
-          "updated": "2026-05-02",
-          "recentActivity": [
-            {
-              "date": "4/30",
-              "text": "📨 12:00pm Workweek newsletter landed: 'How HexClad built a billion-dollar brand'"
-            }
-          ],
-          "upcomingEvents": [
-            {
-              "date": "Sun 5/3",
-              "event": "Next Limited Supply send"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Brand Consulting",
-      "projects": [
-        {
-          "id": "brand-consulting",
-          "emoji": "💼",
-          "title": "Brand Consulting",
-          "status": "on-track",
-          "lastUpdated": "2026-05-02",
-          "bullets": [
-            "Client engagements progressing",
-            "Deliverables on schedule"
-          ],
-          "needsAttention": null,
-          "alert": null,
-          "currentStatus": "Sat 5/2 2:00pm ET. Client work continuing on schedule.",
-          "recentActivity": [],
-          "upcomingEvents": [],
-          "decisions": [],
-          "updated": "2026-05-02"
-        },
-        {
-          "id": "ecom-founders",
-          "emoji": "🏗️",
-          "title": "Ecom Founders",
-          "status": "on-track",
-          "lastUpdated": "2026-05-02",
-          "bullets": [
-            "AI Summit planning active",
-            "Q4 Summit on track",
-            "Sponsor partnerships progressing"
-          ],
-          "needsAttention": null,
-          "currentStatus": "Sat 5/2 2:00pm ET. Event planning and sponsor coordination continuing.",
-          "alert": null,
-          "recentActivity": [],
-          "upcomingEvents": [],
-          "decisions": [],
-          "updated": "2026-05-02"
-        }
-      ]
-    },
-    {
-      "name": "Rolling Ventures",
-      "projects": [
-        {
-          "id": "rolling-ventures",
-          "emoji": "🎯",
-          "title": "Rolling Ventures Fund",
-          "status": "on-track",
-          "lastUpdated": "2026-05-02",
-          "bullets": [
-            "Deal flow review ongoing",
-            "Portfolio management active"
-          ],
-          "needsAttention": null,
-          "currentStatus": "Sat 5/2 2:00pm ET. Fund operations continuing.",
-          "alert": null,
-          "recentActivity": [],
-          "upcomingEvents": [],
-          "decisions": [],
-          "updated": "2026-05-02"
-        }
-      ]
-    },
-    {
-      "name": "Nik Sharma — Personal",
-      "projects": [
-        {
-          "id": "travel",
-          "emoji": "✈️",
-          "title": "Today & This Week",
-          "status": "on-track",
-          "lastUpdated": "2026-05-02",
-          "bullets": [
-            "Sat 5/2: Beard Trim 6:40pm",
-            "Sun 5/3: Reminder 8am, Stretch 1pm, Downtown Dog Show 3pm at Bogardus Plaza",
-            "Mon 5/4: Fort 10am"
-          ],
-          "needsAttention": null,
-          "currentStatus": "Sat 5/2 2:00pm ET. Saturday afternoon. Beard trim at 6:40pm, dog show tomorrow at 3pm.",
-          "alert": null,
-          "updated": "2026-05-02",
-          "recentActivity": [
-            {
-              "date": "5/1",
-              "text": "🏋️ Fort session completed"
-            },
-            {
-              "date": "5/1",
-              "text": "📅 Check-In wrapped at 1:00pm"
-            },
-            {
-              "date": "5/1",
-              "text": "📅 TB on Supernatural wrapped at 3:00pm"
-            }
-          ],
-          "upcomingEvents": [
-            {
-              "date": "Today 6:40pm",
-              "text": "Beard Trim"
-            },
-            {
-              "date": "Sun 5/3 8:00am",
-              "text": "Reminder"
-            },
-            {
-              "date": "Sun 5/3 1:00pm",
-              "text": "Stretch"
-            },
-            {
-              "date": "Sun 5/3 3:00pm",
-              "text": "🐕 Downtown Dog Show @ Bogardus Plaza"
-            },
-            {
-              "date": "Mon 5/4 10:00am",
-              "text": "Fort"
-            }
-          ],
-          "decisions": []
-        }
-      ]
-    },
-    {
-      "name": "Operations",
-      "projects": [
-        {
-          "id": "my-agents",
-          "emoji": "🤖",
-          "title": "My Agents",
-          "status": "active",
-          "lastUpdated": "2026-05-02",
-          "bullets": [
-            "14 bots operational",
-            "⚡ Jet (Opus) · 📇 CRM (Sonnet) · 💊 Macra (Opus) · 📱 Macra App (Sonnet)",
-            "🖨️ Printing Press (Opus) · ✍️ Josiah (Opus) · 🤓 Bryce (Gemini Flash) · 🔍 Researcher (Grok)",
-            "🏥 Health (GPT-4o) · 🎬 Creative Director (Sonnet) · 🔭 Sentinel (Sonnet) · 💪 Flexpower (Opus)",
-            "🎧 After Ours (Opus) · 🏦 Rolling Ventures (Opus)",
-            "Dashboard refresh operational"
-          ],
-          "needsAttention": null,
-          "currentStatus": "Sat 5/2 2:00pm ET. All systems operational. Weekend dashboard refresh completed.",
-          "recentActivity": [
-            {
-              "date": "5/2 2:00pm",
-              "text": "🤖 Weekend dashboard refresh completed"
-            }
-          ],
-          "updated": "2026-05-02",
-          "alert": null,
-          "upcomingEvents": [],
-          "decisions": []
-        }
-      ]
-    }
-  ],
-  "sites": {
-    "lastUpdated": "2026-05-02",
-    "domains": {
-      "nik.co": "GoDaddy",
-      "macra.com": "Namecheap",
-      "niksharma.io": "Namecheap",
-      "ecomfounders.com": "(separate)"
-    },
-    "totalCount": 48,
-    "groups": [
-      {
-        "category": "knowledge-base",
-        "label": "📚 Knowledge Bases",
-        "count": 6,
-        "sites": [
-          {
-            "subdomain": "thesis.nik.co",
-            "category": "knowledge-base",
-            "purpose": "Investing / brand thesis",
-            "stack": "Manus",
-            "status": "live",
-            "owner": "Jet"
-          },
-          {
-            "subdomain": "swipe.nik.co",
-            "category": "knowledge-base",
-            "purpose": "Ad/creative swipe file",
-            "stack": "Manus",
-            "status": "live",
-            "owner": "Jet"
-          },
-          {
-            "subdomain": "learnings.nik.co",
-            "category": "knowledge-base",
-            "purpose": "Learnings / notes site",
-            "stack": "Vercel",
-            "status": "live",
-            "owner": "Jet"
-          },
-          {
-            "subdomain": "creatorstuff.nik.co",
-            "category": "knowledge-base",
-            "purpose": "Creator-related resources",
-            "stack": "Manus",
-            "status": "live",
-            "owner": "Jet"
-          },
-          {
-            "subdomain": "vms.nik.co",
-            "category": "knowledge-base",
-            "purpose": "Vitamins & Supplements 2026 Field Report",
-            "stack": "Vercel",
-            "status": "live",
-            "deployed": "2026-04-21",
-            "owner": "Jet"
-          },
-          {
-            "subdomain": "lp.nik.co",
-            "category": "knowledge-base",
-            "purpose": "The Landing Page Brain",
-            "stack": "Vercel",
-            "status": "live",
-            "deployed": "2026-04-19",
-            "owner": "Jet"
-          }
-        ]
-      },
-      {
-        "category": "dashboard",
-        "label": "📊 Dashboards",
-        "count": 3,
-        "sites": [
-          {
-            "subdomain": "status.nik.co",
-            "category": "dashboard",
-            "purpose": "Status page",
-            "stack": "GitHub Pages",
-            "status": "live",
-            "owner": "Jet"
-          },
-          {
-            "subdomain": "built.nik.co",
-            "category": "dashboard",
-            "purpose": "Built log / shipping feed",
-            "stack": "GitHub Pages",
-            "status": "live",
-            "owner": "Jet"
-          },
-          {
-            "subdomain": "dash.nik.co",
-            "category": "dashboard",
-            "purpose": "Command Center — project tracker",
-            "stack": "GitHub Pages",
-            "status": "live",
-            "deployed": "2026-04-09",
-            "owner": "Jet"
-          }
-        ]
-      }
-    ]
+  {
+    "id": "zurp",
+    "emoji": "📱",
+    "title": "Zurp",
+    "status": "on-track",
+    "section": "Companies",
+    "currentStatus": "Sun 5/3 8:00am ET. Sunday morning. Transaction bonus plan meeting scheduled for tomorrow (Mon) 3:30pm.",
+    "alert": null,
+    "updated": "2026-05-03"
   },
-  "newsletter_stats": {
-    "list": "Sharma",
-    "total": 100133,
-    "emailable": 51636,
-    "active": 5111,
-    "new_this_period": 358,
-    "current_month": "2026-05",
-    "delta_new": -140,
-    "delta_pct": -28,
-    "source": "api.newsletter.nik.co",
-    "cached_at": "2026-05-02T12:00:00Z"
+  {
+    "id": "after-ours",
+    "emoji": "🎧",
+    "title": "After Ours",
+    "status": "on-track",
+    "section": "Media & Content",
+    "currentStatus": "Sun 5/3 8:00am ET. Production work progressing on schedule.",
+    "alert": null,
+    "updated": "2026-05-03"
+  },
+  {
+    "id": "limited-supply",
+    "emoji": "🎙️",
+    "title": "Limited Supply Podcast",
+    "status": "on-track",
+    "section": "Media & Content",
+    "currentStatus": "Sun 5/3 8:00am ET. Recording sessions scheduled for tomorrow afternoon/evening.",
+    "alert": null,
+    "updated": "2026-05-03"
+  },
+  {
+    "id": "newsletter",
+    "emoji": "📰",
+    "title": "Newsletter / Workweek",
+    "status": "attention",
+    "section": "Media & Content",
+    "currentStatus": "Sun 5/3 8:00am ET. SEND DAY. Last edition sent Thursday 4/30 noon. Today's edition should be queued/ready.",
+    "alert": "Send day",
+    "updated": "2026-05-03"
+  },
+  {
+    "id": "brand-consulting",
+    "emoji": "💼",
+    "title": "Brand Consulting",
+    "status": "on-track",
+    "section": "Brand Consulting",
+    "currentStatus": "Sun 5/3 8:00am ET. Client work continuing. Love Wellness Mother's Day campaign active.",
+    "alert": null,
+    "updated": "2026-05-03"
+  },
+  {
+    "id": "ecom-founders",
+    "emoji": "🏗️",
+    "title": "Ecom Founders",
+    "status": "on-track",
+    "section": "Brand Consulting",
+    "currentStatus": "Sun 5/3 8:00am ET. Event planning and sponsor coordination continuing.",
+    "alert": null,
+    "updated": "2026-05-03"
+  },
+  {
+    "id": "rolling-ventures",
+    "emoji": "🎯",
+    "title": "Rolling Ventures Fund",
+    "status": "on-track",
+    "section": "Rolling Ventures",
+    "currentStatus": "Sun 5/3 8:00am ET. Fund operations continuing.",
+    "alert": null,
+    "updated": "2026-05-03"
+  },
+  {
+    "id": "travel",
+    "emoji": "✈️",
+    "title": "Today & This Week",
+    "status": "on-track",
+    "section": "Nik Sharma — Personal",
+    "currentStatus": "Sun 5/3 8:00am ET. Sunday morning. Dog show at 3pm today. Busy Monday ahead with dentist, Zurp meeting, and podcast recording.",
+    "alert": null,
+    "updated": "2026-05-03"
+  },
+  {
+    "id": "my-agents",
+    "emoji": "🤖",
+    "title": "My Agents",
+    "status": "active",
+    "section": "Operations",
+    "currentStatus": "Sun 5/3 8:00am ET. All systems operational. Weekend dashboard refresh completed.",
+    "alert": null,
+    "updated": "2026-05-03"
   }
-}
+]
