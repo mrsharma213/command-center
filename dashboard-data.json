@@ -1,21 +1,6 @@
 {
-  "lastRefreshed": "2026-05-04T02:00:00Z",
-  "flagged": [
-    {
-      "emoji": "⚠️",
-      "title": "Vercel deployment failed",
-      "detail": "Failed production deployment on team 'nik-2658's projects' at 7:46am",
-      "severity": "attention",
-      "since": "2026-05-03"
-    },
-    {
-      "emoji": "🌐",
-      "title": "Domains expiring soon",
-      "detail": "101domain alert received — check expiration dates",
-      "severity": "attention",
-      "since": "2026-05-03"
-    }
-  ],
+  "lastRefreshed": "2026-05-04T13:02:00Z",
+  "flagged": [],
   "newsletter": {
     "status": "done",
     "sendDay": "Sunday",
@@ -33,14 +18,14 @@
           "emoji": "💊",
           "title": "Macra",
           "status": "on-track",
-          "lastUpdated": "2026-05-03",
+          "lastUpdated": "2026-05-04",
           "bullets": [
             "Post-launch operations stabilizing",
             "Active procurement: tumbler order in progress",
             "Rameez finalizing PO with vendor (invoice received)"
           ],
           "needsAttention": null,
-          "currentStatus": "Sun 5/3 10:00pm ET — Day 17 post-launch. Active procurement: Rameez finalizing tumbler order ($4.5/pc with lid). Invoice received from vendor at 4:26am Sat.",
+          "currentStatus": "Mon 5/4 9:02am ET — Day 18 post-launch. Active procurement: Rameez finalizing tumbler order ($4.5/pc with lid).",
           "alert": null,
           "recentActivity": [
             {
@@ -54,22 +39,22 @@
           ],
           "upcomingEvents": [],
           "decisions": [],
-          "updated": "2026-05-03"
+          "updated": "2026-05-04"
         },
         {
           "id": "zurp",
           "emoji": "📱",
           "title": "Zurp",
           "status": "on-track",
-          "lastUpdated": "2026-05-03",
+          "lastUpdated": "2026-05-04",
           "bullets": [
             "Power bank rental operations active",
             "6 stations, 24 banks each",
             "NYC nightclub deployment",
-            "Transaction bonus plan meeting tomorrow 3:30pm"
+            "Transaction bonus plan meeting today 3:30pm"
           ],
           "needsAttention": null,
-          "currentStatus": "Sun 5/3 10:00pm ET. Sunday evening. Transaction bonus plan meeting scheduled for tomorrow (Mon) 3:30pm.",
+          "currentStatus": "Mon 5/4 9:02am ET. Transaction bonus plan meeting today at 3:30pm.",
           "alert": null,
           "recentActivity": [],
           "upcomingEvents": [
@@ -79,7 +64,7 @@
             }
           ],
           "decisions": [],
-          "updated": "2026-05-03"
+          "updated": "2026-05-04"
         }
       ]
     },
@@ -91,18 +76,18 @@
           "emoji": "🎧",
           "title": "After Ours",
           "status": "on-track",
-          "lastUpdated": "2026-05-03",
+          "lastUpdated": "2026-05-04",
           "bullets": [
             "Music production continuing",
             "Studio sessions active",
             "Social content pipeline operational"
           ],
           "needsAttention": null,
-          "currentStatus": "Sun 5/3 10:00pm ET. Sunday evening. Production work progressing on schedule.",
+          "currentStatus": "Mon 5/4 9:02am ET. Production work progressing on schedule.",
           "alert": null,
           "recentActivity": [],
           "upcomingEvents": [],
-          "updated": "2026-05-03",
+          "updated": "2026-05-04",
           "decisions": []
         },
         {
@@ -110,14 +95,14 @@
           "emoji": "🎙️",
           "title": "Limited Supply Podcast",
           "status": "on-track",
-          "lastUpdated": "2026-05-03",
+          "lastUpdated": "2026-05-04",
           "bullets": [
             "Weekly podcast release schedule maintained",
             "100K+ subscribers",
-            "Recording sessions tomorrow (Mon) 4:30pm & 7pm"
+            "Recording sessions today 4:30pm & 7pm"
           ],
           "needsAttention": null,
-          "currentStatus": "Sun 5/3 10:00pm ET. Recording sessions scheduled for tomorrow (Mon) 4:30pm & 7pm.",
+          "currentStatus": "Mon 5/4 9:02am ET. Recording sessions scheduled today 4:30pm & 7pm.",
           "alert": null,
           "recentActivity": [],
           "upcomingEvents": [
@@ -130,7 +115,7 @@
               "event": "Limited Supply Podcast Recording (continued)"
             }
           ],
-          "updated": "2026-05-03",
+          "updated": "2026-05-04",
           "decisions": []
         },
         {
@@ -138,25 +123,25 @@
           "emoji": "📰",
           "title": "Newsletter / Workweek",
           "status": "on-track",
-          "lastUpdated": "2026-05-03",
+          "lastUpdated": "2026-05-04",
           "bullets": [
-            "✅ Thu 4/30 noon — 'How HexClad built a billion-dollar brand' sent",
             "✅ Sun 5/3 — Latest edition sent",
-            "Subscriber base: 100K+ active"
+            "Subscriber base: 100K+ active",
+            "Next edition: Sun 5/10"
           ],
           "needsAttention": null,
-          "currentStatus": "Sun 5/3 10:00pm ET. Weekly send complete. Next edition: Sun 5/10.",
+          "currentStatus": "Mon 5/4 9:02am ET. Weekly send complete. Next edition: Sun 5/10.",
           "alert": null,
-          "updated": "2026-05-03",
+          "updated": "2026-05-04",
           "recentActivity": [
             {
-              "date": "4/30",
-              "text": "📨 12:00pm Workweek newsletter landed: 'How HexClad built a billion-dollar brand'"
+              "date": "5/3",
+              "text": "📨 Latest edition sent"
             }
           ],
           "upcomingEvents": [
             {
-              "date": "Sun 5/3",
+              "date": "Sun 5/10",
               "event": "Limited Supply newsletter send"
             }
           ]
@@ -171,16 +156,20 @@
           "emoji": "💼",
           "title": "Brand Consulting",
           "status": "on-track",
-          "lastUpdated": "2026-05-03",
+          "lastUpdated": "2026-05-04",
           "bullets": [
             "Client engagements progressing",
-            "Love Wellness active (Mother's Day campaign running)",
+            "Climatic x Sharma Brands thread active",
             "Deliverables on schedule"
           ],
           "needsAttention": null,
           "alert": null,
-          "currentStatus": "Sun 5/3 10:00pm ET. Client work continuing. Love Wellness Mother's Day campaign active (final call emails sent).",
+          "currentStatus": "Mon 5/4 9:02am ET. Client work continuing. Climatic x Sharma Brands thread active.",
           "recentActivity": [
+            {
+              "date": "5/4 8:15am",
+              "text": "📧 Climatic x Sharma Brands thread active"
+            },
             {
               "date": "5/3 6:45am",
               "text": "📧 Love Wellness: Mother's Day gift reminder email"
@@ -188,26 +177,26 @@
           ],
           "upcomingEvents": [],
           "decisions": [],
-          "updated": "2026-05-03"
+          "updated": "2026-05-04"
         },
         {
           "id": "ecom-founders",
           "emoji": "🏗️",
           "title": "Ecom Founders",
           "status": "on-track",
-          "lastUpdated": "2026-05-03",
+          "lastUpdated": "2026-05-04",
           "bullets": [
             "AI Summit planning active",
             "Q4 Summit on track",
             "Sponsor partnerships progressing"
           ],
           "needsAttention": null,
-          "currentStatus": "Sun 5/3 10:00pm ET. Event planning and sponsor coordination continuing.",
+          "currentStatus": "Mon 5/4 9:02am ET. Event planning and sponsor coordination continuing.",
           "alert": null,
           "recentActivity": [],
           "upcomingEvents": [],
           "decisions": [],
-          "updated": "2026-05-03"
+          "updated": "2026-05-04"
         }
       ]
     },
@@ -219,18 +208,24 @@
           "emoji": "🎯",
           "title": "Rolling Ventures Fund",
           "status": "on-track",
-          "lastUpdated": "2026-05-03",
+          "lastUpdated": "2026-05-04",
           "bullets": [
             "Deal flow review ongoing",
-            "Portfolio management active"
+            "Portfolio management active",
+            "New pitch: Postcard (300K monthly users, raising $4M)"
           ],
           "needsAttention": null,
-          "currentStatus": "Sun 5/3 10:00pm ET. Fund operations continuing.",
+          "currentStatus": "Mon 5/4 9:02am ET. Fund operations continuing. New pitch received from Postcard.",
           "alert": null,
-          "recentActivity": [],
+          "recentActivity": [
+            {
+              "date": "5/4 9:01am",
+              "text": "📧 Postcard pitch: 300K monthly organic users, raising $4M"
+            }
+          ],
           "upcomingEvents": [],
           "decisions": [],
-          "updated": "2026-05-03"
+          "updated": "2026-05-04"
         }
       ]
     },
@@ -242,38 +237,36 @@
           "emoji": "✈️",
           "title": "Today & This Week",
           "status": "on-track",
-          "lastUpdated": "2026-05-03",
+          "lastUpdated": "2026-05-04",
           "bullets": [
-            "✅ Sun 5/3: Downtown Dog Show 3pm at Bogardus Plaza (complete)",
-            "Mon 5/4: Fort 10am, Dentist 12:30pm, Zagged All Hands 2pm, Call IRS 2:30pm, Zurp 3:30pm, Podcast 4:30pm & 7pm"
+            "Mon 5/4: Fort 10am, Zagged All Hands 2pm, Call IRS 2:30pm, Zurp 3:30pm"
           ],
           "needsAttention": null,
-          "currentStatus": "Sun 5/3 10:00pm ET. Sunday evening. Busy Monday: gym, dentist, Zagged All Hands, IRS call, Zurp meeting, podcast recording.",
+          "currentStatus": "Mon 5/4 9:02am ET. Busy Monday ahead: Fort at 10am, Zagged All Hands at 2pm, IRS call at 2:30pm, Zurp meeting at 3:30pm.",
           "alert": null,
-          "updated": "2026-05-03",
+          "updated": "2026-05-04",
           "recentActivity": [
             {
-              "date": "5/3 7:46am",
-              "text": "⚠️ Vercel deployment failed on production"
+              "date": "5/4 9:01am",
+              "text": "📧 Postcard pitch received (300K users, $4M raise)"
             },
             {
-              "date": "5/3 7:23am",
-              "text": "📧 New nik.co contact form submission"
+              "date": "5/4 8:49am",
+              "text": "📊 DocSend weekly activity report"
             },
             {
-              "date": "5/3 5:30am",
+              "date": "5/4 8:48am",
               "text": "📧 New nik.co qualification form submission"
+            },
+            {
+              "date": "5/4 8:48am",
+              "text": "📧 New nik.co newsletter subscription"
             }
           ],
           "upcomingEvents": [
-
             {
               "date": "Mon 5/4 10:00am",
               "text": "Fort"
-            },
-            {
-              "date": "Mon 5/4 12:30pm",
-              "text": "Dentist"
             },
             {
               "date": "Mon 5/4 2:00pm",
@@ -286,14 +279,6 @@
             {
               "date": "Mon 5/4 3:30pm",
               "text": "Zurp - Finalize Transaction Bonus Plan"
-            },
-            {
-              "date": "Mon 5/4 4:30pm",
-              "text": "Limited Supply Podcast Recording"
-            },
-            {
-              "date": "Mon 5/4 7:00pm",
-              "text": "Limited Supply Podcast Recording (continued)"
             }
           ],
           "decisions": []
@@ -308,28 +293,28 @@
           "emoji": "🤖",
           "title": "My Agents",
           "status": "active",
-          "lastUpdated": "2026-05-03",
+          "lastUpdated": "2026-05-04",
           "bullets": [
             "14 bots operational",
             "⚡ Jet (Opus) · 📇 CRM (Sonnet) · 💊 Macra (Opus) · 📱 Macra App (Sonnet)",
             "🖨️ Printing Press (Opus) · ✍️ Josiah (Opus) · 🤓 Bryce (Gemini Flash) · 🔍 Researcher (Grok)",
             "🏥 Health (GPT-4o) · 🎬 Creative Director (Sonnet) · 🔭 Sentinel (Sonnet) · 💪 Flexpower (Opus)",
             "🎧 After Ours (Opus) · 🏦 Rolling Ventures (Opus)",
-            "Weekend dashboard refresh operational"
+            "Dashboard auto-refresh operational"
           ],
           "needsAttention": null,
-          "currentStatus": "Sun 5/3 10:00pm ET. All systems operational. Weekend dashboard refresh complete.",
+          "currentStatus": "Mon 5/4 9:02am ET. All systems operational. Morning dashboard refresh complete.",
           "recentActivity": [
+            {
+              "date": "5/4 9:02am",
+              "text": "🤖 Morning dashboard refresh completed"
+            },
             {
               "date": "5/3 10:00pm",
               "text": "🤖 Weekend dashboard refresh completed"
-            },
-            {
-              "date": "5/3 9:51pm",
-              "text": "💳 Mercury: $120k transferred (Treasury → Checking)"
             }
           ],
-          "updated": "2026-05-03",
+          "updated": "2026-05-04",
           "alert": null,
           "upcomingEvents": [],
           "decisions": []
@@ -338,7 +323,7 @@
     }
   ],
   "sites": {
-    "lastUpdated": "2026-05-03",
+    "lastUpdated": "2026-05-04",
     "domains": {
       "nik.co": "GoDaddy",
       "macra.com": "Namecheap",
