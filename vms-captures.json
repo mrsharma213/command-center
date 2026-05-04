@@ -1,6 +1,6 @@
 {
-  "total": 504,
-  "last_updated": "2026-05-04T09:50:49.286Z",
+  "total": 505,
+  "last_updated": "2026-05-04T10:00:37.687Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4032,6 +4032,14 @@
       "source": "web",
       "referrer": "",
       "ip": "185.49.200.201",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "biuro@folie-okienne.eu",
+      "ts": "2026-05-04T10:00:37.495Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "109.94.252.36",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
