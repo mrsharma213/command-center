@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-05-03T18:00:00Z",
+  "lastRefreshed": "2026-05-04T02:00:00Z",
   "flagged": [
     {
       "emoji": "⚠️",
@@ -17,12 +17,12 @@
     }
   ],
   "newsletter": {
-    "status": "pending",
+    "status": "done",
     "sendDay": "Sunday",
-    "topic": "Next edition sends TODAY",
-    "note": "📅 Sunday 5/3 — Send day. Last send was Thu 4/30 noon (HexClad piece).",
-    "daysToSend": 0,
-    "nextSend": "2026-05-03"
+    "topic": "Latest edition sent",
+    "note": "📅 Sunday 5/3 — Sent. Next edition: Sun 5/10.",
+    "daysToSend": 7,
+    "nextSend": "2026-05-10"
   },
   "sections": [
     {
@@ -40,7 +40,7 @@
             "Rameez finalizing PO with vendor (invoice received)"
           ],
           "needsAttention": null,
-          "currentStatus": "Sun 5/3 2:00pm ET — Day 17 post-launch. Active procurement: Rameez finalizing tumbler order ($4.5/pc with lid). Invoice received from vendor at 4:26am Sat.",
+          "currentStatus": "Sun 5/3 10:00pm ET — Day 17 post-launch. Active procurement: Rameez finalizing tumbler order ($4.5/pc with lid). Invoice received from vendor at 4:26am Sat.",
           "alert": null,
           "recentActivity": [
             {
@@ -69,7 +69,7 @@
             "Transaction bonus plan meeting tomorrow 3:30pm"
           ],
           "needsAttention": null,
-          "currentStatus": "Sun 5/3 2:00pm ET. Sunday afternoon. Transaction bonus plan meeting scheduled for tomorrow (Mon) 3:30pm.",
+          "currentStatus": "Sun 5/3 10:00pm ET. Sunday evening. Transaction bonus plan meeting scheduled for tomorrow (Mon) 3:30pm.",
           "alert": null,
           "recentActivity": [],
           "upcomingEvents": [
@@ -98,7 +98,7 @@
             "Social content pipeline operational"
           ],
           "needsAttention": null,
-          "currentStatus": "Sun 5/3 2:00pm ET. Sunday afternoon. Production work progressing on schedule.",
+          "currentStatus": "Sun 5/3 10:00pm ET. Sunday evening. Production work progressing on schedule.",
           "alert": null,
           "recentActivity": [],
           "upcomingEvents": [],
@@ -117,7 +117,7 @@
             "Recording sessions tomorrow (Mon) 4:30pm & 7pm"
           ],
           "needsAttention": null,
-          "currentStatus": "Sun 5/3 2:00pm ET. Recording sessions scheduled for tomorrow (Mon) 4:30pm & 7pm.",
+          "currentStatus": "Sun 5/3 10:00pm ET. Recording sessions scheduled for tomorrow (Mon) 4:30pm & 7pm.",
           "alert": null,
           "recentActivity": [],
           "upcomingEvents": [
@@ -137,16 +137,16 @@
           "id": "newsletter",
           "emoji": "📰",
           "title": "Newsletter / Workweek",
-          "status": "attention",
+          "status": "on-track",
           "lastUpdated": "2026-05-03",
           "bullets": [
             "✅ Thu 4/30 noon — 'How HexClad built a billion-dollar brand' sent",
-            "📅 TODAY (Sun 5/3) — Send day for next edition",
+            "✅ Sun 5/3 — Latest edition sent",
             "Subscriber base: 100K+ active"
           ],
-          "needsAttention": "Newsletter sends TODAY",
-          "currentStatus": "Sun 5/3 2:00pm ET. SEND DAY. Last edition sent Thursday 4/30 noon. Today's edition should be queued/ready.",
-          "alert": "Send day",
+          "needsAttention": null,
+          "currentStatus": "Sun 5/3 10:00pm ET. Weekly send complete. Next edition: Sun 5/10.",
+          "alert": null,
           "updated": "2026-05-03",
           "recentActivity": [
             {
@@ -179,7 +179,7 @@
           ],
           "needsAttention": null,
           "alert": null,
-          "currentStatus": "Sun 5/3 2:00pm ET. Client work continuing. Love Wellness Mother's Day campaign active (final call emails sent).",
+          "currentStatus": "Sun 5/3 10:00pm ET. Client work continuing. Love Wellness Mother's Day campaign active (final call emails sent).",
           "recentActivity": [
             {
               "date": "5/3 6:45am",
@@ -202,7 +202,7 @@
             "Sponsor partnerships progressing"
           ],
           "needsAttention": null,
-          "currentStatus": "Sun 5/3 2:00pm ET. Event planning and sponsor coordination continuing.",
+          "currentStatus": "Sun 5/3 10:00pm ET. Event planning and sponsor coordination continuing.",
           "alert": null,
           "recentActivity": [],
           "upcomingEvents": [],
@@ -225,7 +225,7 @@
             "Portfolio management active"
           ],
           "needsAttention": null,
-          "currentStatus": "Sun 5/3 2:00pm ET. Fund operations continuing.",
+          "currentStatus": "Sun 5/3 10:00pm ET. Fund operations continuing.",
           "alert": null,
           "recentActivity": [],
           "upcomingEvents": [],
@@ -244,11 +244,11 @@
           "status": "on-track",
           "lastUpdated": "2026-05-03",
           "bullets": [
-            "TODAY Sun 5/3: Downtown Dog Show 3pm at Bogardus Plaza 🐕",
-            "Mon 5/4: Fort 10am, Dentist 12:30pm, Zurp 3:30pm, Nik/Ben 3:30pm, Podcast recording 4:30pm & 7pm"
+            "✅ Sun 5/3: Downtown Dog Show 3pm at Bogardus Plaza (complete)",
+            "Mon 5/4: Fort 10am, Dentist 12:30pm, Zagged All Hands 2pm, Call IRS 2:30pm, Zurp 3:30pm, Podcast 4:30pm & 7pm"
           ],
           "needsAttention": null,
-          "currentStatus": "Sun 5/3 2:00pm ET. Sunday afternoon. Dog show in 1 hour (3pm at Bogardus Plaza 🐕). Busy Monday ahead with dentist, meetings, and podcast recording.",
+          "currentStatus": "Sun 5/3 10:00pm ET. Sunday evening. Busy Monday: gym, dentist, Zagged All Hands, IRS call, Zurp meeting, podcast recording.",
           "alert": null,
           "updated": "2026-05-03",
           "recentActivity": [
@@ -266,10 +266,7 @@
             }
           ],
           "upcomingEvents": [
-            {
-              "date": "TODAY 3:00pm",
-              "text": "🐕 Downtown Dog Show @ Bogardus Plaza"
-            },
+
             {
               "date": "Mon 5/4 10:00am",
               "text": "Fort"
@@ -279,16 +276,16 @@
               "text": "Dentist"
             },
             {
+              "date": "Mon 5/4 2:00pm",
+              "text": "Zagged All Hands (Weekly)"
+            },
+            {
+              "date": "Mon 5/4 2:30pm",
+              "text": "Call IRS ONLY"
+            },
+            {
               "date": "Mon 5/4 3:30pm",
               "text": "Zurp - Finalize Transaction Bonus Plan"
-            },
-            {
-              "date": "Mon 5/4 3:30pm",
-              "text": "Nik / Ben"
-            },
-            {
-              "date": "Mon 5/4 4:00pm",
-              "text": "Daily: Lunar x SB"
             },
             {
               "date": "Mon 5/4 4:30pm",
@@ -321,11 +318,15 @@
             "Weekend dashboard refresh operational"
           ],
           "needsAttention": null,
-          "currentStatus": "Sun 5/3 2:00pm ET. All systems operational. Weekend dashboard refresh running.",
+          "currentStatus": "Sun 5/3 10:00pm ET. All systems operational. Weekend dashboard refresh complete.",
           "recentActivity": [
             {
-              "date": "5/3 8:00am",
+              "date": "5/3 10:00pm",
               "text": "🤖 Weekend dashboard refresh completed"
+            },
+            {
+              "date": "5/3 9:51pm",
+              "text": "💳 Mercury: $120k transferred (Treasury → Checking)"
             }
           ],
           "updated": "2026-05-03",
