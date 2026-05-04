@@ -1,6 +1,6 @@
 {
-  "total": 497,
-  "last_updated": "2026-05-04T01:21:08.306Z",
+  "total": 498,
+  "last_updated": "2026-05-04T01:21:22.244Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3973,6 +3973,14 @@
     {
       "email": "hannah@getpushee.com",
       "ts": "2026-05-04T01:21:08.026Z",
+      "source": "web",
+      "referrer": "https://mail.google.com/",
+      "ip": "67.251.154.122",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "hannah@getpushee.com",
+      "ts": "2026-05-04T01:21:22.093Z",
       "source": "web",
       "referrer": "https://mail.google.com/",
       "ip": "67.251.154.122",
