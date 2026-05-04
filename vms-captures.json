@@ -1,6 +1,6 @@
 {
-  "total": 508,
-  "last_updated": "2026-05-04T13:53:06.606Z",
+  "total": 509,
+  "last_updated": "2026-05-04T13:55:53.318Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4065,6 +4065,14 @@
       "referrer": "https://mail.google.com/",
       "ip": "152.37.101.5",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "idenatecandido@gmail.com",
+      "ts": "2026-05-04T13:55:53.121Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "201.42.188.233",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
     }
   ]
 }
