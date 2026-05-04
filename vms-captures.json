@@ -1,6 +1,6 @@
 {
-  "total": 511,
-  "last_updated": "2026-05-04T14:28:57.118Z",
+  "total": 512,
+  "last_updated": "2026-05-04T18:24:12.563Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4088,6 +4088,14 @@
       "source": "web",
       "referrer": "https://mail.google.com/",
       "ip": "179.242.26.95",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "victoria@leapfrogremedies.com",
+      "ts": "2026-05-04T18:24:12.183Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "31.94.72.169",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
