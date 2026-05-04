@@ -1,6 +1,6 @@
 {
-  "total": 499,
-  "last_updated": "2026-05-04T02:05:15.271Z",
+  "total": 500,
+  "last_updated": "2026-05-04T07:54:57.037Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -3993,6 +3993,14 @@
       "referrer": "android-app://com.google.android.gm/",
       "ip": "223.185.130.57",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "bupindarsnayar@gmail.com",
+      "ts": "2026-05-04T07:54:56.696Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "14.99.1.178",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
