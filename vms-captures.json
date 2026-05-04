@@ -1,6 +1,6 @@
 {
-  "total": 510,
-  "last_updated": "2026-05-04T14:09:45.332Z",
+  "total": 511,
+  "last_updated": "2026-05-04T14:28:57.118Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4081,6 +4081,14 @@
       "referrer": "",
       "ip": "109.243.65.76",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0"
+    },
+    {
+      "email": "rafaelmarino@petvi.com.br",
+      "ts": "2026-05-04T14:28:56.915Z",
+      "source": "web",
+      "referrer": "https://mail.google.com/",
+      "ip": "179.242.26.95",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
