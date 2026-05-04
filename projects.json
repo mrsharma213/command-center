@@ -11,7 +11,7 @@
       "Rameez finalizing PO with vendor (invoice received)"
     ],
     "needsAttention": null,
-    "currentStatus": "Mon 5/4 9:02am ET — Day 18 post-launch. Active procurement: Rameez finalizing tumbler order ($4.5/pc with lid)."
+    "currentStatus": "Mon 5/4 11:00am ET — Day 18 post-launch. Active procurement: Rameez finalizing tumbler order ($4.5/pc with lid)."
   },
   {
     "id": "zurp",
@@ -26,7 +26,7 @@
       "Transaction bonus plan meeting today 3:30pm"
     ],
     "needsAttention": null,
-    "currentStatus": "Mon 5/4 9:02am ET. Transaction bonus plan meeting today at 3:30pm."
+    "currentStatus": "Mon 5/4 11:00am ET. Transaction bonus plan meeting upcoming at 3:30pm. Check-In meeting completed."
   },
   {
     "id": "after-ours",
@@ -40,7 +40,7 @@
       "Social content pipeline operational"
     ],
     "needsAttention": null,
-    "currentStatus": "Mon 5/4 9:02am ET. Production work progressing on schedule."
+    "currentStatus": "Mon 5/4 11:00am ET. Production work progressing on schedule. Studio sessions scheduled."
   },
   {
     "id": "limited-supply",
@@ -51,10 +51,10 @@
     "bullets": [
       "Weekly podcast release schedule maintained",
       "100K+ subscribers",
-      "Recording sessions today 4:30pm & 7pm"
+      "Daily Lunar x SB call at 4pm"
     ],
     "needsAttention": null,
-    "currentStatus": "Mon 5/4 9:02am ET. Recording sessions scheduled today 4:30pm & 7pm."
+    "currentStatus": "Mon 5/4 11:00am ET. Daily Lunar x SB call at 4pm. Podcast production active."
   },
   {
     "id": "newsletter",
@@ -68,7 +68,7 @@
       "Next edition: Sun 5/10"
     ],
     "needsAttention": null,
-    "currentStatus": "Mon 5/4 9:02am ET. Weekly send complete. Next edition: Sun 5/10."
+    "currentStatus": "Mon 5/4 11:00am ET. Weekly send complete (5/3). Next edition: Sun 5/10. Subscriber growth steady (+358 May)."
   },
   {
     "id": "brand-consulting",
@@ -82,7 +82,7 @@
       "Deliverables on schedule"
     ],
     "needsAttention": null,
-    "currentStatus": "Mon 5/4 9:02am ET. Client work continuing. Climatic x Sharma Brands thread active."
+    "currentStatus": "Mon 5/4 11:00am ET. Client work continuing. Climatic x Sharma Brands thread active. Love Wellness Mother's Day campaign in market."
   },
   {
     "id": "ecom-founders",
@@ -96,7 +96,7 @@
       "Sponsor partnerships progressing"
     ],
     "needsAttention": null,
-    "currentStatus": "Mon 5/4 9:02am ET. Event planning and sponsor coordination continuing."
+    "currentStatus": "Mon 5/4 11:00am ET. AI Summit & Q4 Summit planning active. Sponsor partnerships progressing."
   },
   {
     "id": "rolling-ventures",
@@ -110,7 +110,7 @@
       "New pitch: Postcard (300K monthly users, raising $4M)"
     ],
     "needsAttention": null,
-    "currentStatus": "Mon 5/4 9:02am ET. Fund operations continuing. New pitch received from Postcard."
+    "currentStatus": "Mon 5/4 11:00am ET. Fund operations continuing. New pitch: Postcard (300K users, $4M raise). Deal flow review active."
   },
   {
     "id": "travel",
@@ -119,10 +119,10 @@
     "status": "on-track",
     "lastUpdated": "2026-05-04",
     "bullets": [
-      "Mon 5/4: Fort 10am, Zagged All Hands 2pm, Call IRS 2:30pm, Zurp 3:30pm"
+      "Mon 5/4: Check-In ✅, Zagged All Hands 2pm, Call IRS 2:30pm, Zurp & Nik/Ben 3:30pm, Daily Lunar x SB 4pm"
     ],
     "needsAttention": null,
-    "currentStatus": "Mon 5/4 9:02am ET. Busy Monday ahead: Fort at 10am, Zagged All Hands at 2pm, IRS call at 2:30pm, Zurp meeting at 3:30pm."
+    "currentStatus": "Mon 5/4 11:00am ET. Check-In done. Upcoming: Zagged All Hands 2pm, IRS call 2:30pm, Zurp & Nik/Ben 3:30pm, Daily Lunar x SB 4pm."
   },
   {
     "id": "my-agents",
@@ -139,6 +139,6 @@
       "Dashboard auto-refresh operational"
     ],
     "needsAttention": null,
-    "currentStatus": "Mon 5/4 9:02am ET. All systems operational. Morning dashboard refresh complete."
+    "currentStatus": "Mon 5/4 11:00am ET. All systems operational. 14 bots active. Dashboard refresh running."
   }
 ]
