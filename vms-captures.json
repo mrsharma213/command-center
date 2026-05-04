@@ -1,6 +1,6 @@
 {
-  "total": 500,
-  "last_updated": "2026-05-04T07:54:57.037Z",
+  "total": 501,
+  "last_updated": "2026-05-04T08:23:28.165Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4000,6 +4000,14 @@
       "source": "web",
       "referrer": "",
       "ip": "14.99.1.178",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "macsen@lifetimehealth.com.au",
+      "ts": "2026-05-04T08:23:27.879Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "95.178.109.242",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
