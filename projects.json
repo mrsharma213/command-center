@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-05-04T19:00:00Z",
+  "lastRefreshed": "2026-05-04T21:00:00Z",
   "flagged": [],
   "newsletter": {
     "status": "done",
@@ -55,12 +55,16 @@
             "Power bank rental operations active",
             "6 stations, 24 banks each",
             "NYC nightclub deployment",
-            "Transaction bonus plan meeting today 3:30pm"
+            "Transaction bonus plan rescheduled to Fri 5/8 2:30pm"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 1:01pm ET. Transaction bonus plan meeting upcoming at 3:30pm. Check-In meeting completed.",
+          "currentStatus": "Mon 5/4 5:00pm ET. Transaction bonus plan meeting rescheduled to Fri 5/8 2:30pm (updated by Troy 4:47pm). Tomorrow: Zurp Check-In 1pm, YoSharma Check-In 3pm.",
           "alert": null,
           "recentActivity": [
+            {
+              "date": "5/4 4:47pm",
+              "text": "📅 Troy updated: Transaction Bonus Plan → Fri 5/8 2:30pm"
+            },
             {
               "date": "5/4 11:30am",
               "text": "📅 Check-In meeting completed"
@@ -68,8 +72,16 @@
           ],
           "upcomingEvents": [
             {
-              "date": "Mon 5/4 3:30pm",
-              "event": "Finalize Transaction Bonus Plan"
+              "date": "Tue 5/5 1:00pm",
+              "event": "Zurp Check-In"
+            },
+            {
+              "date": "Tue 5/5 3:00pm",
+              "event": "YoSharma Check-In"
+            },
+            {
+              "date": "Fri 5/8 2:30pm",
+              "event": "Finalize Transaction Bonus Plan (Drive Link)"
             }
           ],
           "decisions": [],
@@ -89,13 +101,19 @@
           "bullets": [
             "Music production continuing",
             "Studio sessions active",
-            "Social content pipeline operational"
+            "Social content pipeline operational",
+            "After Ours Sync tomorrow 2pm"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 1:01pm ET. Production work progressing on schedule. Studio sessions scheduled.",
+          "currentStatus": "Mon 5/4 5:00pm ET. Production work progressing on schedule. After Ours Sync scheduled Tue 5/5 2pm.",
           "alert": null,
           "recentActivity": [],
-          "upcomingEvents": [],
+          "upcomingEvents": [
+            {
+              "date": "Tue 5/5 2:00pm",
+              "event": "🎧 After Ours Sync"
+            }
+          ],
           "updated": "2026-05-04",
           "decisions": []
         },
@@ -108,10 +126,10 @@
           "bullets": [
             "Weekly podcast release schedule maintained",
             "100K+ subscribers",
-            "Daily Lunar x SB call at 4pm"
+            "Workweek x Nik Sharma tomorrow 1:30pm"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 1:01pm ET. Daily Lunar x SB call at 4pm. Podcast production active.",
+          "currentStatus": "Mon 5/4 5:00pm ET. Podcast production active. Workweek x Nik Sharma scheduled Tue 5/5 1:30pm.",
           "alert": null,
           "recentActivity": [
             {
@@ -125,8 +143,8 @@
           ],
           "upcomingEvents": [
             {
-              "date": "Mon 5/4 4:00pm",
-              "event": "Daily: Lunar x SB"
+              "date": "Tue 5/5 1:30pm",
+              "event": "Workweek x Nik Sharma"
             }
           ],
           "updated": "2026-05-04",
@@ -264,11 +282,12 @@
           "status": "on-track",
           "lastUpdated": "2026-05-04",
           "bullets": [
-            "Mon 5/4: Check-In ✅, Zagged All Hands 2pm, Call IRS 2:30pm, Zurp & Nik/Ben 3:30pm, Daily Lunar x SB 4pm",
-            "Tue 5/5: Oceans Post 8am, Check Flexpower 8:30am, Formyhair 10:45am"
+            "Mon 5/4 complete: Check-In, Zagged All Hands, IRS call, Zurp & Nik/Ben, Daily Lunar x SB ✅",
+            "Tue 5/5: Oceans Post 8am, Check Flexpower 8:30am, Formyhair 10:45am, Zurp Check-In 1pm, Workweek 1:30pm, After Ours 2pm, YoSharma 3pm",
+            "📦 Package at front desk (received 4:39pm)"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 3:00pm ET. IRS call 2:30pm done. Upcoming: Zurp & Nik/Ben 3:30pm, Daily Lunar x SB 4pm.",
+          "currentStatus": "Mon 5/4 5:00pm ET. Today complete. Tomorrow: Full schedule starting 8am (Oceans Post).",
           "alert": null,
           "updated": "2026-05-04",
           "recentActivity": [
@@ -287,18 +306,6 @@
           ],
           "upcomingEvents": [
             {
-              "date": "Mon 5/4 3:30pm",
-              "text": "Zurp - Finalize Transaction Bonus Plan"
-            },
-            {
-              "date": "Mon 5/4 3:30pm",
-              "text": "Nik / Ben"
-            },
-            {
-              "date": "Mon 5/4 4:00pm",
-              "text": "Daily: Lunar x SB"
-            },
-            {
               "date": "Tue 5/5 8:00am",
               "text": "🔔 Oceans Post"
             },
@@ -309,6 +316,22 @@
             {
               "date": "Tue 5/5 10:45am",
               "text": "Formyhair"
+            },
+            {
+              "date": "Tue 5/5 1:00pm",
+              "text": "Zurp Check-In"
+            },
+            {
+              "date": "Tue 5/5 1:30pm",
+              "text": "Workweek x Nik Sharma"
+            },
+            {
+              "date": "Tue 5/5 2:00pm",
+              "text": "🎧 After Ours Sync"
+            },
+            {
+              "date": "Tue 5/5 3:00pm",
+              "text": "YoSharma Check-In"
             }
           ],
           "decisions": []
@@ -336,11 +359,11 @@
           "currentStatus": "Mon 5/4 3:00pm ET. All systems operational. 14 bots active. Dashboard refresh running.",
           "recentActivity": [
             {
-              "date": "5/4 3:00pm",
+              "date": "5/4 5:00pm",
               "text": "🤖 Dashboard refresh cron executing"
             },
             {
-              "date": "5/4 1:01pm",
+              "date": "5/4 3:00pm",
               "text": "🤖 Dashboard refresh completed"
             }
           ],
