@@ -1,6 +1,6 @@
 {
-  "total": 512,
-  "last_updated": "2026-05-04T18:24:12.563Z",
+  "total": 513,
+  "last_updated": "2026-05-04T19:10:12.868Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4096,6 +4096,14 @@
       "source": "web",
       "referrer": "",
       "ip": "31.94.72.169",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "amie.stanley@e29marketing.com",
+      "ts": "2026-05-04T19:10:12.525Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "98.42.138.211",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
