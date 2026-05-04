@@ -1,12 +1,12 @@
 {
-  "lastRefreshed": "2026-05-04T15:00:00Z",
+  "lastRefreshed": "2026-05-04T17:01:00Z",
   "flagged": [],
   "newsletter": {
     "status": "done",
     "sendDay": "Sunday",
     "topic": "Latest edition sent",
     "note": "📅 Sunday 5/3 — Sent. Next edition: Sun 5/10.",
-    "daysToSend": 7,
+    "daysToSend": 6,
     "nextSend": "2026-05-10"
   },
   "sections": [
@@ -25,9 +25,13 @@
             "Rameez finalizing PO with vendor (invoice received)"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 11:00am ET — Day 18 post-launch. Active procurement: Rameez finalizing tumbler order ($4.5/pc with lid).",
+          "currentStatus": "Mon 5/4 1:01pm ET — Day 18 post-launch. Active procurement: Rameez finalizing tumbler order ($4.5/pc with lid).",
           "alert": null,
           "recentActivity": [
+            {
+              "date": "5/4 12:39pm",
+              "text": "📧 Rameez thread active on Ecom Founders AI Summit"
+            },
             {
               "date": "5/2 4:26am",
               "text": "📦 Tumbler procurement: Invoice received from vendor Tony ($4.5/pc with lid)"
@@ -54,7 +58,7 @@
             "Transaction bonus plan meeting today 3:30pm"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 11:00am ET. Transaction bonus plan meeting upcoming at 3:30pm. Check-In meeting completed.",
+          "currentStatus": "Mon 5/4 1:01pm ET. Transaction bonus plan meeting upcoming at 3:30pm. Check-In meeting completed.",
           "alert": null,
           "recentActivity": [
             {
@@ -88,7 +92,7 @@
             "Social content pipeline operational"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 11:00am ET. Production work progressing on schedule. Studio sessions scheduled.",
+          "currentStatus": "Mon 5/4 1:01pm ET. Production work progressing on schedule. Studio sessions scheduled.",
           "alert": null,
           "recentActivity": [],
           "upcomingEvents": [],
@@ -107,9 +111,13 @@
             "Daily Lunar x SB call at 4pm"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 11:00am ET. Daily Lunar x SB call at 4pm. Podcast production active.",
+          "currentStatus": "Mon 5/4 1:01pm ET. Daily Lunar x SB call at 4pm. Podcast production active.",
           "alert": null,
           "recentActivity": [
+            {
+              "date": "5/4 12:57pm",
+              "text": "📧 Fireflies meeting prep for Zagged All Hands"
+            },
             {
               "date": "5/4 10:41am",
               "text": "📧 Slack Limited Supply updates for week of 4/26"
@@ -133,13 +141,18 @@
           "bullets": [
             "✅ Sun 5/3 — Latest edition sent",
             "Subscriber base: 100K+ active",
-            "Next edition: Sun 5/10"
+            "Next edition: Sun 5/10",
+            "LinkedIn impressions: 40,867 last week"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 11:00am ET. Weekly send complete (5/3). Next edition: Sun 5/10. Subscriber growth steady (+358 May).",
+          "currentStatus": "Mon 5/4 1:01pm ET. Weekly send complete (5/3). Next edition: Sun 5/10. Subscriber growth steady (+358 May). Strong LinkedIn performance (40K+ weekly impressions).",
           "alert": null,
           "updated": "2026-05-04",
           "recentActivity": [
+            {
+              "date": "5/4 12:42pm",
+              "text": "📊 LinkedIn: 40,867 impressions last week"
+            },
             {
               "date": "5/3",
               "text": "📨 Latest edition sent"
@@ -174,7 +187,7 @@
           ],
           "needsAttention": null,
           "alert": null,
-          "currentStatus": "Mon 5/4 11:00am ET. Client work continuing. Climatic x Sharma Brands thread active. Love Wellness Mother's Day campaign in market.",
+          "currentStatus": "Mon 5/4 1:01pm ET. Client work continuing. Climatic x Sharma Brands thread active. Love Wellness Mother's Day campaign in market.",
           "recentActivity": [
             {
               "date": "5/4 10:26am",
@@ -194,12 +207,18 @@
           "bullets": [
             "AI Summit planning active",
             "Q4 Summit on track",
-            "Sponsor partnerships progressing"
+            "Sponsor partnerships progressing",
+            "Rameez coordinating Slash.com partnership"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 11:00am ET. AI Summit & Q4 Summit planning active. Sponsor partnerships progressing.",
+          "currentStatus": "Mon 5/4 1:01pm ET. AI Summit & Q4 Summit planning active. Rameez leading Slash.com partnership discussions. Sponsor partnerships progressing.",
           "alert": null,
-          "recentActivity": [],
+          "recentActivity": [
+            {
+              "date": "5/4 12:39pm",
+              "text": "📧 Rameez thread: Ecom Founders AI Summit x Slash.com"
+            }
+          ],
           "upcomingEvents": [],
           "decisions": [],
           "updated": "2026-05-04"
@@ -221,7 +240,7 @@
             "New pitch: Postcard (300K monthly users, raising $4M)"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 11:00am ET. Fund operations continuing. New pitch: Postcard (300K users, $4M raise). Deal flow review active.",
+          "currentStatus": "Mon 5/4 1:01pm ET. Fund operations continuing. New pitch: Postcard (300K users, $4M raise). Deal flow review active.",
           "alert": null,
           "recentActivity": [
             {
@@ -245,13 +264,18 @@
           "status": "on-track",
           "lastUpdated": "2026-05-04",
           "bullets": [
-            "Mon 5/4: Check-In ✅, Zagged All Hands 2pm, Call IRS 2:30pm, Zurp & Nik/Ben 3:30pm, Daily Lunar x SB 4pm"
+            "Mon 5/4: Check-In ✅, Zagged All Hands 2pm, Call IRS 2:30pm, Zurp & Nik/Ben 3:30pm, Daily Lunar x SB 4pm",
+            "Tue 5/5: Oceans Post 8am, Check Flexpower 8:30am, Formyhair 10:45am"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 11:00am ET. Check-In done. Upcoming: Zagged All Hands 2pm, IRS call 2:30pm, Zurp & Nik/Ben 3:30pm, Daily Lunar x SB 4pm.",
+          "currentStatus": "Mon 5/4 1:01pm ET. Check-In done. Upcoming: Zagged All Hands 2pm, IRS call 2:30pm, Zurp & Nik/Ben 3:30pm, Daily Lunar x SB 4pm.",
           "alert": null,
           "updated": "2026-05-04",
           "recentActivity": [
+            {
+              "date": "5/4 12:57pm",
+              "text": "📧 Fireflies meeting prep for Zagged All Hands"
+            },
             {
               "date": "5/4 11:30am",
               "text": "✅ Check-In meeting completed"
@@ -289,6 +313,10 @@
             {
               "date": "Tue 5/5 8:30am",
               "text": "🔔 Check if Dylan / Flexpower got back"
+            },
+            {
+              "date": "Tue 5/5 10:45am",
+              "text": "Formyhair"
             }
           ],
           "decisions": []
@@ -313,10 +341,10 @@
             "Dashboard auto-refresh operational"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 11:00am ET. All systems operational. 14 bots active. Dashboard refresh running.",
+          "currentStatus": "Mon 5/4 1:01pm ET. All systems operational. 14 bots active. Dashboard refresh running.",
           "recentActivity": [
             {
-              "date": "5/4 11:00am",
+              "date": "5/4 1:01pm",
               "text": "🤖 Dashboard refresh cron executing"
             },
             {
