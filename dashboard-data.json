@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-05-04T17:01:00Z",
+  "lastRefreshed": "2026-05-04T19:00:00Z",
   "flagged": [],
   "newsletter": {
     "status": "done",
@@ -268,10 +268,14 @@
             "Tue 5/5: Oceans Post 8am, Check Flexpower 8:30am, Formyhair 10:45am"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 1:01pm ET. Check-In done. Upcoming: Zagged All Hands 2pm, IRS call 2:30pm, Zurp & Nik/Ben 3:30pm, Daily Lunar x SB 4pm.",
+          "currentStatus": "Mon 5/4 3:00pm ET. IRS call 2:30pm done. Upcoming: Zurp & Nik/Ben 3:30pm, Daily Lunar x SB 4pm.",
           "alert": null,
           "updated": "2026-05-04",
           "recentActivity": [
+            {
+              "date": "5/4 2:57pm",
+              "text": "📧 Fireflies meeting prep for Daily: Lunar x SB"
+            },
             {
               "date": "5/4 12:57pm",
               "text": "📧 Fireflies meeting prep for Zagged All Hands"
@@ -279,21 +283,9 @@
             {
               "date": "5/4 11:30am",
               "text": "✅ Check-In meeting completed"
-            },
-            {
-              "date": "5/4 10:28am",
-              "text": "📧 Fireflies meeting prep for Check-In"
             }
           ],
           "upcomingEvents": [
-            {
-              "date": "Mon 5/4 2:00pm",
-              "text": "Zagged All Hands (Weekly)"
-            },
-            {
-              "date": "Mon 5/4 2:30pm",
-              "text": "Call IRS ONLY"
-            },
             {
               "date": "Mon 5/4 3:30pm",
               "text": "Zurp - Finalize Transaction Bonus Plan"
@@ -341,15 +333,15 @@
             "Dashboard auto-refresh operational"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 1:01pm ET. All systems operational. 14 bots active. Dashboard refresh running.",
+          "currentStatus": "Mon 5/4 3:00pm ET. All systems operational. 14 bots active. Dashboard refresh running.",
           "recentActivity": [
             {
-              "date": "5/4 1:01pm",
+              "date": "5/4 3:00pm",
               "text": "🤖 Dashboard refresh cron executing"
             },
             {
-              "date": "5/3 10:00pm",
-              "text": "🤖 Weekend dashboard refresh completed"
+              "date": "5/4 1:01pm",
+              "text": "🤖 Dashboard refresh completed"
             }
           ],
           "updated": "2026-05-04",
