@@ -1,6 +1,6 @@
 {
-  "total": 517,
-  "last_updated": "2026-05-04T22:18:02.874Z",
+  "total": 518,
+  "last_updated": "2026-05-05T04:13:26.283Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4137,6 +4137,14 @@
       "referrer": "android-app://com.google.android.gm/",
       "ip": "189.62.47.169",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "qstanier@omniluxled.com",
+      "ts": "2026-05-05T04:13:25.898Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "24.5.134.151",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1"
     }
   ]
 }
