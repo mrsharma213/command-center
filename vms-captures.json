@@ -1,6 +1,6 @@
 {
-  "total": 521,
-  "last_updated": "2026-05-05T07:45:52.841Z",
+  "total": 522,
+  "last_updated": "2026-05-05T07:51:05.583Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4168,6 +4168,14 @@
       "source": "web",
       "referrer": "",
       "ip": "213.197.174.14",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "simran.ahuja@boltworks.in",
+      "ts": "2026-05-05T07:51:05.426Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "49.36.121.62",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
