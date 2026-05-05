@@ -1,119 +1,82 @@
 [
   {
-    "name": "Macra",
-    "emoji": "\ud83d\udc8a",
+    "id": "macra",
+    "emoji": "💊",
+    "title": "Macra",
     "status": "on-track",
-    "lastUpdated": "2026-05-04",
-    "bullets": [
-      "Post-launch operations stabilizing",
-      "Active procurement: tumbler order in progress",
-      "Rameez finalizing PO with vendor (invoice received)"
-    ]
+    "currentStatus": "Mon 5/4 1:01pm ET — Day 18 post-launch. Active procurement: Rameez finalizing tumbler order ($4.5/pc with lid).",
+    "section": "Companies"
   },
   {
-    "name": "Zurp",
-    "emoji": "\ud83d\udcf1",
+    "id": "zurp",
+    "emoji": "📱",
+    "title": "Zurp",
     "status": "on-track",
-    "lastUpdated": "2026-05-04",
-    "bullets": [
-      "Power bank rental operations active",
-      "6 stations, 24 banks each",
-      "NYC nightclub deployment",
-      "Transaction bonus plan rescheduled to Fri 5/8 2:30pm"
-    ]
+    "currentStatus": "Mon 5/4 5:00pm ET. Transaction bonus plan meeting rescheduled to Fri 5/8 2:30pm (updated by Troy 4:47pm). Tomorrow: Zurp Check-In 1pm, YoSharma Check-In 3pm.",
+    "section": "Companies"
   },
   {
-    "name": "After Ours",
-    "emoji": "\ud83c\udfa7",
+    "id": "after-ours",
+    "emoji": "🎧",
+    "title": "After Ours",
     "status": "on-track",
-    "lastUpdated": "2026-05-05",
-    "bullets": [
-      "Music production continuing",
-      "Patreon track uploads active (Grahm Radio)",
-      "Studio sessions active",
-      "After Ours Sync tomorrow 2pm"
-    ]
+    "currentStatus": "Mon 5/4 11:03pm ET. Track uploads active on Patreon (multiple unreleased IDs queued). After Ours Sync scheduled Tue 5/5 2pm.",
+    "section": "Media & Content"
   },
   {
-    "name": "Limited Supply Podcast",
-    "emoji": "\ud83c\udf99\ufe0f",
+    "id": "limited-supply",
+    "emoji": "🎙️",
+    "title": "Limited Supply Podcast",
     "status": "on-track",
-    "lastUpdated": "2026-05-04",
-    "bullets": [
-      "Weekly podcast release schedule maintained",
-      "100K+ subscribers",
-      "Workweek x Nik Sharma tomorrow 1:30pm"
-    ]
+    "currentStatus": "Mon 5/4 5:00pm ET. Podcast production active. Workweek x Nik Sharma scheduled Tue 5/5 1:30pm.",
+    "section": "Media & Content"
   },
   {
-    "name": "Newsletter / Workweek",
-    "emoji": "\ud83d\udcf0",
+    "id": "newsletter",
+    "emoji": "📰",
+    "title": "Newsletter / Workweek",
     "status": "on-track",
-    "lastUpdated": "2026-05-04",
-    "bullets": [
-      "\u2705 Sun 5/3 \u2014 Latest edition sent",
-      "Subscriber base: 100K+ active",
-      "Next edition: Sun 5/10",
-      "LinkedIn impressions: 40,867 last week"
-    ]
+    "currentStatus": "Mon 5/4 1:01pm ET. Weekly send complete (5/3). Next edition: Sun 5/10. Subscriber growth steady (+358 May). Strong LinkedIn performance (40K+ weekly impressions).",
+    "section": "Media & Content"
   },
   {
-    "name": "Brand Consulting",
-    "emoji": "\ud83d\udcbc",
+    "id": "brand-consulting",
+    "emoji": "💼",
+    "title": "Brand Consulting",
     "status": "on-track",
-    "lastUpdated": "2026-05-04",
-    "bullets": [
-      "Client engagements progressing",
-      "Climatic x Sharma Brands thread active",
-      "Deliverables on schedule"
-    ]
+    "currentStatus": "Mon 5/4 1:01pm ET. Client work continuing. Climatic x Sharma Brands thread active. Love Wellness Mother's Day campaign in market.",
+    "section": "Brand Consulting"
   },
   {
-    "name": "Ecom Founders",
-    "emoji": "\ud83c\udfd7\ufe0f",
+    "id": "ecom-founders",
+    "emoji": "🏗️",
+    "title": "Ecom Founders",
     "status": "on-track",
-    "lastUpdated": "2026-05-04",
-    "bullets": [
-      "AI Summit planning active",
-      "Q4 Summit on track",
-      "Sponsor partnerships progressing",
-      "Rameez coordinating Slash.com partnership"
-    ]
+    "currentStatus": "Mon 5/4 1:01pm ET. AI Summit & Q4 Summit planning active. Rameez leading Slash.com partnership discussions. Sponsor partnerships progressing.",
+    "section": "Brand Consulting"
   },
   {
-    "name": "Rolling Ventures Fund",
-    "emoji": "\ud83c\udfaf",
+    "id": "rolling-ventures",
+    "emoji": "🎯",
+    "title": "Rolling Ventures Fund",
     "status": "on-track",
-    "lastUpdated": "2026-05-04",
-    "bullets": [
-      "Deal flow review ongoing",
-      "Portfolio management active",
-      "New pitch: Postcard (300K monthly users, raising $4M)"
-    ]
+    "currentStatus": "Mon 5/4 1:01pm ET. Fund operations continuing. New pitch: Postcard (300K users, $4M raise). Deal flow review active.",
+    "section": "Rolling Ventures"
   },
   {
-    "name": "Today & This Week",
-    "emoji": "\u2708\ufe0f",
+    "id": "travel",
+    "emoji": "✈️",
+    "title": "Today & This Week",
     "status": "on-track",
-    "lastUpdated": "2026-05-05",
-    "bullets": [
-      "Tue 5/5 9:01am ET: Morning meetings complete (Oceans 8am, Flexpower check 8:30am)",
-      "Next up: Formyhair 10:45am, Zurp Check-In 1pm, Workweek 1:30pm, After Ours 2pm, YoSharma 3pm",
-      "Schedule remains packed through early evening"
-    ]
+    "currentStatus": "Tue 5/5 1:01pm ET. Afternoon acceleration. Queue: Zurp (1pm), Workweek (1:30pm), After Ours (2pm), YoSharma (3pm), Vinay x Limited Supply (4pm), Extra Time (5pm), Travel (5:30pm). Wed 5/6: Wake up 9am.",
+    "section": "Nik Sharma — Personal"
   },
   {
-    "name": "My Agents",
-    "emoji": "\ud83e\udd16",
+    "id": "my-agents",
+    "emoji": "🤖",
+    "title": "My Agents",
     "status": "active",
-    "lastUpdated": "2026-05-05",
-    "bullets": [
-      "14 bots operational",
-      "\u26a1 Jet (Opus) \u00b7 \ud83d\udcc7 CRM (Sonnet) \u00b7 \ud83d\udc8a Macra (Opus) \u00b7 \ud83d\udcf1 Macra App (Sonnet)",
-      "\ud83d\udda8\ufe0f Printing Press (Opus) \u00b7 \u270d\ufe0f Josiah (Opus) \u00b7 \ud83e\udd13 Bryce (Gemini Flash) \u00b7 \ud83d\udd0d Researcher (Grok)",
-      "\ud83c\udfe5 Health (GPT-4o) \u00b7 \ud83c\udfac Creative Director (Sonnet) \u00b7 \ud83d\udd2d Sentinel (Sonnet) \u00b7 \ud83d\udcaa Flexpower (Opus)",
-      "\ud83c\udfa7 After Ours (Opus) \u00b7 \ud83c\udfe6 Rolling Ventures (Opus)",
-      "Dashboard auto-refresh running (Tue 5/5 9:01am ET)"
-    ]
+    "currentStatus": "Tue 5/5 1:01pm ET. All systems operational. 14 bots active. Dashboard refresh in progress.",
+    "section": "Operations"
   }
 ]

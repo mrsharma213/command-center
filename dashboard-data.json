@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-05-05T15:00:00Z",
+  "lastRefreshed": "2026-05-05T17:01:26Z",
   "flagged": [],
   "newsletter": {
     "status": "done",
@@ -291,22 +291,22 @@
           "status": "on-track",
           "lastUpdated": "2026-05-05",
           "bullets": [
-            "Tue 5/5 11:00am ET: Mid-morning status check",
+            "Tue 5/5 1:01pm ET: Afternoon momentum — 4 meetings queued",
             "Next up: Zurp Check-In 1pm, Workweek 1:30pm, After Ours Sync 2pm, YoSharma Check-In 3pm, Limited Supply Recording 4pm",
-            "Evening: Strong finish to the day with back-to-back momentum"
+            "Verizon AutoPay scheduled Wed 5/6-Thu 5/7"
           ],
           "needsAttention": null,
-          "currentStatus": "Tue 5/5 11:00am ET. Mid-morning check-in. Agenda: Zurp (1pm), Workweek (1:30pm), After Ours (2pm), YoSharma (3pm), Limited Supply Recording (4pm). All meetings confirmed.",
+          "currentStatus": "Tue 5/5 1:01pm ET. Afternoon acceleration. Queue: Zurp (1pm), Workweek (1:30pm), After Ours (2pm), YoSharma (3pm), Vinay x Limited Supply (4pm), Extra Time (5pm), Travel (5:30pm). Wed 5/6: Wake up 9am.",
           "alert": null,
           "updated": "2026-05-05",
           "recentActivity": [
             {
-              "date": "5/5 11:00am",
-              "text": "✅ Refresh cron executed — all systems nominal"
+              "date": "5/5 1:01pm",
+              "text": "🤖 Dashboard auto-refresh cron executed"
             },
             {
-              "date": "5/5 10:45am",
-              "text": "📅 Formyhair meeting starting"
+              "date": "5/5 11:00am",
+              "text": "✅ Morning check-in complete"
             },
             {
               "date": "5/5 8:30am",
@@ -333,6 +333,18 @@
             {
               "date": "Tue 5/5 4:00pm",
               "event": "Vinay x Nik : Limited Supply Recording"
+            },
+            {
+              "date": "Tue 5/5 5:00pm",
+              "event": "Extra Time"
+            },
+            {
+              "date": "Tue 5/5 5:30pm",
+              "event": "Travel Time"
+            },
+            {
+              "date": "Wed 5/6 9:00am",
+              "event": "Wake up"
             }
           ],
           "decisions": []
@@ -354,18 +366,22 @@
             "🖨️ Printing Press (Opus) · ✍️ Josiah (Opus) · 🤓 Bryce (Gemini Flash) · 🔍 Researcher (Grok)",
             "🏥 Health (GPT-4o) · 🎬 Creative Director (Sonnet) · 🔭 Sentinel (Sonnet) · 💪 Flexpower (Opus)",
             "🎧 After Ours (Opus) · 🏦 Rolling Ventures (Opus)",
-            "Dashboard auto-refresh running (Tue 5/5 9:01am ET)"
+            "Dashboard auto-refresh running (Tue 5/5 1:01pm ET)"
           ],
           "needsAttention": null,
-          "currentStatus": "Tue 5/5 11:00am ET. All systems operational. 14 bots active. Dashboard refresh completed.",
+          "currentStatus": "Tue 5/5 1:01pm ET. All systems operational. 14 bots active. Dashboard refresh in progress.",
           "recentActivity": [
             {
+              "date": "5/5 1:01pm",
+              "text": "🤖 Dashboard auto-refresh cron started (cron:4336b229)"
+            },
+            {
               "date": "5/5 11:00am",
-              "text": "🤖 Dashboard auto-refresh cron completed successfully"
+              "text": "✅ Morning check-in verified"
             },
             {
               "date": "5/5 9:01am",
-              "text": "🤖 Dashboard auto-refresh cron executed"
+              "text": "🤖 Previous refresh cycle completed"
             }
           ],
           "updated": "2026-05-05",
