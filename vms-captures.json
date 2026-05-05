@@ -1,6 +1,6 @@
 {
-  "total": 518,
-  "last_updated": "2026-05-05T04:13:26.283Z",
+  "total": 519,
+  "last_updated": "2026-05-05T04:56:13.941Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4145,6 +4145,14 @@
       "referrer": "",
       "ip": "24.5.134.151",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/147.0.7727.99 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "kovid@theoakage.com",
+      "ts": "2026-05-05T04:56:13.661Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "49.204.115.75",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
