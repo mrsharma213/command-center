@@ -1,6 +1,6 @@
 # Dashboard Auto-Refresh Instructions
 
-You are updating two project tracker dashboards. Your job is to pull fresh data from all available sources and update the project cards.
+You are updating three project tracker dashboards. Your job is to pull fresh data from all available sources and update the project cards.
 
 ## Sources to Check
 1. **Calendar** — `gog calendar events primary --from <now> --to <+48h> --account nik@nik.co` and jet@nik.co
@@ -27,7 +27,7 @@ For each project in both dashboards:
 
 ## Process
 1. Pull data from all sources
-2. Read both index.html files
+2. Read all three index.html files
 3. Update the JavaScript project data arrays with fresh info
 4. Git commit and push both repos
 5. Be surgical — only update the data, don't touch CSS/HTML/JS logic
@@ -51,4 +51,5 @@ This powers the Scriptable iPhone widget. MUST be done every refresh.
 ```bash
 cd /Users/jetdamon/.openclaw/workspace/projects/tracker && git add -A && git commit -m "auto-refresh: $(date +%Y-%m-%d_%H:%M)" && git push
 cd /Users/jetdamon/.openclaw/workspace/projects/troy-tracker && git add -A && git commit -m "auto-refresh: $(date +%Y-%m-%d_%H:%M)" && git push
+cd /Users/jetdamon/.openclaw/workspace/projects/internal-tracker && git add -A && git commit -m "auto-refresh: $(date +%Y-%m-%d_%H:%M)" && git push
 ```

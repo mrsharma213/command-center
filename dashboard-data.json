@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-05-04T21:00:00Z",
+  "lastRefreshed": "2026-05-05T13:01:00Z",
   "flagged": [],
   "newsletter": {
     "status": "done",
@@ -97,24 +97,33 @@
           "emoji": "🎧",
           "title": "After Ours",
           "status": "on-track",
-          "lastUpdated": "2026-05-04",
+          "lastUpdated": "2026-05-05",
           "bullets": [
             "Music production continuing",
+            "Patreon track uploads active (Grahm Radio)",
             "Studio sessions active",
-            "Social content pipeline operational",
             "After Ours Sync tomorrow 2pm"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 5:00pm ET. Production work progressing on schedule. After Ours Sync scheduled Tue 5/5 2pm.",
+          "currentStatus": "Mon 5/4 11:03pm ET. Track uploads active on Patreon (multiple unreleased IDs queued). After Ours Sync scheduled Tue 5/5 2pm.",
           "alert": null,
-          "recentActivity": [],
+          "recentActivity": [
+            {
+              "date": "5/4 11:00pm",
+              "text": "🎵 Patreon: Multiple unreleased track IDs added (Gennaro, Brad Brunner, Cortado, Lark, Ohello, Round10, Tbloure, Skygroover)"
+            },
+            {
+              "date": "5/4 10:01pm",
+              "text": "📅 Week 2 WAV files received"
+            }
+          ],
           "upcomingEvents": [
             {
               "date": "Tue 5/5 2:00pm",
               "event": "🎧 After Ours Sync"
             }
           ],
-          "updated": "2026-05-04",
+          "updated": "2026-05-05",
           "decisions": []
         },
         {
@@ -280,42 +289,34 @@
           "emoji": "✈️",
           "title": "Today & This Week",
           "status": "on-track",
-          "lastUpdated": "2026-05-04",
+          "lastUpdated": "2026-05-05",
           "bullets": [
-            "Mon 5/4 complete: Check-In, Zagged All Hands, IRS call, Zurp & Nik/Ben, Daily Lunar x SB ✅",
-            "Tue 5/5: Oceans Post 8am, Check Flexpower 8:30am, Formyhair 10:45am, Zurp Check-In 1pm, Workweek 1:30pm, After Ours 2pm, YoSharma 3pm",
-            "📦 Package at front desk (received 4:39pm)"
+            "Tue 5/5 9:01am ET: Morning meetings complete (Oceans 8am, Flexpower check 8:30am)",
+            "Next up: Formyhair 10:45am, Zurp Check-In 1pm, Workweek 1:30pm, After Ours 2pm, YoSharma 3pm",
+            "Schedule remains packed through early evening"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 5:00pm ET. Today complete. Tomorrow: Full schedule starting 8am (Oceans Post).",
+          "currentStatus": "Tue 5/5 9:01am ET. Morning meetings running. Full day ahead: Formyhair (10:45), Zurp Check-In (1pm), Workweek (1:30pm), After Ours Sync (2pm), YoSharma (3pm).",
           "alert": null,
-          "updated": "2026-05-04",
+          "updated": "2026-05-05",
           "recentActivity": [
+            {
+              "date": "5/5 8:30am",
+              "text": "📅 Oceans Post meeting in progress"
+            },
+            {
+              "date": "5/5 8:00am",
+              "text": "📅 Checked Flexpower status update"
+            },
             {
               "date": "5/4 2:57pm",
               "text": "📧 Fireflies meeting prep for Daily: Lunar x SB"
-            },
-            {
-              "date": "5/4 12:57pm",
-              "text": "📧 Fireflies meeting prep for Zagged All Hands"
-            },
-            {
-              "date": "5/4 11:30am",
-              "text": "✅ Check-In meeting completed"
             }
           ],
           "upcomingEvents": [
             {
-              "date": "Tue 5/5 8:00am",
-              "text": "🔔 Oceans Post"
-            },
-            {
-              "date": "Tue 5/5 8:30am",
-              "text": "🔔 Check if Dylan / Flexpower got back"
-            },
-            {
               "date": "Tue 5/5 10:45am",
-              "text": "Formyhair"
+              "text": "Formyhair (1h)"
             },
             {
               "date": "Tue 5/5 1:00pm",
@@ -346,28 +347,28 @@
           "emoji": "🤖",
           "title": "My Agents",
           "status": "active",
-          "lastUpdated": "2026-05-04",
+          "lastUpdated": "2026-05-05",
           "bullets": [
             "14 bots operational",
             "⚡ Jet (Opus) · 📇 CRM (Sonnet) · 💊 Macra (Opus) · 📱 Macra App (Sonnet)",
             "🖨️ Printing Press (Opus) · ✍️ Josiah (Opus) · 🤓 Bryce (Gemini Flash) · 🔍 Researcher (Grok)",
             "🏥 Health (GPT-4o) · 🎬 Creative Director (Sonnet) · 🔭 Sentinel (Sonnet) · 💪 Flexpower (Opus)",
             "🎧 After Ours (Opus) · 🏦 Rolling Ventures (Opus)",
-            "Dashboard auto-refresh operational"
+            "Dashboard auto-refresh running (Tue 5/5 9:01am ET)"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 3:00pm ET. All systems operational. 14 bots active. Dashboard refresh running.",
+          "currentStatus": "Tue 5/5 9:01am ET. All systems operational. 14 bots active. Dashboard refresh executing.",
           "recentActivity": [
             {
-              "date": "5/4 5:00pm",
-              "text": "🤖 Dashboard refresh cron executing"
+              "date": "5/5 9:01am",
+              "text": "🤖 Dashboard auto-refresh cron executing"
             },
             {
-              "date": "5/4 3:00pm",
-              "text": "🤖 Dashboard refresh completed"
+              "date": "5/4 11:03pm",
+              "text": "🤖 Dashboard refresh cron completed (last cycle)"
             }
           ],
-          "updated": "2026-05-04",
+          "updated": "2026-05-05",
           "alert": null,
           "upcomingEvents": [],
           "decisions": []
