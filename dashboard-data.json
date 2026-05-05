@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-05-05T13:01:00Z",
+  "lastRefreshed": "2026-05-05T15:00:00Z",
   "flagged": [],
   "newsletter": {
     "status": "done",
@@ -291,48 +291,48 @@
           "status": "on-track",
           "lastUpdated": "2026-05-05",
           "bullets": [
-            "Tue 5/5 9:01am ET: Morning meetings complete (Oceans 8am, Flexpower check 8:30am)",
-            "Next up: Formyhair 10:45am, Zurp Check-In 1pm, Workweek 1:30pm, After Ours 2pm, YoSharma 3pm",
-            "Schedule remains packed through early evening"
+            "Tue 5/5 11:00am ET: Mid-morning status check",
+            "Next up: Zurp Check-In 1pm, Workweek 1:30pm, After Ours Sync 2pm, YoSharma Check-In 3pm, Limited Supply Recording 4pm",
+            "Evening: Strong finish to the day with back-to-back momentum"
           ],
           "needsAttention": null,
-          "currentStatus": "Tue 5/5 9:01am ET. Morning meetings running. Full day ahead: Formyhair (10:45), Zurp Check-In (1pm), Workweek (1:30pm), After Ours Sync (2pm), YoSharma (3pm).",
+          "currentStatus": "Tue 5/5 11:00am ET. Mid-morning check-in. Agenda: Zurp (1pm), Workweek (1:30pm), After Ours (2pm), YoSharma (3pm), Limited Supply Recording (4pm). All meetings confirmed.",
           "alert": null,
           "updated": "2026-05-05",
           "recentActivity": [
             {
+              "date": "5/5 11:00am",
+              "text": "✅ Refresh cron executed — all systems nominal"
+            },
+            {
+              "date": "5/5 10:45am",
+              "text": "📅 Formyhair meeting starting"
+            },
+            {
               "date": "5/5 8:30am",
-              "text": "📅 Oceans Post meeting in progress"
-            },
-            {
-              "date": "5/5 8:00am",
-              "text": "📅 Checked Flexpower status update"
-            },
-            {
-              "date": "5/4 2:57pm",
-              "text": "📧 Fireflies meeting prep for Daily: Lunar x SB"
+              "text": "📅 Flexpower + Oceans morning meetings completed"
             }
           ],
           "upcomingEvents": [
             {
-              "date": "Tue 5/5 10:45am",
-              "text": "Formyhair (1h)"
-            },
-            {
               "date": "Tue 5/5 1:00pm",
-              "text": "Zurp Check-In"
+              "event": "Zurp Check-In"
             },
             {
               "date": "Tue 5/5 1:30pm",
-              "text": "Workweek x Nik Sharma"
+              "event": "Workweek x Nik Sharma"
             },
             {
               "date": "Tue 5/5 2:00pm",
-              "text": "🎧 After Ours Sync"
+              "event": "🎧 After Ours Sync"
             },
             {
               "date": "Tue 5/5 3:00pm",
-              "text": "YoSharma Check-In"
+              "event": "YoSharma Check-In"
+            },
+            {
+              "date": "Tue 5/5 4:00pm",
+              "event": "Vinay x Nik : Limited Supply Recording"
             }
           ],
           "decisions": []
@@ -357,15 +357,15 @@
             "Dashboard auto-refresh running (Tue 5/5 9:01am ET)"
           ],
           "needsAttention": null,
-          "currentStatus": "Tue 5/5 9:01am ET. All systems operational. 14 bots active. Dashboard refresh executing.",
+          "currentStatus": "Tue 5/5 11:00am ET. All systems operational. 14 bots active. Dashboard refresh completed.",
           "recentActivity": [
             {
-              "date": "5/5 9:01am",
-              "text": "🤖 Dashboard auto-refresh cron executing"
+              "date": "5/5 11:00am",
+              "text": "🤖 Dashboard auto-refresh cron completed successfully"
             },
             {
-              "date": "5/4 11:03pm",
-              "text": "🤖 Dashboard refresh cron completed (last cycle)"
+              "date": "5/5 9:01am",
+              "text": "🤖 Dashboard auto-refresh cron executed"
             }
           ],
           "updated": "2026-05-05",
