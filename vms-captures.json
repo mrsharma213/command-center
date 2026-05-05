@@ -1,6 +1,6 @@
 {
-  "total": 523,
-  "last_updated": "2026-05-05T08:01:34.241Z",
+  "total": 524,
+  "last_updated": "2026-05-05T17:01:43.886Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4185,6 +4185,14 @@
       "referrer": "",
       "ip": "80.187.127.19",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "elizabeth@jshealthvitamins.com",
+      "ts": "2026-05-05T17:01:43.556Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "146.75.146.0",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/604.1"
     }
   ]
 }
