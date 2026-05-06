@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-05-06T13:03:18.979Z",
+  "lastRefreshed": "2026-05-06T14:13:27.000Z",
   "flagged": [],
   "newsletter": {
     "status": "done",
@@ -50,17 +50,22 @@
           "emoji": "📱",
           "title": "Zurp",
           "status": "on-track",
-          "lastUpdated": "2026-05-04",
+          "lastUpdated": "2026-05-06",
           "bullets": [
+            "Dante payment obligation fully settled ($20K final transfer received)",
             "Power bank rental operations active",
+            "Transaction bonus plan finalization still set for Fri 5/8 2:30pm",
             "6 stations, 24 banks each",
-            "NYC nightclub deployment",
-            "Transaction bonus plan rescheduled to Fri 5/8 2:30pm"
+            "NYC nightclub deployment"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 5:00pm ET. Transaction bonus plan meeting rescheduled to Fri 5/8 2:30pm (updated by Troy 4:47pm). Tomorrow: Zurp Check-In 1pm, YoSharma Check-In 3pm.",
+          "currentStatus": "Wed 5/6 10:13am ET. Dante transferred final $20K; payment obligation is now fully settled. Zurp operations remain on track; transaction bonus plan finalization still set for Fri 5/8 2:30pm.",
           "alert": null,
           "recentActivity": [
+            {
+              "date": "5/6 10:13am",
+              "text": "✅ Dante transferred final $20K; balance fully paid/settled."
+            },
             {
               "date": "5/4 4:47pm",
               "text": "📅 Troy updated: Transaction Bonus Plan → Fri 5/8 2:30pm"
@@ -85,7 +90,7 @@
             }
           ],
           "decisions": [],
-          "updated": "2026-05-04"
+          "updated": "2026-05-06"
         }
       ]
     },
