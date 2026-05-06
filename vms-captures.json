@@ -1,6 +1,6 @@
 {
-  "total": 539,
-  "last_updated": "2026-05-06T19:43:14.610Z",
+  "total": 540,
+  "last_updated": "2026-05-06T20:33:40.672Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4313,6 +4313,14 @@
       "referrer": "android-app://com.google.android.gm/",
       "ip": "105.116.12.195",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "start@sellingsocial.de",
+      "ts": "2026-05-06T20:33:40.259Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "212.231.127.201",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
