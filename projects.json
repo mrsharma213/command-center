@@ -1,82 +1,72 @@
 [
   {
     "id": "macra",
-    "emoji": "💊",
     "title": "Macra",
     "status": "on-track",
     "currentStatus": "Mon 5/4 1:01pm ET — Day 18 post-launch. Active procurement: Rameez finalizing tumbler order ($4.5/pc with lid).",
-    "section": "Companies"
+    "updated": "2026-05-04"
   },
   {
     "id": "zurp",
-    "emoji": "📱",
     "title": "Zurp",
     "status": "on-track",
     "currentStatus": "Mon 5/4 5:00pm ET. Transaction bonus plan meeting rescheduled to Fri 5/8 2:30pm (updated by Troy 4:47pm). Tomorrow: Zurp Check-In 1pm, YoSharma Check-In 3pm.",
-    "section": "Companies"
+    "updated": "2026-05-04"
   },
   {
     "id": "after-ours",
-    "emoji": "🎧",
     "title": "After Ours",
     "status": "on-track",
     "currentStatus": "Mon 5/4 11:03pm ET. Track uploads active on Patreon (multiple unreleased IDs queued). After Ours Sync scheduled Tue 5/5 2pm.",
-    "section": "Media & Content"
+    "updated": "2026-05-05"
   },
   {
     "id": "limited-supply",
-    "emoji": "🎙️",
     "title": "Limited Supply Podcast",
     "status": "on-track",
     "currentStatus": "Mon 5/4 5:00pm ET. Podcast production active. Workweek x Nik Sharma scheduled Tue 5/5 1:30pm.",
-    "section": "Media & Content"
+    "updated": "2026-05-04"
   },
   {
     "id": "newsletter",
-    "emoji": "📰",
     "title": "Newsletter / Workweek",
     "status": "on-track",
     "currentStatus": "Mon 5/4 1:01pm ET. Weekly send complete (5/3). Next edition: Sun 5/10. Subscriber growth steady (+358 May). Strong LinkedIn performance (40K+ weekly impressions).",
-    "section": "Media & Content"
+    "updated": "2026-05-04"
   },
   {
     "id": "brand-consulting",
-    "emoji": "💼",
     "title": "Brand Consulting",
     "status": "on-track",
     "currentStatus": "Mon 5/4 1:01pm ET. Client work continuing. Climatic x Sharma Brands thread active. Love Wellness Mother's Day campaign in market.",
-    "section": "Brand Consulting"
+    "updated": "2026-05-04"
   },
   {
     "id": "ecom-founders",
-    "emoji": "🏗️",
     "title": "Ecom Founders",
     "status": "on-track",
     "currentStatus": "Mon 5/4 1:01pm ET. AI Summit & Q4 Summit planning active. Rameez leading Slash.com partnership discussions. Sponsor partnerships progressing.",
-    "section": "Brand Consulting"
+    "updated": "2026-05-04"
   },
   {
     "id": "rolling-ventures",
-    "emoji": "🎯",
     "title": "Rolling Ventures Fund",
     "status": "on-track",
     "currentStatus": "Mon 5/4 1:01pm ET. Fund operations continuing. New pitch: Postcard (300K users, $4M raise). Deal flow review active.",
-    "section": "Rolling Ventures"
+    "updated": "2026-05-04"
   },
   {
     "id": "travel",
-    "emoji": "✈️",
     "title": "Today & This Week",
     "status": "on-track",
-    "currentStatus": "Tue 5/5 1:01pm ET. Afternoon acceleration. Queue: Zurp (1pm), Workweek (1:30pm), After Ours (2pm), YoSharma (3pm), Vinay x Limited Supply (4pm), Extra Time (5pm), Travel (5:30pm). Wed 5/6: Wake up 9am.",
-    "section": "Nik Sharma — Personal"
+    "currentStatus": "Wed 5/6 9:02am ET. Call IRS ONLY 1:00-2:00pm ET (calendar). Zurp Supplier Call 11:00-11:30am. Climatic x Nik Sharma meeting 11:30am-12:00pm. Weekly Web Sync: L//S <> Love Wellness 12:30-1:00pm.",
+    "updated": "2026-05-06"
   },
   {
     "id": "my-agents",
-    "emoji": "🤖",
     "title": "My Agents",
     "status": "active",
-    "currentStatus": "Tue 5/5 1:01pm ET. All systems operational. 14 bots active. Dashboard refresh in progress.",
-    "section": "Operations"
+    "currentStatus": "Wed 5/6 9:02am ET. All systems operational. 14 bots active. Dashboard refresh in progress.",
+    "updated": "2026-05-06"
   }
 ]

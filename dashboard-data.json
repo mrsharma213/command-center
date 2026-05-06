@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-05-05T19:56:53.753Z",
+  "lastRefreshed": "2026-05-06T13:03:18.979Z",
   "flagged": [],
   "newsletter": {
     "status": "done",
@@ -289,17 +289,21 @@
           "emoji": "✈️",
           "title": "Today & This Week",
           "status": "on-track",
-          "lastUpdated": "2026-05-05",
+          "lastUpdated": "2026-05-06",
           "bullets": [
             "Tue 5/5 1:01pm ET: Afternoon momentum — 4 meetings queued",
             "Next up: Zurp Check-In 1pm, Workweek 1:30pm, After Ours Sync 2pm, YoSharma Check-In 3pm, Limited Supply Recording 4pm",
             "Verizon AutoPay scheduled Wed 5/6-Thu 5/7"
           ],
           "needsAttention": null,
-          "currentStatus": "Tue 5/5 3:56pm ET. Afternoon acceleration. Queue: Zurp (1pm), Workweek (1:30pm), After Ours (2pm), YoSharma (3pm), Vinay x Limited Supply (4pm), Extra Time (5pm), Travel (5:30pm). Wed 5/6: Wake up 9am.",
+          "currentStatus": "Wed 5/6 9:02am ET. Call IRS ONLY 1:00-2:00pm ET (calendar). Zurp Supplier Call 11:00-11:30am. Climatic x Nik Sharma meeting 11:30am-12:00pm. Weekly Web Sync: L//S <> Love Wellness 12:30-1:00pm.",
           "alert": null,
-          "updated": "2026-05-05",
+          "updated": "2026-05-06",
           "recentActivity": [
+            {
+              "date": "5/6 9:02am",
+              "text": "🤖 Dashboard auto-refresh — Wed morning check"
+            },
             {
               "date": "5/5 1:01pm",
               "text": "🤖 Dashboard auto-refresh cron executed"
@@ -307,44 +311,24 @@
             {
               "date": "5/5 11:00am",
               "text": "✅ Morning check-in complete"
-            },
-            {
-              "date": "5/5 8:30am",
-              "text": "📅 Flexpower + Oceans morning meetings completed"
             }
           ],
           "upcomingEvents": [
             {
-              "date": "Tue 5/5 1:00pm",
-              "event": "Zurp Check-In"
+              "date": "Wed 5/6 11:00am",
+              "event": "Hold - Zurp Supplier Call"
             },
             {
-              "date": "Tue 5/5 1:30pm",
-              "event": "Workweek x Nik Sharma"
+              "date": "Wed 5/6 11:30am",
+              "event": "Climatic x Nik Sharma"
             },
             {
-              "date": "Tue 5/5 2:00pm",
-              "event": "🎧 After Ours Sync"
+              "date": "Wed 5/6 12:30pm",
+              "event": "Weekly Web Sync: L//S <> Love Wellness"
             },
             {
-              "date": "Tue 5/5 3:00pm",
-              "event": "YoSharma Check-In"
-            },
-            {
-              "date": "Tue 5/5 4:00pm",
-              "event": "Vinay x Nik : Limited Supply Recording"
-            },
-            {
-              "date": "Tue 5/5 5:00pm",
-              "event": "Extra Time"
-            },
-            {
-              "date": "Tue 5/5 5:30pm",
-              "event": "Travel Time"
-            },
-            {
-              "date": "Wed 5/6 9:00am",
-              "event": "Wake up"
+              "date": "Wed 5/6 1:00pm",
+              "event": "Call IRS ONLY"
             }
           ],
           "decisions": []
@@ -359,7 +343,7 @@
           "emoji": "🤖",
           "title": "My Agents",
           "status": "active",
-          "lastUpdated": "2026-05-05",
+          "lastUpdated": "2026-05-06",
           "bullets": [
             "14 bots operational",
             "⚡ Jet (Opus) · 📇 CRM (Sonnet) · 💊 Macra (Opus) · 📱 Macra App (Sonnet)",
@@ -369,22 +353,22 @@
             "Dashboard auto-refresh running (Tue 5/5 1:01pm ET)"
           ],
           "needsAttention": null,
-          "currentStatus": "Tue 5/5 1:01pm ET. All systems operational. 14 bots active. Dashboard refresh in progress.",
+          "currentStatus": "Wed 5/6 9:02am ET. All systems operational. 14 bots active. Dashboard refresh in progress.",
           "recentActivity": [
             {
+              "date": "5/6 9:02am",
+              "text": "🤖 Dashboard auto-refresh cron executing (cron:4336b229)"
+            },
+            {
               "date": "5/5 1:01pm",
-              "text": "🤖 Dashboard auto-refresh cron started (cron:4336b229)"
+              "text": "🤖 Dashboard auto-refresh cron completed (Tue refresh)"
             },
             {
               "date": "5/5 11:00am",
               "text": "✅ Morning check-in verified"
-            },
-            {
-              "date": "5/5 9:01am",
-              "text": "🤖 Previous refresh cycle completed"
             }
           ],
-          "updated": "2026-05-05",
+          "updated": "2026-05-06",
           "alert": null,
           "upcomingEvents": [],
           "decisions": []
