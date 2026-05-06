@@ -1,6 +1,6 @@
 {
-  "total": 535,
-  "last_updated": "2026-05-06T14:13:17.517Z",
+  "total": 536,
+  "last_updated": "2026-05-06T16:01:46.972Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4281,6 +4281,14 @@
       "referrer": "",
       "ip": "86.179.114.97",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "cherry@climatichealth.com",
+      "ts": "2026-05-06T16:01:46.553Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "173.205.214.150",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
     }
   ]
 }
