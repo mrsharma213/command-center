@@ -1,6 +1,6 @@
 {
-  "total": 530,
-  "last_updated": "2026-05-06T08:39:42.043Z",
+  "total": 531,
+  "last_updated": "2026-05-06T08:55:41.831Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4241,6 +4241,14 @@
       "referrer": "",
       "ip": "180.252.167.239",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "paige@hairburst.com",
+      "ts": "2026-05-06T08:55:41.652Z",
+      "source": "web",
+      "referrer": "https://www.google.com/",
+      "ip": "5.151.206.59",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
     }
   ]
 }
