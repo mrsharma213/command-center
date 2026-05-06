@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-05-06T13:03:18.979Z",
+  "lastRefreshed": "2026-05-06T17:02:00.000Z",
   "flagged": [],
   "newsletter": {
     "status": "done",
@@ -296,39 +296,39 @@
             "Verizon AutoPay scheduled Wed 5/6-Thu 5/7"
           ],
           "needsAttention": null,
-          "currentStatus": "Wed 5/6 9:02am ET. Call IRS ONLY 1:00-2:00pm ET (calendar). Zurp Supplier Call 11:00-11:30am. Climatic x Nik Sharma meeting 11:30am-12:00pm. Weekly Web Sync: L//S <> Love Wellness 12:30-1:00pm.",
+          "currentStatus": "Wed 5/6 1:02pm ET. Call IRS ONLY in progress (1:00-2:00pm). Completed: Maruchan (1pm), Macra (1:30pm), Air Oasis Kickoff (2:30pm). Next: MentorPass 3pm, AO Studio Time 5pm.",
           "alert": null,
           "updated": "2026-05-06",
           "recentActivity": [
             {
-              "date": "5/6 9:02am",
-              "text": "🤖 Dashboard auto-refresh — Wed morning check"
+              "date": "5/6 1:02pm",
+              "text": "🤖 Dashboard auto-refresh — Wed afternoon (cron:4336b229)"
             },
             {
-              "date": "5/5 1:01pm",
-              "text": "🤖 Dashboard auto-refresh cron executed"
+              "date": "5/6 12:30pm",
+              "text": "✅ Weekly Web Sync: Limited Supply <> Love Wellness completed"
             },
             {
-              "date": "5/5 11:00am",
-              "text": "✅ Morning check-in complete"
+              "date": "5/6 12:00pm",
+              "text": "📅 Climatic x Nik Sharma call completed"
             }
           ],
           "upcomingEvents": [
             {
-              "date": "Wed 5/6 11:00am",
-              "event": "Hold - Zurp Supplier Call"
+              "date": "Wed 5/6 3:00pm",
+              "event": "MentorPass: Eric & Nik"
             },
             {
-              "date": "Wed 5/6 11:30am",
-              "event": "Climatic x Nik Sharma"
+              "date": "Wed 5/6 5:00pm",
+              "event": "AO Studio Time"
             },
             {
-              "date": "Wed 5/6 12:30pm",
-              "event": "Weekly Web Sync: L//S <> Love Wellness"
+              "date": "Wed 5/6 7:00pm",
+              "event": "AO Studio Time (7pm-10pm)"
             },
             {
-              "date": "Wed 5/6 1:00pm",
-              "event": "Call IRS ONLY"
+              "date": "Thu 5/7 7:30am",
+              "event": "Wake up"
             }
           ],
           "decisions": []
@@ -350,11 +350,15 @@
             "🖨️ Printing Press (Opus) · ✍️ Josiah (Opus) · 🤓 Bryce (Gemini Flash) · 🔍 Researcher (Grok)",
             "🏥 Health (GPT-4o) · 🎬 Creative Director (Sonnet) · 🔭 Sentinel (Sonnet) · 💪 Flexpower (Opus)",
             "🎧 After Ours (Opus) · 🏦 Rolling Ventures (Opus)",
-            "Dashboard auto-refresh running (Tue 5/5 1:01pm ET)"
+            "Dashboard auto-refresh: Wed 5/6 1:02pm ET (cron:4336b229)"
           ],
           "needsAttention": null,
-          "currentStatus": "Wed 5/6 9:02am ET. All systems operational. 14 bots active. Dashboard refresh in progress.",
+          "currentStatus": "Wed 5/6 1:02pm ET. All systems operational. 14 bots active. Dashboard refresh completed (cron:4336b229).",
           "recentActivity": [
+            {
+              "date": "5/6 1:02pm",
+              "text": "✅ Dashboard auto-refresh cron completed (Wed afternoon)"
+            },
             {
               "date": "5/6 9:02am",
               "text": "🤖 Dashboard auto-refresh cron executing (cron:4336b229)"
@@ -362,13 +366,9 @@
             {
               "date": "5/5 1:01pm",
               "text": "🤖 Dashboard auto-refresh cron completed (Tue refresh)"
-            },
-            {
-              "date": "5/5 11:00am",
-              "text": "✅ Morning check-in verified"
             }
           ],
-          "updated": "2026-05-06",
+          "updated": "2026-05-06T17:02:00.000Z",
           "alert": null,
           "upcomingEvents": [],
           "decisions": []
