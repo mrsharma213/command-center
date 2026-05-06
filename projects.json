@@ -4,16 +4,20 @@
     "emoji": "💊",
     "title": "Macra",
     "status": "on-track",
-    "lastUpdated": "2026-05-04",
+    "lastUpdated": "2026-05-06",
     "bullets": [
       "Post-launch operations stabilizing",
       "Active procurement: tumbler order in progress",
       "Rameez finalizing PO with vendor (invoice received)"
     ],
     "needsAttention": null,
-    "currentStatus": "Mon 5/4 1:01pm ET — Day 18 post-launch. Active procurement: Rameez finalizing tumbler order ($4.5/pc with lid).",
+    "currentStatus": "Wed 5/6 5:00pm ET — Day 21 post-launch. Active procurement: Rameez finalizing tumbler order ($4.5/pc with lid). Calendar: AOS KO Prep 12:30-1pm, Call IRS ONLY 1-2pm completed. Recent emails: PEF deals.",
     "alert": null,
     "recentActivity": [
+      {
+        "date": "5/6 5:00pm",
+        "text": "🤖 Dashboard refresh (Wed evening)"
+      },
       {
         "date": "5/4 12:39pm",
         "text": "📧 Rameez thread active on Ecom Founders AI Summit"
@@ -21,90 +25,81 @@
       {
         "date": "5/2 4:26am",
         "text": "📦 Tumbler procurement: Invoice received from vendor Tony ($4.5/pc with lid)"
-      },
-      {
-        "date": "5/1 12:34pm",
-        "text": "📧 Rameez confirmed tumbler specs: bottle + lid option"
       }
     ],
     "upcomingEvents": [],
     "decisions": [],
-    "updated": "2026-05-04"
+    "updated": "2026-05-06"
   },
   {
     "id": "zurp",
     "emoji": "📱",
     "title": "Zurp",
     "status": "on-track",
-    "lastUpdated": "2026-05-04",
+    "lastUpdated": "2026-05-06",
     "bullets": [
       "Power bank rental operations active",
       "6 stations, 24 banks each",
       "NYC nightclub deployment",
-      "Transaction bonus plan rescheduled to Fri 5/8 2:30pm"
+      "Transaction bonus plan scheduled Fri 5/8 2:30pm"
     ],
     "needsAttention": null,
-    "currentStatus": "Mon 5/4 5:00pm ET. Transaction bonus plan meeting rescheduled to Fri 5/8 2:30pm (updated by Troy 4:47pm). Tomorrow: Zurp Check-In 1pm, YoSharma Check-In 3pm.",
+    "currentStatus": "Wed 5/6 5:00pm ET. Calendar: Fort (10-11am), Zurp Supplier Call (11-11:30am), iamctic (11-11:30am), Climatic x Nik (11:30am-12pm), Check-In (12-12:30pm), AOS KO Prep (12:30-1pm). Email: PEF deals, CoinTracker updates. Transaction Bonus Plan: Fri 5/8 2:30pm.",
     "alert": null,
     "recentActivity": [
       {
-        "date": "5/4 4:47pm",
-        "text": "📅 Troy updated: Transaction Bonus Plan → Fri 5/8 2:30pm"
+        "date": "5/6 5:00pm",
+        "text": "🤖 Dashboard refresh (Wed evening)"
       },
       {
-        "date": "5/4 11:30am",
-        "text": "📅 Check-In meeting completed"
+        "date": "5/5 3:00pm",
+        "text": "✅ YoSharma Check-In completed"
+      },
+      {
+        "date": "5/5 1:00pm",
+        "text": "✅ Zurp Check-In completed"
       }
     ],
     "upcomingEvents": [
-      {
-        "date": "Tue 5/5 1:00pm",
-        "event": "Zurp Check-In"
-      },
-      {
-        "date": "Tue 5/5 3:00pm",
-        "event": "YoSharma Check-In"
-      },
       {
         "date": "Fri 5/8 2:30pm",
         "event": "Finalize Transaction Bonus Plan (Drive Link)"
       }
     ],
     "decisions": [],
-    "updated": "2026-05-04"
+    "updated": "2026-05-06"
   },
   {
     "id": "after-ours",
     "emoji": "🎧",
     "title": "After Ours",
     "status": "on-track",
-    "lastUpdated": "2026-05-05",
+    "lastUpdated": "2026-05-06",
     "bullets": [
       "Music production continuing",
-      "Patreon track uploads active (Grahm Radio)",
       "Studio sessions active",
-      "After Ours Sync tomorrow 2pm"
+      "Patreon track uploads ongoing",
+      "May 20 deadline for May 22 release"
     ],
     "needsAttention": null,
-    "currentStatus": "Mon 5/4 11:03pm ET. Track uploads active on Patreon (multiple unreleased IDs queued). After Ours Sync scheduled Tue 5/5 2pm.",
+    "currentStatus": "Wed 5/6 5:00pm ET. Music production continuing. Studio sessions ongoing. After Ours Sync completed Tue 5/5 2pm. May 20 deadline for May 22 release.",
     "alert": null,
     "recentActivity": [
       {
-        "date": "5/4 11:00pm",
-        "text": "🎵 Patreon: Multiple unreleased track IDs added (Gennaro, Brad Brunner, Cortado, Lark, Ohello, Round10, Tbloure, Skygroover)"
+        "date": "5/6 5:00pm",
+        "text": "🤖 Dashboard refresh (Wed evening)"
       },
       {
-        "date": "5/4 10:01pm",
-        "text": "📅 Week 2 WAV files received"
-      }
-    ],
-    "upcomingEvents": [
+        "date": "5/5 2:00pm",
+        "text": "🎧 After Ours Sync completed"
+      },
       {
-        "date": "Tue 5/5 2:00pm",
-        "event": "🎧 After Ours Sync"
+        "date": "5/4 11:00pm",
+        "text": "🎵 Patreon: Multiple unreleased track IDs added"
       }
     ],
-    "updated": "2026-05-05",
+    "upcomingEvents": [],
+    "updated": "2026-05-06",
     "decisions": []
   },
   {
@@ -257,44 +252,36 @@
     "status": "on-track",
     "lastUpdated": "2026-05-06",
     "bullets": [
-      "Tue 5/5 1:01pm ET: Afternoon momentum — 4 meetings queued",
-      "Next up: Zurp Check-In 1pm, Workweek 1:30pm, After Ours Sync 2pm, YoSharma Check-In 3pm, Limited Supply Recording 4pm",
-      "Verizon AutoPay scheduled Wed 5/6-Thu 5/7"
+      "Wed 5/6 5:00pm ET: Evening momentum check",
+      "Calendar today: Fort (10-11am), Zurp Supplier Call (11-11:30am), Climatic (11:30am-12pm), Check-In (12-12:30pm), AOS KO Prep (12:30-1pm)",
+      "Recent emails: PEF deals, CoinTracker, VC news"
     ],
     "needsAttention": null,
-    "currentStatus": "Wed 5/6 1:02pm ET. Call IRS ONLY in progress (1:00-2:00pm). Completed: Maruchan (1pm), Macra (1:30pm), Air Oasis Kickoff (2:30pm). Next: MentorPass 3pm, AO Studio Time 5pm.",
+    "currentStatus": "Wed 5/6 5:00pm ET. Calendar: Fort (10-11am), Zurp Supplier Call + iamctic (11-11:30am), Climatic x Nik (11:30am-12pm), Check-In (12-12:30pm), AOS KO Prep (12:30-1pm). Recent emails: PEF deals (Movik AI OS, Pricklee), CoinTracker update, VC news.",
     "alert": null,
     "updated": "2026-05-06",
     "recentActivity": [
       {
+        "date": "5/6 5:00pm",
+        "text": "🤖 Dashboard auto-refresh — Wed evening (cron:4336b229)"
+      },
+      {
         "date": "5/6 1:02pm",
-        "text": "🤖 Dashboard auto-refresh — Wed afternoon (cron:4336b229)"
+        "text": "🤖 Dashboard auto-refresh — Wed afternoon completed"
       },
       {
         "date": "5/6 12:30pm",
-        "text": "✅ Weekly Web Sync: Limited Supply <> Love Wellness completed"
-      },
-      {
-        "date": "5/6 12:00pm",
-        "text": "📅 Climatic x Nik Sharma call completed"
+        "text": "📅 Call IRS ONLY completed"
       }
     ],
     "upcomingEvents": [
       {
-        "date": "Wed 5/6 3:00pm",
-        "event": "MentorPass: Eric & Nik"
+        "date": "Fri 5/8 2:30pm",
+        "event": "Zurp: Finalize Transaction Bonus Plan"
       },
       {
-        "date": "Wed 5/6 5:00pm",
-        "event": "AO Studio Time"
-      },
-      {
-        "date": "Wed 5/6 7:00pm",
-        "event": "AO Studio Time (7pm-10pm)"
-      },
-      {
-        "date": "Thu 5/7 7:30am",
-        "event": "Wake up"
+        "date": "Sun 5/10",
+        "event": "Limited Supply newsletter send"
       }
     ],
     "decisions": []
@@ -311,11 +298,15 @@
       "🖨️ Printing Press (Opus) · ✍️ Josiah (Opus) · 🤓 Bryce (Gemini Flash) · 🔍 Researcher (Grok)",
       "🏥 Health (GPT-4o) · 🎬 Creative Director (Sonnet) · 🔭 Sentinel (Sonnet) · 💪 Flexpower (Opus)",
       "🎧 After Ours (Opus) · 🏦 Rolling Ventures (Opus)",
-      "Dashboard auto-refresh: Wed 5/6 1:02pm ET (cron:4336b229)"
+      "Dashboard auto-refresh: Wed 5/6 5:00pm ET (cron:4336b229)"
     ],
     "needsAttention": null,
-    "currentStatus": "Wed 5/6 1:02pm ET. All systems operational. 14 bots active. Dashboard refresh completed (cron:4336b229).",
+    "currentStatus": "Wed 5/6 5:00pm ET. All systems operational. 14 bots active. Dashboard refresh completed (cron:4336b229).",
     "recentActivity": [
+      {
+        "date": "5/6 5:00pm",
+        "text": "✅ Dashboard auto-refresh cron completed (Wed evening)"
+      },
       {
         "date": "5/6 1:02pm",
         "text": "✅ Dashboard auto-refresh cron completed (Wed afternoon)"
@@ -323,13 +314,9 @@
       {
         "date": "5/6 9:02am",
         "text": "🤖 Dashboard auto-refresh cron executing (cron:4336b229)"
-      },
-      {
-        "date": "5/5 1:01pm",
-        "text": "🤖 Dashboard auto-refresh cron completed (Tue refresh)"
       }
     ],
-    "updated": "2026-05-06T17:02:00.000Z",
+    "updated": "2026-05-06T21:00:00.000Z",
     "alert": null,
     "upcomingEvents": [],
     "decisions": []
