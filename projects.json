@@ -3,14 +3,14 @@
     "id": "macra",
     "title": "Macra",
     "status": "on-track",
-    "currentStatus": "Mon 5/4 1:01pm ET — Day 18 post-launch. Active procurement: Rameez finalizing tumbler order ($4.5/pc with lid).",
-    "updated": "2026-05-04"
+    "currentStatus": "Wed 5/6 11:00am ET — Day 18 post-launch. Procurement finalization active: Rameez confirming tumbler specs ($4.5/pc with lid). Inventory staging next week.",
+    "updated": "2026-05-06"
   },
   {
     "id": "zurp",
     "title": "Zurp",
     "status": "on-track",
-    "currentStatus": "Wed 5/6 10:13am ET. Dante transferred final $20K; payment obligation fully settled. Transaction bonus plan finalization still Fri 5/8 2:30pm.",
+    "currentStatus": "Wed 5/6 11:00am ET — Final settlement complete. Dante transferred $20K; all payment obligations closed. Transaction Bonus Plan finalization remains scheduled Fri 5/8 2:30pm ET.",
     "updated": "2026-05-06",
     "section": "Companies"
   },
@@ -18,56 +18,56 @@
     "id": "after-ours",
     "title": "After Ours",
     "status": "on-track",
-    "currentStatus": "Mon 5/4 11:03pm ET. Track uploads active on Patreon (multiple unreleased IDs queued). After Ours Sync scheduled Tue 5/5 2pm.",
-    "updated": "2026-05-05"
+    "currentStatus": "Wed 5/6 11:00am ET — Track uploads active on Patreon (multiple unreleased IDs queued). Sync coordination ongoing with Minul.",
+    "updated": "2026-05-06"
   },
   {
     "id": "limited-supply",
     "title": "Limited Supply Podcast",
     "status": "on-track",
-    "currentStatus": "Mon 5/4 5:00pm ET. Podcast production active. Workweek x Nik Sharma scheduled Tue 5/5 1:30pm.",
-    "updated": "2026-05-04"
+    "currentStatus": "Wed 5/6 11:00am ET — Production active. Next podcast guests: Check calendar for scheduled recordings. Newsletter edition scheduled for Sun 5/10.",
+    "updated": "2026-05-06"
   },
   {
     "id": "newsletter",
     "title": "Newsletter / Workweek",
     "status": "on-track",
-    "currentStatus": "Mon 5/4 1:01pm ET. Weekly send complete (5/3). Next edition: Sun 5/10. Subscriber growth steady (+358 May). Strong LinkedIn performance (40K+ weekly impressions).",
-    "updated": "2026-05-04"
+    "currentStatus": "Wed 5/6 11:00am ET — Weekly send complete (5/3). Subscriber growth: +358 in May. LinkedIn performance strong (40K+ weekly impressions). Next edition: Sun 5/10.",
+    "updated": "2026-05-06"
   },
   {
     "id": "brand-consulting",
     "title": "Brand Consulting",
     "status": "on-track",
-    "currentStatus": "Mon 5/4 1:01pm ET. Client work continuing. Climatic x Sharma Brands thread active. Love Wellness Mother's Day campaign in market.",
-    "updated": "2026-05-04"
+    "currentStatus": "Wed 5/6 11:00am ET — Client pipeline active. Climatic x Sharma Brands strategic discussion scheduled today 11:30am-12:00pm. Love Wellness Mother's Day campaign in market.",
+    "updated": "2026-05-06"
   },
   {
     "id": "ecom-founders",
     "title": "Ecom Founders",
     "status": "on-track",
-    "currentStatus": "Mon 5/4 1:01pm ET. AI Summit & Q4 Summit planning active. Rameez leading Slash.com partnership discussions. Sponsor partnerships progressing.",
-    "updated": "2026-05-04"
+    "currentStatus": "Wed 5/6 11:00am ET — Q4 Summit & AI Summit planning active. Rameez leading Slash.com partnership discussions. Sponsor pipeline progressing.",
+    "updated": "2026-05-06"
   },
   {
     "id": "rolling-ventures",
     "title": "Rolling Ventures Fund",
     "status": "on-track",
-    "currentStatus": "Mon 5/4 1:01pm ET. Fund operations continuing. New pitch: Postcard (300K users, $4M raise). Deal flow review active.",
-    "updated": "2026-05-04"
+    "currentStatus": "Wed 5/6 11:00am ET — Fund operations continuing. Deal review: Postcard (300K users, $4M raise). New pitch pipeline open.",
+    "updated": "2026-05-06"
   },
   {
     "id": "travel",
     "title": "Today & This Week",
     "status": "on-track",
-    "currentStatus": "Wed 5/6 9:02am ET. Call IRS ONLY 1:00-2:00pm ET (calendar). Zurp Supplier Call 11:00-11:30am. Climatic x Nik Sharma meeting 11:30am-12:00pm. Weekly Web Sync: L//S <> Love Wellness 12:30-1:00pm.",
+    "currentStatus": "Wed 5/6 11:00am ET — Zurp Supplier Call 11:00am. Climatic x Nik Sharma 11:30am-12:00pm. Check-In meeting 12:00pm-12:30pm. Prep call 1:00pm-1:30pm. Call IRS ONLY 1:00-2:00pm.",
     "updated": "2026-05-06"
   },
   {
     "id": "my-agents",
     "title": "My Agents",
     "status": "active",
-    "currentStatus": "Wed 5/6 9:02am ET. All systems operational. 14 bots active. Dashboard refresh in progress.",
+    "currentStatus": "Wed 5/6 11:00am ET — All systems operational. 14 bots active. Dashboard auto-refresh running.",
     "updated": "2026-05-06"
   }
 ]
