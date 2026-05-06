@@ -1,6 +1,6 @@
 {
-  "total": 542,
-  "last_updated": "2026-05-06T21:11:23.787Z",
+  "total": 543,
+  "last_updated": "2026-05-06T21:13:29.546Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4337,6 +4337,14 @@
       "referrer": "",
       "ip": "139.28.84.50",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "steph@hairburst.com",
+      "ts": "2026-05-06T21:13:29.389Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "2.124.70.112",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Mobile/15E148 Safari/604.1"
     }
   ]
 }
