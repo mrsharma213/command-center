@@ -1,6 +1,6 @@
 {
-  "total": 557,
-  "last_updated": "2026-05-07T09:43:48.085Z",
+  "total": 558,
+  "last_updated": "2026-05-07T09:49:53.996Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4457,6 +4457,14 @@
       "referrer": "",
       "ip": "82.31.167.75",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "diaana.krumina@gmail.com",
+      "ts": "2026-05-07T09:49:53.818Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "209.35.94.190",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
     }
   ]
 }
