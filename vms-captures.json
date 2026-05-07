@@ -1,6 +1,6 @@
 {
-  "total": 564,
-  "last_updated": "2026-05-07T13:20:44.034Z",
+  "total": 565,
+  "last_updated": "2026-05-07T13:29:39.073Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4512,6 +4512,14 @@
       "source": "web",
       "referrer": "",
       "ip": "194.195.89.190",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "phoebe@epetome.com",
+      "ts": "2026-05-07T13:29:38.899Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "81.86.21.164",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
