@@ -1,6 +1,6 @@
 {
-  "total": 551,
-  "last_updated": "2026-05-07T07:37:12.042Z",
+  "total": 552,
+  "last_updated": "2026-05-07T08:19:40.093Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4408,6 +4408,14 @@
       "source": "web",
       "referrer": "",
       "ip": "80.227.122.22",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "raven.lahme@fairment.de",
+      "ts": "2026-05-07T08:19:39.715Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "93.235.200.227",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
