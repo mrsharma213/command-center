@@ -1,5 +1,5 @@
 {
-  "lastRefreshed": "2026-05-07T15:00:00.000Z",
+  "lastRefreshed": "2026-05-07T19:00:00Z",
   "flagged": [],
   "newsletter": {
     "status": "done",
@@ -28,6 +28,10 @@
           "currentStatus": "Thu 5/7 9:03am ET — Day 20 post-launch. Procurement: Rameez finalizing tumbler PO ($4.5/pc with lid). Ecom Founders AI Summit partnership discussion continues.",
           "alert": null,
           "recentActivity": [
+            {
+              "date": "5/7 3:00pm",
+              "text": "📅 Macra TB meeting (3-3:30pm)"
+            },
             {
               "date": "5/7 11:00am",
               "text": "🤖 Dashboard auto-refresh (Thu morning)"
@@ -66,6 +70,14 @@
           "alert": null,
           "recentActivity": [
             {
+              "date": "5/7 6:30pm",
+              "text": "📅 Grapevine Acquisition meeting (6:30-8pm)"
+            },
+            {
+              "date": "5/7 3:30pm",
+              "text": "📅 Work on Zurp Machines (3:30-4pm)"
+            },
+            {
               "date": "5/7 11:00am",
               "text": "🤖 Dashboard auto-refresh (Thu morning)"
             },
@@ -76,10 +88,6 @@
             {
               "date": "5/4 4:47pm",
               "text": "📅 Troy updated: Transaction Bonus Plan → Fri 5/8 2:30pm"
-            },
-            {
-              "date": "5/4 11:30am",
-              "text": "📅 Check-In meeting completed"
             }
           ],
           "upcomingEvents": [
