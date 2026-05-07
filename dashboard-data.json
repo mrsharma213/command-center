@@ -1,12 +1,12 @@
 {
-  "lastRefreshed": "2026-05-06T17:02:00.000Z",
+  "lastRefreshed": "2026-05-07T13:03:00.000Z",
   "flagged": [],
   "newsletter": {
     "status": "done",
     "sendDay": "Sunday",
     "topic": "Latest edition sent",
     "note": "📅 Sunday 5/3 — Sent. Next edition: Sun 5/10.",
-    "daysToSend": 6,
+    "daysToSend": 3,
     "nextSend": "2026-05-10"
   },
   "sections": [
@@ -18,49 +18,53 @@
           "emoji": "💊",
           "title": "Macra",
           "status": "on-track",
-          "lastUpdated": "2026-05-04",
+          "lastUpdated": "2026-05-07",
           "bullets": [
             "Post-launch operations stabilizing",
             "Active procurement: tumbler order in progress",
             "Rameez finalizing PO with vendor (invoice received)"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 1:01pm ET — Day 18 post-launch. Active procurement: Rameez finalizing tumbler order ($4.5/pc with lid).",
+          "currentStatus": "Thu 5/7 9:03am ET — Day 20 post-launch. Procurement: Rameez finalizing tumbler PO ($4.5/pc with lid). Ecom Founders AI Summit partnership discussion continues.",
           "alert": null,
           "recentActivity": [
             {
+              "date": "5/6 1:02pm",
+              "text": "🤖 Dashboard refresh (Wed afternoon)"
+            },
+            {
               "date": "5/4 12:39pm",
-              "text": "📧 Rameez thread active on Ecom Founders AI Summit"
+              "text": "📧 Ecom Founders AI Summit x Slash.com partnership discussion"
             },
             {
               "date": "5/2 4:26am",
-              "text": "📦 Tumbler procurement: Invoice received from vendor Tony ($4.5/pc with lid)"
-            },
-            {
-              "date": "5/1 12:34pm",
-              "text": "📧 Rameez confirmed tumbler specs: bottle + lid option"
+              "text": "📦 Tumbler invoice from vendor ($4.5/pc with lid)"
             }
           ],
           "upcomingEvents": [],
           "decisions": [],
-          "updated": "2026-05-04"
+          "updated": "2026-05-07"
         },
         {
           "id": "zurp",
           "emoji": "📱",
           "title": "Zurp",
           "status": "on-track",
-          "lastUpdated": "2026-05-04",
+          "lastUpdated": "2026-05-07",
           "bullets": [
             "Power bank rental operations active",
             "6 stations, 24 banks each",
             "NYC nightclub deployment",
-            "Transaction bonus plan rescheduled to Fri 5/8 2:30pm"
+            "Transaction bonus plan finalization: Fri 5/8 2:30pm"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 5:00pm ET. Transaction bonus plan meeting rescheduled to Fri 5/8 2:30pm (updated by Troy 4:47pm). Tomorrow: Zurp Check-In 1pm, YoSharma Check-In 3pm.",
+          "currentStatus": "Thu 5/7 9:03am ET. Transaction Bonus Plan finalization: Fri 5/8 2:30pm. Calendar active: Fort 10-11am, Zurp Supplier Call 11-11:30am, Climatic x Nik 11:30am-12pm, Check-In 12-12:30pm, AOS KO Prep 12:30-1pm, Maruchan 12:30-1pm, Ideal Living 1-1:30pm, YoSharma Check-In 1:30-2pm, Macra TB 3-3:30pm.",
           "alert": null,
           "recentActivity": [
+            {
+              "date": "5/6 1:02pm",
+              "text": "🤖 Dashboard refresh (Wed afternoon)"
+            },
             {
               "date": "5/4 4:47pm",
               "text": "📅 Troy updated: Transaction Bonus Plan → Fri 5/8 2:30pm"
@@ -72,20 +76,12 @@
           ],
           "upcomingEvents": [
             {
-              "date": "Tue 5/5 1:00pm",
-              "event": "Zurp Check-In"
-            },
-            {
-              "date": "Tue 5/5 3:00pm",
-              "event": "YoSharma Check-In"
-            },
-            {
               "date": "Fri 5/8 2:30pm",
               "event": "Finalize Transaction Bonus Plan (Drive Link)"
             }
           ],
           "decisions": [],
-          "updated": "2026-05-04"
+          "updated": "2026-05-07"
         }
       ]
     },
@@ -97,33 +93,32 @@
           "emoji": "🎧",
           "title": "After Ours",
           "status": "on-track",
-          "lastUpdated": "2026-05-05",
+          "lastUpdated": "2026-05-07",
           "bullets": [
             "Music production continuing",
-            "Patreon track uploads active (Grahm Radio)",
+            "Track uploads active on Patreon",
             "Studio sessions active",
-            "After Ours Sync tomorrow 2pm"
+            "May 20 deadline for May 22 release"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 11:03pm ET. Track uploads active on Patreon (multiple unreleased IDs queued). After Ours Sync scheduled Tue 5/5 2pm.",
+          "currentStatus": "Thu 5/7 9:03am ET. Music production continuing. Track uploads active. After Ours Sync completed Tue 5/5 2pm. Studio sessions ongoing. May 20 deadline for May 22 release.",
           "alert": null,
           "recentActivity": [
             {
-              "date": "5/4 11:00pm",
-              "text": "🎵 Patreon: Multiple unreleased track IDs added (Gennaro, Brad Brunner, Cortado, Lark, Ohello, Round10, Tbloure, Skygroover)"
+              "date": "5/6 1:02pm",
+              "text": "🤖 Dashboard refresh (Wed afternoon)"
             },
             {
-              "date": "5/4 10:01pm",
-              "text": "📅 Week 2 WAV files received"
-            }
-          ],
-          "upcomingEvents": [
+              "date": "5/5 2:00pm",
+              "text": "🎧 After Ours Sync completed"
+            },
             {
-              "date": "Tue 5/5 2:00pm",
-              "event": "🎧 After Ours Sync"
+              "date": "5/4 11:00pm",
+              "text": "🎵 Patreon: Multiple unreleased track IDs added"
             }
           ],
-          "updated": "2026-05-05",
+          "upcomingEvents": [],
+          "updated": "2026-05-07",
           "decisions": []
         },
         {
@@ -131,32 +126,31 @@
           "emoji": "🎙️",
           "title": "Limited Supply Podcast",
           "status": "on-track",
-          "lastUpdated": "2026-05-04",
+          "lastUpdated": "2026-05-07",
           "bullets": [
             "Weekly podcast release schedule maintained",
             "100K+ subscribers",
-            "Workweek x Nik Sharma tomorrow 1:30pm"
+            "Production on track"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 5:00pm ET. Podcast production active. Workweek x Nik Sharma scheduled Tue 5/5 1:30pm.",
+          "currentStatus": "Thu 5/7 9:03am ET. Weekly podcast release schedule maintained. 100K+ subscribers. Workweek Nik Sharma completed Tue 5/5. Production on track.",
           "alert": null,
           "recentActivity": [
             {
-              "date": "5/4 12:57pm",
-              "text": "📧 Fireflies meeting prep for Zagged All Hands"
+              "date": "5/6 1:02pm",
+              "text": "🤖 Dashboard refresh (Wed afternoon)"
             },
             {
-              "date": "5/4 10:41am",
-              "text": "📧 Slack Limited Supply updates for week of 4/26"
-            }
-          ],
-          "upcomingEvents": [
+              "date": "5/5 1:30pm",
+              "text": "🎙️ Workweek x Nik Sharma completed"
+            },
             {
-              "date": "Tue 5/5 1:30pm",
-              "event": "Workweek x Nik Sharma"
+              "date": "5/4 12:57pm",
+              "text": "📧 Meeting prep for Zagged All Hands"
             }
           ],
-          "updated": "2026-05-04",
+          "upcomingEvents": [],
+          "updated": "2026-05-07",
           "decisions": []
         },
         {
@@ -164,7 +158,7 @@
           "emoji": "📰",
           "title": "Newsletter / Workweek",
           "status": "on-track",
-          "lastUpdated": "2026-05-04",
+          "lastUpdated": "2026-05-07",
           "bullets": [
             "✅ Sun 5/3 — Latest edition sent",
             "Subscriber base: 100K+ active",
@@ -172,10 +166,14 @@
             "LinkedIn impressions: 40,867 last week"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 1:01pm ET. Weekly send complete (5/3). Next edition: Sun 5/10. Subscriber growth steady (+358 May). Strong LinkedIn performance (40K+ weekly impressions).",
+          "currentStatus": "Thu 5/7 9:03am ET. Weekly send complete (5/3). Next edition: Sun 5/10. Subscriber base: 100K+ active. Subscriber growth steady (+358 May). Strong LinkedIn performance (40K+ weekly impressions).",
           "alert": null,
-          "updated": "2026-05-04",
+          "updated": "2026-05-07",
           "recentActivity": [
+            {
+              "date": "5/6 1:02pm",
+              "text": "🤖 Dashboard refresh (Wed afternoon)"
+            },
             {
               "date": "5/4 12:42pm",
               "text": "📊 LinkedIn: 40,867 impressions last week"
@@ -183,10 +181,6 @@
             {
               "date": "5/3",
               "text": "📨 Latest edition sent"
-            },
-            {
-              "date": "5/4 10:26am",
-              "text": "📧 New nik.co newsletter subscriptions"
             }
           ],
           "upcomingEvents": [
@@ -206,16 +200,24 @@
           "emoji": "💼",
           "title": "Brand Consulting",
           "status": "on-track",
-          "lastUpdated": "2026-05-04",
+          "lastUpdated": "2026-05-07",
           "bullets": [
             "Client engagements progressing",
-            "Climatic x Sharma Brands thread active",
+            "Climatic x Nik Sharma engagement active",
             "Deliverables on schedule"
           ],
           "needsAttention": null,
           "alert": null,
-          "currentStatus": "Mon 5/4 1:01pm ET. Client work continuing. Climatic x Sharma Brands thread active. Love Wellness Mother's Day campaign in market.",
+          "currentStatus": "Thu 5/7 9:03am ET. Client work continuing. Climatic x Nik Sharma engagement active. Brand consulting pipeline steady. Love Wellness Mother's Day campaign in market.",
           "recentActivity": [
+            {
+              "date": "5/6 1:02pm",
+              "text": "🤖 Dashboard refresh (Wed afternoon)"
+            },
+            {
+              "date": "5/6 12:00pm",
+              "text": "📅 Climatic x Nik Sharma call completed"
+            },
             {
               "date": "5/4 10:26am",
               "text": "📧 New nik.co qualification form submission"
@@ -223,14 +225,14 @@
           ],
           "upcomingEvents": [],
           "decisions": [],
-          "updated": "2026-05-04"
+          "updated": "2026-05-07"
         },
         {
           "id": "ecom-founders",
           "emoji": "🏗️",
           "title": "Ecom Founders",
           "status": "on-track",
-          "lastUpdated": "2026-05-04",
+          "lastUpdated": "2026-05-07",
           "bullets": [
             "AI Summit planning active",
             "Q4 Summit on track",
@@ -238,9 +240,13 @@
             "Rameez coordinating Slash.com partnership"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 1:01pm ET. AI Summit & Q4 Summit planning active. Rameez leading Slash.com partnership discussions. Sponsor partnerships progressing.",
+          "currentStatus": "Thu 5/7 9:03am ET. AI Summit & Q4 Summit planning active. Ecom Founders x Slash.com partnership in discussion. Sponsor partnerships progressing. Rameez coordinating deliverables.",
           "alert": null,
           "recentActivity": [
+            {
+              "date": "5/6 1:02pm",
+              "text": "🤖 Dashboard refresh (Wed afternoon)"
+            },
             {
               "date": "5/4 12:39pm",
               "text": "📧 Rameez thread: Ecom Founders AI Summit x Slash.com"
@@ -248,7 +254,7 @@
           ],
           "upcomingEvents": [],
           "decisions": [],
-          "updated": "2026-05-04"
+          "updated": "2026-05-07"
         }
       ]
     },
@@ -260,16 +266,24 @@
           "emoji": "🎯",
           "title": "Rolling Ventures Fund",
           "status": "on-track",
-          "lastUpdated": "2026-05-04",
+          "lastUpdated": "2026-05-07",
           "bullets": [
             "Deal flow review ongoing",
             "Portfolio management active",
-            "New pitch: Postcard (300K monthly users, raising $4M)"
+            "Active pitch: Postcard (300K monthly users, raising $4M)"
           ],
           "needsAttention": null,
-          "currentStatus": "Mon 5/4 1:01pm ET. Fund operations continuing. New pitch: Postcard (300K users, $4M raise). Deal flow review active.",
+          "currentStatus": "Thu 5/7 9:03am ET. Fund operations continuing. Deal flow review ongoing. Portfolio management active. Active pitch: Postcard (300K monthly users, raising $4M).",
           "alert": null,
           "recentActivity": [
+            {
+              "date": "5/6 1:02pm",
+              "text": "🤖 Dashboard refresh (Wed afternoon)"
+            },
+            {
+              "date": "5/5 8:30am",
+              "text": "✅ Flexpower portfolio check completed"
+            },
             {
               "date": "5/4 9:01am",
               "text": "📧 Postcard pitch: 300K monthly organic users, raising $4M"
@@ -277,7 +291,7 @@
           ],
           "upcomingEvents": [],
           "decisions": [],
-          "updated": "2026-05-04"
+          "updated": "2026-05-07"
         }
       ]
     },
@@ -289,24 +303,24 @@
           "emoji": "✈️",
           "title": "Today & This Week",
           "status": "on-track",
-          "lastUpdated": "2026-05-06",
+          "lastUpdated": "2026-05-07",
           "bullets": [
-            "Tue 5/5 1:01pm ET: Afternoon momentum — 4 meetings queued",
-            "Next up: Zurp Check-In 1pm, Workweek 1:30pm, After Ours Sync 2pm, YoSharma Check-In 3pm, Limited Supply Recording 4pm",
-            "Verizon AutoPay scheduled Wed 5/6-Thu 5/7"
+            "Thu 5/7 9:03am ET: Morning momentum — 8 meetings queued",
+            "Today: Fort (10-11am), Zurp Supplier Call + iamctic (11-11:30am), Climatic x Nik (11:30am-12pm), Check-In (12-12:30pm), AOS KO Prep (12:30-1pm), Maruchan (12:30-1pm), Ideal Living (1-1:30pm), YoSharma Check-In (1:30-2pm), Macra TB (3-3:30pm)",
+            "Upcoming: Fri 5/8 2:30pm Transaction Bonus Plan finalization"
           ],
           "needsAttention": null,
-          "currentStatus": "Wed 5/6 1:02pm ET. Call IRS ONLY in progress (1:00-2:00pm). Completed: Maruchan (1pm), Macra (1:30pm), Air Oasis Kickoff (2:30pm). Next: MentorPass 3pm, AO Studio Time 5pm.",
+          "currentStatus": "Thu 5/7 9:03am ET. Calendar: Fort (10-11am), Zurp Supplier Call + iamctic (11-11:30am), Climatic x Nik (11:30am-12pm), Check-In (12-12:30pm), AOS KO Prep (12:30-1pm), Maruchan (12:30-1pm), Ideal Living (1-1:30pm), YoSharma Check-In (1:30-2pm), Macra TB (3-3:30pm). Upcoming: Fri 5/8 morning, Transaction Bonus Plan finalization 2:30pm.",
           "alert": null,
-          "updated": "2026-05-06",
+          "updated": "2026-05-07",
           "recentActivity": [
             {
-              "date": "5/6 1:02pm",
-              "text": "🤖 Dashboard auto-refresh — Wed afternoon (cron:4336b229)"
+              "date": "5/7 9:03am",
+              "text": "🤖 Dashboard auto-refresh — Thu morning (cron:4336b229)"
             },
             {
-              "date": "5/6 12:30pm",
-              "text": "✅ Weekly Web Sync: Limited Supply <> Love Wellness completed"
+              "date": "5/6 1:02pm",
+              "text": "📅 Call IRS ONLY completed (1:00-2:00pm)"
             },
             {
               "date": "5/6 12:00pm",
@@ -315,20 +329,16 @@
           ],
           "upcomingEvents": [
             {
-              "date": "Wed 5/6 3:00pm",
-              "event": "MentorPass: Eric & Nik"
+              "date": "Thu 5/7 10:00am",
+              "event": "Fort (gym)"
             },
             {
-              "date": "Wed 5/6 5:00pm",
-              "event": "AO Studio Time"
+              "date": "Fri 5/8 2:30pm",
+              "event": "Transaction Bonus Plan finalization"
             },
             {
-              "date": "Wed 5/6 7:00pm",
-              "event": "AO Studio Time (7pm-10pm)"
-            },
-            {
-              "date": "Thu 5/7 7:30am",
-              "event": "Wake up"
+              "date": "Sun 5/10",
+              "event": "Limited Supply newsletter send"
             }
           ],
           "decisions": []
@@ -343,18 +353,22 @@
           "emoji": "🤖",
           "title": "My Agents",
           "status": "active",
-          "lastUpdated": "2026-05-06",
+          "lastUpdated": "2026-05-07",
           "bullets": [
             "14 bots operational",
             "⚡ Jet (Opus) · 📇 CRM (Sonnet) · 💊 Macra (Opus) · 📱 Macra App (Sonnet)",
             "🖨️ Printing Press (Opus) · ✍️ Josiah (Opus) · 🤓 Bryce (Gemini Flash) · 🔍 Researcher (Grok)",
             "🏥 Health (GPT-4o) · 🎬 Creative Director (Sonnet) · 🔭 Sentinel (Sonnet) · 💪 Flexpower (Opus)",
             "🎧 After Ours (Opus) · 🏦 Rolling Ventures (Opus)",
-            "Dashboard auto-refresh: Wed 5/6 1:02pm ET (cron:4336b229)"
+            "Dashboard auto-refresh: Thu 5/7 9:03am ET (cron:4336b229)"
           ],
           "needsAttention": null,
-          "currentStatus": "Wed 5/6 1:02pm ET. All systems operational. 14 bots active. Dashboard refresh completed (cron:4336b229).",
+          "currentStatus": "Thu 5/7 9:03am ET. All systems operational. 14 bots active. Dashboard refresh completed (cron:4336b229).",
           "recentActivity": [
+            {
+              "date": "5/7 9:03am",
+              "text": "✅ Dashboard auto-refresh cron completed (Thu morning)"
+            },
             {
               "date": "5/6 1:02pm",
               "text": "✅ Dashboard auto-refresh cron completed (Wed afternoon)"
@@ -362,13 +376,9 @@
             {
               "date": "5/6 9:02am",
               "text": "🤖 Dashboard auto-refresh cron executing (cron:4336b229)"
-            },
-            {
-              "date": "5/5 1:01pm",
-              "text": "🤖 Dashboard auto-refresh cron completed (Tue refresh)"
             }
           ],
-          "updated": "2026-05-06T17:02:00.000Z",
+          "updated": "2026-05-07T13:03:00.000Z",
           "alert": null,
           "upcomingEvents": [],
           "decisions": []
@@ -377,7 +387,7 @@
     }
   ],
   "sites": {
-    "lastUpdated": "2026-05-04",
+    "lastUpdated": "2026-05-07",
     "domains": {
       "nik.co": "GoDaddy",
       "macra.com": "Namecheap",
@@ -487,6 +497,6 @@
     "delta_new": -140,
     "delta_pct": -28,
     "source": "api.newsletter.nik.co",
-    "cached_at": "2026-05-03T12:00:00Z"
+    "cached_at": "2026-05-07T13:03:00.000Z"
   }
 }
