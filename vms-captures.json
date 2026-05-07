@@ -1,6 +1,6 @@
 {
-  "total": 561,
-  "last_updated": "2026-05-07T09:54:15.530Z",
+  "total": 562,
+  "last_updated": "2026-05-07T10:14:31.173Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4489,6 +4489,14 @@
       "referrer": "",
       "ip": "90.241.247.134",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "ferhat_fenerim@hotmail.com",
+      "ts": "2026-05-07T10:14:30.862Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "213.61.223.98",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
 }
