@@ -289,15 +289,19 @@
     "status": "on-track",
     "lastUpdated": "2026-05-08",
     "bullets": [
-      "Fri 5/8 11:00am ET: EXECUTION DAY — multiple key milestones",
-      "TODAY: ZURP Cargo (12pm-4pm), RV TB (1:30pm), Zurp Bonus (2:30pm), Maruchan (3pm), After Ours (4pm)",
-      "Sat 5/9: Jeremy D's Birthday all-day"
+      "Fri 5/8 5:00pm ET: EXECUTION DAY mostly complete",
+      "Sat 5/9: Jeremy D's Birthday all-day. Ads meeting (10am-12pm), Stretch (12:30-1:30pm), Limited Supply Podcast x Joseph (2:45-3:00pm), THOSE NIGHTS at Arlo (5pm-1am)",
+      "Sun 5/10: Limited Supply newsletter send due"
     ],
     "needsAttention": null,
-    "currentStatus": "Fri 5/8 11:00am ET. BUSY DAY: ZURP US Cargo Truck Delivery (12pm-4pm), Rolling Ventures TB (1:30pm), Zurp Transaction Bonus Plan finalization (2:30pm), Maruchan x Nik (3pm), CC Processing Chat, Travel, Eden x After Ours Walk-Through (4pm). Tomorrow: Ads (10am-12pm), Stretch (12:30-1:30pm), Jeremy D's Birthday.",
+    "currentStatus": "Fri 5/8 5:00pm ET. EXECUTION DAY wrap-up. Major milestones completed: ZURP Cargo Delivery, Rolling Ventures TB, Zurp Bonus Plan finalized, After Ours walk-through. Tomorrow: Jeremy D's Birthday celebrations. Saturday agenda: Ads (10am-12pm), Stretch (12:30-1:30pm), Limited Supply Podcast x Joseph (2:45-3:00pm), THOSE NIGHTS at Arlo Williamsburg (5pm-1am).",
     "alert": null,
     "updated": "2026-05-08",
     "recentActivity": [
+      {
+        "date": "5/8 5:00pm",
+        "text": "🤖 Dashboard auto-refresh (Fri evening) — cron:4336b229"
+      },
       {
         "date": "5/8 11:00am",
         "text": "🤖 Dashboard auto-refresh (Fri morning)"
@@ -309,32 +313,28 @@
       {
         "date": "5/6 5:00pm",
         "text": "🤖 Dashboard auto-refresh — Wed evening (cron:4336b229)"
-      },
-      {
-        "date": "5/6 1:02pm",
-        "text": "🤖 Dashboard auto-refresh — Wed afternoon completed"
       }
     ],
     "upcomingEvents": [
       {
-        "date": "Fri 5/8 12:00pm-4:00pm",
-        "event": "🚚 ZURP: US Cargo Truck Delivery"
+        "date": "Sat 5/9 10:00am-12:00pm",
+        "event": "Ads meeting"
       },
       {
-        "date": "Fri 5/8 1:30pm",
-        "event": "Rolling Ventures TB"
+        "date": "Sat 5/9 12:30pm-1:30pm",
+        "event": "Stretch"
       },
       {
-        "date": "Fri 5/8 2:30pm",
-        "event": "Zurp: Finalize Transaction Bonus Plan"
+        "date": "Sat 5/9 2:45pm-3:00pm",
+        "event": "🎙️ Limited Supply Podcast x Joseph"
       },
       {
-        "date": "Fri 5/8 4:00pm",
-        "event": "🎵 Eden x After Ours Walk Through"
+        "date": "Sat 5/9 5:00pm-1:00am",
+        "event": "🎉 THOSE NIGHTS at Arlo Williamsburg"
       },
       {
-        "date": "Sat 5/9 all-day",
-        "event": "🎂 Jeremy D's Birthday"
+        "date": "Sun 5/10",
+        "event": "Limited Supply newsletter send due"
       }
     ],
     "decisions": []
@@ -351,11 +351,15 @@
       "🖨️ Printing Press (Opus) · ✍️ Josiah (Opus) · 🤓 Bryce (Gemini Flash) · 🔍 Researcher (Grok)",
       "🏥 Health (GPT-4o) · 🎬 Creative Director (Sonnet) · 🔭 Sentinel (Sonnet) · 💪 Flexpower (Opus)",
       "🎧 After Ours (Opus) · 🏦 Rolling Ventures (Opus)",
-      "Dashboard auto-refresh: Fri 5/8 11:00am ET (cron:4336b229)"
+      "Dashboard auto-refresh: Fri 5/8 5:00pm ET (cron:4336b229)"
     ],
     "needsAttention": null,
-    "currentStatus": "Fri 5/8 11:00am ET. All systems operational. 14 bots active. Dashboard auto-refresh executing (cron:4336b229). Fresh data pulled: calendar + email scan complete.",
+    "currentStatus": "Fri 5/8 5:00pm ET. All systems operational. 14 bots active. Dashboard auto-refresh complete (cron:4336b229). Fresh data: calendar events for Sat 5/9 pulled. Saturday schedule: Ads (10am-12pm), Stretch (12:30-1:30pm), Limited Supply Podcast x Joseph (2:45-3:00pm), THOSE NIGHTS at Arlo (5pm-1am).",
     "recentActivity": [
+      {
+        "date": "5/8 5:00pm",
+        "text": "🤖 Dashboard auto-refresh (Fri evening) — cron:4336b229"
+      },
       {
         "date": "5/8 11:00am",
         "text": "🤖 Dashboard auto-refresh (Fri morning) — cron:4336b229"
@@ -367,10 +371,6 @@
       {
         "date": "5/6 5:00pm",
         "text": "✅ Dashboard auto-refresh cron completed (Wed evening)"
-      },
-      {
-        "date": "5/6 1:02pm",
-        "text": "✅ Dashboard auto-refresh cron completed (Wed afternoon)"
       }
     ],
     "updated": "2026-05-08",
