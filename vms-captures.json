@@ -1,6 +1,6 @@
 {
-  "total": 574,
-  "last_updated": "2026-05-08T14:11:31.953Z",
+  "total": 575,
+  "last_updated": "2026-05-08T16:09:49.262Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4593,6 +4593,14 @@
       "referrer": "",
       "ip": "109.150.150.49",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
+    },
+    {
+      "email": "aleks@zentcare.pl",
+      "ts": "2026-05-08T16:09:48.762Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "74.116.32.39",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
     }
   ]
 }
