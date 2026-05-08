@@ -1,6 +1,6 @@
 {
-  "total": 570,
-  "last_updated": "2026-05-08T02:41:33.989Z",
+  "total": 571,
+  "last_updated": "2026-05-08T04:59:22.035Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4561,6 +4561,14 @@
       "referrer": "",
       "ip": "108.14.63.81",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/136.0.7103.91 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "contact@nutraclearskin.com",
+      "ts": "2026-05-08T04:59:21.756Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "24.245.183.126",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 OPR/130.0.0.0"
     }
   ]
 }
