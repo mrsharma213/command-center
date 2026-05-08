@@ -1,6 +1,6 @@
 {
-  "total": 575,
-  "last_updated": "2026-05-08T16:09:49.262Z",
+  "total": 576,
+  "last_updated": "2026-05-08T20:13:20.384Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4601,6 +4601,14 @@
       "referrer": "",
       "ip": "74.116.32.39",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "kaylakamenrd@drinkwholesome.com",
+      "ts": "2026-05-08T20:13:20.021Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "76.191.154.91",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
