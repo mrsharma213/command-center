@@ -1,6 +1,6 @@
 {
-  "total": 573,
-  "last_updated": "2026-05-08T11:05:08.292Z",
+  "total": 574,
+  "last_updated": "2026-05-08T14:11:31.953Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4585,6 +4585,14 @@
       "referrer": "",
       "ip": "12.75.41.50",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "charlotte@whypeopledo.co.uk",
+      "ts": "2026-05-08T14:11:31.554Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "109.150.150.49",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15"
     }
   ]
 }
