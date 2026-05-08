@@ -1,6 +1,6 @@
 {
-  "total": 569,
-  "last_updated": "2026-05-08T01:08:40.068Z",
+  "total": 570,
+  "last_updated": "2026-05-08T02:41:33.989Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4553,6 +4553,14 @@
       "referrer": "",
       "ip": "121.99.106.63",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "lukexli@gmail.com",
+      "ts": "2026-05-08T02:41:33.695Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "108.14.63.81",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/136.0.7103.91 Mobile/15E148 Safari/604.1"
     }
   ]
 }
