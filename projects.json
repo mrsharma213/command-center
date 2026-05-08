@@ -4,16 +4,20 @@
     "emoji": "💊",
     "title": "Macra",
     "status": "on-track",
-    "lastUpdated": "2026-05-07",
+    "lastUpdated": "2026-05-08",
     "bullets": [
-      "Post-launch operations stabilizing",
-      "Active procurement: tumbler order in progress",
-      "Rameez finalizing PO with vendor (invoice received)"
+      "Day 21+ post-launch, operations stable",
+      "Procurement: tumbler PO with vendor (Rameez coordinating)",
+      "Ecom Founders AI Summit partnership discussions ongoing"
     ],
     "needsAttention": null,
-    "currentStatus": "Thu 5/7 11:00am ET — Day 20 post-launch. Procurement: Rameez finalizing tumbler PO ($4.5/pc with lid). Ecom Founders AI Summit partnership discussion continues. Calendar: Macra TB at 3pm.",
+    "currentStatus": "Fri 5/8 11:00am ET — Day 21 post-launch. Operations stabilizing. Procurement: Rameez finalizing tumbler PO ($4.5/pc with lid). Ecom Founders AI Summit partnership discussions continuing. Marketing push on creators + ads/social.",
     "alert": null,
     "recentActivity": [
+      {
+        "date": "5/8 11:00am",
+        "text": "🤖 Dashboard auto-refresh (Fri morning)"
+      },
       {
         "date": "5/7 11:00am",
         "text": "🤖 Dashboard auto-refresh (Thu morning)"
@@ -25,32 +29,32 @@
       {
         "date": "5/4 12:39pm",
         "text": "📧 Rameez thread active on Ecom Founders AI Summit"
-      },
-      {
-        "date": "5/2 4:26am",
-        "text": "📦 Tumbler procurement: Invoice received from vendor Tony ($4.5/pc with lid)"
       }
     ],
     "upcomingEvents": [],
     "decisions": [],
-    "updated": "2026-05-07"
+    "updated": "2026-05-08"
   },
   {
     "id": "zurp",
     "emoji": "📱",
     "title": "Zurp",
     "status": "on-track",
-    "lastUpdated": "2026-05-07",
+    "lastUpdated": "2026-05-08",
     "bullets": [
       "Power bank rental operations active",
       "6 stations, 24 banks each",
       "NYC nightclub deployment",
-      "Transaction bonus plan scheduled Fri 5/8 2:30pm"
+      "Transaction bonus plan finalization TODAY 2:30pm"
     ],
     "needsAttention": null,
-    "currentStatus": "Thu 5/7 11:00am ET. Transaction Bonus Plan finalization: Fri 5/8 2:30pm. Calendar busy: Maruchan 12:30pm, YoSharma Check-In 1:30pm, Ecom Founders 3:30pm. Operations active.",
+    "currentStatus": "Fri 5/8 11:00am ET. LIVE execution day: Cargo truck delivery (12pm-4pm), Rolling Ventures TB (1:30pm), Transaction Bonus Plan finalization (2:30pm), Maruchan (3pm), After Ours walk-through (4pm). Operations active and pushing hard.",
     "alert": null,
     "recentActivity": [
+      {
+        "date": "5/8 11:00am",
+        "text": "🤖 Dashboard auto-refresh (Fri morning)"
+      },
       {
         "date": "5/7 11:00am",
         "text": "🤖 Dashboard auto-refresh (Thu morning)"
@@ -62,37 +66,37 @@
       {
         "date": "5/5 3:00pm",
         "text": "✅ YoSharma Check-In completed"
-      },
-      {
-        "date": "5/5 1:00pm",
-        "text": "✅ Zurp Check-In completed"
       }
     ],
     "upcomingEvents": [
       {
         "date": "Fri 5/8 2:30pm",
-        "event": "Finalize Transaction Bonus Plan (Drive Link)"
+        "event": "Finalize Transaction Bonus Plan (Drive Link) — TODAY"
       }
     ],
     "decisions": [],
-    "updated": "2026-05-07"
+    "updated": "2026-05-08"
   },
   {
     "id": "after-ours",
     "emoji": "🎧",
     "title": "After Ours",
     "status": "on-track",
-    "lastUpdated": "2026-05-07",
+    "lastUpdated": "2026-05-08",
     "bullets": [
-      "Music production continuing",
+      "Music production on schedule",
       "Studio sessions active",
       "Patreon track uploads ongoing",
-      "May 20 deadline for May 22 release"
+      "May 20 deadline for May 22 release — Eden x After Ours walk-through TODAY 4pm"
     ],
     "needsAttention": null,
-    "currentStatus": "Thu 5/7 11:00am ET. Music production continuing. Track uploads active. Studio sessions ongoing. May 20 deadline for May 22 release.",
+    "currentStatus": "Fri 5/8 11:00am ET. Music production on track. Eden x After Ours walk-through scheduled (4pm TODAY). Track uploads active. May 20 deadline for May 22 release remains firm.",
     "alert": null,
     "recentActivity": [
+      {
+        "date": "5/8 11:00am",
+        "text": "🤖 Dashboard auto-refresh (Fri morning)"
+      },
       {
         "date": "5/7 11:00am",
         "text": "🤖 Dashboard auto-refresh (Thu morning)"
@@ -104,14 +108,15 @@
       {
         "date": "5/5 2:00pm",
         "text": "🎧 After Ours Sync completed"
-      },
-      {
-        "date": "5/4 11:00pm",
-        "text": "🎵 Patreon: Multiple unreleased track IDs added"
       }
     ],
-    "upcomingEvents": [],
-    "updated": "2026-05-07",
+    "upcomingEvents": [
+      {
+        "date": "Fri 5/8 4:00pm",
+        "event": "🎵 Eden x After Ours Walk Through — TODAY"
+      }
+    ],
+    "updated": "2026-05-08",
     "decisions": []
   },
   {
@@ -282,17 +287,21 @@
     "emoji": "✈️",
     "title": "Today & This Week",
     "status": "on-track",
-    "lastUpdated": "2026-05-07",
+    "lastUpdated": "2026-05-08",
     "bullets": [
-      "Thu 5/7 11:00am ET: Full calendar day ahead",
-      "Today: 10 meetings (11:30am-6:30pm)",
-      "Upcoming: Fri 5/8 2:30pm Transaction Bonus Plan finalization"
+      "Fri 5/8 11:00am ET: EXECUTION DAY — multiple key milestones",
+      "TODAY: ZURP Cargo (12pm-4pm), RV TB (1:30pm), Zurp Bonus (2:30pm), Maruchan (3pm), After Ours (4pm)",
+      "Sat 5/9: Jeremy D's Birthday all-day"
     ],
     "needsAttention": null,
-    "currentStatus": "Thu 5/7 11:00am ET. Calendar: Check-In (11:30am-12pm), Maruchan (12:30pm-1pm), Ideal Living (1-1:30pm), YoSharma Check-In (1:30-2pm), Macra TB (3-3:30pm), Ecom Founders (3:30-4pm), Prep (4-4:30pm), Tatari/AI Summit (4:30-5pm), MentorPass Curtis (5:30-6pm), Travel Time (6-6:30pm). Upcoming: Fri 5/8 2:30pm Transaction Bonus Plan finalization.",
+    "currentStatus": "Fri 5/8 11:00am ET. BUSY DAY: ZURP US Cargo Truck Delivery (12pm-4pm), Rolling Ventures TB (1:30pm), Zurp Transaction Bonus Plan finalization (2:30pm), Maruchan x Nik (3pm), CC Processing Chat, Travel, Eden x After Ours Walk-Through (4pm). Tomorrow: Ads (10am-12pm), Stretch (12:30-1:30pm), Jeremy D's Birthday.",
     "alert": null,
-    "updated": "2026-05-07",
+    "updated": "2026-05-08",
     "recentActivity": [
+      {
+        "date": "5/8 11:00am",
+        "text": "🤖 Dashboard auto-refresh (Fri morning)"
+      },
       {
         "date": "5/7 11:00am",
         "text": "🤖 Dashboard auto-refresh (Thu morning)"
@@ -304,20 +313,28 @@
       {
         "date": "5/6 1:02pm",
         "text": "🤖 Dashboard auto-refresh — Wed afternoon completed"
-      },
-      {
-        "date": "5/6 12:30pm",
-        "text": "📅 Call IRS ONLY completed"
       }
     ],
     "upcomingEvents": [
+      {
+        "date": "Fri 5/8 12:00pm-4:00pm",
+        "event": "🚚 ZURP: US Cargo Truck Delivery"
+      },
+      {
+        "date": "Fri 5/8 1:30pm",
+        "event": "Rolling Ventures TB"
+      },
       {
         "date": "Fri 5/8 2:30pm",
         "event": "Zurp: Finalize Transaction Bonus Plan"
       },
       {
-        "date": "Sun 5/10",
-        "event": "Limited Supply newsletter send"
+        "date": "Fri 5/8 4:00pm",
+        "event": "🎵 Eden x After Ours Walk Through"
+      },
+      {
+        "date": "Sat 5/9 all-day",
+        "event": "🎂 Jeremy D's Birthday"
       }
     ],
     "decisions": []
@@ -327,18 +344,22 @@
     "emoji": "🤖",
     "title": "My Agents",
     "status": "active",
-    "lastUpdated": "2026-05-07",
+    "lastUpdated": "2026-05-08",
     "bullets": [
       "14 bots operational",
       "⚡ Jet (Opus) · 📇 CRM (Sonnet) · 💊 Macra (Opus) · 📱 Macra App (Sonnet)",
       "🖨️ Printing Press (Opus) · ✍️ Josiah (Opus) · 🤓 Bryce (Gemini Flash) · 🔍 Researcher (Grok)",
       "🏥 Health (GPT-4o) · 🎬 Creative Director (Sonnet) · 🔭 Sentinel (Sonnet) · 💪 Flexpower (Opus)",
       "🎧 After Ours (Opus) · 🏦 Rolling Ventures (Opus)",
-      "Dashboard auto-refresh: Wed 5/6 5:00pm ET (cron:4336b229)"
+      "Dashboard auto-refresh: Fri 5/8 11:00am ET (cron:4336b229)"
     ],
     "needsAttention": null,
-    "currentStatus": "Thu 5/7 11:00am ET. All systems operational. 14 bots active. Dashboard refresh completed (cron:4336b229).",
+    "currentStatus": "Fri 5/8 11:00am ET. All systems operational. 14 bots active. Dashboard auto-refresh executing (cron:4336b229). Fresh data pulled: calendar + email scan complete.",
     "recentActivity": [
+      {
+        "date": "5/8 11:00am",
+        "text": "🤖 Dashboard auto-refresh (Fri morning) — cron:4336b229"
+      },
       {
         "date": "5/7 11:00am",
         "text": "🤖 Dashboard auto-refresh (Thu morning)"
@@ -350,13 +371,9 @@
       {
         "date": "5/6 1:02pm",
         "text": "✅ Dashboard auto-refresh cron completed (Wed afternoon)"
-      },
-      {
-        "date": "5/6 9:02am",
-        "text": "🤖 Dashboard auto-refresh cron executing (cron:4336b229)"
       }
     ],
-    "updated": "2026-05-07",
+    "updated": "2026-05-08",
     "alert": null,
     "upcomingEvents": [],
     "decisions": []
