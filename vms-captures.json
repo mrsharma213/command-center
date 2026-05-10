@@ -1,6 +1,6 @@
 {
-  "total": 585,
-  "last_updated": "2026-05-10T18:31:31.252Z",
+  "total": 586,
+  "last_updated": "2026-05-10T18:40:01.182Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4681,6 +4681,14 @@
       "referrer": "",
       "ip": "205.196.45.102",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "abhijit.natu@maypro.com",
+      "ts": "2026-05-10T18:40:01.006Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "108.234.144.228",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
