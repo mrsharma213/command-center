@@ -1,6 +1,6 @@
 {
-  "total": 596,
-  "last_updated": "2026-05-11T16:23:19.089Z",
+  "total": 597,
+  "last_updated": "2026-05-11T17:42:49.787Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4769,6 +4769,14 @@
       "referrer": "",
       "ip": "108.31.134.6",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "lou@louweiss.com",
+      "ts": "2026-05-11T17:42:49.594Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "96.250.238.190",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
 }
