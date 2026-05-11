@@ -1,6 +1,6 @@
 {
-  "total": 590,
-  "last_updated": "2026-05-11T01:07:59.302Z",
+  "total": 591,
+  "last_updated": "2026-05-11T01:42:49.952Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4721,6 +4721,14 @@
       "referrer": "",
       "ip": "205.220.129.16",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "rob@robtucker.com.au",
+      "ts": "2026-05-11T01:42:49.776Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "180.150.80.239",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
