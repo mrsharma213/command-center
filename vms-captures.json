@@ -1,6 +1,6 @@
 {
-  "total": 593,
-  "last_updated": "2026-05-11T11:41:26.652Z",
+  "total": 594,
+  "last_updated": "2026-05-11T13:59:35.766Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4744,6 +4744,14 @@
       "source": "web",
       "referrer": "",
       "ip": "213.86.221.228",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "jim@shinkapartners.com",
+      "ts": "2026-05-11T13:59:35.382Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "77.86.38.117",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
