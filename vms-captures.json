@@ -1,6 +1,6 @@
 {
-  "total": 589,
-  "last_updated": "2026-05-11T00:14:22.408Z",
+  "total": 590,
+  "last_updated": "2026-05-11T01:07:59.302Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4713,6 +4713,14 @@
       "referrer": "",
       "ip": "161.29.21.169",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "maddie@beginhealth.com",
+      "ts": "2026-05-11T01:07:58.972Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "205.220.129.16",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
