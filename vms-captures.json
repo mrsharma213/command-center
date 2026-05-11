@@ -1,6 +1,6 @@
 {
-  "total": 592,
-  "last_updated": "2026-05-11T07:21:01.228Z",
+  "total": 593,
+  "last_updated": "2026-05-11T11:41:26.652Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4737,6 +4737,14 @@
       "referrer": "",
       "ip": "124.184.184.159",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "scott.bartlett@thepetlabco.com",
+      "ts": "2026-05-11T11:41:26.247Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "213.86.221.228",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
