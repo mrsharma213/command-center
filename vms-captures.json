@@ -1,6 +1,6 @@
 {
-  "total": 597,
-  "last_updated": "2026-05-11T17:42:49.787Z",
+  "total": 598,
+  "last_updated": "2026-05-11T18:03:31.873Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4777,6 +4777,14 @@
       "referrer": "",
       "ip": "96.250.238.190",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "may@mayzenhealth.com",
+      "ts": "2026-05-11T18:03:31.678Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "67.247.33.128",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0"
     }
   ]
 }
