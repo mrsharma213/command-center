@@ -1,6 +1,6 @@
 {
-  "total": 604,
-  "last_updated": "2026-05-12T22:24:31.699Z",
+  "total": 605,
+  "last_updated": "2026-05-12T23:57:24.144Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4833,6 +4833,14 @@
       "referrer": "",
       "ip": "69.75.122.42",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "coltonsak@gmail.com",
+      "ts": "2026-05-12T23:57:23.819Z",
+      "source": "web",
+      "referrer": "https://t.co/",
+      "ip": "174.27.214.183",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23E261 Twitter for iPhone/11.89"
     }
   ]
 }
