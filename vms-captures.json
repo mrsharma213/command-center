@@ -1,6 +1,6 @@
 {
-  "total": 609,
-  "last_updated": "2026-05-13T20:45:12.951Z",
+  "total": 610,
+  "last_updated": "2026-05-13T22:26:52.833Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4873,6 +4873,14 @@
       "referrer": "",
       "ip": "136.62.12.177",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0"
+    },
+    {
+      "email": "zach@bloomdistro.com",
+      "ts": "2026-05-13T22:26:52.499Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "98.245.242.10",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
 }
