@@ -1,6 +1,6 @@
 {
-  "total": 607,
-  "last_updated": "2026-05-13T12:59:20.425Z",
+  "total": 608,
+  "last_updated": "2026-05-13T13:53:47.034Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4857,6 +4857,14 @@
       "referrer": "",
       "ip": "199.117.230.195",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/148.0.7778.100 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "luke@allourties.com",
+      "ts": "2026-05-13T13:53:46.828Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "136.62.12.177",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Safari/605.1.15"
     }
   ]
 }
