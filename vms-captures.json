@@ -1,6 +1,6 @@
 {
-  "total": 613,
-  "last_updated": "2026-05-14T01:33:27.152Z",
+  "total": 614,
+  "last_updated": "2026-05-14T08:25:14.860Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4905,6 +4905,14 @@
       "referrer": "",
       "ip": "172.56.177.239",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/419.4.905781065 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "emily.bastidas@manual.co",
+      "ts": "2026-05-14T08:25:14.555Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "51.52.28.123",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
     }
   ]
 }
