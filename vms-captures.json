@@ -1,6 +1,6 @@
 {
-  "total": 619,
-  "last_updated": "2026-05-15T00:54:05.051Z",
+  "total": 620,
+  "last_updated": "2026-05-15T13:46:44.655Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4953,6 +4953,14 @@
       "referrer": "",
       "ip": "203.219.149.200",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "yaqub@tubshroom.com",
+      "ts": "2026-05-15T13:46:44.318Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "47.20.176.188",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
 }
