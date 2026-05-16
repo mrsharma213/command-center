@@ -1,6 +1,6 @@
 {
-  "total": 622,
-  "last_updated": "2026-05-16T08:02:55.924Z",
+  "total": 623,
+  "last_updated": "2026-05-16T12:32:03.574Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -4976,6 +4976,14 @@
       "source": "web",
       "referrer": "",
       "ip": "213.102.69.56",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "daniel.burke.127@gmail.com",
+      "ts": "2026-05-16T12:32:03.275Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "80.233.42.112",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
