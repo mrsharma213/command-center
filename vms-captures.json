@@ -1,6 +1,6 @@
 {
-  "total": 631,
-  "last_updated": "2026-05-18T09:56:11.998Z",
+  "total": 632,
+  "last_updated": "2026-05-18T09:56:55.579Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5049,6 +5049,14 @@
       "referrer": "",
       "ip": "212.93.150.1",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "rana@incubatorlab.ai",
+      "ts": "2026-05-18T09:56:55.385Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "154.57.196.17",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
 }
