@@ -1,6 +1,6 @@
 {
-  "total": 629,
-  "last_updated": "2026-05-18T09:29:16.565Z",
+  "total": 630,
+  "last_updated": "2026-05-18T09:52:37.804Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5033,6 +5033,14 @@
       "referrer": "",
       "ip": "93.231.234.103",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "shoaib@gleefullsupplements.com",
+      "ts": "2026-05-18T09:52:37.604Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "72.255.7.238",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
 }
