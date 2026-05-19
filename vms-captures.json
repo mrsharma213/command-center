@@ -1,6 +1,6 @@
 {
-  "total": 636,
-  "last_updated": "2026-05-19T11:51:39.750Z",
+  "total": 637,
+  "last_updated": "2026-05-19T13:11:22.232Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5089,6 +5089,14 @@
       "referrer": "",
       "ip": "31.208.99.10",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "mostrega.trener@gmail.com",
+      "ts": "2026-05-19T13:11:21.868Z",
+      "source": "web",
+      "referrer": "https://www.google.com/",
+      "ip": "188.33.44.3",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
