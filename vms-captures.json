@@ -1,6 +1,6 @@
 {
-  "total": 640,
-  "last_updated": "2026-05-19T21:46:39.476Z",
+  "total": 641,
+  "last_updated": "2026-05-20T12:45:13.093Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5121,6 +5121,14 @@
       "referrer": "",
       "ip": "12.188.169.2",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "c.marshall@tropeaka.com.au",
+      "ts": "2026-05-20T12:45:12.664Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "143.238.164.239",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
