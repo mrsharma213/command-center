@@ -1,6 +1,6 @@
 {
-  "total": 644,
-  "last_updated": "2026-05-20T15:33:53.148Z",
+  "total": 645,
+  "last_updated": "2026-05-20T16:01:47.462Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5153,6 +5153,14 @@
       "referrer": "",
       "ip": "77.237.49.90",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "info@amisar.de",
+      "ts": "2026-05-20T16:01:47.157Z",
+      "source": "web",
+      "referrer": "https://www.google.com/",
+      "ip": "93.255.17.16",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
 }
