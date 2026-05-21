@@ -1,6 +1,6 @@
 {
-  "total": 647,
-  "last_updated": "2026-05-20T23:42:20.173Z",
+  "total": 648,
+  "last_updated": "2026-05-21T07:22:34.488Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5177,6 +5177,14 @@
       "referrer": "",
       "ip": "70.181.223.166",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "ieva.urbonaite@waterdrop.com",
+      "ts": "2026-05-21T07:22:34.112Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "46.125.131.238",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
 }
