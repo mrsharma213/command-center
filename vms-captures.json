@@ -1,6 +1,6 @@
 {
-  "total": 651,
-  "last_updated": "2026-05-21T16:29:16.168Z",
+  "total": 652,
+  "last_updated": "2026-05-21T17:36:01.875Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5208,6 +5208,14 @@
       "source": "web",
       "referrer": "",
       "ip": "197.211.63.25",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "ian@watertight.co",
+      "ts": "2026-05-21T17:36:01.636Z",
+      "source": "web",
+      "referrer": "https://www.instapaper.com/",
+      "ip": "63.88.129.162",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
