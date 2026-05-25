@@ -1,6 +1,6 @@
 {
-  "total": 659,
-  "last_updated": "2026-05-25T11:54:31.314Z",
+  "total": 660,
+  "last_updated": "2026-05-25T13:25:35.221Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5272,6 +5272,14 @@
       "source": "web",
       "referrer": "",
       "ip": "108.254.145.196",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "stephan@drink-daily.com",
+      "ts": "2026-05-25T13:25:34.990Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "87.141.56.196",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
