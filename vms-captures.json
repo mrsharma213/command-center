@@ -1,6 +1,6 @@
 {
-  "total": 660,
-  "last_updated": "2026-05-25T13:25:35.221Z",
+  "total": 661,
+  "last_updated": "2026-05-25T19:47:25.755Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5281,6 +5281,14 @@
       "referrer": "",
       "ip": "87.141.56.196",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "hello@oyahhealth.com",
+      "ts": "2026-05-25T19:47:25.455Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "75.159.126.156",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1"
     }
   ]
 }
