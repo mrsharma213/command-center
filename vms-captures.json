@@ -1,6 +1,6 @@
 {
-  "total": 662,
-  "last_updated": "2026-05-26T03:29:04.323Z",
+  "total": 663,
+  "last_updated": "2026-05-26T05:07:38.723Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5297,6 +5297,14 @@
       "referrer": "",
       "ip": "99.140.112.85",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "dustin@infiniwell.com",
+      "ts": "2026-05-26T05:07:38.439Z",
+      "source": "web",
+      "referrer": "https://chatgpt.com/",
+      "ip": "99.99.191.177",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
 }
