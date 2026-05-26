@@ -1,6 +1,6 @@
 {
-  "total": 663,
-  "last_updated": "2026-05-26T05:07:38.723Z",
+  "total": 664,
+  "last_updated": "2026-05-26T12:18:43.752Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5304,6 +5304,14 @@
       "source": "web",
       "referrer": "https://chatgpt.com/",
       "ip": "99.99.191.177",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "n.evers@heidelberger-chlorella.de",
+      "ts": "2026-05-26T12:18:43.440Z",
+      "source": "web",
+      "referrer": "https://www.google.com/",
+      "ip": "62.96.93.133",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
