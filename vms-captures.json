@@ -1,6 +1,6 @@
 {
-  "total": 672,
-  "last_updated": "2026-05-28T13:18:52.300Z",
+  "total": 673,
+  "last_updated": "2026-05-28T19:19:18.689Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5376,6 +5376,14 @@
       "source": "web",
       "referrer": "",
       "ip": "68.129.162.83",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "bryan@cano.ventures",
+      "ts": "2026-05-28T19:19:17.991Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "68.132.226.123",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
