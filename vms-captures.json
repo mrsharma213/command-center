@@ -1,6 +1,6 @@
 {
-  "total": 671,
-  "last_updated": "2026-05-28T09:50:58.177Z",
+  "total": 672,
+  "last_updated": "2026-05-28T13:18:52.300Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5368,6 +5368,14 @@
       "source": "web",
       "referrer": "",
       "ip": "80.217.48.73",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "ben.heiser@rugiet.com",
+      "ts": "2026-05-28T13:18:51.871Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "68.129.162.83",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
