@@ -1,6 +1,6 @@
 {
-  "total": 675,
-  "last_updated": "2026-05-29T15:07:21.016Z",
+  "total": 676,
+  "last_updated": "2026-05-29T15:25:12.569Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5401,6 +5401,14 @@
       "referrer": "",
       "ip": "78.90.156.215",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "ramya@thrivelia.com",
+      "ts": "2026-05-29T15:25:12.354Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "86.181.173.12",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
     }
   ]
 }
