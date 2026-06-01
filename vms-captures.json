@@ -1,6 +1,6 @@
 {
-  "total": 686,
-  "last_updated": "2026-06-01T12:55:40.689Z",
+  "total": 687,
+  "last_updated": "2026-06-01T15:36:32.608Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5489,6 +5489,14 @@
       "referrer": "",
       "ip": "201.93.114.56",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "work.rajeshm@gmail.com",
+      "ts": "2026-06-01T15:36:32.253Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "117.196.60.188",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
 }
