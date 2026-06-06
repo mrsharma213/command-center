@@ -1,6 +1,6 @@
 {
-  "total": 697,
-  "last_updated": "2026-06-06T03:46:17.007Z",
+  "total": 698,
+  "last_updated": "2026-06-06T10:56:32.050Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5577,6 +5577,14 @@
       "referrer": "",
       "ip": "68.205.192.243",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "michael@mickeylees.com",
+      "ts": "2026-06-06T10:56:31.745Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "42.200.68.36",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     }
   ]
 }
