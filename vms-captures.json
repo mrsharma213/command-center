@@ -1,6 +1,6 @@
 {
-  "total": 704,
-  "last_updated": "2026-06-09T11:33:31.927Z",
+  "total": 705,
+  "last_updated": "2026-06-09T17:01:43.417Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5633,6 +5633,14 @@
       "referrer": "https://chatgpt.com/",
       "ip": "78.56.195.151",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "luise@petvi.com.br",
+      "ts": "2026-06-09T17:01:42.947Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "191.181.59.116",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     }
   ]
 }
