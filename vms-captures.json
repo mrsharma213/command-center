@@ -1,6 +1,6 @@
 {
-  "total": 708,
-  "last_updated": "2026-06-10T21:45:25.013Z",
+  "total": 709,
+  "last_updated": "2026-06-10T23:58:46.879Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5665,6 +5665,14 @@
       "referrer": "",
       "ip": "187.102.163.14",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "jake@akima.studio",
+      "ts": "2026-06-10T23:58:46.477Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "60.241.236.122",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
 }
