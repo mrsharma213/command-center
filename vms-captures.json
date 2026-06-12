@@ -1,6 +1,6 @@
 {
-  "total": 710,
-  "last_updated": "2026-06-11T19:13:52.672Z",
+  "total": 711,
+  "last_updated": "2026-06-12T02:53:39.643Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5681,6 +5681,14 @@
       "referrer": "",
       "ip": "174.252.253.241",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "leo.bellucio@liquidz.com.br",
+      "ts": "2026-06-12T02:53:39.294Z",
+      "source": "web",
+      "referrer": "https://notebooklm.google.com/",
+      "ip": "187.26.64.9",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
 }
