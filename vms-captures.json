@@ -1,6 +1,6 @@
 {
-  "total": 711,
-  "last_updated": "2026-06-12T02:53:39.643Z",
+  "total": 712,
+  "last_updated": "2026-06-12T08:01:50.440Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5689,6 +5689,14 @@
       "referrer": "https://notebooklm.google.com/",
       "ip": "187.26.64.9",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "gabriel@steadyfreddy.com",
+      "ts": "2026-06-12T08:01:50.025Z",
+      "source": "web",
+      "referrer": "https://www.google.com/",
+      "ip": "1.129.25.235",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/149.0.7827.45 Mobile/15E148 Safari/604.1"
     }
   ]
 }
