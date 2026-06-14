@@ -1,6 +1,6 @@
 {
-  "total": 714,
-  "last_updated": "2026-06-13T13:58:45.110Z",
+  "total": 715,
+  "last_updated": "2026-06-14T09:13:40.296Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5713,6 +5713,14 @@
       "referrer": "",
       "ip": "192.131.110.4",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "robijakubczak00000@wp.pl",
+      "ts": "2026-06-14T09:13:39.945Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "87.101.42.29",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     }
   ]
 }
