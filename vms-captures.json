@@ -1,6 +1,6 @@
 {
-  "total": 716,
-  "last_updated": "2026-06-15T05:45:26.527Z",
+  "total": 717,
+  "last_updated": "2026-06-15T16:51:36.901Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5729,6 +5729,14 @@
       "referrer": "",
       "ip": "122.169.69.8",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "twotalltailsmedia@gmail.com",
+      "ts": "2026-06-15T16:51:36.480Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "84.193.165.20",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
 }
