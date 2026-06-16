@@ -1,6 +1,6 @@
 {
-  "total": 718,
-  "last_updated": "2026-06-16T07:51:12.275Z",
+  "total": 719,
+  "last_updated": "2026-06-16T14:56:50.428Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5745,6 +5745,14 @@
       "referrer": "https://www.google.com/",
       "ip": "89.68.68.129",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 OPR/131.0.0.0"
+    },
+    {
+      "email": "beata@swederm.pl",
+      "ts": "2026-06-16T14:56:49.929Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "188.252.6.114",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Safari/605.1.15"
     }
   ]
 }
