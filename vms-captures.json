@@ -1,6 +1,6 @@
 {
-  "total": 724,
-  "last_updated": "2026-06-19T18:39:17.483Z",
+  "total": 725,
+  "last_updated": "2026-06-19T22:17:02.660Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5792,6 +5792,14 @@
       "source": "web",
       "referrer": "",
       "ip": "185.183.214.102",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "nick@moodiblends.com",
+      "ts": "2026-06-19T22:17:02.324Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "149.19.24.146",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     }
   ]
