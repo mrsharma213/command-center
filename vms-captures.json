@@ -1,6 +1,6 @@
 {
-  "total": 725,
-  "last_updated": "2026-06-19T22:17:02.660Z",
+  "total": 726,
+  "last_updated": "2026-06-21T16:51:47.866Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5801,6 +5801,14 @@
       "referrer": "",
       "ip": "149.19.24.146",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "wesmoast@gmail.com",
+      "ts": "2026-06-21T16:51:47.585Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "68.41.239.172",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     }
   ]
 }
