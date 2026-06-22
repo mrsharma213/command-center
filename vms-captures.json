@@ -1,6 +1,6 @@
 {
-  "total": 726,
-  "last_updated": "2026-06-21T16:51:47.866Z",
+  "total": 727,
+  "last_updated": "2026-06-22T15:50:03.044Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5808,6 +5808,14 @@
       "source": "web",
       "referrer": "",
       "ip": "68.41.239.172",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "shefferon@livingwellhealth.com",
+      "ts": "2026-06-22T15:50:02.664Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "100.36.105.110",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     }
   ]
