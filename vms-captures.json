@@ -1,6 +1,6 @@
 {
-  "total": 728,
-  "last_updated": "2026-06-22T18:12:06.795Z",
+  "total": 729,
+  "last_updated": "2026-06-23T23:50:54.449Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5825,6 +5825,14 @@
       "referrer": "",
       "ip": "79.199.242.136",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Safari/605.1.15"
+    },
+    {
+      "email": "jacob@eatiqbar.com",
+      "ts": "2026-06-23T23:50:54.133Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "174.168.62.199",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1"
     }
   ]
 }
