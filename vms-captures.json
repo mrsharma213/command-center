@@ -1,6 +1,6 @@
 {
-  "total": 729,
-  "last_updated": "2026-06-23T23:50:54.449Z",
+  "total": 730,
+  "last_updated": "2026-06-24T08:37:58.959Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5833,6 +5833,14 @@
       "referrer": "",
       "ip": "174.168.62.199",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "sameermehta100@gmail.com",
+      "ts": "2026-06-24T08:37:58.624Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "167.103.63.22",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
 }
