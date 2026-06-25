@@ -1,6 +1,6 @@
 {
-  "total": 735,
-  "last_updated": "2026-06-25T13:47:50.846Z",
+  "total": 736,
+  "last_updated": "2026-06-25T14:39:44.300Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5881,6 +5881,14 @@
       "referrer": "",
       "ip": "138.248.182.100",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "hanzala.hanif@outlook.com",
+      "ts": "2026-06-25T14:39:43.959Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "143.58.213.13",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
 }
