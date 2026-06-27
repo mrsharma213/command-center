@@ -1,6 +1,6 @@
 {
-  "total": 739,
-  "last_updated": "2026-06-26T21:08:37.765Z",
+  "total": 740,
+  "last_updated": "2026-06-27T20:20:11.119Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5913,6 +5913,14 @@
       "referrer": "",
       "ip": "50.150.167.50",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "g.huntting@uspiusa.com",
+      "ts": "2026-06-27T20:20:10.735Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "73.199.71.234",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Safari/605.1.15"
     }
   ]
 }
