@@ -1,6 +1,6 @@
 {
-  "total": 744,
-  "last_updated": "2026-07-02T14:49:33.895Z",
+  "total": 745,
+  "last_updated": "2026-07-02T23:25:18.703Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5953,6 +5953,14 @@
       "referrer": "",
       "ip": "162.247.210.87",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/149.0.7827.137 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "heather@thesocialfleur.com",
+      "ts": "2026-07-02T23:25:18.283Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "162.247.210.87",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     }
   ]
 }
