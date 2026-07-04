@@ -1,6 +1,6 @@
 {
-  "total": 745,
-  "last_updated": "2026-07-02T23:25:18.703Z",
+  "total": 746,
+  "last_updated": "2026-07-04T19:08:54.190Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5960,6 +5960,14 @@
       "source": "web",
       "referrer": "",
       "ip": "162.247.210.87",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "dom.gerstmeyr@gmail.com",
+      "ts": "2026-07-04T19:08:53.798Z",
+      "source": "web",
+      "referrer": "https://mail.google.com/",
+      "ip": "93.199.164.129",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     }
   ]
