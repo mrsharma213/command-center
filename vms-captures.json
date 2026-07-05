@@ -1,6 +1,6 @@
 {
-  "total": 746,
-  "last_updated": "2026-07-04T19:08:54.190Z",
+  "total": 747,
+  "last_updated": "2026-07-05T15:31:40.946Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -5969,6 +5969,14 @@
       "referrer": "https://mail.google.com/",
       "ip": "93.199.164.129",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "celinefashion1999@gmail.com",
+      "ts": "2026-07-05T15:31:40.626Z",
+      "source": "web",
+      "referrer": "https://www.google.com/",
+      "ip": "81.102.86.234",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
 }
