@@ -1,6 +1,6 @@
 {
-  "total": 760,
-  "last_updated": "2026-07-08T08:20:16.948Z",
+  "total": 761,
+  "last_updated": "2026-07-08T10:22:48.475Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6081,6 +6081,14 @@
       "referrer": "",
       "ip": "84.115.238.55",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/150.0.7871.51 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "sebastian@growthpod.ca",
+      "ts": "2026-07-08T10:22:47.771Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "72.139.205.239",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     }
   ]
 }
