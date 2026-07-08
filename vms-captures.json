@@ -1,6 +1,6 @@
 {
-  "total": 765,
-  "last_updated": "2026-07-08T15:53:24.452Z",
+  "total": 766,
+  "last_updated": "2026-07-08T15:54:04.196Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6117,6 +6117,14 @@
     {
       "email": "ole@fynnster.com",
       "ts": "2026-07-08T15:53:24.249Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "84.115.238.55",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "ole@fynnster.com",
+      "ts": "2026-07-08T15:54:04.017Z",
       "source": "web",
       "referrer": "",
       "ip": "84.115.238.55",
