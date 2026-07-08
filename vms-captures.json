@@ -1,6 +1,6 @@
 {
-  "total": 756,
-  "last_updated": "2026-07-08T02:59:08.635Z",
+  "total": 757,
+  "last_updated": "2026-07-08T03:43:53.424Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6049,6 +6049,14 @@
       "referrer": "",
       "ip": "68.46.151.160",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "business@souravghosh.com",
+      "ts": "2026-07-08T03:43:53.259Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "103.59.72.70",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_5_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/150.0.7871.51 Mobile/15E148 Safari/604.1"
     }
   ]
 }
