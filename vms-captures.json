@@ -1,6 +1,6 @@
 {
-  "total": 766,
-  "last_updated": "2026-07-08T15:54:04.196Z",
+  "total": 767,
+  "last_updated": "2026-07-08T16:49:53.381Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6129,6 +6129,14 @@
       "referrer": "",
       "ip": "84.115.238.55",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "brettobrien24@gmail.com",
+      "ts": "2026-07-08T16:49:52.972Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "8.28.234.40",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
     }
   ]
 }
