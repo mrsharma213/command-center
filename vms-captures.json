@@ -1,6 +1,6 @@
 {
-  "total": 751,
-  "last_updated": "2026-07-08T00:16:08.546Z",
+  "total": 752,
+  "last_updated": "2026-07-08T01:06:20.944Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6009,6 +6009,14 @@
       "referrer": "",
       "ip": "148.71.225.124",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "colin@colincrowley.com",
+      "ts": "2026-07-08T01:06:20.756Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "70.158.100.74",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
 }
