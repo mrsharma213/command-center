@@ -1,6 +1,6 @@
 {
-  "total": 762,
-  "last_updated": "2026-07-08T13:21:28.059Z",
+  "total": 763,
+  "last_updated": "2026-07-08T14:31:20.981Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6097,6 +6097,14 @@
       "referrer": "",
       "ip": "49.207.152.10",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "james@saintjamesofemail.com",
+      "ts": "2026-07-08T14:31:20.593Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "113.161.93.103",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     }
   ]
 }
