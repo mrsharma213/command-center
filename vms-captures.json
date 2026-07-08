@@ -1,6 +1,6 @@
 {
-  "total": 763,
-  "last_updated": "2026-07-08T14:31:20.981Z",
+  "total": 764,
+  "last_updated": "2026-07-08T14:35:24.528Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6104,6 +6104,14 @@
       "source": "web",
       "referrer": "",
       "ip": "113.161.93.103",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "email@thecloudcake.com",
+      "ts": "2026-07-08T14:35:24.274Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "63.198.81.156",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     }
   ]
