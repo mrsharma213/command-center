@@ -1,6 +1,6 @@
 {
-  "total": 782,
-  "last_updated": "2026-07-12T10:21:59.075Z",
+  "total": 783,
+  "last_updated": "2026-07-12T11:27:24.588Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6256,6 +6256,14 @@
       "source": "web",
       "referrer": "",
       "ip": "104.234.53.53",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "mike@gosellglobal.com",
+      "ts": "2026-07-12T11:27:23.467Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "65.181.13.169",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
