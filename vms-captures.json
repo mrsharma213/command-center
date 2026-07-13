@@ -1,6 +1,6 @@
 {
-  "total": 789,
-  "last_updated": "2026-07-13T05:07:35.981Z",
+  "total": 790,
+  "last_updated": "2026-07-13T09:46:48.402Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6313,6 +6313,14 @@
       "referrer": "",
       "ip": "69.181.153.144",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "terry.to@thepurestgroup.com",
+      "ts": "2026-07-13T09:46:40.014Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "161.142.139.52",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
 }
