@@ -1,6 +1,6 @@
 {
-  "total": 788,
-  "last_updated": "2026-07-13T04:45:41.636Z",
+  "total": 789,
+  "last_updated": "2026-07-13T05:07:35.981Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6305,6 +6305,14 @@
       "referrer": "android-app://com.google.android.gm/",
       "ip": "205.164.157.46",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "ryantto01@gmail.com",
+      "ts": "2026-07-13T05:07:35.779Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "69.181.153.144",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
 }
