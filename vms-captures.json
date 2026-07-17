@@ -1,6 +1,6 @@
 {
-  "total": 803,
-  "last_updated": "2026-07-17T06:41:09.615Z",
+  "total": 804,
+  "last_updated": "2026-07-17T07:45:30.196Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6425,6 +6425,14 @@
       "referrer": "",
       "ip": "187.250.107.159",
       "ua": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "steven@sjcommerceco.com",
+      "ts": "2026-07-17T07:45:29.983Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "45.78.65.171",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
 }
