@@ -1,6 +1,6 @@
 {
-  "total": 805,
-  "last_updated": "2026-07-17T07:48:47.158Z",
+  "total": 806,
+  "last_updated": "2026-07-17T20:15:55.826Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6441,6 +6441,14 @@
       "referrer": "",
       "ip": "115.164.33.149",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "reyjay@bubsnaturals.com",
+      "ts": "2026-07-17T20:15:55.439Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "72.192.185.138",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     }
   ]
 }
