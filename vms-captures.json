@@ -1,6 +1,6 @@
 {
-  "total": 808,
-  "last_updated": "2026-07-18T17:46:01.252Z",
+  "total": 809,
+  "last_updated": "2026-07-19T00:03:46.598Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6465,6 +6465,14 @@
       "referrer": "",
       "ip": "75.99.50.11",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "jontyhermes12@icloud.com",
+      "ts": "2026-07-19T00:03:46.203Z",
+      "source": "web",
+      "referrer": "https://claude.ai/",
+      "ip": "58.178.192.8",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
     }
   ]
 }
