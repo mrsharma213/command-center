@@ -1,6 +1,6 @@
 {
-  "total": 815,
-  "last_updated": "2026-07-21T06:41:09.065Z",
+  "total": 816,
+  "last_updated": "2026-07-21T14:59:31.703Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6520,6 +6520,14 @@
       "source": "web",
       "referrer": "",
       "ip": "114.79.136.174",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "anton@infiniwell.com",
+      "ts": "2026-07-21T14:59:31.336Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "76.91.128.26",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
