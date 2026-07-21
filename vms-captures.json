@@ -1,6 +1,6 @@
 {
-  "total": 814,
-  "last_updated": "2026-07-20T23:09:17.646Z",
+  "total": 815,
+  "last_updated": "2026-07-21T06:41:09.065Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6512,6 +6512,14 @@
       "source": "web",
       "referrer": "",
       "ip": "104.173.204.17",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "kunal.shetty96@gmail.com",
+      "ts": "2026-07-21T06:41:08.665Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "114.79.136.174",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
