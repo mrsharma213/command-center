@@ -1,6 +1,6 @@
 {
-  "total": 818,
-  "last_updated": "2026-07-22T19:38:57.675Z",
+  "total": 819,
+  "last_updated": "2026-07-22T21:33:38.529Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6545,6 +6545,14 @@
       "referrer": "",
       "ip": "189.78.37.181",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "rubens@snapsupplements.com",
+      "ts": "2026-07-22T21:33:38.172Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "67.166.96.155",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
 }
