@@ -1,6 +1,6 @@
 {
-  "total": 820,
-  "last_updated": "2026-07-23T12:29:58.384Z",
+  "total": 821,
+  "last_updated": "2026-07-23T17:20:12.814Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6561,6 +6561,14 @@
       "referrer": "",
       "ip": "94.21.115.27",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "rob.wagner.j@gmail.com",
+      "ts": "2026-07-23T17:20:12.392Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "68.196.149.109",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     }
   ]
 }
