@@ -1,6 +1,6 @@
 {
-  "total": 822,
-  "last_updated": "2026-07-23T18:29:33.638Z",
+  "total": 823,
+  "last_updated": "2026-07-24T22:46:35.690Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6577,6 +6577,14 @@
       "referrer": "",
       "ip": "104.135.180.38",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "luke.novak@humanco.com",
+      "ts": "2026-07-24T22:46:35.294Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "136.62.12.177",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Safari/605.1.15"
     }
   ]
 }
