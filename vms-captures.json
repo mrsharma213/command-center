@@ -1,6 +1,6 @@
 {
-  "total": 824,
-  "last_updated": "2026-07-26T01:50:41.043Z",
+  "total": 825,
+  "last_updated": "2026-07-26T09:21:22.142Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6593,6 +6593,14 @@
       "referrer": "",
       "ip": "99.150.202.143",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5.2 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "martynas.marcenko@gmail.com",
+      "ts": "2026-07-26T09:21:21.733Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "88.118.77.62",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
 }
