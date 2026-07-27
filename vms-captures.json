@@ -1,6 +1,6 @@
 {
-  "total": 828,
-  "last_updated": "2026-07-26T20:30:03.798Z",
+  "total": 829,
+  "last_updated": "2026-07-27T08:39:30.434Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6625,6 +6625,14 @@
       "referrer": "https://www.google.com/",
       "ip": "76.170.152.212",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "victoria@adsumodigital.co",
+      "ts": "2026-07-27T08:39:30.035Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "84.32.186.44",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
     }
   ]
 }
