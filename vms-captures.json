@@ -1,6 +1,6 @@
 {
-  "total": 845,
-  "last_updated": "2026-07-28T18:24:39.085Z",
+  "total": 846,
+  "last_updated": "2026-07-28T20:29:25.315Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6760,6 +6760,14 @@
       "source": "web",
       "referrer": "",
       "ip": "88.22.69.44",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "gabby@drinkvelvethammer.com",
+      "ts": "2026-07-28T20:29:24.825Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "47.155.109.212",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
