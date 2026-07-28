@@ -1,6 +1,6 @@
 {
-  "total": 841,
-  "last_updated": "2026-07-28T11:09:41.809Z",
+  "total": 842,
+  "last_updated": "2026-07-28T11:11:11.252Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6728,6 +6728,14 @@
       "source": "web",
       "referrer": "",
       "ip": "110.226.176.242",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "khusboo@thebudaimedia.com",
+      "ts": "2026-07-28T11:11:11.064Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "157.49.29.184",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
