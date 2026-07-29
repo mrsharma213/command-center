@@ -1,6 +1,6 @@
 {
-  "total": 849,
-  "last_updated": "2026-07-29T19:35:58.974Z",
+  "total": 850,
+  "last_updated": "2026-07-29T20:21:10.548Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6793,6 +6793,14 @@
       "referrer": "",
       "ip": "179.105.131.60",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "fred.magnanimi@gmail.com",
+      "ts": "2026-07-29T20:21:10.352Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "68.0.205.229",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
 }
