@@ -1,6 +1,6 @@
 {
-  "total": 853,
-  "last_updated": "2026-07-30T13:43:59.139Z",
+  "total": 854,
+  "last_updated": "2026-07-30T16:18:59.460Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6824,6 +6824,14 @@
       "source": "web",
       "referrer": "",
       "ip": "45.27.212.141",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "kingman@attaboylabs.com",
+      "ts": "2026-07-30T16:18:59.077Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "24.175.237.11",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
