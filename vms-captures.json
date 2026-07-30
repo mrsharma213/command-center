@@ -1,6 +1,6 @@
 {
-  "total": 855,
-  "last_updated": "2026-07-30T19:03:30.684Z",
+  "total": 856,
+  "last_updated": "2026-07-30T19:50:33.147Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6841,6 +6841,14 @@
       "referrer": "",
       "ip": "87.183.172.216",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "sam@blackwolfnation.com",
+      "ts": "2026-07-30T19:50:32.890Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "146.75.253.251",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5.2 Mobile/15E148 Safari/604.1"
     }
   ]
 }
