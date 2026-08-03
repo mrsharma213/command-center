@@ -1,6 +1,6 @@
 {
-  "total": 860,
-  "last_updated": "2026-08-03T13:43:28.579Z",
+  "total": 861,
+  "last_updated": "2026-08-03T21:19:36.358Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6881,6 +6881,14 @@
       "referrer": "",
       "ip": "72.87.74.220",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "marketingteam@nickient.com",
+      "ts": "2026-08-03T21:19:35.950Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "70.130.185.57",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
 }
