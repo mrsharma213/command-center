@@ -1,6 +1,6 @@
 {
-  "total": 869,
-  "last_updated": "2026-08-07T18:45:46.107Z",
+  "total": 870,
+  "last_updated": "2026-08-08T03:39:34.208Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -6953,6 +6953,14 @@
       "referrer": "",
       "ip": "108.254.145.196",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "pjroustan@gmail.com",
+      "ts": "2026-08-08T03:39:33.770Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "98.176.68.199",
+      "ua": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
     }
   ]
 }
