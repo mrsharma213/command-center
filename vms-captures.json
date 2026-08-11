@@ -1,6 +1,6 @@
 {
-  "total": 875,
-  "last_updated": "2026-08-11T03:35:07.167Z",
+  "total": 876,
+  "last_updated": "2026-08-11T14:39:28.301Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7001,6 +7001,14 @@
       "referrer": "",
       "ip": "60.227.38.188",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5.2 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "edoardo@ingarden.com",
+      "ts": "2026-08-11T14:39:27.874Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "84.131.114.23",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     }
   ]
 }
