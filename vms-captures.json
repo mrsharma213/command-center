@@ -1,6 +1,6 @@
 {
-  "total": 877,
-  "last_updated": "2026-08-12T02:50:47.640Z",
+  "total": 878,
+  "last_updated": "2026-08-13T21:48:27.861Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7017,6 +7017,14 @@
       "referrer": "",
       "ip": "47.230.199.4",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "bbaum@llamanaturals.com",
+      "ts": "2026-08-13T21:48:27.471Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "71.201.92.136",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1"
     }
   ]
 }
