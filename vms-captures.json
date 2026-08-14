@@ -1,6 +1,6 @@
 {
-  "total": 878,
-  "last_updated": "2026-08-13T21:48:27.861Z",
+  "total": 879,
+  "last_updated": "2026-08-14T00:49:26.073Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7025,6 +7025,14 @@
       "referrer": "",
       "ip": "71.201.92.136",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "dan@kingmarketing.la",
+      "ts": "2026-08-14T00:49:25.658Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "108.223.95.118",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     }
   ]
 }
