@@ -1,6 +1,6 @@
 {
-  "total": 887,
-  "last_updated": "2026-08-21T21:28:49.683Z",
+  "total": 888,
+  "last_updated": "2026-08-23T23:43:53.203Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7097,6 +7097,14 @@
       "referrer": "",
       "ip": "174.220.149.19",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "jwchoi@neumed.co.kr",
+      "ts": "2026-08-23T23:43:52.852Z",
+      "source": "web",
+      "referrer": "https://chatgpt.com/",
+      "ip": "121.66.58.233",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
     }
   ]
 }
