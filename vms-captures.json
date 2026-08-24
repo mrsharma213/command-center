@@ -1,6 +1,6 @@
 {
-  "total": 889,
-  "last_updated": "2026-08-24T11:37:52.419Z",
+  "total": 890,
+  "last_updated": "2026-08-24T13:34:46.122Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7112,6 +7112,14 @@
       "source": "web",
       "referrer": "",
       "ip": "177.92.83.2",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "nguyenngochoa22366@gmail.com",
+      "ts": "2026-08-24T13:34:45.621Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "193.108.119.161",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
     }
   ]
