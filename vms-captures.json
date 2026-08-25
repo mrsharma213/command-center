@@ -1,6 +1,6 @@
 {
-  "total": 891,
-  "last_updated": "2026-08-24T20:34:03.003Z",
+  "total": 892,
+  "last_updated": "2026-08-25T04:03:21.363Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7128,6 +7128,14 @@
       "source": "web",
       "referrer": "",
       "ip": "177.221.121.112",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "dhruv.aggarwal@emamigroup.com",
+      "ts": "2026-08-25T04:03:20.993Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "106.192.48.167",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
     }
   ]
