@@ -1,6 +1,6 @@
 {
-  "total": 898,
-  "last_updated": "2026-08-26T19:08:47.312Z",
+  "total": 899,
+  "last_updated": "2026-08-27T02:20:58.075Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7184,6 +7184,14 @@
       "source": "web",
       "referrer": "",
       "ip": "76.64.178.188",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "dean@heartandsoil.co",
+      "ts": "2026-08-27T02:20:57.565Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "76.186.134.92",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
     }
   ]
