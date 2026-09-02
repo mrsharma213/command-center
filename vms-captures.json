@@ -1,6 +1,6 @@
 {
-  "total": 903,
-  "last_updated": "2026-09-02T07:19:56.809Z",
+  "total": 904,
+  "last_updated": "2026-09-02T15:25:51.793Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7224,6 +7224,14 @@
       "source": "web",
       "referrer": "",
       "ip": "93.159.20.145",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "tod@nutriomedia.com",
+      "ts": "2026-09-02T15:25:51.267Z",
+      "source": "web",
+      "referrer": "https://www.google.com/",
+      "ip": "51.219.205.49",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
     }
   ]
