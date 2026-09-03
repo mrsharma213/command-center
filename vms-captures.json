@@ -1,6 +1,6 @@
 {
-  "total": 904,
-  "last_updated": "2026-09-02T15:25:51.793Z",
+  "total": 905,
+  "last_updated": "2026-09-03T05:30:57.788Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7233,6 +7233,14 @@
       "referrer": "https://www.google.com/",
       "ip": "51.219.205.49",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "osman@osmandirect.com",
+      "ts": "2026-09-03T05:30:57.343Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "94.202.88.12",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Mobile/15E148 Safari/604.1"
     }
   ]
 }
