@@ -1,6 +1,6 @@
 {
-  "total": 907,
-  "last_updated": "2026-09-04T04:01:35.430Z",
+  "total": 908,
+  "last_updated": "2026-09-05T14:21:50.099Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7257,6 +7257,14 @@
       "referrer": "",
       "ip": "76.32.104.183",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "smariasm@gmail.com",
+      "ts": "2026-09-05T14:21:49.657Z",
+      "source": "web",
+      "referrer": "https://www.google.com/",
+      "ip": "73.71.182.175",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
     }
   ]
 }
