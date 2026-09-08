@@ -1,6 +1,6 @@
 {
-  "total": 911,
-  "last_updated": "2026-09-08T15:36:49.447Z",
+  "total": 912,
+  "last_updated": "2026-09-08T18:53:30.571Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7289,6 +7289,14 @@
       "referrer": "",
       "ip": "72.80.103.210",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
+    },
+    {
+      "email": "michelle.lim@freedomlasertherapy.com",
+      "ts": "2026-09-08T18:53:30.191Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "66.75.12.30",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
     }
   ]
 }
