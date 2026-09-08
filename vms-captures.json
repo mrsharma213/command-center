@@ -1,6 +1,6 @@
 {
-  "total": 910,
-  "last_updated": "2026-09-07T10:43:03.275Z",
+  "total": 911,
+  "last_updated": "2026-09-08T15:36:49.447Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7281,6 +7281,14 @@
       "referrer": "",
       "ip": "103.225.150.104",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "rachel@buildwithroot.co",
+      "ts": "2026-09-08T15:36:48.984Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "72.80.103.210",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0"
     }
   ]
 }
