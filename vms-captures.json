@@ -1,6 +1,6 @@
 {
-  "total": 912,
-  "last_updated": "2026-09-08T18:53:30.571Z",
+  "total": 913,
+  "last_updated": "2026-09-09T04:14:04.823Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7297,6 +7297,14 @@
       "referrer": "",
       "ip": "66.75.12.30",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "amie@apexxcollective.com",
+      "ts": "2026-09-09T04:14:04.465Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "98.37.27.157",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
     }
   ]
 }
