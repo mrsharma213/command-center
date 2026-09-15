@@ -1,6 +1,6 @@
 {
-  "total": 919,
-  "last_updated": "2026-09-14T15:04:03.840Z",
+  "total": 920,
+  "last_updated": "2026-09-15T01:56:08.657Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7353,6 +7353,14 @@
       "referrer": "",
       "ip": "51.52.28.123",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "me@kangstep.com",
+      "ts": "2026-09-15T01:56:08.123Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "73.112.208.58",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
     }
   ]
 }
