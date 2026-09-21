@@ -1,6 +1,6 @@
 {
-  "total": 924,
-  "last_updated": "2026-09-21T04:17:37.910Z",
+  "total": 925,
+  "last_updated": "2026-09-21T05:22:24.237Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7393,6 +7393,14 @@
       "referrer": "",
       "ip": "134.231.61.84",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "ckutopia@gmail.com",
+      "ts": "2026-09-21T05:22:23.683Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "134.231.61.84",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36"
     }
   ]
 }
