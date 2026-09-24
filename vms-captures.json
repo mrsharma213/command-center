@@ -1,6 +1,6 @@
 {
-  "total": 927,
-  "last_updated": "2026-09-23T17:21:15.213Z",
+  "total": 928,
+  "last_updated": "2026-09-24T00:31:41.351Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7417,6 +7417,14 @@
       "referrer": "",
       "ip": "24.168.31.219",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "anushka@teambback.com",
+      "ts": "2026-09-24T00:31:41.012Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "132.147.119.209",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Mobile/15E148 Safari/604.1"
     }
   ]
 }
