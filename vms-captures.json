@@ -1,6 +1,6 @@
 {
-  "total": 938,
-  "last_updated": "2026-09-25T10:18:56.600Z",
+  "total": 939,
+  "last_updated": "2026-09-25T11:45:04.963Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7505,6 +7505,14 @@
       "referrer": "",
       "ip": "49.43.201.66",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "vijay@incnut.com",
+      "ts": "2026-09-25T11:45:04.370Z",
+      "source": "web",
+      "referrer": "https://www.google.com/",
+      "ip": "124.123.150.228",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
     }
   ]
 }
