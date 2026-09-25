@@ -1,6 +1,6 @@
 {
-  "total": 934,
-  "last_updated": "2026-09-25T07:58:29.893Z",
+  "total": 935,
+  "last_updated": "2026-09-25T07:58:47.976Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7473,6 +7473,14 @@
       "referrer": "https://www.google.com/",
       "ip": "49.200.127.250",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "hereisrudro@gmail.com",
+      "ts": "2026-09-25T07:58:47.794Z",
+      "source": "web",
+      "referrer": "https://www.google.com/",
+      "ip": "182.79.87.158",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
     }
   ]
 }
