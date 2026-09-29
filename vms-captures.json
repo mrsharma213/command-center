@@ -1,6 +1,6 @@
 {
-  "total": 944,
-  "last_updated": "2026-09-28T04:46:58.086Z",
+  "total": 945,
+  "last_updated": "2026-09-29T11:02:42.884Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7553,6 +7553,14 @@
       "referrer": "https://www.google.com/",
       "ip": "49.200.127.250",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "jeremy@scaleadvisors.com",
+      "ts": "2026-09-29T11:02:41.450Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "72.218.207.191",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
     }
   ]
 }
