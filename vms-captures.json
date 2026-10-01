@@ -1,6 +1,6 @@
 {
-  "total": 948,
-  "last_updated": "2026-10-01T06:21:36.027Z",
+  "total": 949,
+  "last_updated": "2026-10-01T18:59:48.704Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7585,6 +7585,14 @@
       "referrer": "",
       "ip": "88.1.23.137",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "amanda@pemiwellness.com",
+      "ts": "2026-10-01T18:59:48.122Z",
+      "source": "web",
+      "referrer": "https://chatgpt.com/",
+      "ip": "70.111.220.144",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
     }
   ]
 }
