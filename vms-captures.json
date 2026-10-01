@@ -1,6 +1,6 @@
 {
-  "total": 947,
-  "last_updated": "2026-10-01T03:38:01.371Z",
+  "total": 948,
+  "last_updated": "2026-10-01T06:21:36.027Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7577,6 +7577,14 @@
       "referrer": "",
       "ip": "103.147.87.104",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "sofia@unit1gear.com",
+      "ts": "2026-10-01T06:21:35.550Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "88.1.23.137",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36"
     }
   ]
 }
