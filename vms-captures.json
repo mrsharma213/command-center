@@ -1,6 +1,6 @@
 {
-  "total": 949,
-  "last_updated": "2026-10-01T18:59:48.704Z",
+  "total": 950,
+  "last_updated": "2026-10-02T07:27:19.078Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7593,6 +7593,14 @@
       "referrer": "https://chatgpt.com/",
       "ip": "70.111.220.144",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "joyvitylab@gmail.com",
+      "ts": "2026-10-02T07:27:18.651Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "187.13.176.139",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Mobile/15E148 Safari/604.1"
     }
   ]
 }
