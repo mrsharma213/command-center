@@ -1,6 +1,6 @@
 {
-  "total": 962,
-  "last_updated": "2026-10-17T18:17:21.835Z",
+  "total": 963,
+  "last_updated": "2026-10-20T14:49:33.679Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7697,6 +7697,14 @@
       "referrer": "",
       "ip": "207.34.94.248",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "anapaulagwinckler@gmail.com",
+      "ts": "2026-10-20T14:49:33.211Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "189.4.72.45",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0"
     }
   ]
 }
