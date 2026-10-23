@@ -1,6 +1,6 @@
 {
-  "total": 968,
-  "last_updated": "2026-10-22T11:15:36.174Z",
+  "total": 969,
+  "last_updated": "2026-10-23T02:55:23.579Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7745,6 +7745,14 @@
       "referrer": "",
       "ip": "146.75.244.1",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.2 Safari/605.1.15"
+    },
+    {
+      "email": "officialvideo.bestnutrition@gmail.com",
+      "ts": "2026-10-23T02:55:23.107Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "115.76.106.212",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
     }
   ]
 }
