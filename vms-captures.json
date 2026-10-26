@@ -1,6 +1,6 @@
 {
-  "total": 971,
-  "last_updated": "2026-10-26T07:25:04.970Z",
+  "total": 972,
+  "last_updated": "2026-10-26T23:52:30.562Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7769,6 +7769,14 @@
       "referrer": "",
       "ip": "162.35.19.18",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36 Edg/156.0.0.0"
+    },
+    {
+      "email": "shane.daniel.webster@gmail.com",
+      "ts": "2026-10-26T23:52:30.039Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "76.95.227.94",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Safari/605.1.15"
     }
   ]
 }
