@@ -1,6 +1,6 @@
 {
-  "total": 981,
-  "last_updated": "2026-11-09T08:44:58.450Z",
+  "total": 982,
+  "last_updated": "2026-11-09T18:35:21.307Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7849,6 +7849,14 @@
       "referrer": "",
       "ip": "213.102.69.56",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36"
+    },
+    {
+      "email": "niklas.vanhusen@factor75.com",
+      "ts": "2026-11-09T18:35:20.885Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "70.23.92.66",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
     }
   ]
 }
