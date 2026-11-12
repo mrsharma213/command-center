@@ -1,6 +1,6 @@
 {
-  "total": 984,
-  "last_updated": "2026-11-12T13:25:48.695Z",
+  "total": 985,
+  "last_updated": "2026-11-12T13:29:21.276Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7873,6 +7873,14 @@
       "referrer": "https://www.google.com/",
       "ip": "198.182.179.52",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "hello.olukayodeolowo@gmail.com",
+      "ts": "2026-11-12T13:29:20.951Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "105.113.121.59",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 27_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/157.0.8103.37 Mobile/15E148 Safari/604.1"
     }
   ]
 }
