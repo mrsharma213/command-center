@@ -1,6 +1,6 @@
 {
-  "total": 985,
-  "last_updated": "2026-11-12T13:29:21.276Z",
+  "total": 986,
+  "last_updated": "2026-11-12T13:29:40.672Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7881,6 +7881,14 @@
       "referrer": "",
       "ip": "105.113.121.59",
       "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 27_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/157.0.8103.37 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "email": "cloudchris93@gmail.com",
+      "ts": "2026-11-12T13:29:40.450Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "154.120.78.48",
+      "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Mobile Safari/537.36"
     }
   ]
 }
