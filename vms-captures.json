@@ -1,6 +1,6 @@
 {
-  "total": 988,
-  "last_updated": "2026-11-12T17:23:43.802Z",
+  "total": 989,
+  "last_updated": "2026-11-12T19:17:43.012Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7905,6 +7905,14 @@
       "referrer": "",
       "ip": "69.122.52.172",
       "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15"
+    },
+    {
+      "email": "710panatellablvd@gmail.com",
+      "ts": "2026-11-12T19:17:42.539Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "104.205.27.163",
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 27_0_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/157.0.8103.37 Mobile/15E148 Safari/604.1"
     }
   ]
 }
