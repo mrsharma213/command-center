@@ -1,6 +1,6 @@
 {
-  "total": 986,
-  "last_updated": "2026-11-12T13:29:40.672Z",
+  "total": 987,
+  "last_updated": "2026-11-12T15:36:32.603Z",
   "captures": [
     {
       "email": "jet+test@nik.co",
@@ -7889,6 +7889,14 @@
       "referrer": "",
       "ip": "154.120.78.48",
       "ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "email": "jack.meredith@kettleandfire.com",
+      "ts": "2026-11-12T15:36:32.050Z",
+      "source": "web",
+      "referrer": "",
+      "ip": "72.199.141.160",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36"
     }
   ]
 }
